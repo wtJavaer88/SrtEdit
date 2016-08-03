@@ -1,0 +1,492 @@
+[Script Info]
+Title:Gravity Falls S02E16
+Original Script:Deefun
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:360
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,29,&H00FFFFFF,&HF0000000,&H00C62632,&H3C000000,0,0,0,0,100,100,0,0.00,1,3,2,2,30,30,8,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:35.00,*Default,NTP,0000,0000,0342,Banner;12;0;50,{\fn微软雅黑}{\fs21}{\3c&H00BB00&}{\b0}本作品之片源来自互联网，仅供学习、交流之用。请自觉于下载后24小时内删除。任何组织和个人不得用于任何商业用途，否则一切后果请自行承担！如果喜欢本片，请购买正版！
+Dialogue: 0,0:01:35.54,0:01:39.51,*Default,NTP,0000,0000,0000,,{\fs20}{\fad(500,500)}{\3c&H000000&}{\pos(320,344)}{\fs225}{\fscx560}{\alpha&H9F&\c&H000000&}{\bord1}{\shad0}■
+Dialogue: 0,0:01:35.54,0:01:39.51,*Default,NTP,0000,0000,0000,,{\fe20}{\fad(500,500)}{\fsp2}{\c&HFFFFFF&}{\pos(320,285)}{\fs24} {\fn方正准圆简体}{\bord0}本字幕由{\fs26}{\c&H26F4FF&}★迪幻字幕组★{\fscy100}{\fe134}{\fn方正准圆简体}{\c&HFFFFFF&}{\fs24}为您奉献\N{\fsp0}{\fs24}{\c&HFFFFFF&}欢迎登录{\c&H26F4FF&}{\fn方正综艺简体}www.Deefun.com
+Dialogue: 0,0:01:41.81,0:01:45.81,*Default,NTP,0000,0000,0000,,{\fs20}{\fad(500,500)}{\3c&H000000&}{\pos(320,318)}{\fs100}{\fscx500}{\alpha&H9F&\c&H000000&}{\bord1}{\shad0}■
+Dialogue: 0,0:01:41.81,0:01:45.81,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\pos(320,291)}{\fs20}{\c&H24EFFF&}{\fn方正准圆简体}{\bord0}时间轴：{\fs20} {\c&HFFFFFF&}Enpistu
+Dialogue: 0,0:01:49.81,0:01:53.81,*Default,NTP,0000,0000,0000,,{\fs20}{\fad(500,500)}{\3c&H000000&}{\pos(320,318)}{\fs100}{\fscx1050}{\alpha&H9F&\c&H000000&}{\bord1}{\shad0}■
+Dialogue: 0,0:01:49.81,0:01:53.81,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\pos(320,291)}{\fs20}{\c&H24EFFF&}{\fn方正准圆简体}{\bord0}翻译：{\fs20} {\c&HFFFFFF&}战忽局副局座  溪傲季  moonywen
+Dialogue: 0,0:01:55.81,0:01:59.81,*Default,NTP,0000,0000,0000,,{\fs20}{\fad(500,500)}{\3c&H000000&}{\pos(320,318)}{\fs100}{\fscx760}{\alpha&H9F&\c&H000000&}{\bord1}{\shad0}■
+Dialogue: 0,0:01:55.81,0:01:59.81,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\pos(320,291)}{\fs20}{\c&H24EFFF&}{\fn方正准圆简体}{\bord0}校订  后期：{\fs20} {\c&HFFFFFF&}Enpistu  WaitinZ
+Dialogue: 0,0:02:12.37,0:02:14.35,*Default,NTP,0000,0000,0000,,怪诞小镇  第二季第十六集\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gravity Falls  S02E16  Roadside Attraction
+Dialogue: 0,0:00:05.10,0:00:06.36,Default,,0,0,0,,{\fnFZDaHei-B02S\fs22.5\shad0\bord0\frz14.96\pos(255.112,230.166)}小心  银发老帅哥出没
+Dialogue: 0,0:00:58.45,0:01:00.03,Default,,0,0,0,,{\shad0\bord0\\frz341.3\pos(218.665,199.056)}{\pos(320.888,324.389)\fnFZCuYuan-M03S\b1}不许碰！
+Dialogue: 0,0:01:31.36,0:01:33.07,Default,,0,0,0,,{\fs21\a6}重新发现自我  踏上阳关大道
+Dialogue: 0,0:02:44.39,0:02:46.56,Default,,0,0,0,,{\fs21\a6}甜心奶奶的毛线球  世界最大
+Dialogue: 0,0:04:50.03,0:04:51.31,*Default,NTP,0000,0000,0000,,{\fs21\a6}全世界最大的毛衣针
+Dialogue: 0,0:04:55.44,0:04:56.69,Default,,0,0,0,,{\fs21\a6}这不是幻觉！距离倒立小屋只有三十英里！
+Dialogue: 0,0:07:04.32,0:07:05.27,Default,,0,0,0,,{\fs21\a6}原木乐园
+Dialogue: 0,0:07:11.95,0:07:13.87,Default,,0,0,0,,{\fs21\a6}玉米迷宫
+Dialogue: 0,0:07:15.91,0:07:16.62,Default,,0,0,0,,{\pos(416.889,277.667)\fnMicrosoft YaHei\fs24\shad0\bord0\frz3.165\c&H203789&\b1}玉米象鼻虫
+Dialogue: 0,0:20:42.55,0:20:43.84,Default,,0,0,0,,{\fnYuppy SC\fs24\c&H000000&\shad0\bord0\b1\frz10.05\pos(337.778,325.667)}废物来道歉
+Dialogue: 0,0:20:44.18,0:20:45.89,Default,,0,0,0,,{\fnYuppy SC\fs14\b1\shad0\bord0\c&H000000&\pos(216,59)}对不起！
+Dialogue: 0,0:20:44.18,0:20:45.89,Default,,0,0,0,,{\fnYuppy SC\fs14\b1\shad0\bord0\c&H000000&\pos(359.111,92.778)}超混蛋
+Dialogue: 0,0:20:44.18,0:20:45.89,Default,,0,0,0,,{\fnYuppy SC\fs12\b1\shad0\bord0\c&H000000&\frz18.72\pos(336,280.333)}我真傻
+Dialogue: 0,0:20:44.18,0:20:45.89,Default,,0,0,0,,{\fnYuppy SC\fs14\b1\shad0\bord0\c&H000000&\pos(386.667,244.778)\frz10.95}是真的！
+Dialogue: 0,0:20:44.18,0:20:45.89,Default,,0,0,0,,{\fnYuppy SC\fs14\b1\shad0\bord0\c&H000000&\frz10.05\pos(520,40.334)}小知识：
+Dialogue: 0,0:20:44.18,0:20:45.89,Default,,0,0,0,,{\fnYuppy SC\fs14\b1\shad0\bord0\c&H000000&\pos(537.778,173.667)}对不起，\N原谅我好吗？\N你最好了！
+Dialogue: 0,0:20:44.18,0:20:45.89,Default,,0,0,0,,{\fnYuppy SC\fs12\b1\shad0\bord0\c&H000000&\frz22.11\pos(287.999,300.779)}抱歉
+Dialogue: 0,0:21:00.37,0:21:01.55,*Default,NTP,0000,0000,0000,,{\fs21\a6}现在进入重力泉镇
+Dialogue: 0,0:21:16.12,0:21:17.25,Default,,0,0,0,,{\fs21\a6}斯坦见鬼去吧
+Dialogue: 0,0:21:17.25,0:21:18.25,Default,,0,0,0,,{\fs21\a6}斯坦臭混蛋  甜心奶奶留  派恩斯看好了
+Dialogue: 0,0:00:05.00,0:00:06.39,*Default,NTP,0000,0000,0000,,真不错\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nice.
+Dialogue: 0,0:00:07.49,0:00:09.54,*Default,NTP,0000,0000,0000,,别忘记带上杀虫喷剂\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And don't forget bug spray.
+Dialogue: 0,0:00:09.54,0:00:11.94,*Default,NTP,0000,0000,0000,,谁想搭车  就喷谁一脸\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's perfect for spraying in the face of hitchhikers.
+Dialogue: 0,0:00:11.94,0:00:14.45,*Default,NTP,0000,0000,0000,,哇  房车  露营装备\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa! An RV, camping gear.
+Dialogue: 0,0:00:14.45,0:00:15.94,*Default,NTP,0000,0000,0000,,你是又要畏罪潜逃了吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you running from the law again?
+Dialogue: 0,0:00:15.95,0:00:18.95,*Default,NTP,0000,0000,0000,,哥们儿  这可是俄勒冈自驾游超级大冒险\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dude, it's the ultimate Oregon road trip adventure.
+Dialogue: 0,0:00:18.95,0:00:21.12,*Default,NTP,0000,0000,0000,,不如说是复仇之旅\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}More like revenge trip.
+Dialogue: 0,0:00:21.12,0:00:24.05,*Default,NTP,0000,0000,0000,,每年  坑游客钱的竞争对手都会对神秘小屋搞恶作剧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Every year, my tourist trap competitors prank the Mystery Shack.
+Dialogue: 0,0:00:24.05,0:00:27.25,*Default,NTP,0000,0000,0000,,去年这帮流氓把苏斯用胶带粘在了天花板上\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Last year, those hooligans duct taped Soos to the ceiling.
+Dialogue: 0,0:00:27.26,0:00:28.66,*Default,NTP,0000,0000,0000,,那七十八个小时挺好玩的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That was a fun 78 hours.
+Dialogue: 0,0:00:28.66,0:00:31.03,*Default,NTP,0000,0000,0000,,以后不会这样了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, no more.
+Dialogue: 0,0:00:31.03,0:00:31.99,*Default,NTP,0000,0000,0000,,今年  我们顺着\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This year, we're visiting
+Dialogue: 0,0:00:31.99,0:00:33.73,*Default,NTP,0000,0000,0000,,红杉高速公路游遍所有的专坑游客的景点\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}every tourist trap along the Redwood Highway,
+Dialogue: 0,0:00:33.73,0:00:36.26,*Default,NTP,0000,0000,0000,,我要把他们所有人都耍一遍\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and I'm gonna prank back every single one.
+Dialogue: 0,0:00:37.67,0:00:39.87,*Default,NTP,0000,0000,0000,,是时候让公路姐妹团大显身手了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Time to let the Road Dawgs bark.
+Dialogue: 0,0:00:39.87,0:00:42.60,*Default,NTP,0000,0000,0000,,公路姐妹团  就是我们\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That is us. We are the Road Dawgs.
+Dialogue: 0,0:00:42.61,0:00:44.54,*Default,NTP,0000,0000,0000,,谢谢你让我带格兰达和糖糖一起\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thanks for letting me bring Candy and Grenda along
+Dialogue: 0,0:00:44.54,0:00:46.27,*Default,NTP,0000,0000,0000,,参加自驾游  斯坦叔公\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for our road trip, Grunkle Stan.
+Dialogue: 0,0:00:46.28,0:00:47.67,*Default,NTP,0000,0000,0000,,人越多  越热闹\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The more, the merrier.
+Dialogue: 0,0:00:47.68,0:00:50.28,*Default,NTP,0000,0000,0000,,把这些含糊其辞的免责协议签了就好\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just sign these non-disclosure agreements.
+Dialogue: 0,0:00:50.28,0:00:52.61,*Default,NTP,0000,0000,0000,,你们爸妈没人是律师吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}None of your parents are lawyers, right?
+Dialogue: 0,0:00:52.62,0:00:54.25,*Default,NTP,0000,0000,0000,,你觉得咋样  哥们儿  一起来吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What do you say, dude? You comin'?
+Dialogue: 0,0:00:54.25,0:00:57.55,*Default,NTP,0000,0000,0000,,我已经帮你把你的东西都打包好了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I already went to the trouble of packing all your stuff.
+Dialogue: 0,0:00:57.55,0:00:59.62,*Default,NTP,0000,0000,0000,,还带上了你藏在床底下的秘密小盒子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Even the stuff you kept in that secret box under the bed.
+Dialogue: 0,0:00:59.62,0:01:02.32,*Default,NTP,0000,0000,0000,,哎呀  怎么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa! What the...
+Dialogue: 0,0:01:02.32,0:01:04.32,*Default,NTP,0000,0000,0000,,这是什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's that?
+Dialogue: 0,0:01:04.33,0:01:05.89,*Default,NTP,0000,0000,0000,,呃  什么都不是\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, nothing.
+Dialogue: 0,0:01:05.90,0:01:08.75,*Default,NTP,0000,0000,0000,,温蒂的  以前的东西\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just Wendy stuff, from old times.
+Dialogue: 0,0:01:09.80,0:01:12.73,*Default,NTP,0000,0000,0000,,弟弟  我还以为你终于能放下她了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bro, I thought you were finally past all this.
+Dialogue: 0,0:01:12.74,0:01:14.33,*Default,NTP,0000,0000,0000,,我知道  我知道\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know, I know.
+Dialogue: 0,0:01:14.34,0:01:17.43,*Default,NTP,0000,0000,0000,,我知道她对我不感兴趣  我们结束了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know she's not interested,and I know it's over,
+Dialogue: 0,0:01:17.43,0:01:20.24,*Default,NTP,0000,0000,0000,,但是对一个人的感情怎么可能说断就断呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but how do you just turn off the way you feel about someone?
+Dialogue: 0,0:01:20.24,0:01:22.81,*Default,NTP,0000,0000,0000,,迪普  给你两个词  移情别恋\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two words, Dipper. Move on.
+Dialogue: 0,0:01:22.81,0:01:25.15,*Default,NTP,0000,0000,0000,,对啊  哥们儿  要是想遇见新朋友\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, dude, and a road trip's the perfect place
+Dialogue: 0,0:01:25.15,0:01:26.98,*Default,NTP,0000,0000,0000,,自驾游再合适不过了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to meet new people.
+Dialogue: 0,0:02:21.04,0:02:22.64,*Default,NTP,0000,0000,0000,,哎呀  房车真是爽\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Man, RV's are amazing.
+Dialogue: 0,0:02:22.64,0:02:26.67,*Default,NTP,0000,0000,0000,,真不敢相信在飞驰的车里还能围坐桌旁\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't believe we're sitting at a table in a moving vehicle.
+Dialogue: 0,0:02:26.68,0:02:29.21,*Default,NTP,0000,0000,0000,,哟  旅行信息小册子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ooh! Informational travel pamphlets.
+Dialogue: 0,0:02:29.21,0:02:32.21,*Default,NTP,0000,0000,0000,,我要好好读一遍  汲取旅游的知识\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I want to read them all and gain their travel knowledge.
+Dialogue: 0,0:02:32.21,0:02:35.22,*Default,NTP,0000,0000,0000,,孩子  这堆破册子里压根没啥知识\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kid, those useless pamphlets have never helped a single person.
+Dialogue: 0,0:02:35.22,0:02:37.99,*Default,NTP,0000,0000,0000,,有我这个满脸皱纹的老导游在就够了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The only wrinkly old travel guide you'll need is me.
+Dialogue: 0,0:02:37.99,0:02:39.39,*Default,NTP,0000,0000,0000,,赶紧的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now look alive.
+Dialogue: 0,0:02:39.39,0:02:41.39,*Default,NTP,0000,0000,0000,,第一个景点马上就到\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're coming up on an attraction
+Dialogue: 0,0:02:41.39,0:02:44.02,*Default,NTP,0000,0000,0000,,全俄勒冈州最黑心的老板就在这里\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}run by the most black-hearted proprietor in all of Oregon.
+Dialogue: 0,0:02:46.83,0:02:48.83,*Default,NTP,0000,0000,0000,,别让她的面容给忽悠了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't let the face fool you.
+Dialogue: 0,0:02:48.83,0:02:50.20,*Default,NTP,0000,0000,0000,,这老太婆把我的车\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This woman lit my car on fire
+Dialogue: 0,0:02:50.20,0:02:52.13,*Default,NTP,0000,0000,0000,,点着火了两次\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}on two non-consecutive occasions.
+Dialogue: 0,0:02:53.87,0:02:55.80,*Default,NTP,0000,0000,0000,,姑娘们  我要进去了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm going in, girls.
+Dialogue: 0,0:03:01.24,0:03:03.08,*Default,NTP,0000,0000,0000,,好  听苏斯的话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, like Soos said,
+Dialogue: 0,0:03:03.08,0:03:05.11,*Default,NTP,0000,0000,0000,,认识新朋友\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}meet new people.
+Dialogue: 0,0:03:06.82,0:03:09.72,*Default,NTP,0000,0000,0000,,呃  经常来这儿吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So, uh, come here often?
+Dialogue: 0,0:03:09.72,0:03:11.25,*Default,NTP,0000,0000,0000,,不  我是来旅游的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No. I'm a tourist.
+Dialogue: 0,0:03:11.25,0:03:13.39,*Default,NTP,0000,0000,0000,,哈哈  你真好玩  挺可爱的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ha ha, you're funny... and cute.
+Dialogue: 0,0:03:13.39,0:03:15.06,*Default,NTP,0000,0000,0000,,不  不可爱\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean, not cute.
+Dialogue: 0,0:03:15.06,0:03:17.12,*Default,NTP,0000,0000,0000,,我是说  你并不是不可爱\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean, you're not not cute.
+Dialogue: 0,0:03:17.13,0:03:18.89,*Default,NTP,0000,0000,0000,,呼  让我重来一遍\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whew, let me start over.
+Dialogue: 0,0:03:18.89,0:03:20.79,*Default,NTP,0000,0000,0000,,我的名字叫多普\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My name is Dopper.
+Dialogue: 0,0:03:23.43,0:03:25.47,*Default,NTP,0000,0000,0000,,迪普  快上\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dipper, hop to.
+Dialogue: 0,0:03:25.47,0:03:27.97,*Default,NTP,0000,0000,0000,,毛线球可不会自己拆自己\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This ball of yarn ain't gonna prank itself.
+Dialogue: 0,0:03:34.31,0:03:36.24,*Default,NTP,0000,0000,0000,,小鬼  有啥心事啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Something on your mind, kiddo?
+Dialogue: 0,0:03:36.25,0:03:38.81,*Default,NTP,0000,0000,0000,,还想着刚才那位臭脸小妞呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thinkin' about Miss Cold Shoulder over there, huh?
+Dialogue: 0,0:03:38.81,0:03:40.81,*Default,NTP,0000,0000,0000,,真是尴尬死了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, so embarrassed.
+Dialogue: 0,0:03:40.82,0:03:43.78,*Default,NTP,0000,0000,0000,,听着  暑假前阵子  我把和温蒂在一起的机会搞砸了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, earlier this summer, I ruined my chances with Wendy.
+Dialogue: 0,0:03:43.79,0:03:46.05,*Default,NTP,0000,0000,0000,,呵呵  机会\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. Chances.
+Dialogue: 0,0:03:46.06,0:03:49.49,*Default,NTP,0000,0000,0000,,我也想移情别恋  但我压根不会跟女孩说话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And I wanna move on, but I'm terrible at talking to girls.
+Dialogue: 0,0:03:49.49,0:03:51.73,*Default,NTP,0000,0000,0000,,一旦要开口对她们讲话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The moment I open my mouth around them,
+Dialogue: 0,0:03:51.73,0:03:53.76,*Default,NTP,0000,0000,0000,,我就好像散了架  就像\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I unravel like... like...
+Dialogue: 0,0:03:53.76,0:03:56.76,*Default,NTP,0000,0000,0000,,我想不出来怎么打比喻  你领会就好\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}well, I can't think of a perfect metaphor, but you get the gist.
+Dialogue: 0,0:03:56.77,0:03:58.10,*Default,NTP,0000,0000,0000,,照这样下去  我大概会像\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}At this rate, I'm gonna grow up
+Dialogue: 0,0:03:58.10,0:04:01.07,*Default,NTP,0000,0000,0000,,托比·迪特敏德一样悲哀地孤独终老了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to be a sad loner like Toby Determined.
+Dialogue: 0,0:04:01.07,0:04:04.00,*Default,NTP,0000,0000,0000,,千万别这么糟践自己\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa, never say that about yourself.
+Dialogue: 0,0:04:04.01,0:04:06.21,*Default,NTP,0000,0000,0000,,算你好运  我可是个泡妞专家\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lucky for you, I'm an expert on women.
+Dialogue: 0,0:04:06.21,0:04:07.81,*Default,NTP,0000,0000,0000,,听我说  孩子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Listen to me, kid.
+Dialogue: 0,0:04:07.81,0:04:09.74,*Default,NTP,0000,0000,0000,,和女孩子打交道  首先要保持自信\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When it comes to girls, always be confident,
+Dialogue: 0,0:04:09.75,0:04:11.35,*Default,NTP,0000,0000,0000,,要有幽默感  但别太过\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and be funny, but not too funny.
+Dialogue: 0,0:04:11.35,0:04:14.05,*Default,NTP,0000,0000,0000,,要有点烦人  但是要让人意乱情迷\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And be kind of annoying, but in a loveable way.
+Dialogue: 0,0:04:14.05,0:04:16.78,*Default,NTP,0000,0000,0000,,我不知道  斯坦叔公  听起来有点混蛋啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know, Grunkle Stan. This sounds kinda jerky.
+Dialogue: 0,0:04:16.79,0:04:19.85,*Default,NTP,0000,0000,0000,,“混蛋”这个词是混蛋不起来的人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, "Jerky" Is just a term non-jerks use
+Dialogue: 0,0:04:19.86,0:04:21.92,*Default,NTP,0000,0000,0000,,用来侮辱无辜混蛋的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to bad-mouth innocent jerks.
+Dialogue: 0,0:04:21.92,0:04:24.93,*Default,NTP,0000,0000,0000,,自信  幽默  再帮我想个意思差不多的词\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Confidence, comedy, some third word starting with a "C."
+Dialogue: 0,0:04:24.93,0:04:27.79,*Default,NTP,0000,0000,0000,,这三个要点就是斯坦·派恩斯的约会秘诀\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The three C's of the Stan Pines Dating Technique.
+Dialogue: 0,0:04:27.80,0:04:29.14,*Default,NTP,0000,0000,0000,,到了下个景点\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}At the next tourist trap,
+Dialogue: 0,0:04:29.14,0:04:31.50,*Default,NTP,0000,0000,0000,,见到一个女孩子就试试我的办法\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}try out my advice on the first girl you see.
+Dialogue: 0,0:04:31.50,0:04:34.37,*Default,NTP,0000,0000,0000,,好  斯坦叔公  谢谢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cool. Grunkle Stan, thanks.
+Dialogue: 0,0:04:34.37,0:04:36.04,*Default,NTP,0000,0000,0000,,我满脑子可都是好主意\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, I'm full of good ideas.
+Dialogue: 0,0:04:36.04,0:04:37.54,*Default,NTP,0000,0000,0000,,说到好主意嘛\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Speakin' of which,
+Dialogue: 0,0:04:37.54,0:04:39.27,*Default,NTP,0000,0000,0000,,大家快上车啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}everyone, now!
+Dialogue: 0,0:04:46.28,0:04:49.55,*Default,NTP,0000,0000,0000,,混蛋  你个无耻贱人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why, you gol-darned son of a no-good!
+Dialogue: 0,0:04:52.82,0:04:55.16,*Default,NTP,0000,0000,0000,,斯坦·派恩斯  看我不逮住你\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll get you, Stan Pines!
+Dialogue: 0,0:04:58.99,0:05:01.19,*Default,NTP,0000,0000,0000,,啊  倒立小屋\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, Upside-down Town.
+Dialogue: 0,0:05:01.20,0:05:02.83,*Default,NTP,0000,0000,0000,,全州闻名的反胃之都\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The nausea capital of the state.
+Dialogue: 0,0:05:02.83,0:05:05.37,*Default,NTP,0000,0000,0000,,不管干什么  都千万别去上厕所\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whatever you do, don't use the bathrooms.
+Dialogue: 0,0:05:05.37,0:05:07.57,*Default,NTP,0000,0000,0000,,公路姐妹团\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Road Dawgs!
+Dialogue: 0,0:05:13.54,0:05:15.81,*Default,NTP,0000,0000,0000,,-哇  -感觉怪怪的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Whoa! - So weird.
+Dialogue: 0,0:05:24.42,0:05:26.15,*Default,NTP,0000,0000,0000,,听好了  孩子  记住要领\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, kid, this is it.
+Dialogue: 0,0:05:26.16,0:05:28.32,*Default,NTP,0000,0000,0000,,保持自信\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Be confident.
+Dialogue: 0,0:05:28.32,0:05:29.92,*Default,NTP,0000,0000,0000,,你好  我是迪普\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi. I'm Dipper.
+Dialogue: 0,0:05:29.93,0:05:31.59,*Default,NTP,0000,0000,0000,,这地方真奇怪  对吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Crazy place, right?
+Dialogue: 0,0:05:31.59,0:05:33.53,*Default,NTP,0000,0000,0000,,你好  我叫艾玛·苏\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, hi. I'm Emma Sue.
+Dialogue: 0,0:05:33.53,0:05:35.43,*Default,NTP,0000,0000,0000,,如果你假装我们脑袋朝上的话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you pretend we're right-side up,
+Dialogue: 0,0:05:35.43,0:05:37.90,*Default,NTP,0000,0000,0000,,看起来就像大家头发都竖起来了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}it looks like everyone's hair is standing on end.
+Dialogue: 0,0:05:37.90,0:05:39.43,*Default,NTP,0000,0000,0000,,哈  对啊  真是奇怪\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Huh, yeah. Weird, right?
+Dialogue: 0,0:05:39.44,0:05:41.07,*Default,NTP,0000,0000,0000,,你假装尖叫试试\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Pretend you're screaming.
+Dialogue: 0,0:05:41.07,0:05:43.37,*Default,NTP,0000,0000,0000,,好  不过你得帮我拍照啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay. You gotta take a picture of me, though.
+Dialogue: 0,0:05:44.94,0:05:46.84,*Default,NTP,0000,0000,0000,,看看怎  哎呀\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's see... whoa!
+Dialogue: 0,0:05:46.84,0:05:48.44,*Default,NTP,0000,0000,0000,,哈哈  吓着了吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ho ho, just kidding.
+Dialogue: 0,0:05:48.44,0:05:50.41,*Default,NTP,0000,0000,0000,,你真够坏的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You are the worst.
+Dialogue: 0,0:05:50.41,0:05:51.55,*Default,NTP,0000,0000,0000,,可不是嘛\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You bet I am.
+Dialogue: 0,0:05:51.55,0:05:53.08,*Default,NTP,0000,0000,0000,,我可坏了  艾玛\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm bad, Emma.
+Dialogue: 0,0:05:53.08,0:05:54.41,*Default,NTP,0000,0000,0000,,有点像个混蛋\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kind of a jerk.
+Dialogue: 0,0:05:54.42,0:05:55.92,*Default,NTP,0000,0000,0000,,艾玛  快跟上  咱们得在你妈\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Emma, come on. We have to get to Canada
+Dialogue: 0,0:05:55.92,0:05:57.38,*Default,NTP,0000,0000,0000,,生孩子前赶到加拿大\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}before your mother gives birth.
+Dialogue: 0,0:05:57.39,0:05:59.25,*Default,NTP,0000,0000,0000,,说来话长了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a long story.
+Dialogue: 0,0:05:59.25,0:06:01.36,*Default,NTP,0000,0000,0000,,也许你哪天有时间能跟我说说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe you could tell me sometime.
+Dialogue: 0,0:06:01.36,0:06:02.92,*Default,NTP,0000,0000,0000,,这是我的邮箱地址\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here's my email address.
+Dialogue: 0,0:06:02.93,0:06:05.06,*Default,NTP,0000,0000,0000,,给我发邮件  我会全都告诉你的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Write me and I'll tell you all about it.
+Dialogue: 0,0:06:06.43,0:06:08.40,*Default,NTP,0000,0000,0000,,有女生给我邮箱地址了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A girl gave me her email,
+Dialogue: 0,0:06:08.40,0:06:09.63,*Default,NTP,0000,0000,0000,,而且并不是出于怜悯\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and it wasn't out of pity.
+Dialogue: 0,0:06:09.63,0:06:12.00,*Default,NTP,0000,0000,0000,,哈哈  太棒了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ha ha, yes!
+Dialogue: 0,0:06:12.00,0:06:14.23,*Default,NTP,0000,0000,0000,,我很好\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ugh! I'm okay.
+Dialogue: 0,0:06:14.24,0:06:15.94,*Default,NTP,0000,0000,0000,,比很好还要好\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm better than okay.
+Dialogue: 0,0:06:15.94,0:06:17.64,*Default,NTP,0000,0000,0000,,好啊梅宝  格兰达你咋样啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mabel, hi. There's my Grenda.
+Dialogue: 0,0:06:17.64,0:06:19.27,*Default,NTP,0000,0000,0000,,糖糖  挺漂亮  挺漂亮\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Candy, looking great, looking great.
+Dialogue: 0,0:06:19.27,0:06:22.44,*Default,NTP,0000,0000,0000,,是不是换了副眼镜啊  亮闪闪的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is that a new pair of glasses? Very shiny.
+Dialogue: 0,0:06:24.31,0:06:26.48,*Default,NTP,0000,0000,0000,,是不是我脑袋积血了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe it's the blood pooling in my head,
+Dialogue: 0,0:06:26.48,0:06:28.62,*Default,NTP,0000,0000,0000,,迪普似乎不一样了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but Dipper seems different.
+Dialogue: 0,0:06:29.95,0:06:31.92,*Default,NTP,0000,0000,0000,,对  变得更好了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, good different.
+Dialogue: 0,0:06:31.92,0:06:33.52,*Default,NTP,0000,0000,0000,,苏斯  快行动\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now, Soos.
+Dialogue: 0,0:06:41.56,0:06:43.60,*Default,NTP,0000,0000,0000,,现在看你还怎么倒立\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not too upside-down now.
+Dialogue: 0,0:06:43.60,0:06:46.67,*Default,NTP,0000,0000,0000,,真是个无比正常的漂亮房子啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What a lovely normal home.
+Dialogue: 0,0:06:46.67,0:06:48.90,*Default,NTP,0000,0000,0000,,斯坦·派恩斯\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stan Pines!
+Dialogue: 0,0:06:50.61,0:06:52.51,*Default,NTP,0000,0000,0000,,真不敢相信奏效了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't believe it worked.
+Dialogue: 0,0:06:52.51,0:06:54.31,*Default,NTP,0000,0000,0000,,现在我该怎么做  给她发邮件吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What do I do now? Do I email her?
+Dialogue: 0,0:06:54.31,0:06:56.24,*Default,NTP,0000,0000,0000,,不  不  你要练习\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, no, you practice.
+Dialogue: 0,0:06:56.25,0:06:58.58,*Default,NTP,0000,0000,0000,,跟越多的女孩子谈话  你的技巧就会越娴熟\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The more girls you talk to, the better you get at it.
+Dialogue: 0,0:06:58.58,0:07:01.45,*Default,NTP,0000,0000,0000,,斯坦叔公  这些经验真是无价之宝啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Grunkle Stan, these tips are priceless.
+Dialogue: 0,0:07:01.45,0:07:04.05,*Default,NTP,0000,0000,0000,,这只能算我丰富经验的冰山一角\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And that's just the tip of the advice-berg.
+Dialogue: 0,0:07:22.37,0:07:24.94,*Default,NTP,0000,0000,0000,,-人都齐了吧  -应该齐了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Everyone on board? - Probably.
+Dialogue: 0,0:07:28.24,0:07:30.04,*Default,NTP,0000,0000,0000,,伙计们  人呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Guys? Hello?
+Dialogue: 0,0:07:30.05,0:07:31.68,*Default,NTP,0000,0000,0000,,有人吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Anyone?
+Dialogue: 0,0:07:31.68,0:07:33.98,*Default,NTP,0000,0000,0000,,他们会回来找我的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They'll come back for me.
+Dialogue: 0,0:07:35.08,0:07:37.72,*Default,NTP,0000,0000,0000,,然后我跟门卫说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So then I said to the bouncer,
+Dialogue: 0,0:07:37.72,0:07:39.65,*Default,NTP,0000,0000,0000,,“丑八怪  你的身份证又在哪儿”\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Where's your ID, ugly?"
+Dialogue: 0,0:07:39.66,0:07:41.29,*Default,NTP,0000,0000,0000,,我这条伤疤就是这么来的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's where I got this scar.
+Dialogue: 0,0:07:41.29,0:07:43.62,*Default,NTP,0000,0000,0000,,斯坦叔公  我必须得说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Grunkle Stan, I gotta say,
+Dialogue: 0,0:07:43.63,0:07:45.19,*Default,NTP,0000,0000,0000,,今天算是我人生最美好的一天\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}this was one of the best days ever.
+Dialogue: 0,0:07:45.19,0:07:48.03,*Default,NTP,0000,0000,0000,,快看\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look!
+Dialogue: 0,0:07:48.03,0:07:49.96,*Default,NTP,0000,0000,0000,,这就是斯坦·派恩斯的秘诀  小鬼\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's the Stan Pines method, kid.
+Dialogue: 0,0:07:49.97,0:07:51.23,*Default,NTP,0000,0000,0000,,百试百灵\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Works every time.
+Dialogue: 0,0:07:51.23,0:07:54.00,*Default,NTP,0000,0000,0000,,可是  我有些担心\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm just a little worried, though.
+Dialogue: 0,0:07:54.00,0:07:56.67,*Default,NTP,0000,0000,0000,,我是指  一次和这么多女孩调情  不合适吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean, is it bad to flirt with this many girls at once?
+Dialogue: 0,0:07:56.67,0:07:59.04,*Default,NTP,0000,0000,0000,,我只是想放下温蒂而已\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm just trying to get over Wendy.
+Dialogue: 0,0:07:59.04,0:08:00.67,*Default,NTP,0000,0000,0000,,我不想伤任何人的心\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't wanna hurt anyone's feelings.
+Dialogue: 0,0:08:00.68,0:08:03.61,*Default,NTP,0000,0000,0000,,拜托  这就是自驾游时调情最大的好处\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please. That's the best part of flirting on a road trip.
+Dialogue: 0,0:08:03.61,0:08:05.58,*Default,NTP,0000,0000,0000,,你再也不会见到这些女孩子们\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're not gonna see any of these gals again.
+Dialogue: 0,0:08:05.58,0:08:07.45,*Default,NTP,0000,0000,0000,,敬  移情别恋\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}To moving on.
+Dialogue: 0,0:08:10.99,0:08:12.49,*Default,NTP,0000,0000,0000,,好啦  是时候玩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, it's time for...
+Dialogue: 0,0:08:12.49,0:08:14.52,*Default,NTP,0000,0000,0000,,真心话和大冒险和玩不起啦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Truth or dare or don't!
+Dialogue: 0,0:08:14.52,0:08:16.69,*Default,NTP,0000,0000,0000,,我选择玩不起\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I choose don't.
+Dialogue: 0,0:08:16.69,0:08:18.53,*Default,NTP,0000,0000,0000,,你总是选择玩不起\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You always choose don't.
+Dialogue: 0,0:08:18.53,0:08:20.26,*Default,NTP,0000,0000,0000,,好吧  那就  真心话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fine. Uh... truth.
+Dialogue: 0,0:08:20.26,0:08:24.10,*Default,NTP,0000,0000,0000,,你有喜欢的人吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you like someone?
+Dialogue: 0,0:08:24.10,0:08:28.57,*Default,NTP,0000,0000,0000,,喔  有人脸红啦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh-oh. Someone's blushing.
+Dialogue: 0,0:08:28.57,0:08:30.64,*Default,NTP,0000,0000,0000,,好吧  也许有一点点\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, maybe just a little.
+Dialogue: 0,0:08:30.64,0:08:33.07,*Default,NTP,0000,0000,0000,,我自己也不清楚  这感觉才刚开始\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know for sure. It just started.
+Dialogue: 0,0:08:33.08,0:08:34.77,*Default,NTP,0000,0000,0000,,快说  快说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tell us, tell us!
+Dialogue: 0,0:08:34.78,0:08:36.78,*Default,NTP,0000,0000,0000,,好吧  他名字以“迪”开头\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay. It begins with a "D,"
+Dialogue: 0,0:08:36.78,0:08:39.01,*Default,NTP,0000,0000,0000,,以“普”结尾\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and ends with an "ipper."
+Dialogue: 0,0:08:39.01,0:08:41.48,*Default,NTP,0000,0000,0000,,-不会吧  -是的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- No. - Yes.
+Dialogue: 0,0:08:42.75,0:08:46.42,*Default,NTP,0000,0000,0000,,准备好了吗  格兰达  三  二  一\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ready, Grenda? Three, two, one.
+Dialogue: 0,0:08:49.26,0:08:52.32,*Default,NTP,0000,0000,0000,,天  郊狼的叫声比我记忆中的难听多了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Man, coyotes sound a lot worse than I remember.
+Dialogue: 0,0:08:54.73,0:08:57.43,*Default,NTP,0000,0000,0000,,糖糖  糖糖  我的人生梦想全都要实现了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Candy, Candy, all my life dreams are coming true right now.
+Dialogue: 0,0:08:57.43,0:08:59.80,*Default,NTP,0000,0000,0000,,我弟弟  我最好的朋友\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My brother, my best friend.
+Dialogue: 0,0:08:59.80,0:09:01.13,*Default,NTP,0000,0000,0000,,我无法呼吸\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't breathe!
+Dialogue: 0,0:09:01.14,0:09:04.17,*Default,NTP,0000,0000,0000,,我太激动了  喘不过气\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm so excited, I can't breathe!
+Dialogue: 0,0:09:04.17,0:09:05.81,*Default,NTP,0000,0000,0000,,以前  我从没真正地注意过他\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I never really noticed him before,
+Dialogue: 0,0:09:05.81,0:09:08.11,*Default,NTP,0000,0000,0000,,不过他最近似乎变得深沉了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but he seems deeper lately,
+Dialogue: 0,0:09:08.11,0:09:10.44,*Default,NTP,0000,0000,0000,,流汗少了些  也更迷人了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}less sweaty and more charming.
+Dialogue: 0,0:09:10.45,0:09:12.35,*Default,NTP,0000,0000,0000,,但是我该怎么接近他呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But how do I approach him?
+Dialogue: 0,0:09:12.35,0:09:15.12,*Default,NTP,0000,0000,0000,,那种事用不着担心  小糖糖\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't even worry about that, Can-Can.
+Dialogue: 0,0:09:15.12,0:09:17.12,*Default,NTP,0000,0000,0000,,梅宝有个计划\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mabel's got a plan.
+Dialogue: 0,0:09:19.05,0:09:21.12,*Default,NTP,0000,0000,0000,,梅宝有个计划\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mabel's got a plan.
+Dialogue: 0,0:09:22.76,0:09:25.13,*Default,NTP,0000,0000,0000,,好啦  小营员们  我们迎来了又一个\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, campers, we got another day
+Dialogue: 0,0:09:25.13,0:09:26.59,*Default,NTP,0000,0000,0000,,违法犯罪让别人心碎的日子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}of breakin' laws and breakin' hearts.
+Dialogue: 0,0:09:26.60,0:09:28.76,*Default,NTP,0000,0000,0000,,目前为止的一切  和我们下一个目标相比\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everything up until now has been a walk in the park
+Dialogue: 0,0:09:28.76,0:09:30.43,*Default,NTP,0000,0000,0000,,都不过是公园遛弯级别的小儿科\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}compared to our next attraction.
+Dialogue: 0,0:09:30.43,0:09:32.83,*Default,NTP,0000,0000,0000,,是在世界上最大的公园遛弯吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is it a walk in the world's biggest park?
+Dialogue: 0,0:09:32.83,0:09:34.83,*Default,NTP,0000,0000,0000,,差不多  我们到了  孩子们\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sort of. There she is, kids.
+Dialogue: 0,0:09:34.84,0:09:37.07,*Default,NTP,0000,0000,0000,,神秘山\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mystery Mountain.
+Dialogue: 0,0:09:38.37,0:09:40.67,*Default,NTP,0000,0000,0000,,这里是神秘小屋的五倍大\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Five times the size of the Mystery Shack,
+Dialogue: 0,0:09:40.68,0:09:43.21,*Default,NTP,0000,0000,0000,,更可怕的是  她有真正的景点\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and what's worse, she has real attractions.
+Dialogue: 0,0:09:43.21,0:09:45.11,*Default,NTP,0000,0000,0000,,我读到过这个地方\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, I have read about this place.
+Dialogue: 0,0:09:45.11,0:09:48.11,*Default,NTP,0000,0000,0000,,这里有登山缆车  木乃伊博物馆\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It has sky tram, and a mummy museum,
+Dialogue: 0,0:09:48.12,0:09:51.79,*Default,NTP,0000,0000,0000,,还能看到半人半蜘蛛的生物\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and sightings of half-human, half-spider creatures.
+Dialogue: 0,0:09:51.79,0:09:54.79,*Default,NTP,0000,0000,0000,,他们就连瞎编的传说都比我们的好\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Even their made-up legends are better than ours.
+Dialogue: 0,0:09:54.79,0:09:57.52,*Default,NTP,0000,0000,0000,,今天  这座山将沦陷\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Today, the mountain falls.
+Dialogue: 0,0:09:59.13,0:10:01.29,*Default,NTP,0000,0000,0000,,请问  我坐在后座晕车\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Question. The backseat makes me carsick.
+Dialogue: 0,0:10:01.30,0:10:02.83,*Default,NTP,0000,0000,0000,,今天我能坐前面吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can I sit up front today?
+Dialogue: 0,0:10:02.83,0:10:05.50,*Default,NTP,0000,0000,0000,,我也想问  我体型一个顶俩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Also a question. I'm the size of two people.
+Dialogue: 0,0:10:05.50,0:10:07.60,*Default,NTP,0000,0000,0000,,我能一个人占整个座位吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can I have a whole seat to myself?
+Dialogue: 0,0:10:07.60,0:10:08.80,*Default,NTP,0000,0000,0000,,不知道  行呗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know. Sure.
+Dialogue: 0,0:10:08.80,0:10:10.20,*Default,NTP,0000,0000,0000,,换位置\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ooh, change-up!
+Dialogue: 0,0:10:12.11,0:10:14.64,*Default,NTP,0000,0000,0000,,等等  也就是说  这儿只有我和\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait, that means it'll be just me and...
+Dialogue: 0,0:10:14.64,0:10:16.54,*Default,NTP,0000,0000,0000,,糖糖·秋  六年级\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Candy Chu. Sixth grade.
+Dialogue: 0,0:10:16.55,0:10:18.28,*Default,NTP,0000,0000,0000,,噢  嘿\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh! Hey.
+Dialogue: 0,0:10:23.22,0:10:25.12,*Default,NTP,0000,0000,0000,,你坐得好近\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're sitting close.
+Dialogue: 0,0:10:27.29,0:10:29.62,*Default,NTP,0000,0000,0000,,迪普  我很好奇\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So Dipper, I was wondering,
+Dialogue: 0,0:10:29.63,0:10:31.59,*Default,NTP,0000,0000,0000,,你今天想不想和我一起\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}would you maybe want to walk around
+Dialogue: 0,0:10:31.59,0:10:33.76,*Default,NTP,0000,0000,0000,,去神秘山转一转呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the Mystery Mountain with me today?
+Dialogue: 0,0:10:33.76,0:10:35.36,*Default,NTP,0000,0000,0000,,当然  我是说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sure. I mean...
+Dialogue: 0,0:10:35.36,0:10:36.83,*Default,NTP,0000,0000,0000,,这不就是我们的计划吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}wasn't that already the plan?
+Dialogue: 0,0:10:36.83,0:10:39.13,*Default,NTP,0000,0000,0000,,我是指  就我们两个\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean, just us.
+Dialogue: 0,0:10:39.13,0:10:41.40,*Default,NTP,0000,0000,0000,,我和你  糖糖和迪普\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You and me. Candy and Dipper.
+Dialogue: 0,0:10:48.88,0:10:50.88,*Default,NTP,0000,0000,0000,,好啦  公路姐妹团  谁去把那头蓝色的公牛翻倒\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, Road Dawgs, I got five bucks
+Dialogue: 0,0:10:50.88,0:10:53.45,*Default,NTP,0000,0000,0000,,我就奖励谁五块钱\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for whoever can tip the big blue ox.
+Dialogue: 0,0:10:53.45,0:10:55.15,*Default,NTP,0000,0000,0000,,快去吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, go, go.
+Dialogue: 0,0:10:55.15,0:10:57.54,*Default,NTP,0000,0000,0000,,我们在那儿见\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I will see you in there.
+Dialogue: 0,0:10:58.55,0:11:00.72,*Default,NTP,0000,0000,0000,,孩子  你怎么一脸无精打采的样子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, what's with the mopey mug, kid?
+Dialogue: 0,0:11:00.72,0:11:02.86,*Default,NTP,0000,0000,0000,,斯坦叔公  你得帮我\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stan, you gotta help me.
+Dialogue: 0,0:11:02.86,0:11:04.69,*Default,NTP,0000,0000,0000,,你教我的每件事  效果都好过了头\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everything you taught me worked too well.
+Dialogue: 0,0:11:04.69,0:11:06.59,*Default,NTP,0000,0000,0000,,我觉得糖糖刚才想和我约会呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think Candy just asked me out on a date.
+Dialogue: 0,0:11:06.60,0:11:09.16,*Default,NTP,0000,0000,0000,,嘿  看看你这个小冠军\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, look at this little champion.
+Dialogue: 0,0:11:09.16,0:11:10.86,*Default,NTP,0000,0000,0000,,什么  不  我是说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What? No. I mean...
+Dialogue: 0,0:11:10.87,0:11:13.20,*Default,NTP,0000,0000,0000,,糖糖人挺好的  甜美可爱  聪明伶俐\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Candy's great, she's sweet, and she's smart,
+Dialogue: 0,0:11:13.20,0:11:15.87,*Default,NTP,0000,0000,0000,,但是我对她从来都没有那种想法\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but I never thought of her like that.
+Dialogue: 0,0:11:15.87,0:11:18.20,*Default,NTP,0000,0000,0000,,这事进展得太快了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is all moving way too fast.
+Dialogue: 0,0:11:19.71,0:11:21.88,*Default,NTP,0000,0000,0000,,好吧  我应该对她实话实说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, I just need to be honest with her,
+Dialogue: 0,0:11:21.88,0:11:24.51,*Default,NTP,0000,0000,0000,,告诉她这件事我还没有准备好\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and tell her I'm not ready for all this.
+Dialogue: 0,0:11:24.51,0:11:27.80,*Default,NTP,0000,0000,0000,,你还不明白发生了什么吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't you see what's happening here?
+Dialogue: 0,0:11:27.80,0:11:30.93,*Default,NTP,0000,0000,0000,,你对温蒂愚蠢的迷恋  阻碍了你的大好未来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's your dumb obsession with Wendy gettin' in the way of your future.
+Dialogue: 0,0:11:30.93,0:11:31.85,*Default,NTP,0000,0000,0000,,如果你想要移情别恋\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you wanna move on,
+Dialogue: 0,0:11:31.85,0:11:33.89,*Default,NTP,0000,0000,0000,,不管是谁来找你  你都要答应\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you gotta say yes to whatever comes your way.
+Dialogue: 0,0:11:33.89,0:11:36.56,*Default,NTP,0000,0000,0000,,说起来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Speaking of which...
+Dialogue: 0,0:11:38.19,0:11:40.23,*Default,NTP,0000,0000,0000,,但是我不想骗她\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But I don't wanna lead her on.
+Dialogue: 0,0:11:40.23,0:11:42.36,*Default,NTP,0000,0000,0000,,仔细瞧  好好学\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh-uh-uh, watch and learn.
+Dialogue: 0,0:11:42.36,0:11:45.23,*Default,NTP,0000,0000,0000,,我好像把自己的电话号码给弄丢了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa, I seem to have lost my number.
+Dialogue: 0,0:11:45.23,0:11:46.93,*Default,NTP,0000,0000,0000,,能借你的用用吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can I borrow yours?
+Dialogue: 0,0:11:46.94,0:11:49.27,*Default,NTP,0000,0000,0000,,你这个小傻瓜\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You are a riot.
+Dialogue: 0,0:11:49.27,0:11:51.37,*Default,NTP,0000,0000,0000,,什么风把你吹到这里来了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What brings you here?
+Dialogue: 0,0:11:51.37,0:11:54.54,*Default,NTP,0000,0000,0000,,我们这一片儿通常都看不到你这样的帅哥\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We don't normally get men this handsome round these parts.
+Dialogue: 0,0:11:54.54,0:11:57.38,*Default,NTP,0000,0000,0000,,那个  达琳\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, Darlene,
+Dialogue: 0,0:11:57.38,0:12:00.61,*Default,NTP,0000,0000,0000,,我在这里干啥  是你我之间的小秘密\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}between you and me, what I'm doin' here is a little secret.
+Dialogue: 0,0:12:00.62,0:12:03.85,*Default,NTP,0000,0000,0000,,你看上去就是一个有秘密的男人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, you seem like a man with secrets.
+Dialogue: 0,0:12:06.92,0:12:08.62,*Default,NTP,0000,0000,0000,,我要下班了  你懂的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, I'm going on a break.
+Dialogue: 0,0:12:08.62,0:12:11.73,*Default,NTP,0000,0000,0000,,想不想坐缆车上寡妇之巅看看\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You wanna take the sky tram up to Widow's Peak?
+Dialogue: 0,0:12:11.73,0:12:13.73,*Default,NTP,0000,0000,0000,,听不听建议随便你\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take my advice or don't,
+Dialogue: 0,0:12:13.73,0:12:16.23,*Default,NTP,0000,0000,0000,,不过很明显  我这儿进展不错\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but clearly, I know what I'm doing.
+Dialogue: 0,0:12:16.23,0:12:18.30,*Default,NTP,0000,0000,0000,,好极了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, fancy.
+Dialogue: 0,0:12:25.47,0:12:27.61,*Default,NTP,0000,0000,0000,,不敢相信  这事真的发生了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, I can't believe this is happening.
+Dialogue: 0,0:12:27.61,0:12:29.41,*Default,NTP,0000,0000,0000,,一个真正的约会\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A real date.
+Dialogue: 0,0:12:29.41,0:12:30.94,*Default,NTP,0000,0000,0000,,我想知道他们会给孩子取什么名字\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I wonder what they'll name the baby.
+Dialogue: 0,0:12:30.95,0:12:32.75,*Default,NTP,0000,0000,0000,,如果我有个孩子  我会叫他\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If I had a baby, I would name it
+Dialogue: 0,0:12:32.75,0:12:35.78,*Default,NTP,0000,0000,0000,,格兰达第二部  续集\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Grenda 2: The Sequel.
+Dialogue: 0,0:12:35.78,0:12:38.52,*Default,NTP,0000,0000,0000,,你一定会是个好母亲\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You would make such a good mother.
+Dialogue: 0,0:12:40.02,0:12:42.29,*Default,NTP,0000,0000,0000,,这个地方如此迷人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This place is so enchanting.
+Dialogue: 0,0:12:42.29,0:12:44.13,*Default,NTP,0000,0000,0000,,虽然“每日最新木乃伊”这个说法\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sort of confused by the phrase
+Dialogue: 0,0:12:44.13,0:12:45.39,*Default,NTP,0000,0000,0000,,让人摸不着头脑\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"new mummies daily" though.
+Dialogue: 0,0:12:45.39,0:12:46.73,*Default,NTP,0000,0000,0000,,我是说  这根本解释不通啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean, how does that even work?
+Dialogue: 0,0:12:46.73,0:12:48.96,*Default,NTP,0000,0000,0000,,这座山满是未解之谜\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This mountain's full of mysteries.
+Dialogue: 0,0:12:48.96,0:12:52.03,*Default,NTP,0000,0000,0000,,就像为什么我的头会靠上你的肩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Like why is my head falling on your shoulder?
+Dialogue: 0,0:12:53.97,0:12:56.40,*Default,NTP,0000,0000,0000,,没错  这就是我想要的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, yep, this is what I want.
+Dialogue: 0,0:12:56.40,0:12:58.77,*Default,NTP,0000,0000,0000,,这不过是计划的一部分\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is all part of the plan and stuff.
+Dialogue: 0,0:12:58.77,0:13:00.41,*Default,NTP,0000,0000,0000,,迪普  喂\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, Dipper, hey.
+Dialogue: 0,0:13:00.41,0:13:01.98,*Default,NTP,0000,0000,0000,,玉米迷宫的女孩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Corn maze girl.
+Dialogue: 0,0:13:01.98,0:13:04.48,*Default,NTP,0000,0000,0000,,我想知道你什么时候会给我打电话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was wondering when you'd call.
+Dialogue: 0,0:13:04.48,0:13:05.98,*Default,NTP,0000,0000,0000,,迪普  她是谁\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dipper, who is this?
+Dialogue: 0,0:13:05.98,0:13:07.75,*Default,NTP,0000,0000,0000,,谁也不是  我是说  她是某个人  但是\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nobody. I mean, uh... somebody, but...
+Dialogue: 0,0:13:07.75,0:13:09.72,*Default,NTP,0000,0000,0000,,迪普\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dipper!
+Dialogue: 0,0:13:09.72,0:13:12.29,*Default,NTP,0000,0000,0000,,从侧面差点没认出来你\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I didn't recognize you right-side up.
+Dialogue: 0,0:13:12.29,0:13:14.05,*Default,NTP,0000,0000,0000,,你绝对想不到我妈妈是在哪里生的孩子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You'll never guess where my mom gave birth.
+Dialogue: 0,0:13:14.06,0:13:15.89,*Default,NTP,0000,0000,0000,,喂  这些女孩子是什么人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, who are these girls?
+Dialogue: 0,0:13:15.89,0:13:17.86,*Default,NTP,0000,0000,0000,,迪普  你怎么没给我打电话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dipper, why haven't you called?
+Dialogue: 0,0:13:17.86,0:13:20.36,*Default,NTP,0000,0000,0000,,我们的浪漫原木之旅对你来说无足轻重吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did our romantic log ride mean nothing to you?
+Dialogue: 0,0:13:20.36,0:13:21.86,*Default,NTP,0000,0000,0000,,真不敢相信\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't believe it.
+Dialogue: 0,0:13:21.86,0:13:23.73,*Default,NTP,0000,0000,0000,,你答应和我约会的同时\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You agreed to go on a date with me,
+Dialogue: 0,0:13:23.73,0:13:25.73,*Default,NTP,0000,0000,0000,,也和所有这些女生约会吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and you are seeing all these other girls?
+Dialogue: 0,0:13:25.73,0:13:28.00,*Default,NTP,0000,0000,0000,,回答我们  你最喜欢我们中的谁\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, answer us. Which one of us do you like?
+Dialogue: 0,0:13:28.00,0:13:30.30,*Default,NTP,0000,0000,0000,,我  我全都喜欢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I... I like all of you.
+Dialogue: 0,0:13:30.31,0:13:31.70,*Default,NTP,0000,0000,0000,,我是说  我一个也不喜欢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean, I don't like any of you.
+Dialogue: 0,0:13:31.71,0:13:33.34,*Default,NTP,0000,0000,0000,,我是说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean...
+Dialogue: 0,0:13:33.34,0:13:35.06,*Default,NTP,0000,0000,0000,,我只是在努力学习如何和女孩子搭讪\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was trying to learn how to talk to girls.
+Dialogue: 0,0:13:36.38,0:13:38.34,*Default,NTP,0000,0000,0000,,-难以置信  -真讨厌\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Unbelievable. - So gross.
+Dialogue: 0,0:13:38.35,0:13:39.81,*Default,NTP,0000,0000,0000,,真是个混蛋\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What a jerk.
+Dialogue: 0,0:13:39.82,0:13:43.32,*Default,NTP,0000,0000,0000,,迪普·派恩斯  我以为你是个好男孩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dipper Pines, I thought you were a nice guy,
+Dialogue: 0,0:13:43.32,0:13:45.45,*Default,NTP,0000,0000,0000,,但是  恐怕你只关心自己吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but I guess you only care about yourself.
+Dialogue: 0,0:13:46.99,0:13:49.69,*Default,NTP,0000,0000,0000,,糖糖  等等\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, Candy, wait.
+Dialogue: 0,0:13:49.69,0:13:51.49,*Default,NTP,0000,0000,0000,,我把一切都搞砸了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I messed everything up.
+Dialogue: 0,0:13:51.49,0:13:54.03,*Default,NTP,0000,0000,0000,,我得去找斯坦叔公  他知道该怎么办\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I gotta find Stan. He'll know what to do.
+Dialogue: 0,0:13:54.03,0:13:58.83,*Default,NTP,0000,0000,0000,,你确定要往森林里走这么深吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, are you sure you wanna go this deep into the forest?
+Dialogue: 0,0:13:58.83,0:14:00.07,*Default,NTP,0000,0000,0000,,这里好可怕\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's so scary.
+Dialogue: 0,0:14:00.07,0:14:01.53,*Default,NTP,0000,0000,0000,,别担心  亲爱的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't worry, toots.
+Dialogue: 0,0:14:01.54,0:14:04.04,*Default,NTP,0000,0000,0000,,蜘蛛人之类的东西只是都市传说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That spider people stuff is just an urban legend.
+Dialogue: 0,0:14:04.04,0:14:06.11,*Default,NTP,0000,0000,0000,,不敢相信竟然有人会买账\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't believe people fall for it.
+Dialogue: 0,0:14:06.11,0:14:07.87,*Default,NTP,0000,0000,0000,,你太勇敢啦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're so brave.
+Dialogue: 0,0:14:07.88,0:14:10.04,*Default,NTP,0000,0000,0000,,那当然了  我可是人中尤物\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What can I say? I'm a real catch.
+Dialogue: 0,0:14:10.05,0:14:11.81,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:14:11.81,0:14:13.71,*Default,NTP,0000,0000,0000,,今天你就是我的猎物了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The catch of the day.
+Dialogue: 0,0:14:13.72,0:14:16.45,*Default,NTP,0000,0000,0000,,呃  你的隐形眼镜好像掉了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, I think your contacts fell out.
+Dialogue: 0,0:14:19.55,0:14:22.62,*Default,NTP,0000,0000,0000,,请问你有没有在附近看到一个老头\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, have you seen an old guy around here?
+Dialogue: 0,0:14:22.62,0:14:25.33,*Default,NTP,0000,0000,0000,,大耳朵  橘色鼻子  是个万事通\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Big ears, orange nose, a real know-it-all.
+Dialogue: 0,0:14:26.63,0:14:28.93,*Default,NTP,0000,0000,0000,,听好啦  浣熊防火员提醒您\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh-uh-uh. Flame retardant raccoon says,
+Dialogue: 0,0:14:28.93,0:14:31.40,*Default,NTP,0000,0000,0000,,不要和森林火灾做朋友噢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}don't hug forest fires.
+Dialogue: 0,0:14:33.74,0:14:37.06,*Default,NTP,0000,0000,0000,,斯坦  你在哪里  我需要你的建议\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stan, where are you? I need your advice.
+Dialogue: 0,0:14:37.06,0:14:38.91,*Default,NTP,0000,0000,0000,,斯坦叔公\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Grunkle Stan?
+Dialogue: 0,0:14:38.91,0:14:40.87,*Default,NTP,0000,0000,0000,,嘿  小伙子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, buddy boy.
+Dialogue: 0,0:14:40.88,0:14:43.04,*Default,NTP,0000,0000,0000,,还记得我给你说过的搭讪技巧吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Remember how we were talkin' about my technique?
+Dialogue: 0,0:14:43.04,0:14:45.78,*Default,NTP,0000,0000,0000,,有时候也会产生一些意想不到的后果啦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, sometimes it leads to unexpected consequences.
+Dialogue: 0,0:14:45.78,0:14:47.71,*Default,NTP,0000,0000,0000,,是啊  说得对极了  你在哪儿\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, you can say that again. Where are you?
+Dialogue: 0,0:14:47.72,0:14:49.58,*Default,NTP,0000,0000,0000,,好消息是  我解决了俄勒冈州\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The good news is, I've solved the mystery
+Dialogue: 0,0:14:49.58,0:14:50.98,*Default,NTP,0000,0000,0000,,木乃伊的来源疑团\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}of where Oregon's mummies come from.
+Dialogue: 0,0:14:50.99,0:14:52.45,*Default,NTP,0000,0000,0000,,坏消息是\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The bad news is,
+Dialogue: 0,0:14:52.45,0:14:54.49,*Default,NTP,0000,0000,0000,,我就要成为他们的一员了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm about to become one.
+Dialogue: 0,0:14:54.49,0:14:57.12,*Default,NTP,0000,0000,0000,,原来达琳就是那传说中的蜘蛛人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Turns out Darlene is one of those spider people.
+Dialogue: 0,0:14:57.13,0:14:59.73,*Default,NTP,0000,0000,0000,,不过除此之外  我们的约会还挺顺利的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But beyond that, the date's been okay.
+Dialogue: 0,0:15:02.20,0:15:04.63,*Default,NTP,0000,0000,0000,,等等  等等  达琳是蜘蛛人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait, wait, wait. Darlene's a spider person?
+Dialogue: 0,0:15:04.63,0:15:06.17,*Default,NTP,0000,0000,0000,,这怎么可能呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How is that possible?
+Dialogue: 0,0:15:06.17,0:15:07.77,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know.
+Dialogue: 0,0:15:07.77,0:15:09.50,*Default,NTP,0000,0000,0000,,前一分钟  我们还在愉快地约会\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}One minute, we're having a perfect date,
+Dialogue: 0,0:15:09.50,0:15:11.64,*Default,NTP,0000,0000,0000,,后一分钟  她就长出了很多蜘蛛腿\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and the next minute, she's growing extra legs
+Dialogue: 0,0:15:11.64,0:15:13.84,*Default,NTP,0000,0000,0000,,用网把我包了起来  女人啊  对吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and encasing me in webbing. Women, right?
+Dialogue: 0,0:15:13.84,0:15:15.78,*Default,NTP,0000,0000,0000,,你竟然分辨不出她是一只蜘蛛\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You couldn't tell she was a spider?!
+Dialogue: 0,0:15:15.78,0:15:17.84,*Default,NTP,0000,0000,0000,,我被甜言蜜语蒙蔽了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was blinded by flattery.
+Dialogue: 0,0:15:17.85,0:15:20.15,*Default,NTP,0000,0000,0000,,还有她喷在我脸上的酸汁\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Also this acid she spit in my face.
+Dialogue: 0,0:15:20.15,0:15:21.85,*Default,NTP,0000,0000,0000,,我在寡妇之巅的山顶\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm up the mountain at Widow's Peak.
+Dialogue: 0,0:15:21.85,0:15:24.42,*Default,NTP,0000,0000,0000,,好  我会找到你的  呆在原地别动\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, I'm gonna find you. Stay put!
+Dialogue: 0,0:15:25.79,0:15:27.95,*Default,NTP,0000,0000,0000,,知道啦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You got it.
+Dialogue: 0,0:15:27.96,0:15:31.06,*Default,NTP,0000,0000,0000,,怎么  想逃跑吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh-uh. Trying to escape?
+Dialogue: 0,0:15:32.16,0:15:34.03,*Default,NTP,0000,0000,0000,,你骗了我\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You tricked me.
+Dialogue: 0,0:15:34.03,0:15:36.76,*Default,NTP,0000,0000,0000,,我百分之八十确信你一点也不爱我\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm 80% certain you don't really love me at all.
+Dialogue: 0,0:15:36.77,0:15:39.50,*Default,NTP,0000,0000,0000,,哈  男人真是什么都信\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ha! Men will fall for anything.
+Dialogue: 0,0:15:39.50,0:15:41.67,*Default,NTP,0000,0000,0000,,“你真有趣  故事很棒\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"You're so funny. Great story.
+Dialogue: 0,0:15:41.67,0:15:44.60,*Default,NTP,0000,0000,0000,,我喜欢肩上长毛的男人”\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I love a man with shoulder hair."
+Dialogue: 0,0:15:44.61,0:15:47.64,*Default,NTP,0000,0000,0000,,你  你不是真心喜欢我的肩上的毛吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You... you didn't mean it about my shoulder hair?
+Dialogue: 0,0:15:47.64,0:15:49.78,*Default,NTP,0000,0000,0000,,告诉我  斯坦  在我变身之前\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tell me, Stan, before I transformed,
+Dialogue: 0,0:15:49.78,0:15:52.15,*Default,NTP,0000,0000,0000,,你以为咱俩谁主导着局面\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}who'd you think was in charge?
+Dialogue: 0,0:15:52.15,0:15:56.15,*Default,NTP,0000,0000,0000,,就凭你那做作的开场白和虚假的自信心吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You, with your cheesy lines and fake confidence?
+Dialogue: 0,0:15:56.15,0:15:58.69,*Default,NTP,0000,0000,0000,,我才是这里的搭讪大师\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the master pick-up artist here.
+Dialogue: 0,0:15:58.69,0:16:00.52,*Default,NTP,0000,0000,0000,,抱歉了  亲爱的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sorry, toots.
+Dialogue: 0,0:16:00.52,0:16:03.22,*Default,NTP,0000,0000,0000,,这回  你的身体要派上用场了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This time, you're getting used for your body,
+Dialogue: 0,0:16:03.22,0:16:06.06,*Default,NTP,0000,0000,0000,,对我这种奇怪的生物来说  就是食物哦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}which, to my weird species, is food.
+Dialogue: 0,0:16:06.06,0:16:09.10,*Default,NTP,0000,0000,0000,,允许我再变个更可怕点的形象\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Allow me to slip into something more horrifying.
+Dialogue: 0,0:16:12.83,0:16:14.83,*Default,NTP,0000,0000,0000,,我得想想该拿什么饮料来配\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I wonder what beverage pairs well
+Dialogue: 0,0:16:14.84,0:16:17.54,*Default,NTP,0000,0000,0000,,一个七十多岁的老头子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}with a vintage 70-something-year-old man.
+Dialogue: 0,0:16:17.54,0:16:19.17,*Default,NTP,0000,0000,0000,,马上回来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Be right back.
+Dialogue: 0,0:16:19.17,0:16:22.88,*Default,NTP,0000,0000,0000,,快来啊  迪普  你在哪里\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, Dipper, where are you?
+Dialogue: 0,0:16:22.88,0:16:25.01,*Default,NTP,0000,0000,0000,,我觉得自己是个傻瓜\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I feel like such a fool.
+Dialogue: 0,0:16:25.01,0:16:27.91,*Default,NTP,0000,0000,0000,,我本该知道冰封自己的心才能远离伤害\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I should have known to guard my heart in a cage of ice.
+Dialogue: 0,0:16:27.92,0:16:31.85,*Default,NTP,0000,0000,0000,,好了  好了  用我平静的声音来安慰你吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There, there. Let my calming voice soothe you.
+Dialogue: 0,0:16:31.85,0:16:33.49,*Default,NTP,0000,0000,0000,,感觉好多了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It is helping.
+Dialogue: 0,0:16:33.49,0:16:35.02,*Default,NTP,0000,0000,0000,,姑娘们  你们在这儿\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Girls, there you are.
+Dialogue: 0,0:16:35.02,0:16:38.06,*Default,NTP,0000,0000,0000,,-负心汉  -是你  你想要什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Betrayer! - Oh, you. What do you want?
+Dialogue: 0,0:16:38.06,0:16:41.59,*Default,NTP,0000,0000,0000,,-我需要你们的帮助  -帮什么  又是什么恶心人的嫉妒之旅\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I need your help. - With what, some sick jealousy trip?
+Dialogue: 0,0:16:41.60,0:16:43.93,*Default,NTP,0000,0000,0000,,-没错  说得好  糖糖  -我证明\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Yes, sing it, Candy! - Testify!
+Dialogue: 0,0:16:43.93,0:16:46.07,*Default,NTP,0000,0000,0000,,听着  这一切我真的很抱歉\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, I'm so sorry about everything,
+Dialogue: 0,0:16:46.07,0:16:47.60,*Default,NTP,0000,0000,0000,,但斯坦现在有麻烦了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but Stan's in trouble.
+Dialogue: 0,0:16:47.60,0:16:49.10,*Default,NTP,0000,0000,0000,,事后你们怎么处置我都行\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can totally kill me later,
+Dialogue: 0,0:16:49.10,0:16:50.77,*Default,NTP,0000,0000,0000,,但当务之急  他需要我们\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but right now, he needs us.
+Dialogue: 0,0:16:50.77,0:16:52.74,*Default,NTP,0000,0000,0000,,我会在路上解释的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll explain on the way.
+Dialogue: 0,0:16:59.71,0:17:02.08,*Default,NTP,0000,0000,0000,,求你了  我不知道是不是举头三尺有神明\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please. I don't know if you're really up there or not,
+Dialogue: 0,0:17:02.08,0:17:05.25,*Default,NTP,0000,0000,0000,,但如果你真的在  请你救救我  保罗·班扬\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but if you are, please save me, Paul Bunyan.
+Dialogue: 0,0:17:02.08,0:17:05.25,*Default,NTP,0000,0000,0000,,{\fs21\a6}（注：美国传说中的巨人樵夫，力大无穷，伐木快如割草。）
+Dialogue: 0,0:17:05.25,0:17:07.09,*Default,NTP,0000,0000,0000,,派恩斯先生\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr. Pines!
+Dialogue: 0,0:17:07.09,0:17:09.02,*Default,NTP,0000,0000,0000,,祈祷成真了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa, did that really work?
+Dialogue: 0,0:17:12.59,0:17:15.19,*Default,NTP,0000,0000,0000,,快  趁着剩下的毒液还没渗进来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Quick, before the rest of the venom sets in.
+Dialogue: 0,0:17:17.30,0:17:19.70,*Default,NTP,0000,0000,0000,,不  哪里走\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No! Where are you?
+Dialogue: 0,0:17:21.30,0:17:23.60,*Default,NTP,0000,0000,0000,,缆车  大家快进去\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The sky tram, everybody on.
+Dialogue: 0,0:17:23.61,0:17:24.90,*Default,NTP,0000,0000,0000,,我有个计划\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have a plan.
+Dialogue: 0,0:17:24.91,0:17:27.74,*Default,NTP,0000,0000,0000,,-哈哈  太好了  -完美\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Ha ha, yeah! - Perfect.
+Dialogue: 0,0:17:27.74,0:17:30.04,*Default,NTP,0000,0000,0000,,御风疾驰吧  缆车\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ride like the wind, sky tram.
+Dialogue: 0,0:17:32.58,0:17:34.25,*Default,NTP,0000,0000,0000,,欢迎乘坐“懒车之星”\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Welcome to Trambience,
+Dialogue: 0,0:17:34.25,0:17:36.15,*Default,NTP,0000,0000,0000,,世界上最慢的缆车之行\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the world's lowest treetop tram ride.
+Dialogue: 0,0:17:36.15,0:17:39.85,*Default,NTP,0000,0000,0000,,享受时速零点一迈的风景吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Enjoy the sights at 0.1 miles per hour.
+Dialogue: 0,0:17:39.85,0:17:41.69,*Default,NTP,0000,0000,0000,,快动  快动  快动\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move, move, move!
+Dialogue: 0,0:17:41.69,0:17:43.96,*Default,NTP,0000,0000,0000,,这车厢就不能走快点吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can't this thing go any faster?
+Dialogue: 0,0:17:43.96,0:17:46.23,*Default,NTP,0000,0000,0000,,做不到  这可是“懒车之星”\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, it can't. This is Trambience.
+Dialogue: 0,0:17:55.77,0:17:58.00,*Default,NTP,0000,0000,0000,,享受到美景了吗  拍张照吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Enjoying the view? Take a picture.
+Dialogue: 0,0:18:03.74,0:18:05.04,*Default,NTP,0000,0000,0000,,我们完蛋了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're doomed!
+Dialogue: 0,0:18:05.05,0:18:06.58,*Default,NTP,0000,0000,0000,,我们都要死了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're all gonna die!
+Dialogue: 0,0:18:09.04,0:18:09.85,*Default,NTP,0000,0000,0000,,大家听好\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Listen carefully.
+Dialogue: 0,0:18:09.85,0:18:12.35,*Default,NTP,0000,0000,0000,,这架缆车设置了一个紧急坠落开关\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This sky tram has an emergency drop switch.
+Dialogue: 0,0:18:12.35,0:18:15.77,*Default,NTP,0000,0000,0000,,我们下方是俄勒冈州最大的保罗·班扬雕塑\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Below us is Oregon's largest Paul Bunyan statue.
+Dialogue: 0,0:18:15.77,0:18:19.33,*Default,NTP,0000,0000,0000,,老伙计喷泉喷发倒数五  四\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And Old Reliable goes off in five, four...
+Dialogue: 0,0:18:19.33,0:18:21.36,*Default,NTP,0000,0000,0000,,糖糖  等等  别拉下控制杆\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Candy, wait! Don't pull that lever.
+Dialogue: 0,0:18:21.36,0:18:22.66,*Default,NTP,0000,0000,0000,,孩子  你疯了吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kid, are you crazy?
+Dialogue: 0,0:18:22.66,0:18:24.26,*Default,NTP,0000,0000,0000,,就是现在\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now!
+Dialogue: 0,0:18:45.15,0:18:49.42,*Default,NTP,0000,0000,0000,,我唯一的弱点就是巨大的脚\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My only weakness, a giant boot.
+Dialogue: 0,0:18:49.42,0:18:51.36,*Default,NTP,0000,0000,0000,,不过巨大的报纸或者巨大的杯子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A giant newspaper or a giant cup
+Dialogue: 0,0:18:51.36,0:18:53.66,*Default,NTP,0000,0000,0000,,也很可怕啦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}would also have been pretty bad.
+Dialogue: 0,0:18:54.63,0:18:56.63,*Default,NTP,0000,0000,0000,,感谢您选择乘坐“懒车之星”\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you for riding Trambience sky tram.
+Dialogue: 0,0:18:56.63,0:18:59.30,*Default,NTP,0000,0000,0000,,请把这趟超级超级无聊的旅程推荐给你的朋友\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tell your friends it was a boring, boring ride.
+Dialogue: 0,0:18:59.30,0:19:00.83,*Default,NTP,0000,0000,0000,,孩子  你刚刚真是太机智了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kid, that was ingenious!
+Dialogue: 0,0:19:00.84,0:19:02.40,*Default,NTP,0000,0000,0000,,你怎么知道这样行得通\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How'd you know that would work?
+Dialogue: 0,0:19:02.40,0:19:05.64,*Default,NTP,0000,0000,0000,,是这张没用的旅游小册子上写的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Useless travel pamphlets.
+Dialogue: 0,0:19:05.64,0:19:07.94,*Default,NTP,0000,0000,0000,,斯坦利\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stanley.
+Dialogue: 0,0:19:09.41,0:19:12.25,*Default,NTP,0000,0000,0000,,对不起  我不知道自己刚才是怎么了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm sorry. I don't know what came over me.
+Dialogue: 0,0:19:12.25,0:19:14.68,*Default,NTP,0000,0000,0000,,你会救我出来的  对吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You'll let me out, right?
+Dialogue: 0,0:19:14.68,0:19:16.05,*Default,NTP,0000,0000,0000,,什么  现在太晚了点儿吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What? After all that?
+Dialogue: 0,0:19:16.05,0:19:18.38,*Default,NTP,0000,0000,0000,,有没有搞错  老子看着像得了健忘症吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Seriously, do I look like an amnesiac?
+Dialogue: 0,0:19:18.39,0:19:22.16,*Default,NTP,0000,0000,0000,,你真有趣\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're so funny.
+Dialogue: 0,0:19:22.16,0:19:24.42,*Default,NTP,0000,0000,0000,,你就没想过转行当个喜剧演员吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Have you ever considered becoming a comedian?
+Dialogue: 0,0:19:24.43,0:19:27.26,*Default,NTP,0000,0000,0000,,其实  我真想过\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, I actually have.
+Dialogue: 0,0:19:27.26,0:19:29.73,*Default,NTP,0000,0000,0000,,现在的喜剧也太小打小闹了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Comedy is too subtle these days.
+Dialogue: 0,0:19:29.73,0:19:32.27,*Default,NTP,0000,0000,0000,,我的风格可要用上更多的大尺寸道具\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My style involves more over-sized props.
+Dialogue: 0,0:19:32.27,0:19:34.43,*Default,NTP,0000,0000,0000,,-我拉你出来  -不\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Let me get you out-- - No!
+Dialogue: 0,0:19:34.44,0:19:36.20,*Default,NTP,0000,0000,0000,,对  对\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, yeah, right.
+Dialogue: 0,0:19:36.20,0:19:39.37,*Default,NTP,0000,0000,0000,,这局你赢了  斯坦  但记住我的话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You win this round, Stan, but mark my words.
+Dialogue: 0,0:19:39.37,0:19:41.44,*Default,NTP,0000,0000,0000,,只要世上还有你这样的男人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}As long as there's men like you out there,
+Dialogue: 0,0:19:41.44,0:19:43.41,*Default,NTP,0000,0000,0000,,还有你们那些愚蠢的俏皮话\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}with their dumb one-liners,
+Dialogue: 0,0:19:43.41,0:19:46.11,*Default,NTP,0000,0000,0000,,和搭讪手段  我就不会缺少猎物\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and pick-up moves, I'll never run out of prey.
+Dialogue: 0,0:19:46.11,0:19:49.72,*Default,NTP,0000,0000,0000,,快上车  快上车\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in the car, get in the car!
+Dialogue: 0,0:20:05.23,0:20:08.23,*Default,NTP,0000,0000,0000,,好了  孩子  我得承认一件事\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, kid, I gotta admit something.
+Dialogue: 0,0:20:08.24,0:20:10.14,*Default,NTP,0000,0000,0000,,我根本不是泡妞专家\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm no expert on women.
+Dialogue: 0,0:20:10.14,0:20:12.14,*Default,NTP,0000,0000,0000,,实际上  我离过一次婚\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Truth is, I've been divorced once,
+Dialogue: 0,0:20:12.14,0:20:14.46,*Default,NTP,0000,0000,0000,,被扇耳光的次数多得我自己也数不清\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and slapped more times than I can remember.
+Dialogue: 0,0:20:14.46,0:20:15.81,*Default,NTP,0000,0000,0000,,自信能帮你得到很多东西\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Confidence can buy you a lot,
+Dialogue: 0,0:20:15.81,0:20:17.48,*Default,NTP,0000,0000,0000,,但是到头来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but at the end of the day,
+Dialogue: 0,0:20:17.48,0:20:19.75,*Default,NTP,0000,0000,0000,,搭讪达人往往会把我们的脑袋咬下来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}pick-up artists tend to get our heads bitten off.
+Dialogue: 0,0:20:19.75,0:20:21.45,*Default,NTP,0000,0000,0000,,面对女人  我很失败\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When it comes to women, I'm a failure.
+Dialogue: 0,0:20:21.45,0:20:24.05,*Default,NTP,0000,0000,0000,,我们都很失败\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, we're both failures.
+Dialogue: 0,0:20:25.29,0:20:28.22,*Default,NTP,0000,0000,0000,,嘿  你的约会小技巧虽然糟糕\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, even if your dating tips were bad,
+Dialogue: 0,0:20:28.22,0:20:31.12,*Default,NTP,0000,0000,0000,,但我今天一整天还真没想过温蒂了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I actually haven't thought about Wendy all day.
+Dialogue: 0,0:20:31.13,0:20:33.33,*Default,NTP,0000,0000,0000,,另外  我的确学到了应该更自信一些\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Plus, you did teach me to be more confident.
+Dialogue: 0,0:20:33.33,0:20:37.36,*Default,NTP,0000,0000,0000,,我想接下来该学的是怎么运用它做好事\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I guess I just need to learn to use that power for good.
+Dialogue: 0,0:20:39.13,0:20:42.81,*Default,NTP,0000,0000,0000,,嘿  我找到一份小册子  你大概还没读过吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, I found a pamphlet I don't think you've read yet.
+Dialogue: 0,0:20:47.21,0:20:48.44,*Default,NTP,0000,0000,0000,,没事的  迪普\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's okay, Dipper.
+Dialogue: 0,0:20:48.44,0:20:52.14,*Default,NTP,0000,0000,0000,,在阳关大道一路狂奔的确会让人头脑发热\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The open road makes people do crazy things.
+Dialogue: 0,0:20:52.14,0:20:55.06,*Default,NTP,0000,0000,0000,,另外  看了你像个小屁孩一样躲着蜘蛛的样子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Plus, after seeing you flee the spider like a baby,
+Dialogue: 0,0:20:55.06,0:20:56.99,*Default,NTP,0000,0000,0000,,我好像对你又没兴趣了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I kinda lost interest.
+Dialogue: 0,0:20:56.99,0:20:59.83,*Default,NTP,0000,0000,0000,,是啊是啊  这是我活该\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yep, yep. I deserve that.
+Dialogue: 0,0:21:03.63,0:21:05.40,*Default,NTP,0000,0000,0000,,我还是感觉有点内疚\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I still feel a little bad
+Dialogue: 0,0:21:05.40,0:21:06.87,*Default,NTP,0000,0000,0000,,损坏了那么多坑游客的景点\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}about wrecking those tourist traps.
+Dialogue: 0,0:21:06.87,0:21:08.77,*Default,NTP,0000,0000,0000,,得了  人人都喜欢我的恶作剧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, come on. Everyone loves my pranks.
+Dialogue: 0,0:21:08.77,0:21:10.67,*Default,NTP,0000,0000,0000,,最棒的是  我从来不需要承担\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And the best part is, I never have to face
+Dialogue: 0,0:21:10.67,0:21:12.77,*Default,NTP,0000,0000,0000,,任何后果  我的天\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}any consequences... Sweet lord!
+Dialogue: 0,0:21:14.37,0:21:16.31,*Default,NTP,0000,0000,0000,,不是吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, come on!
+Dialogue: 0,0:21:20.08,0:21:23.38,*Default,NTP,0000,0000,0000,,你罪有应得  你罪有应得\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's what you get. That's what you get!
+Dialogue: 0,0:21:26.09,0:21:27.69,*Default,NTP,0000,0000,0000,,我不明白\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't understand.
+Dialogue: 0,0:21:27.69,0:21:30.39,*Default,NTP,0000,0000,0000,,我这是招谁惹谁了啊\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I completely don't deserve this.
+Dialogue: 0,0:21:30.39,0:21:32.39,*Default,NTP,0000,0000,0000,,天呐  这个烂摊子得由我们打扫干净吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, man, are we gonna have to help clean this up?
+Dialogue: 0,0:21:32.39,0:21:34.66,*Default,NTP,0000,0000,0000,,不  苏斯肯定会料理好这一切的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nah, I'm sure Soos will take care of it.
+Dialogue: 0,0:21:34.66,0:21:36.73,*Default,NTP,0000,0000,0000,,话说苏斯哪儿去了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where is Soos anyway?
+Dialogue: 0,0:21:41.07,0:21:44.40,*Default,NTP,0000,0000,0000,,好吧  苏斯  记住你奶奶是怎么教你的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, Soos, remember what your grandma taught you.
+Dialogue: 0,0:21:44.41,0:21:46.54,*Default,NTP,0000,0000,0000,,如果迷路了  你就呆在原地\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When you get lost, stay exactly where you are,
+Dialogue: 0,0:21:46.54,0:21:49.41,*Default,NTP,0000,0000,0000,,不要动\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and don't move.
+Dialogue: 0,0:21:52.91,0:21:55.38,*Default,NTP,0000,0000,0000,,不要动\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move.
+Dialogue: 0,0:22:01.06,0:22:03.66,*Default,NTP,0000,0000,0000,,看看  我当稻草人相当不赖呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, I would make a really good scarecrow.
