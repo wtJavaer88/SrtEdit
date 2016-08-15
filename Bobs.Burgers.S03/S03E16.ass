@@ -1,0 +1,638 @@
+[Script Info]
+; // The sub is created by AssToolkit
+; // AssToolkit is an ASS Converter designed by David C.
+; // 欢迎访问人人影视 http://www.YYeTs.com
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体简体,21,&H00FFFFFF,&HF0000000,&H006C3300,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\bord0\shad0\fscx11\fscy14.5\p1\c&HCE8F00&\pos(70,248)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 3,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\bord0\shad0\fscx11\fscy14\p1\c&HF6DBA1&\pos(70,248)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35{\p0}
+Dialogue: 5,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\bord0\shad0\fscx15\fscy18\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(60,238)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 1,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\bord0\shad0\fscx11\fscy14\p1\c&HECB000&\pos(86,248)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\alpha&FF&\bord0\shad0\b0\c&HECB000&\fn方正兰亭粗黑_GBK\fs25\pos(100,254)}人人影视\N{\fs18\fsp-1}YYeTs.com
+Dialogue: 1,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\fs16\bord0\shad0\b1\fn方正兰亭粗黑_GBK\c&HECB000&\pos(101,267)}原创翻译  双语字幕
+Dialogue: 0,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\3c&HFFFFFF&\fscx650\fs86\alpha&H9F&\c&H000000&\bord1\shad0\pos(192,283)}■
+Dialogue: 0,0:00:00.52,0:00:05.00,Default,NTP,0,0,0,,{\fs16\fn方正准圆简体\b1\bord0\shad0\pos(240,267)}仅供学习 禁止用于任何商业盈利行为\N更多影视更新\N{\fs19}请登陆{\c&H26F4FF&\fn方正综艺简体}www.YYeTs.com
+Dialogue: 1,0:00:05.00,0:00:10.00,Default,NTP,0,0,0,,{\an8\fad(500,0)\fs16\c&HECB000&\fn方正准圆简体\move(-500,28,192,28,0,1000)\bord0}翻译：{\fs18\c&HFFFFFF&}Iz    红豆包    奈奈良  Bazinga
+Dialogue: 1,0:00:10.00,0:00:15.00,Default,NTP,0,0,0,,{\an8\fad(500,0)\fs16\c&HECB000&\fn方正准圆简体\bord0\move(-500,28,192,28,0,1000)}校对：{\fs18\c&HFFFFFF&}Iz          {\fs16\c&HECB000&}总监   {\fs18\c&HFFFFFF&}IZ
+Dialogue: 1,0:00:15.00,0:00:18.70,Default,NTP,0,0,0,,{\an8\fad(500,0)\fs16\c&HECB000&\fn方正准圆简体\bord0\move(-500,28,192,28,0,1000)}时间轴：{\fs18\c&HFFFFFF&}今        {\fs16\c&HECB000&}后期：{\fs18\shad1\bord1\3a&H77\4a&HAA\blur5\c&HA00D64&\3c&HFFFFFF&\4c&HFFFFFF&}吉吉
+Dialogue: 1,0:00:15.00,0:00:18.70,*Default,NTP,0,0,0,,{\b1}{\fad(500,500)}{\fs20} {\c&H24EFFF&}{\fn方正准圆简体}{\bord0\c&H000BB0&}《开心汉堡店》\N{\fs17}{\c&HFFFFFF&}第三季第十六集
+Dialogue: 0,0:00:24.25,0:00:26.02,*Default,NTP,0000,0000,0000,,跟我说实话  我是不是除了激光枪  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, tell me the truth, 
+Dialogue: 0,0:00:26.02,0:00:27.78,*Default,NTP,0000,0000,0000,,狗叫和放屁的声音  再难以有突破了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}am I stuck in a laser/dog bark/fart rut?
+Dialogue: 0,0:00:27.78,0:00:29.10,*Default,NTP,0000,0000,0000,,-不会  -是的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- No. - Yes.
+Dialogue: 0,0:00:29.10,0:00:30.71,*Default,NTP,0000,0000,0000,,有人看见我的火山没\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Has anyone seen my volcano?
+Dialogue: 0,0:00:30.71,0:00:32.03,*Default,NTP,0000,0000,0000,,你有没有翻遍所有的口袋\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Did you check all your pockets?
+Dialogue: 0,0:00:32.03,0:00:33.73,*Default,NTP,0000,0000,0000,,你能描述一下它长什么样吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Can you describe what it looks like?
+Dialogue: 0,0:00:33.73,0:00:35.62,*Default,NTP,0000,0000,0000,,它是火山的形状\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, it's volcano-shaped,
+Dialogue: 0,0:00:35.62,0:00:37.78,*Default,NTP,0000,0000,0000,,是我去年的科学展课题项目\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}and it's my science fair project from last year.
+Dialogue: 0,0:00:37.78,0:00:39.59,*Default,NTP,0000,0000,0000,,在酒柜里\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, it's in the liquor cabinet.
+Dialogue: 0,0:00:39.59,0:00:41.36,*Default,NTP,0000,0000,0000,,我一直把它当瓶托使来着\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I've been using it as a wine koozie.
+Dialogue: 0,0:00:41.36,0:00:42.52,*Default,NTP,0000,0000,0000,,很有意思  我喜欢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's fun, I love it.
+Dialogue: 0,0:00:42.52,0:00:45.52,*Default,NTP,0000,0000,0000,,介绍一下我今年的科学展项目\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Introducing my science fair project for this year.
+Dialogue: 0,0:00:45.52,0:00:46.33,*Default,NTP,0000,0000,0000,,等等\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hold on.
+Dialogue: 0,0:00:46.33,0:00:48.45,*Default,NTP,0000,0000,0000,,等等  你又交同样的项目吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wait, you're turning in the same project again?
+Dialogue: 0,0:00:48.45,0:00:49.97,*Default,NTP,0000,0000,0000,,布莱文斯老师会让你这么做吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Will Mr. Blevins let you do that?
+Dialogue: 0,0:00:49.97,0:00:51.53,*Default,NTP,0000,0000,0000,,是啊  露易丝  他不仅是老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yeah, Louise, he's not just a teacher,
+Dialogue: 0,0:00:51.53,0:00:52.92,*Default,NTP,0000,0000,0000,,还是科学展的负责人哦\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}he's the head of the science fair.
+Dialogue: 0,0:00:52.92,0:00:54.72,*Default,NTP,0000,0000,0000,,肯定有好多女人向他投怀送抱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}He must be swimming in women.
+Dialogue: 0,0:00:54.72,0:00:56.04,*Default,NTP,0000,0000,0000,,布莱文斯那边就不用担心了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Don't worry about Blevins.
+Dialogue: 0,0:00:56.04,0:00:57.61,*Default,NTP,0000,0000,0000,,他就像我手中梳着马尾  长着难看屁股\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I can play him like a fiddle.
+Dialogue: 0,0:00:57.61,0:01:01.15,*Default,NTP,0000,0000,0000,,发了幅的小提琴  搞定他易如反掌\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}A strange, puffy fiddle with a ponytail and a sad butt.
+Dialogue: 0,0:01:01.15,0:01:03.13,*Default,NTP,0000,0000,0000,,露易丝  你难道不该按要求\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Louise, shouldn't you just do a new project,
+Dialogue: 0,0:01:03.13,0:01:05.00,*Default,NTP,0000,0000,0000,,-做个新的项目吗  -为什么\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- like you're supposed to? - Why?
+Dialogue: 0,0:01:05.00,0:01:07.04,*Default,NTP,0000,0000,0000,,我不知道  学点东西  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Um, I don't know, to learn something? 
+Dialogue: 0,0:01:07.04,0:01:08.14,*Default,NTP,0000,0000,0000,,你自己学去吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You learn something.
+Dialogue: 0,0:01:08.14,0:01:10.50,*Default,NTP,0000,0000,0000,,好吧  亲爱的  祝你好运\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay honey, good luck with your volcano.
+Dialogue: 0,0:01:11.30,0:01:13.12,*Default,NTP,0000,0000,0000,,123\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}123,
+Dialogue: 0,0:01:13.12,0:01:15.21,*Default,NTP,0000,0000,0000,,124\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}124...
+Dialogue: 0,0:01:15.33,0:01:16.73,*Default,NTP,0000,0000,0000,,你们这两个呆瓜在干嘛\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What are you two kooks doing?
+Dialogue: 0,0:01:16.73,0:01:18.85,*Default,NTP,0000,0000,0000,,这是我们的科学展项目\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's for our science fair project:
+Dialogue: 0,0:01:18.85,0:01:20.59,*Default,NTP,0000,0000,0000,,"我头上有多少根头发"\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}"How Many Hairs Are Up There?"
+Dialogue: 0,0:01:20.59,0:01:22.90,*Default,NTP,0000,0000,0000,,最难的部分就是把它们摆整齐\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}The tough part is keeping them all organized.
+Dialogue: 0,0:01:22.90,0:01:24.14,*Default,NTP,0000,0000,0000,,我得\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I ga... Oh!
+Dialogue: 0,0:01:24.14,0:01:25.68,*Default,NTP,0000,0000,0000,,-一  二  -你们俩太认真了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- One, two... - You guys are working too hard.
+Dialogue: 0,0:01:25.68,0:01:26.97,*Default,NTP,0000,0000,0000,,一点没变\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}As per "Uuge."
+Dialogue: 0,0:01:26.97,0:01:28.94,*Default,NTP,0000,0000,0000,,早上好  孩子们\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Good morning, children.
+Dialogue: 0,0:01:28.94,0:01:30.68,*Default,NTP,0000,0000,0000,,我是丁克勒老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}My name is Mr. Dinkler,
+Dialogue: 0,0:01:30.68,0:01:32.90,*Default,NTP,0000,0000,0000,,以后将由我来为大家上科学课\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}and I will be taking over this science class.
+Dialogue: 0,0:01:32.90,0:01:34.31,*Default,NTP,0000,0000,0000,,什么\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Whoa, whoa whoa, what?
+Dialogue: 0,0:01:34.31,0:01:35.86,*Default,NTP,0000,0000,0000,,布莱文斯老师去哪儿了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What happened to Mr. Blevins?
+Dialogue: 0,0:01:35.86,0:01:37.38,*Default,NTP,0000,0000,0000,,他死了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}He's dead.
+Dialogue: 0,0:01:38.18,0:01:39.35,*Default,NTP,0000,0000,0000,,对你们来说\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}To this classroom.
+Dialogue: 0,0:01:39.35,0:01:42.23,*Default,NTP,0000,0000,0000,,他痛风病发作  这会儿正在家里疗养\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}He's at home recovering from a severe attack of gout.
+Dialogue: 0,0:01:42.23,0:01:45.75,*Default,NTP,0000,0000,0000,,我不想再提他了  我们直接进入正题吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}But I'm sick of talking about him, so let's just move on already.
+Dialogue: 0,0:01:45.75,0:01:48.06,*Default,NTP,0000,0000,0000,,周二晚上去过科学博物馆的人\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Some of you might recognize me if you've been down
+Dialogue: 0,0:01:48.06,0:01:50.32,*Default,NTP,0000,0000,0000,,也许能认出我来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}to the Science Museum on Tuesday nights.
+Dialogue: 0,0:01:50.32,0:01:54.38,*Default,NTP,0000,0000,0000,,我是托马斯·爱迪生的模仿者和扮演者\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I am a Thomas Edison impersonator and reenactor.
+Dialogue: 0,0:01:54.38,0:01:56.09,*Default,NTP,0000,0000,0000,,托马斯·爱迪生是有史以来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Thomas Edison was the greatest
+Dialogue: 0,0:01:56.09,0:01:58.37,*Default,NTP,0000,0000,0000,,-最伟大的天才  -我去\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- genius who ever lived. - Oh, boy.
+Dialogue: 0,0:01:58.37,0:02:00.61,*Default,NTP,0000,0000,0000,,有人能说出他的发明吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Can anyone name any of his inventions?
+Dialogue: 0,0:02:00.61,0:02:02.60,*Default,NTP,0000,0000,0000,,-电灯炮  -电灯泡\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- The lightbulb... - The lightbulb.
+Dialogue: 0,0:02:02.60,0:02:03.79,*Default,NTP,0000,0000,0000,,留声机\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}The phonograph.
+Dialogue: 0,0:02:03.79,0:02:05.13,*Default,NTP,0000,0000,0000,,放映机\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}The kinetoscope.
+Dialogue: 0,0:02:05.13,0:02:08.83,*Default,NTP,0000,0000,0000,,还有很多很多  不胜枚举\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It goes on and on and on, basically everything.
+Dialogue: 0,0:02:08.83,0:02:10.77,*Default,NTP,0000,0000,0000,,我知道四年级的科学展快到了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So, I know the fourth grade science fair
+Dialogue: 0,0:02:10.77,0:02:13.30,*Default,NTP,0000,0000,0000,,因为现在我是负责人了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}is coming up, because I'm in charge of it now.
+Dialogue: 0,0:02:13.30,0:02:15.97,*Default,NTP,0000,0000,0000,,我对科学展只有一个规定\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I only have one rule for science fairs:
+Dialogue: 0,0:02:15.97,0:02:20.51,*Default,NTP,0000,0000,0000,,火  山  不  行\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}No vol-ca-noes.
+Dialogue: 0,0:02:20.51,0:02:23.30,*Default,NTP,0000,0000,0000,,多年来一直有人想用那些硬纸板做的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Kids have been using these papier-matcher monstrosities
+Dialogue: 0,0:02:23.30,0:02:26.58,*Default,NTP,0000,0000,0000,,奇形怪状的东西蒙混过关  我可不买帐\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}to avoid real work for years, and I'll have none of it.
+Dialogue: 0,0:02:27.17,0:02:29.43,*Default,NTP,0000,0000,0000,,丁克勒先生  先暂停一下\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, Mr. Dinkler, time out.
+Dialogue: 0,0:02:29.43,0:02:30.23,*Default,NTP,0000,0000,0000,,别着急\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Relax.
+Dialogue: 0,0:02:30.23,0:02:31.45,*Default,NTP,0000,0000,0000,,布莱文斯先生已经同意我\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I already got the go-ahead
+Dialogue: 0,0:02:31.45,0:02:33.35,*Default,NTP,0000,0000,0000,,做火山了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}from Mr. Blevins on my volcano.
+Dialogue: 0,0:02:33.35,0:02:35.58,*Default,NTP,0000,0000,0000,,可以说我基本上不归你管了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So, I'm kind of grandfathered in there.
+Dialogue: 0,0:02:35.58,0:02:37.10,*Default,NTP,0000,0000,0000,,你叫什么名字  小姑娘\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What is your name, young lady?
+Dialogue: 0,0:02:37.10,0:02:37.96,*Default,NTP,0000,0000,0000,,露易丝  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's Louise, 
+Dialogue: 0,0:02:37.96,0:02:41.08,*Default,NTP,0000,0000,0000,,"天哪  露易丝  你太棒了"的露易丝\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}as in "Jeez, Louise, you're the best."
+Dialogue: 0,0:02:41.08,0:02:43.16,*Default,NTP,0000,0000,0000,,我们给你想个新的项目怎么样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Why don't we find you another topic?
+Dialogue: 0,0:02:43.16,0:02:44.57,*Default,NTP,0000,0000,0000,,不  没有那个必要\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, no, that's not necessary.
+Dialogue: 0,0:02:44.57,0:02:45.57,*Default,NTP,0000,0000,0000,,我已经有了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I already got it.
+Dialogue: 0,0:02:45.57,0:02:46.66,*Default,NTP,0000,0000,0000,,我帮你选一个\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'll pick one for you.
+Dialogue: 0,0:02:46.66,0:02:47.47,*Default,NTP,0000,0000,0000,,没必要  我已经有了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Don't need to, I got one.
+Dialogue: 0,0:02:47.47,0:02:48.97,*Default,NTP,0000,0000,0000,,-有必要  -非常感谢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Yeah... - Thank you so much.
+Dialogue: 0,0:02:48.97,0:02:49.98,*Default,NTP,0000,0000,0000,,不行  我就要选一个\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Nope, gonna pick one.
+Dialogue: 0,0:02:49.98,0:02:52.14,*Default,NTP,0000,0000,0000,,这可是世界上最棒的课题项目\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And it's the best topic in the world:
+Dialogue: 0,0:02:52.14,0:02:53.39,*Default,NTP,0000,0000,0000,,托马斯·爱迪生\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Thomas Edison!
+Dialogue: 0,0:02:53.39,0:02:55.61,*Default,NTP,0000,0000,0000,,但我正在做托马斯·爱迪生的项目\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Um, but I'm doing Thomas Edison.
+Dialogue: 0,0:02:55.61,0:02:57.86,*Default,NTP,0000,0000,0000,,你们可以同时做啊  小笨蛋\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You can both do Edison, moron.
+Dialogue: 0,0:02:57.86,0:03:00.53,*Default,NTP,0000,0000,0000,,相信我  爱迪生的素材可多着呢  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}There's enough of him to go around, trust me.
+Dialogue: 0,0:03:00.55,0:03:02.12,*Default,NTP,0000,0000,0000,,丁克勒先生  鉴于你刚来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Mr. Dinkler, you're new here,
+Dialogue: 0,0:03:02.12,0:03:04.24,*Default,NTP,0000,0000,0000,,如果我无视你的每一句话  一意孤行地\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}so please don't be offended if I disregard
+Dialogue: 0,0:03:04.24,0:03:08.72,*Default,NTP,0000,0000,0000,,交我的"露易丝山"  请不要感到冒犯\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}everything you say and turn in Mt. Louise-ius here.
+Dialogue: 0,0:03:08.72,0:03:11.21,*Default,NTP,0000,0000,0000,,我猜一定真的有东西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wow, I bet stuff comes out of the top
+Dialogue: 0,0:03:11.21,0:03:14.23,*Default,NTP,0000,0000,0000,,从上面这个洞冒出来  简直酷毙了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}where this hole is and it's just a real hoot.
+Dialogue: 0,0:03:14.23,0:03:15.54,*Default,NTP,0000,0000,0000,,-没错  -不\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Yeah. - Oh, no.
+Dialogue: 0,0:03:17.53,0:03:19.22,*Default,NTP,0000,0000,0000,,我把它扔地上干嘛呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Why did I throw that down? Wha...
+Dialogue: 0,0:03:19.22,0:03:21.74,*Default,NTP,0000,0000,0000,,-还要踩几下  -不要\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Oh, wha... I'm stepping on it? - No!
+Dialogue: 0,0:03:21.74,0:03:23.61,*Default,NTP,0000,0000,0000,,我为什么要踩它\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Why am I stepping on it?
+Dialogue: 0,0:03:23.61,0:03:27.30,*Default,NTP,0000,0000,0000,,-一遍又一遍地蹂躏它呢  -别这样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Over and over and over again. - Stop it!
+Dialogue: 0,0:03:28.84,0:03:30.46,*Default,NTP,0000,0000,0000,,给我做爱迪生的项目  孩子\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You're doing Edison, kid.
+Dialogue: 0,0:03:30.46,0:03:32.78,*Default,NTP,0000,0000,0000,,下面我们来学点科学知识吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}How about some science, huh?
+Dialogue: 0,0:03:33.43,0:03:36.13,*Default,NTP,0000,0000,0000,,真不敢相信他居然那样对我\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ugh, I can't believe that guy.
+Dialogue: 0,0:03:36.13,0:03:38.38,*Default,NTP,0000,0000,0000,,现在我不得不去图书馆了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And now I have to go to the library,
+Dialogue: 0,0:03:38.38,0:03:40.14,*Default,NTP,0000,0000,0000,,我从来没想过要去那种地方\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}which I never wanted to have to do.
+Dialogue: 0,0:03:40.14,0:03:42.00,*Default,NTP,0000,0000,0000,,-烦人  -没错  烦人\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Ugh! - Yeah, ugh!
+Dialogue: 0,0:03:42.00,0:03:43.86,*Default,NTP,0000,0000,0000,,等等  我挺喜欢图书馆的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wait, I like the library.
+Dialogue: 0,0:03:43.86,0:03:46.07,*Default,NTP,0000,0000,0000,,我需要托马斯·爱迪生的资料\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I need information on Thomas Edison.
+Dialogue: 0,0:03:46.07,0:03:48.60,*Default,NTP,0000,0000,0000,,那种就算我剽窃也不会被发现的资料\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Something no one would recognize if plagiarized.
+Dialogue: 0,0:03:48.60,0:03:50.77,*Default,NTP,0000,0000,0000,,看传记吧  在"E"书架  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Biographies, under "E." 
+Dialogue: 0,0:03:50.77,0:03:51.16,*Default,NTP,0000,0000,0000,,多谢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Thanks.
+Dialogue: 0,0:03:51.16,0:03:52.18,*Default,NTP,0000,0000,0000,,我应该做的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}That's my job.
+Dialogue: 0,0:03:52.18,0:03:54.41,*Default,NTP,0000,0000,0000,,我热爱我的工作  托普西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And I love it. Topsy.
+Dialogue: 0,0:03:54.41,0:03:56.33,*Default,NTP,0000,0000,0000,,我啥也没说\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I didn't say anything.
+Dialogue: 0,0:03:57.12,0:03:59.38,*Default,NTP,0000,0000,0000,,托  普  西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tooooopsssyyyyy.
+Dialogue: 0,0:03:59.38,0:04:00.96,*Default,NTP,0000,0000,0000,,你是在说"顶级厨师"吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Are you saying Top Chef?
+Dialogue: 0,0:04:00.96,0:04:02.36,*Default,NTP,0000,0000,0000,,我想他说的是托普西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I think he said Topsy.
+Dialogue: 0,0:04:02.36,0:04:04.22,*Default,NTP,0000,0000,0000,,不  我没说  是的  我说了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}No, I didn't. Yes, I did.
+Dialogue: 0,0:04:04.22,0:04:05.38,*Default,NTP,0000,0000,0000,,托普西是什么\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What's a Topsy?
+Dialogue: 0,0:04:05.38,0:04:07.89,*Default,NTP,0000,0000,0000,,我不知道  不要问我\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I don't know, don't ask me.
+Dialogue: 0,0:04:07.89,0:04:08.52,*Default,NTP,0000,0000,0000,,去查查\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Look it up.
+Dialogue: 0,0:04:08.52,0:04:09.55,*Default,NTP,0000,0000,0000,,去书里查么\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Like in a book?
+Dialogue: 0,0:04:09.55,0:04:11.22,*Default,NTP,0000,0000,0000,,当然了  书无所不知\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yeah, sure, books are great.
+Dialogue: 0,0:04:11.22,0:04:12.90,*Default,NTP,0000,0000,0000,,不  上网查\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}No, use the Internet.
+Dialogue: 0,0:04:12.90,0:04:14.05,*Default,NTP,0000,0000,0000,,书里啥都没有\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Books are stupid.
+Dialogue: 0,0:04:14.05,0:04:15.30,*Default,NTP,0000,0000,0000,,我还以为书里应有尽有呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I thought books were smart.
+Dialogue: 0,0:04:15.30,0:04:16.61,*Default,NTP,0000,0000,0000,,不  啥都没有\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}No, they're stupid.
+Dialogue: 0,0:04:16.61,0:04:17.84,*Default,NTP,0000,0000,0000,,但你可是图书管理员啊\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}But you're a librarian.
+Dialogue: 0,0:04:17.84,0:04:19.81,*Default,NTP,0000,0000,0000,,是的  小点声\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yeah, so shh!
+Dialogue: 0,0:04:20.03,0:04:21.77,*Default,NTP,0000,0000,0000,,托普西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hmm. Topsy.
+Dialogue: 0,0:04:21.77,0:04:23.58,*Default,NTP,0000,0000,0000,,看  马戏团大象托普西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Look, Topsy the circus elephant.
+Dialogue: 0,0:04:23.58,0:04:25.69,*Default,NTP,0000,0000,0000,,托马斯·爱迪生想向世人证明\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Thomas Edison wanted to show the world
+Dialogue: 0,0:04:25.69,0:04:27.04,*Default,NTP,0000,0000,0000,,交流电流\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}that AC current was more
+Dialogue: 0,0:04:27.04,0:04:29.49,*Default,NTP,0000,0000,0000,,比他发明的直流电流更危险\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}dangerous than his own patented DC current...
+Dialogue: 0,0:04:30.40,0:04:32.40,*Default,NTP,0000,0000,0000,,有视频  点开\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, there's a video. Click that.
+Dialogue: 0,0:04:32.71,0:04:33.69,*Default,NTP,0000,0000,0000,,大象\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ooh, elephant.
+Dialogue: 0,0:04:33.69,0:04:36.42,*Default,NTP,0000,0000,0000,,我敢说它打喷嚏一定很可爱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I bet it sneezes and it's adorable.
+Dialogue: 0,0:04:37.41,0:04:38.59,*Default,NTP,0000,0000,0000,,什么情况\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What was that?
+Dialogue: 0,0:04:38.59,0:04:40.05,*Default,NTP,0000,0000,0000,,再播一遍  再播一遍\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Play it again, Play it again.
+Dialogue: 0,0:04:41.35,0:04:42.87,*Default,NTP,0000,0000,0000,,它被人\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It was electrocuted.
+Dialogue: 0,0:04:42.87,0:04:44.63,*Default,NTP,0000,0000,0000,,有意图地  在光天化日下\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}To death. On purpose.
+Dialogue: 0,0:04:44.63,0:04:45.68,*Default,NTP,0000,0000,0000,,电死了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}In public.
+Dialogue: 0,0:04:45.68,0:04:47.21,*Default,NTP,0000,0000,0000,,凶手就是托马斯·爱迪生\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}By Thomas Edison.
+Dialogue: 0,0:04:47.21,0:04:48.73,*Default,NTP,0000,0000,0000,,啥意思  难道他是超级反派\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What is he, a supervillain?
+Dialogue: 0,0:04:48.73,0:04:51.30,*Default,NTP,0000,0000,0000,,上面说托普西踩死了三个人\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, it says that Topsy trampled three people.
+Dialogue: 0,0:04:51.30,0:04:53.39,*Default,NTP,0000,0000,0000,,这也难免  她是一头又肥又壮的大象嘛\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well yeah, she's a big, fat elephant.
+Dialogue: 0,0:04:53.39,0:04:56.18,*Default,NTP,0000,0000,0000,,关键是  我知道科学展做什么了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}The point is, I've got my science fair project.
+Dialogue: 0,0:04:56.18,0:04:57.45,*Default,NTP,0000,0000,0000,,我要让每一个人都看到\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm gonna tell everyone
+Dialogue: 0,0:04:57.45,0:05:00.68,*Default,NTP,0000,0000,0000,,电刑犯爱迪生的真正面目\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}the truth about Edison the Electro-cutioner.
+Dialogue: 0,0:05:00.68,0:05:02.53,*Default,NTP,0000,0000,0000,,-说出事实吧  妹妹  -好伟大\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Tell it, sister. - So heroic.
+Dialogue: 0,0:05:02.53,0:05:03.71,*Default,NTP,0000,0000,0000,,让我说完先\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Let me finish!
+Dialogue: 0,0:05:03.71,0:05:05.01,*Default,NTP,0000,0000,0000,,我还要让丁克勒老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And make Mr. Dinkler 
+Dialogue: 0,0:05:05.01,0:05:08.17,*Default,NTP,0000,0000,0000,,变成扮演邪恶发明家的混蛋\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}look like an evil-inventor-impersonating ass.
+Dialogue: 0,0:05:08.17,0:05:09.47,*Default,NTP,0000,0000,0000,,-这才像你嘛  -好吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- There she is. - Oh, right.
+Dialogue: 0,0:05:09.47,0:05:11.26,*Default,NTP,0000,0000,0000,,不要这么做  不要这么做\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Don't do it, Don't do it.
+Dialogue: 0,0:05:11.26,0:05:13.15,*Default,NTP,0000,0000,0000,,做吧  做吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Do it, do it.
+Dialogue: 0,0:05:16.59,0:05:20.25,*Default,NTP,0000,0000,0000,,然后我说  "电灯泡  我有主意了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And then I say, "Hey. Lightbulb. I've got an idea.
+Dialogue: 0,0:05:20.25,0:05:21.46,*Default,NTP,0000,0000,0000,,就是电灯泡\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}The lightbulb.
+Dialogue: 0,0:05:21.46,0:05:22.94,*Default,NTP,0000,0000,0000,,我是爱迪生  谢谢"\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm Edison, thank you."
+Dialogue: 0,0:05:22.94,0:05:24.21,*Default,NTP,0000,0000,0000,,然后大家都鼓掌了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And everyone claps.
+Dialogue: 0,0:05:24.21,0:05:26.37,*Default,NTP,0000,0000,0000,,丁克勒老师  我是不是该和露易丝\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Mr. Dinkler, shouldn't Louise and I make sure
+Dialogue: 0,0:05:26.37,0:05:29.70,*Default,NTP,0000,0000,0000,,确认下以免我们的爱迪生课题项目撞车\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}that we're not both doing the same thing for our Edison project?
+Dialogue: 0,0:05:29.70,0:05:30.94,*Default,NTP,0000,0000,0000,,我问你  杰里米\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, let's see, Jeremy.
+Dialogue: 0,0:05:30.94,0:05:33.40,*Default,NTP,0000,0000,0000,,你的项目会吓大家一跳吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Is your project going to blow everyone away?
+Dialogue: 0,0:05:33.40,0:05:35.61,*Default,NTP,0000,0000,0000,,如果不会  你就没必要担心了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}'Cause if it's not, then don't worry about it.
+Dialogue: 0,0:05:36.84,0:05:37.80,*Default,NTP,0000,0000,0000,,有什么好笑的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What's so funny?!
+Dialogue: 0,0:05:37.80,0:05:41.02,*Default,NTP,0000,0000,0000,,各位  火山妹说要吓我们一跳呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hey, everybody, volcano-girl here is gonna blow our minds.
+Dialogue: 0,0:05:41.02,0:05:42.19,*Default,NTP,0000,0000,0000,,你听到了吗  汤姆\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Did you hear that, Tom?
+Dialogue: 0,0:05:42.19,0:05:43.36,*Default,NTP,0000,0000,0000,,我会的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, I will!
+Dialogue: 0,0:05:43.36,0:05:45.40,*Default,NTP,0000,0000,0000,,我已经有猛料了  丁克勒老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I've got something big, Mr. Dinkler.
+Dialogue: 0,0:05:45.40,0:05:47.41,*Default,NTP,0000,0000,0000,,你啥都没有  你自己心知肚明\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You ain't got nothing and you know it.
+Dialogue: 0,0:05:47.41,0:05:49.56,*Default,NTP,0000,0000,0000,,你就一直这么想吧  丁克勒老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You keep believing that, Mr. Dinkler.
+Dialogue: 0,0:05:49.56,0:05:50.29,*Default,NTP,0000,0000,0000,,我会的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I will. 
+Dialogue: 0,0:05:50.29,0:05:55.68,*Default,NTP,0000,0000,0000,,你就一直这么想吧  丁克勒老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You keep believing that, Mr. Dink-ler.
+Dialogue: 0,0:05:58.09,0:05:59.86,*Default,NTP,0000,0000,0000,,很好  很好\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yes, yes!
+Dialogue: 0,0:05:59.86,0:06:02.73,*Default,NTP,0000,0000,0000,,很...好笑\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Very... funny.
+Dialogue: 0,0:06:02.97,0:06:04.49,*Default,NTP,0000,0000,0000,,好吧  变更计划\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, change of plans.
+Dialogue: 0,0:06:04.49,0:06:07.04,*Default,NTP,0000,0000,0000,,只是在图画纸上贴一则小新闻\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Some little report pasted onto construction paper
+Dialogue: 0,0:06:07.04,0:06:08.04,*Default,NTP,0000,0000,0000,,太弱了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}isn't gonna be enough.
+Dialogue: 0,0:06:08.04,0:06:09.17,*Default,NTP,0000,0000,0000,,不够让那个老匹夫好看\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Not for that punk.
+Dialogue: 0,0:06:09.17,0:06:10.74,*Default,NTP,0000,0000,0000,,我讨厌图画纸\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I hate construction paper.
+Dialogue: 0,0:06:10.74,0:06:12.26,*Default,NTP,0000,0000,0000,,他既然那么爱演\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Dinkler's a reenactor.
+Dialogue: 0,0:06:12.26,0:06:14.57,*Default,NTP,0000,0000,0000,,那我就演给他看\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm going reenactment on his butt.
+Dialogue: 0,0:06:14.57,0:06:16.63,*Default,NTP,0000,0000,0000,,演员啊特效啊  总之用尽一切手段\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}With actors and effects and everything.
+Dialogue: 0,0:06:16.63,0:06:19.08,*Default,NTP,0000,0000,0000,,我们要再现那场可怕的噩梦\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We're gonna bring this nightmare to life.
+Dialogue: 0,0:06:20.05,0:06:22.46,*Default,NTP,0000,0000,0000,,好了  我需要两个爱迪生和托普西演员\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}All right, I'm gonna need an Edison and a Topsy.
+Dialogue: 0,0:06:22.46,0:06:24.99,*Default,NTP,0000,0000,0000,,吉恩  来个丧心病狂的大笑\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Gene, can you give me a maniacal laugh?
+Dialogue: 0,0:06:27.57,0:06:28.84,*Default,NTP,0000,0000,0000,,好极了  你就是爱迪生了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Good enough, you're Edison.
+Dialogue: 0,0:06:28.84,0:06:31.02,*Default,NTP,0000,0000,0000,,蒂娜  扮个大象来看看\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, act like an elephant.
+Dialogue: 0,0:06:31.91,0:06:33.26,*Default,NTP,0000,0000,0000,,感觉还行  就你了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Not bad, you're hired.
+Dialogue: 0,0:06:33.26,0:06:35.15,*Default,NTP,0000,0000,0000,,知道你的项目还缺什么吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, you know what else your project needs?
+Dialogue: 0,0:06:35.15,0:06:35.67,*Default,NTP,0000,0000,0000,,科学\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Science? 
+Dialogue: 0,0:06:35.67,0:06:37.45,*Default,NTP,0000,0000,0000,,我创作的音乐\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Music. By me.
+Dialogue: 0,0:06:37.45,0:06:40.76,*Default,NTP,0000,0000,0000,,既富有戏剧变化  又包含舞曲元素\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Something dramatic, but danceable.
+Dialogue: 0,0:06:41.51,0:06:43.48,*Default,NTP,0000,0000,0000,,可以  只要我们能电死一头大象\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Fine, as long as we electrocute an elephant,
+Dialogue: 0,0:06:43.48,0:06:44.66,*Default,NTP,0000,0000,0000,,其他我都没意见\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}it's okay with me.
+Dialogue: 0,0:06:44.66,0:06:47.40,*Default,NTP,0000,0000,0000,,不是真电击  只是演的  对吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}But not really electrocuting, just reenacting.
+Dialogue: 0,0:06:47.40,0:06:48.20,*Default,NTP,0000,0000,0000,,是的  蒂娜\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yes, Tina.
+Dialogue: 0,0:06:48.20,0:06:49.14,*Default,NTP,0000,0000,0000,,真服了你了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Jeesh.
+Dialogue: 0,0:06:49.14,0:06:53.48,*Default,NTP,0000,0000,0000,,"别真的电死我"圣女姐姐\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Little Miss Don't-Really-Electrocute-Me over here. Diva.
+Dialogue: 0,0:06:53.48,0:06:55.32,*Default,NTP,0000,0000,0000,,你还有什么附加条件没\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What else do you want on your rider?
+Dialogue: 0,0:06:55.32,0:06:55.99,*Default,NTP,0000,0000,0000,,孩子们  你们好\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hello, children.
+Dialogue: 0,0:06:56.35,0:06:57.61,*Default,NTP,0000,0000,0000,,泰迪是你啊  快过来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ah, Teddy, come here.
+Dialogue: 0,0:06:57.61,0:06:59.07,*Default,NTP,0000,0000,0000,,我正在做一个课题项目\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm doing a project and I need to make
+Dialogue: 0,0:06:59.07,0:07:00.90,*Default,NTP,0000,0000,0000,,我需要弄出超大的火花和闪电\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}huge sparks and lightning bolts.
+Dialogue: 0,0:07:00.90,0:07:02.08,*Default,NTP,0000,0000,0000,,你知道那东西怎么弄吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What do you know about that stuff?
+Dialogue: 0,0:07:02.08,0:07:05.08,*Default,NTP,0000,0000,0000,,我高中和哥们儿做过范德格拉夫起电机\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}In high school, my buddies and I built a Van de Graaff generator.
+Dialogue: 0,0:07:05.08,0:07:06.17,*Default,NTP,0000,0000,0000,,你懂的  泡马子用嘛\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You know, to get girls.
+Dialogue: 0,0:07:06.17,0:07:07.11,*Default,NTP,0000,0000,0000,,好极了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ah, nice.
+Dialogue: 0,0:07:07.11,0:07:08.84,*Default,NTP,0000,0000,0000,,能给我也做一个吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Will you do something like that for me?
+Dialogue: 0,0:07:08.84,0:07:11.08,*Default,NTP,0000,0000,0000,,学校不让大人帮忙  所以你要偷偷做\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Adults aren't allowed to help, so you'll have to hide.
+Dialogue: 0,0:07:11.08,0:07:12.27,*Default,NTP,0000,0000,0000,,但...可以吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}But... eh?
+Dialogue: 0,0:07:12.27,0:07:12.83,*Default,NTP,0000,0000,0000,,可以\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Sure. 
+Dialogue: 0,0:07:12.83,0:07:13.78,*Default,NTP,0000,0000,0000,,那走吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Let's go!
+Dialogue: 0,0:07:13.78,0:07:15.71,*Default,NTP,0000,0000,0000,,好吧  吃不成汉堡了  没关系\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, no burger, that's fine.
+Dialogue: 0,0:07:15.71,0:07:18.07,*Default,NTP,0000,0000,0000,,我并不是害怕哦\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ahh, I'm not freaking out here!
+Dialogue: 0,0:07:19.78,0:07:21.10,*Default,NTP,0000,0000,0000,,我记得就放在这里了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I know they're in here somewhere.
+Dialogue: 0,0:07:21.10,0:07:22.29,*Default,NTP,0000,0000,0000,,鲍勃  上床了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Bob, come to bed. 
+Dialogue: 0,0:07:22.29,0:07:23.15,*Default,NTP,0000,0000,0000,,找到了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Here it is.
+Dialogue: 0,0:07:23.15,0:07:26.21,*Default,NTP,0000,0000,0000,,孩子们的科技展让我想起我的旧发明\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}All this science fair stuff reminded me of my old invention.
+Dialogue: 0,0:07:26.21,0:07:27.33,*Default,NTP,0000,0000,0000,,调料腕带\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Spiceps.
+Dialogue: 0,0:07:27.33,0:07:28.45,*Default,NTP,0000,0000,0000,,调料啥\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Spice-wah?
+Dialogue: 0,0:07:28.45,0:07:30.78,*Default,NTP,0000,0000,0000,,就是把调味料像袖筒一样绑在手臂上\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}They're sleeves that you wear on your biceps
+Dialogue: 0,0:07:30.78,0:07:33.26,*Default,NTP,0000,0000,0000,,方便做饭时取用\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}to hold all your spices while you cook.
+Dialogue: 0,0:07:33.26,0:07:34.54,*Default,NTP,0000,0000,0000,,快看\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Look,.
+Dialogue: 0,0:07:35.00,0:07:36.49,*Default,NTP,0000,0000,0000,,好吧  晚安\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, good night.
+Dialogue: 0,0:07:36.49,0:07:40.01,*Default,NTP,0000,0000,0000,,琳  要是我只戴这个东西的话\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hey Lin, what if I was wearing just these.
+Dialogue: 0,0:07:40.01,0:07:42.17,*Default,NTP,0000,0000,0000,,看  我这就脱光光了哦\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}'Cause, whoop, I am.
+Dialogue: 0,0:07:42.17,0:07:43.58,*Default,NTP,0000,0000,0000,,好啦  到这来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}All right, come here. 
+Dialogue: 0,0:07:43.58,0:07:44.65,*Default,NTP,0000,0000,0000,,这就来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm coming.
+Dialogue: 0,0:07:44.98,0:07:45.51,*Default,NTP,0000,0000,0000,,等等  等等\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wait, wait, wait,
+Dialogue: 0,0:07:45.51,0:07:47.45,*Default,NTP,0000,0000,0000,,你把调料全撒床上了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}you're getting spice all over the bed.
+Dialogue: 0,0:07:47.59,0:07:48.66,*Default,NTP,0000,0000,0000,,托普西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Topsy...
+Dialogue: 0,0:07:48.66,0:07:49.95,*Default,NTP,0000,0000,0000,,尸体解剖...\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}autopsy...
+Dialogue: 0,0:07:49.95,0:07:51.01,*Default,NTP,0000,0000,0000,,有事吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Is there something there?
+Dialogue: 0,0:07:51.01,0:07:53.01,*Default,NTP,0000,0000,0000,,我不能说话  我在演大象\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm not talking; I'm in character.
+Dialogue: 0,0:07:53.01,0:07:54.72,*Default,NTP,0000,0000,0000,,不过  我能踩你吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Except, can I trample you?
+Dialogue: 0,0:07:54.72,0:07:56.17,*Default,NTP,0000,0000,0000,,我在尽力融入大象的角色\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm trying to get in that head space.
+Dialogue: 0,0:07:56.17,0:07:57.56,*Default,NTP,0000,0000,0000,,行  你踩吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yeah, sure.
+Dialogue: 0,0:07:58.16,0:08:00.46,*Default,NTP,0000,0000,0000,,你们看到我的调料腕带没\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Did, uh, did you guys notice my Spiceps?
+Dialogue: 0,0:08:00.46,0:08:01.86,*Default,NTP,0000,0000,0000,,老爸  这会没空\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Dad, not now.
+Dialogue: 0,0:08:02.34,0:08:03.64,*Default,NTP,0000,0000,0000,,切  调料腕带\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Pffh, Spiceps.
+Dialogue: 0,0:08:03.64,0:08:04.96,*Default,NTP,0000,0000,0000,,要是给他来个脱胎换骨的改造\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You might have something there,
+Dialogue: 0,0:08:04.96,0:08:06.44,*Default,NTP,0000,0000,0000,,或许还能像那么回事\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}if you just changed it completely.
+Dialogue: 0,0:08:06.44,0:08:07.64,*Default,NTP,0000,0000,0000,,用不着  这样最完美\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}They're perfect the way they are.
+Dialogue: 0,0:08:07.64,0:08:08.72,*Default,NTP,0000,0000,0000,,老爸  小点声\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Dad, shush.
+Dialogue: 0,0:08:08.72,0:08:11.12,*Default,NTP,0000,0000,0000,,蒂娜  只要你音准没问题就行了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, Tina, as long as you have perfect pitch, we'll be fine.
+Dialogue: 0,0:08:11.12,0:08:12.36,*Default,NTP,0000,0000,0000,,一哒哒  二哒哒\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And a one, and a two. 
+Dialogue: 0,0:08:12.36,0:08:13.13,*Default,NTP,0000,0000,0000,,*他们会*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}* They'll...*
+Dialogue: 0,0:08:13.13,0:08:14.12,*Default,NTP,0000,0000,0000,,我来了  亲人们\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hello, family.
+Dialogue: 0,0:08:14.12,0:08:14.99,*Default,NTP,0000,0000,0000,,讨厌\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ugh.
+Dialogue: 0,0:08:14.99,0:08:15.72,*Default,NTP,0000,0000,0000,,你好  盖尔姨妈\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hi, Aunt Gayle.
+Dialogue: 0,0:08:15.72,0:08:18.46,*Default,NTP,0000,0000,0000,,盖尔  早先电话里你是怎么了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hey, Gayle, I couldn't understand you on the phone earlier.
+Dialogue: 0,0:08:18.46,0:08:19.76,*Default,NTP,0000,0000,0000,,听你声音那样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You sounded like.
+Dialogue: 0,0:08:20.98,0:08:22.07,*Default,NTP,0000,0000,0000,,一切还好吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Is everything all right?
+Dialogue: 0,0:08:22.07,0:08:23.81,*Default,NTP,0000,0000,0000,,我没事\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Everything's fine.
+Dialogue: 0,0:08:25.30,0:08:27.48,*Default,NTP,0000,0000,0000,,只是他有时真是够混蛋的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}He can just be such a jerk sometimes.
+Dialogue: 0,0:08:27.48,0:08:29.27,*Default,NTP,0000,0000,0000,,你说谁  亲爱的  怎么了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Aw, who honey? Wha?
+Dialogue: 0,0:08:29.27,0:08:30.27,*Default,NTP,0000,0000,0000,,我的猫\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}My cat.
+Dialogue: 0,0:08:30.27,0:08:31.48,*Default,NTP,0000,0000,0000,,我们吵架了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We got in a fight.
+Dialogue: 0,0:08:31.48,0:08:33.83,*Default,NTP,0000,0000,0000,,我能在这冷静冷静吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Can I stay here for a while to cool off?
+Dialogue: 0,0:08:33.83,0:08:35.26,*Default,NTP,0000,0000,0000,,当然没问题\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Of course you can.
+Dialogue: 0,0:08:35.26,0:08:37.31,*Default,NTP,0000,0000,0000,,盖尔  看看我\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hey Gayle, check it out.
+Dialogue: 0,0:08:38.51,0:08:39.67,*Default,NTP,0000,0000,0000,,好吧  回头再说\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, talk to you later.
+Dialogue: 0,0:08:39.67,0:08:41.38,*Default,NTP,0000,0000,0000,,蒂娜  一哒哒  二哒哒\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, and a one, and a two.
+Dialogue: 0,0:08:41.38,0:08:41.89,*Default,NTP,0000,0000,0000,,*他们*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*They'll...*
+Dialogue: 0,0:08:41.89,0:08:42.91,*Default,NTP,0000,0000,0000,,你们好  贝尔彻一家\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hello, Belchers. 
+Dialogue: 0,0:08:42.91,0:08:43.42,*Default,NTP,0000,0000,0000,,该死\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Damn it!
+Dialogue: 0,0:08:43.42,0:08:46.08,*Default,NTP,0000,0000,0000,,我本不想来打扰的  但你们该交月租了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Don't mean to barge in, just here for the monthly rent.
+Dialogue: 0,0:08:46.08,0:08:47.21,*Default,NTP,0000,0000,0000,,月租是按月缴的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I say monthly,
+Dialogue: 0,0:08:47.21,0:08:49.76,*Default,NTP,0000,0000,0000,,我想你们在这点上还没搞清楚\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}because I think there might be some confusion about that.
+Dialogue: 0,0:08:49.76,0:08:51.13,*Default,NTP,0000,0000,0000,,费舍奥德先生  你好\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, hey, Mr. Fischoeder.
+Dialogue: 0,0:08:51.13,0:08:53.30,*Default,NTP,0000,0000,0000,,抱歉  我马上写支票给你\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Sorry, I'll write you a check right now.
+Dialogue: 0,0:08:53.30,0:08:54.90,*Default,NTP,0000,0000,0000,,用我的两只胳膊\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}With my arms.
+Dialogue: 0,0:08:54.90,0:08:56.93,*Default,NTP,0000,0000,0000,,没必要这么具体的  不过随便吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Strangely specific, but whatever.
+Dialogue: 0,0:08:56.93,0:08:57.92,*Default,NTP,0000,0000,0000,,看  刚好有笔  给\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, look, a pen. Here. 
+Dialogue: 0,0:08:57.92,0:08:58.74,*Default,NTP,0000,0000,0000,,不用了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm good.
+Dialogue: 0,0:08:58.74,0:09:00.99,*Default,NTP,0000,0000,0000,,要来点胡椒粉吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Care for any cracked pepper? 
+Dialogue: 0,0:09:00.99,0:09:01.60,*Default,NTP,0000,0000,0000,,百里香呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}How about some thyme? 
+Dialogue: 0,0:09:01.60,0:09:02.81,*Default,NTP,0000,0000,0000,,赶紧写支票\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Just write the check.
+Dialogue: 0,0:09:02.81,0:09:04.02,*Default,NTP,0000,0000,0000,,要不来点马郁兰吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Perhaps some marjoram? 
+Dialogue: 0,0:09:04.03,0:09:05.07,*Default,NTP,0000,0000,0000,,写支票\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Write a check!
+Dialogue: 0,0:09:05.07,0:09:06.45,*Default,NTP,0000,0000,0000,,那月桂叶怎么样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}How about a bay leaf?
+Dialogue: 0,0:09:06.45,0:09:08.04,*Default,NTP,0000,0000,0000,,一哒哒  二哒哒\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And a one, and a two...
+Dialogue: 0,0:09:08.04,0:09:12.19,*Default,NTP,0000,0000,0000,,*他们会说  我在解剖托普西的尸体*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*They'll say aw, Topsy at my autopsy*
+Dialogue: 0,0:09:12.19,0:09:13.92,*Default,NTP,0000,0000,0000,,-你知道好笑的是什么吗  -但还没\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Okay, here's a funny story. - But no...
+Dialogue: 0,0:09:13.92,0:09:14.54,*Default,NTP,0000,0000,0000,,你根本不会唱歌\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You cannot sing. 
+Dialogue: 0,0:09:14.54,0:09:15.17,*Default,NTP,0000,0000,0000,,什么\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What?
+Dialogue: 0,0:09:15.17,0:09:16.82,*Default,NTP,0000,0000,0000,,我们必须得换掉你了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yeah, we're gonna have to replace you.
+Dialogue: 0,0:09:16.82,0:09:19.55,*Default,NTP,0000,0000,0000,,别  我对这个角色已经有浓厚的感情了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}No, I-I have a strong connection to this character.
+Dialogue: 0,0:09:19.55,0:09:20.61,*Default,NTP,0000,0000,0000,,现在没了吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And there it goes.
+Dialogue: 0,0:09:20.61,0:09:22.19,*Default,NTP,0000,0000,0000,,你呢  你会唱吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wha-what about you? Can you sing?
+Dialogue: 0,0:09:22.19,0:09:23.75,*Default,NTP,0000,0000,0000,,那还用说\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ah, yeah.
+Dialogue: 0,0:09:24.16,0:09:26.73,*Default,NTP,0000,0000,0000,,*他们会说  我在解剖*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*They'll say aw, Topsy at my...*
+Dialogue: 0,0:09:26.73,0:09:28.46,*Default,NTP,0000,0000,0000,,天哪  我也不会唱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, my God I can't sing either!
+Dialogue: 0,0:09:28.46,0:09:29.79,*Default,NTP,0000,0000,0000,,我们该怎么办\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What are we gonna do?!
+Dialogue: 0,0:09:29.79,0:09:31.47,*Default,NTP,0000,0000,0000,,这歌很上口呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}That song's catchy.
+Dialogue: 0,0:09:31.47,0:09:33.48,*Default,NTP,0000,0000,0000,,*他们会说*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*They'll say aw, *
+Dialogue: 0,0:09:33.48,0:09:37.88,*Default,NTP,0000,0000,0000,,*我在解剖托普西的尸体*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Topsy at my autopsy.*
+Dialogue: 0,0:09:37.88,0:09:39.16,*Default,NTP,0000,0000,0000,,的确很上口\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It is catchy.
+Dialogue: 0,0:09:39.16,0:09:45.96,*Default,NTP,0000,0000,0000,,*我在解剖托普西的尸体*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Aw, Topsy at my auuu-ho-ho-hoopsy*
+Dialogue: 0,0:09:45.96,0:09:47.25,*Default,NTP,0000,0000,0000,,我的天呀\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Holy moly.
+Dialogue: 0,0:09:47.25,0:09:48.67,*Default,NTP,0000,0000,0000,,你这会儿想的跟我一样吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Are you thinking what I'm thinking?
+Dialogue: 0,0:09:48.67,0:09:51.19,*Default,NTP,0000,0000,0000,,让盖尔姨妈和费舍奥德先生安静点吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}That we should ask Aunt Gayle and Mr. Fischoeder to keep it down?
+Dialogue: 0,0:09:51.19,0:09:53.89,*Default,NTP,0000,0000,0000,,不  让他们帮我们唱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}No, we should ask them to sing for us.
+Dialogue: 0,0:09:53.89,0:09:56.07,*Default,NTP,0000,0000,0000,,但学校的课题项目不许大人参与的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}But we're not allowed to use adults in school projects.
+Dialogue: 0,0:09:56.07,0:09:57.74,*Default,NTP,0000,0000,0000,,我们可以搞米力瓦利合唱团那一套\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We're gonna Milli Vanilli this.
+Dialogue: 0,0:09:56.07,0:09:57.74,*Default,NTP,0000,0000,0000,,{\an8}德国男声二人组  靠对嘴假唱红透半边天  事发后从云端跌落谷底
+Dialogue: 0,0:09:57.74,0:09:59.10,*Default,NTP,0000,0000,0000,,抱歉  我不大懂意大利语\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Sorry, I don't speak Italian.
+Dialogue: 0,0:09:59.10,0:10:01.23,*Default,NTP,0000,0000,0000,,我们可以对嘴  对嘴你懂吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We'll lip sync it! Lip synch it!
+Dialogue: 0,0:10:01.93,0:10:04.21,*Default,NTP,0000,0000,0000,,所以  这周五你们俩要不要\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So... what are you two doing on Friday
+Dialogue: 0,0:10:04.21,0:10:07.38,*Default,NTP,0000,0000,0000,,来我们学校礼堂躲在帘子后面帮我们唱歌\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}besides singing from behind a curtain in our school auditorium?
+Dialogue: 0,0:10:07.84,0:10:10.80,*Default,NTP,0000,0000,0000,,天哪 现在做起饭来容易多了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}God, cooking is just too easy now.
+Dialogue: 0,0:10:12.80,0:10:16.61,*Default,NTP,0000,0000,0000,,在经过周密的构思和一番高超的缝制之后\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So, after a lot of thought and some amazing sewing,
+Dialogue: 0,0:10:16.61,0:10:18.70,*Default,NTP,0000,0000,0000,,我终于帮你的发明做出了改良版  鲍勃\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I think I finally fixed your invention, Bob.
+Dialogue: 0,0:10:18.70,0:10:19.85,*Default,NTP,0000,0000,0000,,它不需要什么改良  所以...\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, it didn't need fixing, so... 
+Dialogue: 0,0:10:19.85,0:10:20.96,*Default,NTP,0000,0000,0000,,看哪\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ta-da!
+Dialogue: 0,0:10:21.10,0:10:22.51,*Default,NTP,0000,0000,0000,,这叫调料胸带[调料架]\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's the Spice Rack.
+Dialogue: 0,0:10:22.51,0:10:24.47,*Default,NTP,0000,0000,0000,,听懂没  架子[俚语胸部]\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Get it? Rack.
+Dialogue: 0,0:10:27.01,0:10:28.89,*Default,NTP,0000,0000,0000,,你看上去真滑稽\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ah, well, you look ridiculous.
+Dialogue: 0,0:10:28.89,0:10:30.95,*Default,NTP,0000,0000,0000,,-我滑稽  -没错\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Oh, I look ridiculous? - Yeah, you do.
+Dialogue: 0,0:10:30.95,0:10:32.03,*Default,NTP,0000,0000,0000,,你俩半斤八两  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You're both right. 
+Dialogue: 0,0:10:32.03,0:10:33.70,*Default,NTP,0000,0000,0000,,我不过是在你的想法上改良了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I just took your idea and I made it good.
+Dialogue: 0,0:10:33.70,0:10:34.99,*Default,NTP,0000,0000,0000,,啥  这不叫改良\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What? No you didn't.
+Dialogue: 0,0:10:34.99,0:10:36.53,*Default,NTP,0000,0000,0000,,来  孩儿们  谁的更好\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Come on, kids, which is better?
+Dialogue: 0,0:10:36.53,0:10:38.07,*Default,NTP,0000,0000,0000,,-我不来  -不趟这浑水  谢谢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Pass. - No, thank you.
+Dialogue: 0,0:10:38.07,0:10:39.23,*Default,NTP,0000,0000,0000,,蒂娜\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina?
+Dialogue: 0,0:10:39.23,0:10:40.49,*Default,NTP,0000,0000,0000,,蒂娜\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina?
+Dialogue: 0,0:10:40.49,0:10:41.96,*Default,NTP,0000,0000,0000,,瞧瞧  我这个如何\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Huh, how about this?
+Dialogue: 0,0:10:41.96,0:10:43.66,*Default,NTP,0000,0000,0000,,这又不是拼谁骚\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's not using sex to sell.
+Dialogue: 0,0:10:43.66,0:10:44.83,*Default,NTP,0000,0000,0000,,你想要这个吧  我的吧  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You want this, right? This one. 
+Dialogue: 0,0:10:44.83,0:10:45.76,*Default,NTP,0000,0000,0000,,你们俩我都一样爱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I love you both equally!
+Dialogue: 0,0:10:45.76,0:10:47.24,*Default,NTP,0000,0000,0000,,管你爱谁呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, who cares?!
+Dialogue: 0,0:10:47.42,0:10:48.28,*Default,NTP,0000,0000,0000,,对不起\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Sorry.
+Dialogue: 0,0:10:48.28,0:10:49.61,*Default,NTP,0000,0000,0000,,我也爱你\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I love you, too.
+Dialogue: 0,0:10:49.72,0:10:52.11,*Default,NTP,0000,0000,0000,,*他也许会电击我*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*He might electrocute me*
+Dialogue: 0,0:10:52.11,0:10:52.65,*Default,NTP,0000,0000,0000,,*没错*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*That's true*
+Dialogue: 0,0:10:52.65,0:10:55.08,*Default,NTP,0000,0000,0000,,*但他是电子尤物*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*But he's an electro-cutey*
+Dialogue: 0,0:10:55.08,0:10:56.22,*Default,NTP,0000,0000,0000,,*哪里哪里*  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Aw, shucks. 
+Dialogue: 0,0:10:56.22,0:10:57.36,*Default,NTP,0000,0000,0000,,那...啥...\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Um... wha...
+Dialogue: 0,0:10:57.36,0:10:59.99,*Default,NTP,0000,0000,0000,,AC呼叫DC  DC请回答  完毕  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}AC to DC, come in, DC, over. 
+Dialogue: 0,0:10:59.99,0:11:00.64,*Default,NTP,0000,0000,0000,,DC收到\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}DC here.
+Dialogue: 0,0:11:00.64,0:11:02.80,*Default,NTP,0000,0000,0000,,给我个信号  我就打开开关\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Just give me the go-ahead and I'll flip the switch.
+Dialogue: 0,0:11:02.80,0:11:04.36,*Default,NTP,0000,0000,0000,,你确定我待在这下面是可以的吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Are you sure I'm allowed to be down here?
+Dialogue: 0,0:11:04.36,0:11:07.17,*Default,NTP,0000,0000,0000,,不确定  要是你被抓了  咱俩没关系\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Nope, so if you get caught, we don't know each other.
+Dialogue: 0,0:11:07.17,0:11:09.09,*Default,NTP,0000,0000,0000,,*她波涛胸涌*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Her bosom's mighty ample*
+Dialogue: 0,0:11:09.09,0:11:10.82,*Default,NTP,0000,0000,0000,,*他帅气逼人  让我难以下脚*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*He's just too hot to trample*
+Dialogue: 0,0:11:10.82,0:11:13.33,*Default,NTP,0000,0000,0000,,-好了  别演了  -不演了吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Okay, okay, stop right there. - We're stopping?
+Dialogue: 0,0:11:13.33,0:11:14.17,*Default,NTP,0000,0000,0000,,-不是  -是的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- No. - Yes.
+Dialogue: 0,0:11:14.17,0:11:15.87,*Default,NTP,0000,0000,0000,,剧院就这德性\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ah, the theater.
+Dialogue: 0,0:11:15.87,0:11:17.89,*Default,NTP,0000,0000,0000,,咱们等的这会儿亲热亲热咋样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Should we fool around back here while we wait?
+Dialogue: 0,0:11:17.89,0:11:20.67,*Default,NTP,0000,0000,0000,,好啊  先让我舔舔嘴巴\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, just let me lick my lips.
+Dialogue: 0,0:11:22.48,0:11:23.07,*Default,NTP,0000,0000,0000,,算了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Never mind.
+Dialogue: 0,0:11:23.07,0:11:25.15,*Default,NTP,0000,0000,0000,,吉恩  这歌怎么回事儿\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Gene, what the heck is going on with the song?
+Dialogue: 0,0:11:25.15,0:11:26.96,*Default,NTP,0000,0000,0000,,我们把它改编成了情歌对唱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We made it into a love duet.
+Dialogue: 0,0:11:26.96,0:11:28.22,*Default,NTP,0000,0000,0000,,你说啥\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What?!
+Dialogue: 0,0:11:28.22,0:11:31.29,*Default,NTP,0000,0000,0000,,我们的目的是要报复丁克乐老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}The whole point of this is to get back at Mr. Dinkler.
+Dialogue: 0,0:11:31.29,0:11:33.65,*Default,NTP,0000,0000,0000,,或是克服重重困难\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Or is it that against all odds,
+Dialogue: 0,0:11:33.65,0:11:37.42,*Default,NTP,0000,0000,0000,,孤独的发明家和倒霉大象彼此找到了真爱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}a lonely inventor and a down-on-her-luck elephant find true love?
+Dialogue: 0,0:11:37.42,0:11:40.18,*Default,NTP,0000,0000,0000,,别搞了  直接进入电击部分吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, forget it! Let's just get to the pyro.
+Dialogue: 0,0:11:40.18,0:11:42.56,*Default,NTP,0000,0000,0000,,蒂娜  站泰迪的瑜伽垫上  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, stand on Teddy's yoga mat 
+Dialogue: 0,0:11:42.56,0:11:43.75,*Default,NTP,0000,0000,0000,,别乱动  不然就会\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}and don't move or it's...
+Dialogue: 0,0:11:43.75,0:11:45.25,*Default,NTP,0000,0000,0000,,你确定这样安全吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Are you sure this is safe?
+Dialogue: 0,0:11:45.25,0:11:47.88,*Default,NTP,0000,0000,0000,,泰迪  告诉蒂娜你的瑜伽垫会保护她\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Teddy, tell Tina your yoga mat will keep her safe
+Dialogue: 0,0:11:47.88,0:11:49.07,*Default,NTP,0000,0000,0000,,因为那是橡胶做的  完毕\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}because it's rubber, over.
+Dialogue: 0,0:11:49.07,0:11:50.54,*Default,NTP,0000,0000,0000,,我的...慢着  谁来着\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}My... wait, who?
+Dialogue: 0,0:11:50.54,0:11:52.49,*Default,NTP,0000,0000,0000,,蒂娜  她正站在瑜伽垫上\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, she's standing on the yoga mat.
+Dialogue: 0,0:11:52.49,0:11:53.73,*Default,NTP,0000,0000,0000,,咱们能开始了吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So can we do this?
+Dialogue: 0,0:11:55.39,0:11:56.64,*Default,NTP,0000,0000,0000,,我们听不清你说啥\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, we can't hear you very well.
+Dialogue: 0,0:11:56.64,0:11:58.35,*Default,NTP,0000,0000,0000,,听我倒计时信号\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So let's just go on my count.
+Dialogue: 0,0:11:58.35,0:12:00.49,*Default,NTP,0000,0000,0000,,三  二  一\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Three, two, one!
+Dialogue: 0,0:12:02.10,0:12:03.39,*Default,NTP,0000,0000,0000,,我的象鼻子\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}My trunk!
+Dialogue: 0,0:12:07.88,0:12:10.29,*Default,NTP,0000,0000,0000,,等着我把这事儿告诉丁克勒老师吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wait till Mr. Dinkler hears about this.
+Dialogue: 0,0:12:10.29,0:12:13.21,*Default,NTP,0000,0000,0000,,等着让丁克勒老师见识见识吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wait till Mr. Dinkler sees this.
+Dialogue: 0,0:12:16.78,0:12:18.18,*Default,NTP,0000,0000,0000,,我明白你的意思\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, I see your point.
+Dialogue: 0,0:12:18.18,0:12:19.91,*Default,NTP,0000,0000,0000,,是有点危险\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It is a little dangerous.
+Dialogue: 0,0:12:19.91,0:12:22.21,*Default,NTP,0000,0000,0000,,你不必冒这个险\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, you don't have to do it.
+Dialogue: 0,0:12:22.21,0:12:24.15,*Default,NTP,0000,0000,0000,,我们可以用吉恩的动物玩具\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We can just use one of Gene's stuffed animals.
+Dialogue: 0,0:12:24.15,0:12:26.02,*Default,NTP,0000,0000,0000,,想必它们也受够吉恩的屁了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm sure they're tired of being farted on.
+Dialogue: 0,0:12:26.02,0:12:29.26,*Default,NTP,0000,0000,0000,,他们爱死了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}They love it.
+Dialogue: 0,0:12:29.41,0:12:31.61,*Default,NTP,0000,0000,0000,,蒂娜  真相必须大白于天下\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, people must know the truth.
+Dialogue: 0,0:12:31.61,0:12:32.92,*Default,NTP,0000,0000,0000,,让历史重演吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Do the reenactment.
+Dialogue: 0,0:12:32.92,0:12:34.42,*Default,NTP,0000,0000,0000,,要是我被电死了咋办\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}But what if I get electrocuted?
+Dialogue: 0,0:12:34.42,0:12:36.22,*Default,NTP,0000,0000,0000,,拜托  不会那么糟糕啦\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, come on, it's not that bad.
+Dialogue: 0,0:12:36.22,0:12:38.86,*Default,NTP,0000,0000,0000,,-可你就死了啊  -干嘛揭人家伤疤\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- But you died. - Well, you don't have to rub it in.
+Dialogue: 0,0:12:38.86,0:12:39.93,*Default,NTP,0000,0000,0000,,只是  我还没\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's just, I'm not... 
+Dialogue: 0,0:12:39.93,0:12:41.61,*Default,NTP,0000,0000,0000,,蒂娜  告诉人们我的故事\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, tell my story.
+Dialogue: 0,0:12:41.61,0:12:44.73,*Default,NTP,0000,0000,0000,,还有  你偶尔可以试试把头发扎起来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Also, you should wear your hair up sometimes, girlfriend.
+Dialogue: 0,0:12:44.73,0:12:46.21,*Default,NTP,0000,0000,0000,,那样好看多了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It looks really good.
+Dialogue: 0,0:12:46.21,0:12:48.25,*Default,NTP,0000,0000,0000,,好吧  托普西  听你的  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, Topsy, I'll do it, 
+Dialogue: 0,0:12:48.26,0:12:49.28,*Default,NTP,0000,0000,0000,,不过头发就免了吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}but maybe not the hair thing.
+Dialogue: 0,0:12:49.28,0:12:50.25,*Default,NTP,0000,0000,0000,,别这样嘛\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, come on.
+Dialogue: 0,0:12:50.25,0:12:52.49,*Default,NTP,0000,0000,0000,,这个长度有点尴尬\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's just awkward with this length.
+Dialogue: 0,0:12:52.49,0:12:54.81,*Default,NTP,0000,0000,0000,,-试试嘛  -瞧  我现在就扎给你看\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Try it. - See, I'm trying it right now. Look.
+Dialogue: 0,0:12:54.81,0:12:56.30,*Default,NTP,0000,0000,0000,,你还是放下来吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You know what, wear it down.
+Dialogue: 0,0:12:58.70,0:13:01.40,*Default,NTP,0000,0000,0000,,成败在此一举  今天爱迪生和丁克勒\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}This is it. Today Edison and Dinkler
+Dialogue: 0,0:13:01.40,0:13:04.59,*Default,NTP,0000,0000,0000,,会为他们那灯泡照不到的阴暗面付出代价\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}are gonna get it right where the lightbulb don't shine.
+Dialogue: 0,0:13:04.59,0:13:06.43,*Default,NTP,0000,0000,0000,,你确定不要音乐吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Are you sure you don't want music?
+Dialogue: 0,0:13:06.43,0:13:09.16,*Default,NTP,0000,0000,0000,,不用音乐  谢谢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}No, no music, thank you.
+Dialogue: 0,0:13:09.16,0:13:10.99,*Default,NTP,0000,0000,0000,,你本来有机会的  你自己搞砸了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You had your chance and you blew it.
+Dialogue: 0,0:13:10.99,0:13:12.21,*Default,NTP,0000,0000,0000,,好吧  那我不干了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Fine, then I quit!
+Dialogue: 0,0:13:12.21,0:13:13.16,*Default,NTP,0000,0000,0000,,随你便\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Suit yourself.
+Dialogue: 0,0:13:13.16,0:13:15.29,*Default,NTP,0000,0000,0000,,现在我觉得被冷落了  让我回去吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, now I feel left out. Take me back.
+Dialogue: 0,0:13:15.29,0:13:16.57,*Default,NTP,0000,0000,0000,,好吧  欢迎归队\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}All right, you're rehired.
+Dialogue: 0,0:13:16.57,0:13:17.76,*Default,NTP,0000,0000,0000,,谢天谢地  谢谢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, thank God. Thank you.
+Dialogue: 0,0:13:17.76,0:13:19.57,*Default,NTP,0000,0000,0000,,泰迪  咱们的点火装置咋样了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Teddy, what's our pyro status?
+Dialogue: 0,0:13:19.57,0:13:20.69,*Default,NTP,0000,0000,0000,,问题都解决了吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Did you work out all the kinks?
+Dialogue: 0,0:13:20.69,0:13:22.74,*Default,NTP,0000,0000,0000,,我是指你差点把蒂娜给烧化了这件事\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And by kinks I mean almost melting Tina.
+Dialogue: 0,0:13:22.74,0:13:26.44,*Default,NTP,0000,0000,0000,,是的  除了  没啥  肯定没问题的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I think so, except for, uh... Nah, I'm sure it'll be fine.
+Dialogue: 0,0:13:27.55,0:13:29.27,*Default,NTP,0000,0000,0000,,蒂娜  你干嘛发出那样的声音\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, why are you making that noise?
+Dialogue: 0,0:13:29.27,0:13:30.19,*Default,NTP,0000,0000,0000,,怎么啦  孩子\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What is it, girl?
+Dialogue: 0,0:13:30.19,0:13:33.59,*Default,NTP,0000,0000,0000,,蒂娜只是因为要参加科学展太兴奋了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, Tina's just pumped about the science fair.
+Dialogue: 0,0:13:34.29,0:13:35.64,*Default,NTP,0000,0000,0000,,我也是耶\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, wow, me, too.
+Dialogue: 0,0:13:35.64,0:13:37.09,*Default,NTP,0000,0000,0000,,大家都准备好要出发了吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Is everybody ready to go?
+Dialogue: 0,0:13:37.09,0:13:38.26,*Default,NTP,0000,0000,0000,,你们老爹呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Where's your father?
+Dialogue: 0,0:13:38.26,0:13:39.25,*Default,NTP,0000,0000,0000,,我来了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Uh, here I am.
+Dialogue: 0,0:13:39.25,0:13:40.20,*Default,NTP,0000,0000,0000,,这大包小包的干嘛\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What's all that?
+Dialogue: 0,0:13:40.20,0:13:43.69,*Default,NTP,0000,0000,0000,,就一些我想带到科学展去的东西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Uh, just some stuff I thought I'd bring to the science fair.
+Dialogue: 0,0:13:44.00,0:13:45.74,*Default,NTP,0000,0000,0000,,你要带调料腕带过去吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Are you bringing Spiceps?
+Dialogue: 0,0:13:45.74,0:13:47.54,*Default,NTP,0000,0000,0000,,我只想听听大家的意见  琳\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I just want some feedback, Lin.
+Dialogue: 0,0:13:47.54,0:13:49.55,*Default,NTP,0000,0000,0000,,谁知道呢  说不定哪个有钱的家长\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Who knows, maybe there's some wealthy parent
+Dialogue: 0,0:13:49.55,0:13:51.97,*Default,NTP,0000,0000,0000,,看到后觉得能挣大钱愿意投资呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}that knows a good money-making venture when they see one.
+Dialogue: 0,0:13:51.97,0:13:53.56,*Default,NTP,0000,0000,0000,,你这是痴心妄想\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}That's crazy.
+Dialogue: 0,0:13:53.84,0:13:55.79,*Default,NTP,0000,0000,0000,,我去拿调料胸带\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm going to get the Spice Rack.
+Dialogue: 0,0:14:00.10,0:14:01.66,*Default,NTP,0000,0000,0000,,你好  丁克勒老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, hello, Mr. Dinkler.
+Dialogue: 0,0:14:01.66,0:14:03.64,*Default,NTP,0000,0000,0000,,真是欣欣向荣的科学日啊\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What a day for science, huh?
+Dialogue: 0,0:14:03.64,0:14:04.30,*Default,NTP,0000,0000,0000,,露易丝\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Louise,
+Dialogue: 0,0:14:04.30,0:14:06.16,*Default,NTP,0000,0000,0000,,要我开开关就给我个口信\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}give me the word when you want me to hit the switch.
+Dialogue: 0,0:14:06.16,0:14:08.02,*Default,NTP,0000,0000,0000,,我知道你在捣什么鬼  你个小太妹\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I know what you're doing, you hooligan.
+Dialogue: 0,0:14:08.02,0:14:09.92,*Default,NTP,0000,0000,0000,,杰里米昨晚啥都看见了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Jeremy saw everything last night.
+Dialogue: 0,0:14:09.92,0:14:11.70,*Default,NTP,0000,0000,0000,,你这打小报告的卑鄙小人\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, you son of a snitch!
+Dialogue: 0,0:14:11.70,0:14:12.78,*Default,NTP,0000,0000,0000,,你最爱看的电影是啥\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What's your favorite movie?
+Dialogue: 0,0:14:12.78,0:14:14.81,*Default,NTP,0000,0000,0000,,《告密木兰花》吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Squeal Magnolias?!
+Dialogue: 0,0:14:12.78,0:14:14.81,*Default,NTP,0000,0000,0000,,{\an8}原为Steel Magnolias《钢木兰花》美国喜剧电影  女人坚不可摧的情谊
+Dialogue: 0,0:14:14.81,0:14:17.78,*Default,NTP,0000,0000,0000,,-《战马》  -你想败坏爱迪生的名声\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- War Horse. - You're trying to sully Edison's good name,
+Dialogue: 0,0:14:14.81,0:14:17.78,*Default,NTP,0000,0000,0000,,{\an8}斯皮尔伯格导演电影  男孩与战马之间非同寻常的友谊
+Dialogue: 0,0:14:17.78,0:14:20.35,*Default,NTP,0000,0000,0000,,没人可以诋毁我的偶像汤姆\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}and nobody messes with my man, Tom.
+Dialogue: 0,0:14:20.35,0:14:21.85,*Default,NTP,0000,0000,0000,,你被禁足了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You're banned.
+Dialogue: 0,0:14:22.25,0:14:22.93,*Default,NTP,0000,0000,0000,,给我进去\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Get in there.
+Dialogue: 0,0:14:22.93,0:14:25.16,*Default,NTP,0000,0000,0000,,你无权阻止我参加科学展\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You can't ban me from the science fair.
+Dialogue: 0,0:14:25.16,0:14:27.12,*Default,NTP,0000,0000,0000,,回见  小白痴\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So long, idiot.
+Dialogue: 0,0:14:27.12,0:14:29.49,*Default,NTP,0000,0000,0000,,{\an8}校长办公室
+Dialogue: 0,0:14:27.14,0:14:30.08,*Default,NTP,0000,0000,0000,,我要羞辱你的计划都被打断了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You're ruining my plan to humiliate you!
+Dialogue: 0,0:14:32.64,0:14:35.15,*Default,NTP,0000,0000,0000,,哎呦老天  那东西倒了  真糟糕\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Boy, that, uh, that fell over. Too bad.
+Dialogue: 0,0:14:35.15,0:14:36.77,*Default,NTP,0000,0000,0000,,这是黄金地段\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}That's prime real estate.
+Dialogue: 0,0:14:36.77,0:14:37.84,*Default,NTP,0000,0000,0000,,看着点  有人来了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Watch out, someone's coming.
+Dialogue: 0,0:14:37.00,0:14:40.97,*Default,NTP,0000,0000,0000,,{\an8}调料腕带  烹饪的未来\N调料胸带  改良版的调料腕带
+Dialogue: 0,0:14:37.84,0:14:40.97,*Default,NTP,0000,0000,0000,,这作品真不错\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Uh, uh, just checking out this great project.
+Dialogue: 0,0:14:40.97,0:14:42.55,*Default,NTP,0000,0000,0000,,一定是个聪明孩子做的  对吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}This must be a really smart kid, right?
+Dialogue: 0,0:14:42.55,0:14:45.07,*Default,NTP,0000,0000,0000,,不如这个孩子聪明  她简直是个天才\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Not as smart as this kid right here; She's a genius.
+Dialogue: 0,0:14:45.07,0:14:47.80,*Default,NTP,0000,0000,0000,,是吗  我觉得那孩子偷了这孩子的点子\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, really? I think that kid stole this kid's idea
+Dialogue: 0,0:14:47.80,0:14:49.23,*Default,NTP,0000,0000,0000,,她该准备好吃官司了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}and she should probably get a lawyer.
+Dialogue: 0,0:14:49.23,0:14:50.80,*Default,NTP,0000,0000,0000,,-他才没这胆  -他有\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Oh, he wouldn't dare. - Oh, he would.
+Dialogue: 0,0:14:50.80,0:14:52.58,*Default,NTP,0000,0000,0000,,我会击垮你的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I will destroy you.
+Dialogue: 0,0:14:52.58,0:14:53.51,*Default,NTP,0000,0000,0000,,好耶\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hooray!
+Dialogue: 0,0:14:53.51,0:14:55.24,*Default,NTP,0000,0000,0000,,现在露易丝被关禁闭了  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Now that Louise is banned, 
+Dialogue: 0,0:14:55.24,0:14:56.83,*Default,NTP,0000,0000,0000,,就剩我一个爱迪生项目了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm the only Edison project.
+Dialogue: 0,0:14:56.83,0:14:58.18,*Default,NTP,0000,0000,0000,,-杰里米  闭嘴  -好\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Jeremy, shush. - Right.
+Dialogue: 0,0:14:58.18,0:15:02.06,*Default,NTP,0000,0000,0000,,年轻人  听说你写了首情歌对唱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Young man, I hear you wrote a love duet that dispels those nasty
+Dialogue: 0,0:15:02.06,0:15:05.07,*Default,NTP,0000,0000,0000,,能驱散电击谣言  体现爱迪生柔情一面\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}electrocution rumors and shows Edison's softer side.
+Dialogue: 0,0:15:05.07,0:15:07.32,*Default,NTP,0000,0000,0000,,我觉得科学展需要的就是这个\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I think that's just what this science fair needs,
+Dialogue: 0,0:15:07.32,0:15:09.11,*Default,NTP,0000,0000,0000,,我想让你唱这首歌\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}and I want you to sing it.
+Dialogue: 0,0:15:09.11,0:15:10.67,*Default,NTP,0000,0000,0000,,真的吗  太好了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Really? All right!
+Dialogue: 0,0:15:10.67,0:15:13.42,*Default,NTP,0000,0000,0000,,-什么  -我得去找我的房东和我姨妈\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- What? - I've got to call our landlord and my aunt
+Dialogue: 0,0:15:13.42,0:15:16.32,*Default,NTP,0000,0000,0000,,或许再叫几个唱诗班的孩子和乐队高手\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}and maybe some choir kids and maybe a couple of band geeks.
+Dialogue: 0,0:15:16.32,0:15:18.83,*Default,NTP,0000,0000,0000,,如果这是你的庆祝方式  请便\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}If that's how you celebrate good news, sure.
+Dialogue: 0,0:15:18.83,0:15:20.44,*Default,NTP,0000,0000,0000,,可是吉恩  露易丝怎么办\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}But, Gene, what about Louise?
+Dialogue: 0,0:15:20.44,0:15:22.00,*Default,NTP,0000,0000,0000,,真相又该如何揭开\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What about the truth?
+Dialogue: 0,0:15:24.87,0:15:25.78,*Default,NTP,0000,0000,0000,,你说啥来着\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What did you say?
+Dialogue: 0,0:15:25.78,0:15:27.36,*Default,NTP,0000,0000,0000,,我刚在想我们是否需要长笛\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I was just wondering if we need flutes.
+Dialogue: 0,0:15:27.36,0:15:29.31,*Default,NTP,0000,0000,0000,,谁会吹长笛啊  你会吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Who plays flute? Do you play flute?
+Dialogue: 0,0:15:29.31,0:15:32.13,*Default,NTP,0000,0000,0000,,露易丝  刚刚有个门卫问我在这儿干嘛\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Louise, some janitor just asked me what I was doing here.
+Dialogue: 0,0:15:32.13,0:15:33.73,*Default,NTP,0000,0000,0000,,我当时慌了  我说我是个医生\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I panicked; I said I was a doctor.
+Dialogue: 0,0:15:33.73,0:15:36.12,*Default,NTP,0000,0000,0000,,有人问起的话  就说我是格伦·维涅斯\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So if anyone asks, I'm Dr. Glen Wellness.
+Dialogue: 0,0:15:36.12,0:15:37.48,*Default,NTP,0000,0000,0000,,我在韩国服役过\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I served in Korea.
+Dialogue: 0,0:15:37.48,0:15:39.19,*Default,NTP,0000,0000,0000,,可以独自诊断伤员伤情\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I handled a triage alone.
+Dialogue: 0,0:15:39.19,0:15:40.65,*Default,NTP,0000,0000,0000,,要是有人问的话你就这么说\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Just if anyone asks.
+Dialogue: 0,0:15:40.65,0:15:44.71,*Default,NTP,0000,0000,0000,,就说我在出租车后座接生过三胞胎\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I delivered triplets in the back of a cab, if anyone asks.
+Dialogue: 0,0:15:47.36,0:15:51.32,*Default,NTP,0000,0000,0000,,舒娜老师  我知道我被关在这儿的原因\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Ms. Schnurr, I want to say I totally understand why I'm in here.
+Dialogue: 0,0:15:51.32,0:15:52.83,*Default,NTP,0000,0000,0000,,我太无礼了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I was disrespectful.
+Dialogue: 0,0:15:52.83,0:15:54.73,*Default,NTP,0000,0000,0000,,我没按规矩办事  天哪\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I was out of line, and oh, my God,
+Dialogue: 0,0:15:54.73,0:15:56.33,*Default,NTP,0000,0000,0000,,你动过那幅画吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}did you move that picture?
+Dialogue: 0,0:15:57.90,0:15:59.46,*Default,NTP,0000,0000,0000,,你动作真快\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You are fast.
+Dialogue: 0,0:15:59.46,0:16:00.92,*Default,NTP,0000,0000,0000,,我练过武术的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I do martial arts.
+Dialogue: 0,0:16:00.92,0:16:02.06,*Default,NTP,0000,0000,0000,,看出来了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It shows.
+Dialogue: 0,0:16:02.06,0:16:03.43,*Default,NTP,0000,0000,0000,,你好  嗨\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hello, hi.
+Dialogue: 0,0:16:03.43,0:16:05.45,*Default,NTP,0000,0000,0000,,你长得可真  矮呀\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, aren't you short?
+Dialogue: 0,0:16:05.45,0:16:06.98,*Default,NTP,0000,0000,0000,,来  跟我来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Here, follow me.
+Dialogue: 0,0:16:07.34,0:16:08.89,*Default,NTP,0000,0000,0000,,好了  让我们来告诉这些人\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}All right, let's show these people
+Dialogue: 0,0:16:08.89,0:16:10.85,*Default,NTP,0000,0000,0000,,只有人象之爱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}that if it ain't man-on-elephant love,
+Dialogue: 0,0:16:10.85,0:16:12.75,*Default,NTP,0000,0000,0000,,才值得一唱\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}it ain't worth singing about.
+Dialogue: 0,0:16:12.86,0:16:14.34,*Default,NTP,0000,0000,0000,,注意  各位\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Attention, everyone.
+Dialogue: 0,0:16:14.34,0:16:16.29,*Default,NTP,0000,0000,0000,,我们为大家准备了特别的东西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We have a very special treat for you.
+Dialogue: 0,0:16:16.29,0:16:18.75,*Default,NTP,0000,0000,0000,,这是一出音乐情景再现\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's a musical re-imagenactment
+Dialogue: 0,0:16:18.75,0:16:20.34,*Default,NTP,0000,0000,0000,,再现的正是发生在托马斯·爱迪生\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}of the very uplifting story
+Dialogue: 0,0:16:20.34,0:16:23.80,*Default,NTP,0000,0000,0000,,和托普西大象之间的感人故事\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}of Thomas Edison and Topsy the elephant.
+Dialogue: 0,0:16:23.80,0:16:26.52,*Default,NTP,0000,0000,0000,,*说起托马斯·爱迪生*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*They say Thomas Edison*
+Dialogue: 0,0:16:26.52,0:16:31.23,*Default,NTP,0000,0000,0000,,*人们都称他为将人类带入新纪元的人*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*He's the man to get us into this century*
+Dialogue: 0,0:16:32.37,0:16:34.05,*Default,NTP,0000,0000,0000,,*我就是爱迪生*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*And that man is me*
+Dialogue: 0,0:16:34.90,0:16:36.27,*Default,NTP,0000,0000,0000,,*人们会说  所有*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*They'll say all...*
+Dialogue: 0,0:16:36.27,0:16:38.02,*Default,NTP,0000,0000,0000,,发生什么事了  露易丝到哪儿去了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What's going on? Where's Louise?
+Dialogue: 0,0:16:38.02,0:16:39.36,*Default,NTP,0000,0000,0000,,怎么蒂娜和吉恩的声音\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And why do Tina and Gene 
+Dialogue: 0,0:16:39.36,0:16:40.97,*Default,NTP,0000,0000,0000,,听着像盖尔和费舍奥德先生\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}sound like Gayle and Mr. Fischoeder?
+Dialogue: 0,0:16:40.97,0:16:42.20,*Default,NTP,0000,0000,0000,,这是科学  鲍勃\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's science, Bob.
+Dialogue: 0,0:16:42.20,0:16:43.75,*Default,NTP,0000,0000,0000,,科学就是要让人不知所云\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You're not supposed to understand it.
+Dialogue: 0,0:16:43.75,0:16:45.03,*Default,NTP,0000,0000,0000,,好吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay.
+Dialogue: 0,0:16:47.40,0:16:49.26,*Default,NTP,0000,0000,0000,,求你了  舒娜老师\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Come on, Ms. Schnurr.
+Dialogue: 0,0:16:49.26,0:16:50.63,*Default,NTP,0000,0000,0000,,放我出去吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Let me out of here.
+Dialogue: 0,0:16:50.63,0:16:52.34,*Default,NTP,0000,0000,0000,,这是我的使命\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}This is my destiny.
+Dialogue: 0,0:16:52.34,0:16:54.87,*Default,NTP,0000,0000,0000,,我这儿在吃酸奶呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Shh, I'm trying to eat this yogurt.
+Dialogue: 0,0:16:54.87,0:16:57.07,*Default,NTP,0000,0000,0000,,嘟嘟  送书来咯\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Toot, toot, here comes books.
+Dialogue: 0,0:16:57.11,0:16:58.57,*Default,NTP,0000,0000,0000,,让人起鸡皮疙瘩的图书管理员\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Creepy librarian.
+Dialogue: 0,0:16:58.57,0:16:59.58,*Default,NTP,0000,0000,0000,,我认识你吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Do I know you?
+Dialogue: 0,0:16:59.58,0:17:01.34,*Default,NTP,0000,0000,0000,,是你跟我说的托普西的事啊\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You told me about Topsy.
+Dialogue: 0,0:17:01.34,0:17:03.53,*Default,NTP,0000,0000,0000,,我跟所有人都说过\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I tell everyone about Topsy.
+Dialogue: 0,0:17:03.53,0:17:05.44,*Default,NTP,0000,0000,0000,,这是你要的书\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So, here's the book you requested.
+Dialogue: 0,0:17:05.44,0:17:06.88,*Default,NTP,0000,0000,0000,,鸡仔文学  好东西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Good stuff, chick lit.
+Dialogue: 0,0:17:05.44,0:17:06.88,*Default,NTP,0000,0000,0000,,{\an8}鸡仔文学指由女性撰写\N并且主要面向二三十岁的单身职场女性的文学作品  
+Dialogue: 0,0:17:06.88,0:17:08.66,*Default,NTP,0000,0000,0000,,你一定得帮帮我\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, you've got to help me.
+Dialogue: 0,0:17:08.66,0:17:10.12,*Default,NTP,0000,0000,0000,,告诉她我非去科学展不可\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tell her I've got to go to the fair.
+Dialogue: 0,0:17:10.12,0:17:12.36,*Default,NTP,0000,0000,0000,,告诉她我非打败丁克勒不可\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tell her I've got to take Dinkler down.
+Dialogue: 0,0:17:12.36,0:17:14.17,*Default,NTP,0000,0000,0000,,别把我扯进来\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Shh, leave me out of it.
+Dialogue: 0,0:17:14.17,0:17:15.08,*Default,NTP,0000,0000,0000,,都是因你而起\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You started it.
+Dialogue: 0,0:17:15.08,0:17:17.36,*Default,NTP,0000,0000,0000,,我只负责挑事端  收尾我可不管\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I start, I don't finish things.
+Dialogue: 0,0:17:17.36,0:17:18.98,*Default,NTP,0000,0000,0000,,这就是我唯一的缺点\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}That's my one flaw.
+Dialogue: 0,0:17:18.98,0:17:20.25,*Default,NTP,0000,0000,0000,,酸奶味道还好吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So, how's that yogurt?
+Dialogue: 0,0:17:20.25,0:17:21.56,*Default,NTP,0000,0000,0000,,好啊  我不管你了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Fine! Forget you!
+Dialogue: 0,0:17:21.56,0:17:24.01,*Default,NTP,0000,0000,0000,,我谁也不管了  吃你的酸奶去吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Forget all of you! Eat your yogurt!
+Dialogue: 0,0:17:24.01,0:17:25.88,*Default,NTP,0000,0000,0000,,我自己逃了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm busting out!
+Dialogue: 0,0:17:27.55,0:17:31.01,*Default,NTP,0000,0000,0000,,把东西准备好  泰迪  这事我干定了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Get everything ready, Teddy, because this is happening.
+Dialogue: 0,0:17:31.01,0:17:33.05,*Default,NTP,0000,0000,0000,,我去找对讲机  等我说"开始"的时候\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'll get to the radio and when I say "Hit it,"
+Dialogue: 0,0:17:33.05,0:17:35.03,*Default,NTP,0000,0000,0000,,你就使出吃奶的劲儿启动装置\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}you hit it with everything you've got.
+Dialogue: 0,0:17:35.03,0:17:36.39,*Default,NTP,0000,0000,0000,,明白了吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Capisce?
+Dialogue: 0,0:17:36.39,0:17:37.95,*Default,NTP,0000,0000,0000,,等等  别丢下我\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wait, don't leave me.
+Dialogue: 0,0:17:37.95,0:17:39.78,*Default,NTP,0000,0000,0000,,好吧  没事的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Okay, everything's all right.
+Dialogue: 0,0:17:39.78,0:17:41.00,*Default,NTP,0000,0000,0000,,你是格伦·维涅斯\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You're Dr. Glen Wellness.
+Dialogue: 0,0:17:41.00,0:17:42.05,*Default,NTP,0000,0000,0000,,什么事都难不倒你\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You can handle anything.
+Dialogue: 0,0:17:42.05,0:17:44.06,*Default,NTP,0000,0000,0000,,你的医学院入学考试拿了全美最高分\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hell, you got the highest MCATs in the state.
+Dialogue: 0,0:17:44.06,0:17:47.87,*Default,NTP,0000,0000,0000,,*但我却从未发现*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*But I never noticed*
+Dialogue: 0,0:17:48.61,0:17:49.81,*Default,NTP,0000,0000,0000,,*她那性感的大腿曲线*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*The curve of her trunk*
+Dialogue: 0,0:17:49.81,0:17:53.87,*Default,NTP,0000,0000,0000,,*但我却从未发现*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*And I never noticed*
+Dialogue: 0,0:17:53.87,0:17:55.58,*Default,NTP,0000,0000,0000,,*他发明的电子垃圾*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*His electric junk*
+Dialogue: 0,0:17:55.58,0:18:00.37,*Default,NTP,0000,0000,0000,,*也许我们找到了*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*We might just have found*
+Dialogue: 0,0:18:00.37,0:18:06.12,*Default,NTP,0000,0000,0000,,*电子之爱*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Electric love*
+Dialogue: 0,0:18:06.12,0:18:12.09,*Default,NTP,0000,0000,0000,,*电子之爱*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Electric love...*
+Dialogue: 0,0:18:12.43,0:18:14.19,*Default,NTP,0000,0000,0000,,这真是吉恩写的吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Wow, did Gene write this?
+Dialogue: 0,0:18:14.19,0:18:15.99,*Default,NTP,0000,0000,0000,,上帝  我真羡慕他们的爱情\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}God, I want what they have.
+Dialogue: 0,0:18:15.99,0:18:17.58,*Default,NTP,0000,0000,0000,,太浪漫了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's so romantic.
+Dialogue: 0,0:18:17.58,0:18:23.32,*Default,NTP,0000,0000,0000,,*电子之爱*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Electric love*
+Dialogue: 0,0:18:23.38,0:18:28.93,*Default,NTP,0000,0000,0000,,*电子之爱*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Electric love...*
+Dialogue: 0,0:18:29.21,0:18:33.25,*Default,NTP,0000,0000,0000,,*我们天生一对*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Fits like a glove*
+Dialogue: 0,0:18:34.80,0:18:37.02,*Default,NTP,0000,0000,0000,,接下来发生的才是真相  各位\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}This is what really happened, people.
+Dialogue: 0,0:18:37.02,0:18:39.60,*Default,NTP,0000,0000,0000,,这个人  托马斯·爱迪生\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}This man, Thomas Edison,
+Dialogue: 0,0:18:39.60,0:18:43.00,*Default,NTP,0000,0000,0000,,把那头美丽的大象托普西\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}sentenced Topsy, that beautiful elephant,
+Dialogue: 0,0:18:43.00,0:18:45.82,*Default,NTP,0000,0000,0000,,电击电死了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}to die by electrocution.
+Dialogue: 0,0:18:47.73,0:18:50.10,*Default,NTP,0000,0000,0000,,这就是你的偶像  丁克勒\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Here's your hero, Dinkler.
+Dialogue: 0,0:18:50.10,0:18:51.39,*Default,NTP,0000,0000,0000,,开始\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hit it!
+Dialogue: 0,0:18:51.39,0:18:52.48,*Default,NTP,0000,0000,0000,,是你吗  露易丝\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Is that you, Louise?
+Dialogue: 0,0:18:52.48,0:18:54.39,*Default,NTP,0000,0000,0000,,-开始  -我在这下面待了好久\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Hit it! - I've been down here so long.
+Dialogue: 0,0:18:54.39,0:18:55.37,*Default,NTP,0000,0000,0000,,外面现在是什么情况\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}What's it like out there?
+Dialogue: 0,0:18:55.37,0:18:57.31,*Default,NTP,0000,0000,0000,,大家还是一样滑稽可笑吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Are people still the same with their funny ways?
+Dialogue: 0,0:18:57.31,0:18:58.72,*Default,NTP,0000,0000,0000,,泰迪  开始\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Teddy, hit it!
+Dialogue: 0,0:18:58.72,0:19:00.50,*Default,NTP,0000,0000,0000,,对哦  我们的计划\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, right, the thing we're doing.
+Dialogue: 0,0:19:13.13,0:19:14.67,*Default,NTP,0000,0000,0000,,蒂娜\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina!
+Dialogue: 0,0:19:14.67,0:19:16.21,*Default,NTP,0000,0000,0000,,蒂娜\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina!
+Dialogue: 0,0:19:16.21,0:19:17.56,*Default,NTP,0000,0000,0000,,蒂娜\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina?
+Dialogue: 0,0:19:21.01,0:19:21.68,*Default,NTP,0000,0000,0000,,我没事\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm okay.
+Dialogue: 0,0:19:21.68,0:19:24.38,*Default,NTP,0000,0000,0000,,-我的天哪  -谢天谢地  蒂娜\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Oh! Oh, God. - Oh, thank God. Tina.
+Dialogue: 0,0:19:24.38,0:19:26.05,*Default,NTP,0000,0000,0000,,我还以为我们不演电刑那一场了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I thought we weren't doing the death scene,
+Dialogue: 0,0:19:26.05,0:19:27.98,*Default,NTP,0000,0000,0000,,但我看见有火花  就条件反射了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}but I saw the sparks and went with it.
+Dialogue: 0,0:19:27.98,0:19:29.00,*Default,NTP,0000,0000,0000,,我演得像吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Was I convincing?
+Dialogue: 0,0:19:29.00,0:19:30.19,*Default,NTP,0000,0000,0000,,像  像得很\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Yes, very.
+Dialogue: 0,0:19:30.19,0:19:33.89,*Default,NTP,0000,0000,0000,,天哪  我差点电死我姐姐\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, my God, I almost electrocuted my sister.
+Dialogue: 0,0:19:33.89,0:19:36.92,*Default,NTP,0000,0000,0000,,-我也变成爱迪生了  -别妄想了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- I've become Edison. - Oh, you wish.
+Dialogue: 0,0:19:36.92,0:19:38.95,*Default,NTP,0000,0000,0000,,是的  他电死过动物\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So he electrocuted animals.
+Dialogue: 0,0:19:38.95,0:19:40.01,*Default,NTP,0000,0000,0000,,那又怎样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So what?
+Dialogue: 0,0:19:40.01,0:19:42.35,*Default,NTP,0000,0000,0000,,好像你们自己都很完美似的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}As if everyone here is so perfect.
+Dialogue: 0,0:19:47.01,0:19:48.66,*Default,NTP,0000,0000,0000,,我们亲得太忘我了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, got a little caught up in the moment.
+Dialogue: 0,0:19:48.66,0:19:50.03,*Default,NTP,0000,0000,0000,,我们坠入爱河了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We're in love!
+Dialogue: 0,0:19:50.03,0:19:52.09,*Default,NTP,0000,0000,0000,,我们是坠入爱河的情侣\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}We're a couple in love!
+Dialogue: 0,0:19:52.09,0:19:54.70,*Default,NTP,0000,0000,0000,,这一天终于来临了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's really happening finally!
+Dialogue: 0,0:19:54.70,0:19:57.41,*Default,NTP,0000,0000,0000,,-谢谢你  上帝  -先闪了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Thank you, God! - Got to go.
+Dialogue: 0,0:19:57.41,0:19:59.59,*Default,NTP,0000,0000,0000,,你该叫我唱歌的  不过无所谓了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Could have asked me to sing, but whatever.
+Dialogue: 0,0:19:59.59,0:20:01.49,*Default,NTP,0000,0000,0000,,你知道的  我唱歌也不错的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}You know, I could've sung it.
+Dialogue: 0,0:20:01.49,0:20:03.78,*Default,NTP,0000,0000,0000,,露易丝  你是不是有话要跟你姐姐说\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Louise, is there something you want to say to your sister?
+Dialogue: 0,0:20:03.78,0:20:06.26,*Default,NTP,0000,0000,0000,,蒂娜  抱歉我差点杀了你\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Tina, I'm sorry I nearly killed you.
+Dialogue: 0,0:20:06.26,0:20:08.49,*Default,NTP,0000,0000,0000,,丁克勒的事让我丧失理智了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I got carried away with the Dinkler thing,
+Dialogue: 0,0:20:08.49,0:20:10.54,*Default,NTP,0000,0000,0000,,最终的结果是还不错啦\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}which worked out pretty well, but still,
+Dialogue: 0,0:20:10.54,0:20:12.20,*Default,NTP,0000,0000,0000,,但我还是不该差点杀了你\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I shouldn't have almost killed you.
+Dialogue: 0,0:20:12.20,0:20:14.81,*Default,NTP,0000,0000,0000,,没关系  这是托普西想看到的结果\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}It's okay; This is how Topsy would have wanted it,
+Dialogue: 0,0:20:14.81,0:20:16.33,*Default,NTP,0000,0000,0000,,不过在它的版本里有更多人被它踩死\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}but with more trampling people.
+Dialogue: 0,0:20:16.33,0:20:18.03,*Default,NTP,0000,0000,0000,,还有吉恩  我也要对你说抱歉\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And, Gene, I'm sorry to you, too.
+Dialogue: 0,0:20:18.03,0:20:19.44,*Default,NTP,0000,0000,0000,,你的歌很棒\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Your song was really good.
+Dialogue: 0,0:20:19.44,0:20:21.77,*Default,NTP,0000,0000,0000,,我知道  而且还没出现屁声\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I know, and without a single fart sound.
+Dialogue: 0,0:20:21.77,0:20:23.65,*Default,NTP,0000,0000,0000,,天哪  我忘记加屁声了\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, my God, I forgot the fart sounds!
+Dialogue: 0,0:20:23.65,0:20:24.45,*Default,NTP,0000,0000,0000,,怎么样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}How'd we do?
+Dialogue: 0,0:20:24.45,0:20:26.09,*Default,NTP,0000,0000,0000,,你差点杀了我女儿\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Well, you almost killed my daughter.
+Dialogue: 0,0:20:26.09,0:20:28.07,*Default,NTP,0000,0000,0000,,所以  不怎么样\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}So yeah, not great.
+Dialogue: 0,0:20:28.07,0:20:29.95,*Default,NTP,0000,0000,0000,,对不起\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, wow, sorry about that.
+Dialogue: 0,0:20:29.95,0:20:32.14,*Default,NTP,0000,0000,0000,,你看见那边的调料腕带了吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Hey, did you check out that Spiceps thing?
+Dialogue: 0,0:20:32.14,0:20:33.35,*Default,NTP,0000,0000,0000,,-是不是很酷  -真的吗\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Cool, huh? - Really?
+Dialogue: 0,0:20:33.35,0:20:34.65,*Default,NTP,0000,0000,0000,,-我是这么觉得的  -没错\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- I thought so. - Yeah.
+Dialogue: 0,0:20:34.65,0:20:37.07,*Default,NTP,0000,0000,0000,,鉴于丁克勒老师这会儿正在厕所哭呢\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Since Mr. Dinkler is in the bathroom, crying,
+Dialogue: 0,0:20:37.07,0:20:39.93,*Default,NTP,0000,0000,0000,,就由我来宣布科学展的获胜者\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I'm stepping in to announce the science fair winners.
+Dialogue: 0,0:20:39.93,0:20:43.37,*Default,NTP,0000,0000,0000,,获得第二名的是安迪和奥利的\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Second place goes to "How Many Hairs Up There?",
+Dialogue: 0,0:20:43.37,0:20:45.37,*Default,NTP,0000,0000,0000,,"我有多少根头发"\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}by Andy and Ollie Pesto.
+Dialogue: 0,0:20:45.37,0:20:46.84,*Default,NTP,0000,0000,0000,,天哪  我要谢谢奥利  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Oh, my God! I want to thank Ollie. 
+Dialogue: 0,0:20:46.84,0:20:47.63,*Default,NTP,0000,0000,0000,,我要谢谢安迪\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}I want to thank Andy.
+Dialogue: 0,0:20:47.63,0:20:48.87,*Default,NTP,0000,0000,0000,,-我要谢谢奥利  -我要谢谢安迪\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- I want to thank Ollie. - I want to thank Andy.
+Dialogue: 0,0:20:48.87,0:20:50.63,*Default,NTP,0000,0000,0000,,那都能得第二名  开玩笑吧\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}That got second? That's ridiculous.
+Dialogue: 0,0:20:50.63,0:20:54.44,*Default,NTP,0000,0000,0000,,而蓝绶带的获得者是  调料\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}And the blue ribbon goes to "Spice..."
+Dialogue: 0,0:20:54.44,0:20:55.78,*Default,NTP,0000,0000,0000,,这个我看不懂\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}uh, I can't read this.
+Dialogue: 0,0:20:55.78,0:20:57.40,*Default,NTP,0000,0000,0000,,调料胸带  调料胸带  \N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Spice Rack! Spice Rack! 
+Dialogue: 0,0:20:57.40,0:20:58.78,*Default,NTP,0000,0000,0000,,调料腕带  调料腕带\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}Spiceps, Spiceps!
+Dialogue: 0,0:20:58.78,0:21:00.04,*Default,NTP,0000,0000,0000,,-调料胸带  -调料腕带\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Spice Rack! - Spiceps!
+Dialogue: 0,0:21:00.04,0:21:01.24,*Default,NTP,0000,0000,0000,,-腕带  -胸带\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}- Spiceps! - Ow! Rack!
+Dialogue: 0,0:21:01.24,0:21:07.05,*Default,NTP,0000,0000,0000,,*电子之爱*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Electric love*
+Dialogue: 0,0:21:07.05,0:21:12.70,*Default,NTP,0000,0000,0000,,*电子之爱*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Electric love*
+Dialogue: 0,0:21:12.70,0:21:18.74,*Default,NTP,0000,0000,0000,,*电子之爱*\N{\fn方正综艺简体\fs14\bord1\c&HFFFFFF&\3c&H2F2F2F&\4c&H000000&}*Electric love*
