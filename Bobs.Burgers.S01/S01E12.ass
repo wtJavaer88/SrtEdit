@@ -1,0 +1,619 @@
+[Script Info]
+; // 此字幕由Srt2Ass生成
+; // 欢迎访问人人影视 http://www.YYeTs.com
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,21,&H00FFFFFF,&HF0000000,&H006C3300,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:05.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fscx100\fscy100\fsp0\fr0\shad1\c&HFFFFFF&\4c&H00000&\fad(500,500)\pos(190,278)\b1\fs16\fn方正准圆_GBK\bord0}本字幕由{\fs24\fn方正综艺_GBK\fe0\c&H26F4FF&}YYeTs{\fe134\fn方正宋黑_GBK\c&HFFAE1A&}人人影视 {\fn方正准圆_GBK\c&HFFFFFF&\fs16}原创翻译制作\N{\fs14\b0\shad0}仅供学习 禁止用于任何商业盈利行为\N{\fs16}更多影视更新 请登陆 {\c&H26F4FF&\fn方正综艺_GBK\fs24}www.YYeTs.com
+Dialogue: 0,0:00:00.00,0:00:05.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,290)\fs86\fscx600}■
+Dialogue: 1,0:00:05.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\c&H24EFFF&\4c&H00000\fs16\b1\i0\u0\s0\fscx100\fscy100\fsp0\fr0\bord0\shad1\fad(500,500)\pos(190,268)\fn方正准圆_GBK}翻译：{\fs18\c&HFFFFFF&}Ｊ小糯    Soomii    红豆包    Iz
+Dialogue: 0,0:00:05.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,278)\fs36\fscx1800}■
+Dialogue: 1,0:00:10.00,0:00:15.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\c&H24EFFF&\4c&H00000\fs16\b1\i0\u0\s0\fscx100\fscy100\fsp0\fr0\bord0\shad1\fad(500,500)\pos(190,268)\fn方正准圆_GBK}校对：{\fs18\c&HFFFFFF&}Ｊ小糯      {\fs16\c&H24EFFF&}时间轴：{\fs18\c&HFFFFFF&}grace
+Dialogue: 0,0:00:10.00,0:00:15.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,278)\fs36\fscx1800}■
+Dialogue: 1,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\fe134\an2\c&H24EFFF&\4c&H00000\fs16\b1\i0\u0\s0\fscx100\fscy100\fsp0\fr0\bord0\shad1\fad(500,500)\pos(190,268)\fn方正准圆_GBK}后期：{\fs18\c&HFFFFFF&}鱼骨头      {\fs16\c&H24EFFF&}总监：{\fs18\c&HFFFFFF&}stephanie
+Dialogue: 0,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,278)\fs36\fscx1800}■
+Dialogue: 1,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\an8}{\fad(500,500)}{\fs20} {\c&H24EFFF&}{\fn方正准圆简体}{\bord0}《开心汉堡店》\N{\fs17}{\c&HFFFFFF&}第一季第十二集
+Dialogue: 0,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\fe134\an5\pos(190,23)\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\fs56\fscx500}■
+Dialogue: 0,0:00:20.82,0:00:23.33,*Default,NTP,0000,0000,0000,,海洋大道正在准备迎接今年的龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ocean Avenue is gearing up for this year's Lobsterfest,
+Dialogue: 0,0:00:23.33,0:00:23.91,*Default,NTP,0000,0000,0000,,这就意味着\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and that mean
+Dialogue: 0,0:00:23.91,0:00:26.61,*Default,NTP,0000,0000,0000,,我们一直关注的热带风暴正移向海洋\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}old tropical storm we've been watching is moving out to sea,
+Dialogue: 0,0:00:26.61,0:00:28.97,*Default,NTP,0000,0000,0000,,这个周末可以快活快活了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}which means perfect weekend weather!
+Dialogue: 0,0:00:29.04,0:00:30.09,*Default,NTP,0000,0000,0000,,我擦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ugh! Damn it!
+Dialogue: 0,0:00:30.09,0:00:31.46,*Default,NTP,0000,0000,0000,,如果你听到隆隆雷声\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So if you think you hear thunder,
+Dialogue: 0,0:00:31.46,0:00:32.68,*Default,NTP,0000,0000,0000,,那只是我的胃在捣乱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}it's just my stomach growling.
+Dialogue: 0,0:00:33.85,0:00:35.45,*Default,NTP,0000,0000,0000,,我超爱龙虾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I love lobster.
+Dialogue: 0,0:00:35.45,0:00:36.78,*Default,NTP,0000,0000,0000,,这货真是朵奇葩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This guy is unbelievable.
+Dialogue: 0,0:00:36.85,0:00:38.82,*Default,NTP,0000,0000,0000,,别再叨叨龙虾节了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stop pimping for Lobsterfest!
+Dialogue: 0,0:00:38.88,0:00:41.22,*Default,NTP,0000,0000,0000,,那我来扮扮龙虾吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And start primping for Lobsterfest.
+Dialogue: 0,0:00:42.82,0:00:44.29,*Default,NTP,0000,0000,0000,,扮相真不错\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Looking primpy.
+Dialogue: 0,0:00:44.36,0:00:46.06,*Default,NTP,0000,0000,0000,,啥都不许扮\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, no primping for anything!
+Dialogue: 0,0:00:46.13,0:00:48.08,*Default,NTP,0000,0000,0000,,干嘛发这么大火啊  消消气\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why are you so grumpy? Come on.
+Dialogue: 0,0:00:48.08,0:00:48.79,*Default,NTP,0000,0000,0000,,你知道的啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know why.
+Dialogue: 0,0:00:48.84,0:00:51.77,*Default,NTP,0000,0000,0000,,做汉堡的在海鲜城里混  能高兴得起来么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's no fun being a burger man in a seafood town.
+Dialogue: 0,0:00:51.77,0:00:54.12,*Default,NTP,0000,0000,0000,,我讨厌龙虾和傻逼龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I hate lobsters and their stupid fest.
+Dialogue: 0,0:00:54.12,0:00:54.91,*Default,NTP,0000,0000,0000,,再说  我对龙虾过敏\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Plus, I'm allergic.
+Dialogue: 0,0:00:54.91,0:00:55.98,*Default,NTP,0000,0000,0000,,才没有呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, you're not.
+Dialogue: 0,0:00:55.98,0:00:58.01,*Default,NTP,0000,0000,0000,,我会过敏  记得咱俩第一次约会么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, I'm allergic. Remember our first date?
+Dialogue: 0,0:00:58.01,0:00:59.40,*Default,NTP,0000,0000,0000,,我当然记得啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, I remember our first date. 
+Dialogue: 0,0:00:59.40,0:01:01.07,*Default,NTP,0000,0000,0000,,你当时紧张兮兮的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You were a nervous wreck.
+Dialogue: 0,0:01:09.80,0:01:12.76,*Default,NTP,0000,0000,0000,,我那是过敏...  算了不提了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was having an allergic reac... Never mind.
+Dialogue: 0,0:01:12.76,0:01:14.22,*Default,NTP,0000,0000,0000,,你们几个在那儿瞅啥呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, what are you guys looking at over there?
+Dialogue: 0,0:01:14.22,0:01:15.14,*Default,NTP,0000,0000,0000,,没什么啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Um, nothing.
+Dialogue: 0,0:01:15.14,0:01:17.71,*Default,NTP,0000,0000,0000,,就是些男男女女  做爱做的事呗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just pictures of people... doing it.
+Dialogue: 0,0:01:17.71,0:01:20.06,*Default,NTP,0000,0000,0000,,是么  等等  这个不是色情图片\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh. Hey, wait a minute. That's not porn.
+Dialogue: 0,0:01:20.06,0:01:22.55,*Default,NTP,0000,0000,0000,,你居然把龙虾节传单带了回来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You brought a Lobsterfest brochure into this house?
+Dialogue: 0,0:01:22.55,0:01:25.30,*Default,NTP,0000,0000,0000,,-我们今年可以参加吗  -想都别想\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Can we please go this year? - Absolutely not.
+Dialogue: 0,0:01:25.30,0:01:27.95,*Default,NTP,0000,0000,0000,,可是龙虾节超好玩的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ugh! But there's so much fun stuff happening.
+Dialogue: 0,0:01:27.95,0:01:31.17,*Default,NTP,0000,0000,0000,,比如  展示世界上最大的黄油桶\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Unveiling of the world's largest butter vat, for instance.
+Dialogue: 0,0:01:31.17,0:01:32.37,*Default,NTP,0000,0000,0000,,为龙虾皇后\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The coronation of
+Dialogue: 0,0:01:32.37,0:01:34.76,*Default,NTP,0000,0000,0000,,和可爱的龙虾女仆们举行加冕仪式\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the Lobster Queen and her court of lovely Lobster Maidens.
+Dialogue: 0,0:01:34.76,0:01:38.71,*Default,NTP,0000,0000,0000,,"锦绣三重唱"担任现场伴奏乐队\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Entertainment by John Van Horton and the music extrusion.
+Dialogue: 0,0:01:38.71,0:01:40.32,*Default,NTP,0000,0000,0000,,我还蛮喜欢那个乐队的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I do love those guys.
+Dialogue: 0,0:01:40.32,0:01:41.40,*Default,NTP,0000,0000,0000,,跟你说吧  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}As a matter of fact, Gene,
+Dialogue: 0,0:01:41.40,0:01:43.31,*Default,NTP,0000,0000,0000,,你就是在那个乐队演出时怀上的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you were conceived to a JVH song.
+Dialogue: 0,0:01:43.31,0:01:45.61,*Default,NTP,0000,0000,0000,,我打算报答他们一下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And I plan to return the favor.
+Dialogue: 0,0:01:46.29,0:01:47.98,*Default,NTP,0000,0000,0000,,见鬼  你来啦  雨果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, great. I mean, hi, Hugo.
+Dialogue: 0,0:01:47.98,0:01:49.87,*Default,NTP,0000,0000,0000,,鲍勃  我无意中注意到\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, I couldn't help but notice, Bob,
+Dialogue: 0,0:01:49.87,0:01:51.78,*Default,NTP,0000,0000,0000,,整条街就你们家窗户上\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}uh, yours is the only window on the street
+Dialogue: 0,0:01:51.78,0:01:53.22,*Default,NTP,0000,0000,0000,,没贴龙虾节海报\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}without a Lobsterfest poster in it.
+Dialogue: 0,0:01:53.22,0:01:54.50,*Default,NTP,0000,0000,0000,,-是的  -能解释一下么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Yeah. - Why might that be?
+Dialogue: 0,0:01:54.50,0:01:56.61,*Default,NTP,0000,0000,0000,,因为龙虾节就是个傻逼节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, because Lobsterfest is stupid!
+Dialogue: 0,0:01:56.61,0:01:58.38,*Default,NTP,0000,0000,0000,,-你说什么  -我来搞定  罗恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- What? - I'll handle this, Ron.
+Dialogue: 0,0:01:58.38,0:01:59.95,*Default,NTP,0000,0000,0000,,把这张海报贴上去  这是规矩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Put the sign up. It's the law.
+Dialogue: 0,0:01:59.95,0:02:01.68,*Default,NTP,0000,0000,0000,,-谁家的规矩  -我家的规矩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- It's the law? - Martial law.
+Dialogue: 0,0:02:01.68,0:02:04.36,*Default,NTP,0000,0000,0000,,我是今年的龙虾节大元帅\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm grand marshal of the fest this year!
+Dialogue: 0,0:02:04.36,0:02:06.61,*Default,NTP,0000,0000,0000,,雨果  肩带很炫嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hugo, such a fancy sash.
+Dialogue: 0,0:02:06.61,0:02:09.68,*Default,NTP,0000,0000,0000,,你好像扮演"嘉莉妹妹"的西席·斯贝西克\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You look like Sissy Spacek in Carrie. Ha.
+Dialogue: 0,0:02:09.68,0:02:10.33,*Default,NTP,0000,0000,0000,,谢了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, thank you.
+Dialogue: 0,0:02:10.33,0:02:11.61,*Default,NTP,0000,0000,0000,,雨果  作为一名卫生检查员\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But, Hugo, as a health inspector,
+Dialogue: 0,0:02:11.61,0:02:13.85,*Default,NTP,0000,0000,0000,,你肯定知道龙虾有多恶心  是吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you must know how disgusting lobsters are, right?
+Dialogue: 0,0:02:13.85,0:02:16.26,*Default,NTP,0000,0000,0000,,它们是食底泥动物  整天吃垃圾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're bottom feeders that eat garbage all day.
+Dialogue: 0,0:02:13.85,0:02:16.26,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}主要以水底有机沉积物为食的底栖动物
+Dialogue: 0,0:02:16.26,0:02:17.52,*Default,NTP,0000,0000,0000,,它们喜欢吃垃圾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Huh, they like garbage?
+Dialogue: 0,0:02:17.52,0:02:18.81,*Default,NTP,0000,0000,0000,,那它们一定要尝尝这里\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Then they must eat here!
+Dialogue: 0,0:02:18.81,0:02:20.23,*Default,NTP,0000,0000,0000,,啃啃你的脸  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In your face, Bob.
+Dialogue: 0,0:02:20.23,0:02:21.70,*Default,NTP,0000,0000,0000,,再啃啃你的窗户\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And now in your window!
+Dialogue: 0,0:02:21.70,0:02:23.78,*Default,NTP,0000,0000,0000,,来  罗恩  我俩扮成龙虾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, Ron, let's make like a lobster
+Dialogue: 0,0:02:23.78,0:02:25.20,*Default,NTP,0000,0000,0000,,然后把虾皮带出去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and get the shell out of here.
+Dialogue: 0,0:02:25.20,0:02:26.20,*Default,NTP,0000,0000,0000,,好\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right.
+Dialogue: 0,0:02:27.56,0:02:28.71,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}系上你的围嘴\N龙虾节
+Dialogue: 0,0:02:30.22,0:02:32.24,*Default,NTP,0000,0000,0000,,两位里面请\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, my two best customers!
+Dialogue: 0,0:02:32.24,0:02:33.28,*Default,NTP,0000,0000,0000,,两个汉堡  马上就来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two burgers coming up.
+Dialogue: 0,0:02:33.28,0:02:34.62,*Default,NTP,0000,0000,0000,,先不来汉堡了  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No burgers for me, Bob.
+Dialogue: 0,0:02:34.62,0:02:36.53,*Default,NTP,0000,0000,0000,,我的胃得给龙虾留些地方\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm saving my appetite for Lobsterfest.
+Dialogue: 0,0:02:36.53,0:02:37.73,*Default,NTP,0000,0000,0000,,我也不要了  老鲍\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}None for me either, Bobby.
+Dialogue: 0,0:02:37.73,0:02:39.95,*Default,NTP,0000,0000,0000,,我过来就是想显摆显摆新买的龙虾钳\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I just come by to show you my new lobster cracker.
+Dialogue: 0,0:02:39.95,0:02:40.92,*Default,NTP,0000,0000,0000,,看\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Check it out.
+Dialogue: 0,0:02:40.92,0:02:42.88,*Default,NTP,0000,0000,0000,,钛金钳身  防油握柄\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Titanium with butter-resistant grips.
+Dialogue: 0,0:02:42.88,0:02:44.39,*Default,NTP,0000,0000,0000,,宇航员专用款\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's the one the astronauts used.
+Dialogue: 0,0:02:44.46,0:02:47.26,*Default,NTP,0000,0000,0000,,泰迪  你觉得宇航员会带这玩意上天么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Teddy, you think the astronauts brought a lobster cracker to space?
+Dialogue: 0,0:02:47.33,0:02:49.25,*Default,NTP,0000,0000,0000,,会啊  盒子上就这么写的  你瞧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. That's what it says on the box. Look.
+Dialogue: 0,0:02:49.32,0:02:51.12,*Default,NTP,0000,0000,0000,,"宇航员升天专用"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"The one the astronauts used in space!"
+Dialogue: 0,0:02:51.18,0:02:53.12,*Default,NTP,0000,0000,0000,,这玩意花了我49块钱呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I spent $49 on this.
+Dialogue: 0,0:02:53.19,0:02:55.19,*Default,NTP,0000,0000,0000,,你们几个小屁孩长大了呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, I bet you kids are old enough
+Dialogue: 0,0:02:55.25,0:02:57.37,*Default,NTP,0000,0000,0000,,可以自己去参加龙虾节了吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to crack your own claws this year, right?
+Dialogue: 0,0:02:57.44,0:02:59.01,*Default,NTP,0000,0000,0000,,我们不过龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We don't celebrate Lobsterfest.
+Dialogue: 0,0:02:59.07,0:03:01.36,*Default,NTP,0000,0000,0000,,-什么  -就像犹太人不过圣诞节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- What?! - We're like Jews on Christmas.
+Dialogue: 0,0:03:01.43,0:03:03.26,*Default,NTP,0000,0000,0000,,或是在光明节上说服犹太人信奉基督教\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or Jews for Jesus on Hanukkah.
+Dialogue: 0,0:03:01.43,0:03:03.26,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}光明节是犹太人的节日\N相当于基督教的圣诞节
+Dialogue: 0,0:03:03.33,0:03:04.60,*Default,NTP,0000,0000,0000,,这就好比我独自坐在蕾丝酒吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or me at a lesbian bar.
+Dialogue: 0,0:03:04.66,0:03:06.60,*Default,NTP,0000,0000,0000,,昨夜\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Last night.
+Dialogue: 0,0:03:06.67,0:03:08.90,*Default,NTP,0000,0000,0000,,我在一家蕾丝酒吧看了场冰球赛  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Watched a hockey game at a lesbian bar, Bob.
+Dialogue: 0,0:03:08.97,0:03:11.84,*Default,NTP,0000,0000,0000,,我好像变成了一个透明人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It was like I was invisible. Uh...
+Dialogue: 0,0:03:11.84,0:03:14.81,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}瓦格斯塔夫小学
+Dialogue: 0,0:03:15.34,0:03:18.17,*Default,NTP,0000,0000,0000,,谁知道在胰腺部位聚集的这种美味浆糊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And who knows the name of the delicious paste that collects here
+Dialogue: 0,0:03:18.17,0:03:19.48,*Default,NTP,0000,0000,0000,,叫什么啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}in the pancreas?
+Dialogue: 0,0:03:19.55,0:03:20.88,*Default,NTP,0000,0000,0000,,-龙虾肝  -回答正确\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Tomalley! - Correct.
+Dialogue: 0,0:03:20.95,0:03:23.41,*Default,NTP,0000,0000,0000,,打扰一下  勒邦姿老师\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me, Miss Labonz?
+Dialogue: 0,0:03:23.41,0:03:24.97,*Default,NTP,0000,0000,0000,,请说  露易丝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, Louise.
+Dialogue: 0,0:03:24.97,0:03:26.22,*Default,NTP,0000,0000,0000,,我们家不过龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My family doesn't observe Lobsterfest.
+Dialogue: 0,0:03:26.29,0:03:27.52,*Default,NTP,0000,0000,0000,,所以应该准我免上此课\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I should be excused from class,
+Dialogue: 0,0:03:27.52,0:03:29.12,*Default,NTP,0000,0000,0000,,反正上不上你都得给我A\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and/or given an A.
+Dialogue: 0,0:03:29.20,0:03:30.71,*Default,NTP,0000,0000,0000,,谢谢  晚安\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you. Good night.
+Dialogue: 0,0:03:30.76,0:03:32.46,*Default,NTP,0000,0000,0000,,露易丝  一般情况下我不会搬出这句话\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Louise, I don't normally use this argument,
+Dialogue: 0,0:03:32.52,0:03:35.89,*Default,NTP,0000,0000,0000,,大家都要做的事  你也得做\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but if everyone else is doing it, you should, too.
+Dialogue: 0,0:03:36.85,0:03:38.91,*Default,NTP,0000,0000,0000,,听我说  同学们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Attention, students.
+Dialogue: 0,0:03:38.96,0:03:40.72,*Default,NTP,0000,0000,0000,,热带风暴转向了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The tropical storm has changed course
+Dialogue: 0,0:03:40.78,0:03:43.13,*Default,NTP,0000,0000,0000,,并升级为飓风\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and has been upgraded to a hurricane.
+Dialogue: 0,0:03:43.22,0:03:44.92,*Default,NTP,0000,0000,0000,,它随时都会袭击这里\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It could hit town at any moment.
+Dialogue: 0,0:03:44.97,0:03:48.12,*Default,NTP,0000,0000,0000,,别担心  我们备有紧急方案\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't worry. We have an emergency plan.
+Dialogue: 0,0:03:48.19,0:03:50.16,*Default,NTP,0000,0000,0000,,名叫"据理分析"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's called "Talking It Through".
+Dialogue: 0,0:03:50.23,0:03:52.19,*Default,NTP,0000,0000,0000,,同学们  有谁认为  飓风的形成\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now, who here thinks the hurricane was caused
+Dialogue: 0,0:03:52.26,0:03:53.76,*Default,NTP,0000,0000,0000,,是因为有人做了坏事而引起的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}by something bad they did?
+Dialogue: 0,0:03:53.83,0:03:55.53,*Default,NTP,0000,0000,0000,,你来说说  尼古拉斯\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What about you, Nicholas?
+Dialogue: 0,0:03:55.60,0:03:58.13,*Default,NTP,0000,0000,0000,,你和我说过的那件事  自信点说出来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That thing you told me? In confidence?
+Dialogue: 0,0:03:59.57,0:04:01.30,*Default,NTP,0000,0000,0000,,说出来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Say it.
+Dialogue: 0,0:04:01.37,0:04:03.10,*Default,NTP,0000,0000,0000,,我在沙发上打飞机\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I rub my genitals on the couch.
+Dialogue: 0,0:04:03.99,0:04:05.69,*Default,NTP,0000,0000,0000,,我们都会因你而亡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're all gonna die because of you!
+Dialogue: 0,0:04:07.48,0:04:09.94,*Default,NTP,0000,0000,0000,,这种鬼天气只有龙虾会喜欢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's weather only a lobster could love,
+Dialogue: 0,0:04:10.01,0:04:13.06,*Default,NTP,0000,0000,0000,,但非常遗憾  今年不会举行龙虾节了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but sadly, there will be no Lobsterfest.
+Dialogue: 0,0:04:13.13,0:04:16.02,*Default,NTP,0000,0000,0000,,本台记者也要撤下他的围嘴了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This reporter is getting his bib off.
+Dialogue: 0,0:04:16.09,0:04:18.77,*Default,NTP,0000,0000,0000,,你个二货  败家的预报员\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ha, ha! Stupid, failure weatherman,
+Dialogue: 0,0:04:18.84,0:04:20.99,*Default,NTP,0000,0000,0000,,还有你们那个败家的龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and your failed Lobsterfest.
+Dialogue: 0,0:04:21.06,0:04:23.46,*Default,NTP,0000,0000,0000,,你们那个龇牙咧嘴的红海臭虫神哪儿去了呀\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's your ugly red sea bug God now?!
+Dialogue: 0,0:04:24.91,0:04:26.46,*Default,NTP,0000,0000,0000,,好了  手拉手\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, hold hands.
+Dialogue: 0,0:04:26.53,0:04:28.26,*Default,NTP,0000,0000,0000,,快进来  去地下室\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, down to the basement.
+Dialogue: 0,0:04:28.33,0:04:29.56,*Default,NTP,0000,0000,0000,,鲍勃  我们必须得关门\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, we have to close.
+Dialogue: 0,0:04:29.63,0:04:30.98,*Default,NTP,0000,0000,0000,,飓风要来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A hurricane is coming!
+Dialogue: 0,0:04:31.05,0:04:32.83,*Default,NTP,0000,0000,0000,,我知道  这样不是很棒吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know. Isn't it great?
+Dialogue: 0,0:04:32.90,0:04:34.94,*Default,NTP,0000,0000,0000,,龙虾节被取消了哦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lobsterfest is cancelled!
+Dialogue: 0,0:04:35.00,0:04:37.86,*Default,NTP,0000,0000,0000,,然后全市所有人都饿着肚子爬过来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So this town is gonna be crawling with empty bellies
+Dialogue: 0,0:04:37.92,0:04:40.43,*Default,NTP,0000,0000,0000,,吃鲍家的汉堡  宝贝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}ready to eat Bob's burgers, baby!
+Dialogue: 0,0:04:40.49,0:04:41.84,*Default,NTP,0000,0000,0000,,鲍勃  你疯了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, you're crazy.
+Dialogue: 0,0:04:41.91,0:04:43.26,*Default,NTP,0000,0000,0000,,你才疯了呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think you're crazy!
+Dialogue: 0,0:04:43.26,0:04:46.78,*Default,NTP,0000,0000,0000,,飓风天气不卖汉堡才是疯子呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}'Cause it's crazy not to sell burgers during a hurricane!
+Dialogue: 0,0:04:46.83,0:04:49.35,*Default,NTP,0000,0000,0000,,开心汉堡店正常营业\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob's burgers is open for business!
+Dialogue: 0,0:04:52.81,0:04:55.76,*Default,NTP,0000,0000,0000,,你就这点本事吗  飓风\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is that all you got, storm?
+Dialogue: 0,0:04:55.82,0:04:57.88,*Default,NTP,0000,0000,0000,,风铃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wind chimes! Aah!
+Dialogue: 0,0:05:04.96,0:05:07.29,*Default,NTP,0000,0000,0000,,鲍勃  我觉得现在营业很不安全\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, I'm not sure staying open is safe.
+Dialogue: 0,0:05:07.29,0:05:09.53,*Default,NTP,0000,0000,0000,,我想  飓风会把这里撕个稀巴烂\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Suppose the hurricane tears right through here.
+Dialogue: 0,0:05:09.53,0:05:11.23,*Default,NTP,0000,0000,0000,,我要赌一把\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll chance it!
+Dialogue: 0,0:05:11.23,0:05:14.25,*Default,NTP,0000,0000,0000,,你看我把谁带来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look who I found trying to stay dry in the bounce house.
+Dialogue: 0,0:05:14.25,0:05:16.70,*Default,NTP,0000,0000,0000,,在充气屋里躲雨的全体龙虾皇家女仆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The entire Royal Court of Lobster Maidens.
+Dialogue: 0,0:05:16.70,0:05:18.30,*Default,NTP,0000,0000,0000,,可怜的小妞们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, you poor things!
+Dialogue: 0,0:05:18.30,0:05:20.52,*Default,NTP,0000,0000,0000,,欢迎各位殿下莅临寒舍\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Welcome, your highnesseses.
+Dialogue: 0,0:05:20.52,0:05:24.05,*Default,NTP,0000,0000,0000,,从今往后  你们就是皇家奶牛了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, you are henceforth known as the royal cows.
+Dialogue: 0,0:05:24.05,0:05:24.78,*Default,NTP,0000,0000,0000,,鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob!
+Dialogue: 0,0:05:24.78,0:05:27.00,*Default,NTP,0000,0000,0000,,或者  类似的东西吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, well, something like that.
+Dialogue: 0,0:05:27.00,0:05:28.53,*Default,NTP,0000,0000,0000,,我去做几个汉堡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll go throw on some burgers.
+Dialogue: 0,0:05:28.62,0:05:30.06,*Default,NTP,0000,0000,0000,,热咖啡马上来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hot coffee coming up!
+Dialogue: 0,0:05:30.06,0:05:32.70,*Default,NTP,0000,0000,0000,,我更想用嘴裹住那个啤酒龙头\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'd really rather get my lips around that beer tap.
+Dialogue: 0,0:05:32.70,0:05:34.92,*Default,NTP,0000,0000,0000,,-大家好  -你好  格雷琴\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Hi, guys. - Hey, Gretchen!
+Dialogue: 0,0:05:34.92,0:05:37.59,*Default,NTP,0000,0000,0000,,哎哟  龙虾女仆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, Lobster Maiden!
+Dialogue: 0,0:05:37.59,0:05:39.72,*Default,NTP,0000,0000,0000,,泰迪  这位是格雷琴\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Teddy, this is Gretchen.
+Dialogue: 0,0:05:39.72,0:05:41.13,*Default,NTP,0000,0000,0000,,-我的头发一直是她剪的  -你好\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- She cuts my hair. - How you doing?
+Dialogue: 0,0:05:41.13,0:05:43.39,*Default,NTP,0000,0000,0000,,你还在警察酒吧上夜班么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, are you still working nights at the cop bar?
+Dialogue: 0,0:05:43.39,0:05:45.50,*Default,NTP,0000,0000,0000,,不了  都是手不老实惹的祸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nah, there was a groping incident.
+Dialogue: 0,0:05:45.50,0:05:48.16,*Default,NTP,0000,0000,0000,,我道歉了  但还是被开除了  \N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I apologized, but they fired me anyway.
+Dialogue: 0,0:05:48.49,0:05:51.43,*Default,NTP,0000,0000,0000,,-她喝高了  -确实\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Oh, she's too much. - Really is.
+Dialogue: 0,0:05:51.43,0:05:53.25,*Default,NTP,0000,0000,0000,,-这儿能进吗  -能啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Hey, you open? Mm-hmm.
+Dialogue: 0,0:05:53.25,0:05:54.46,*Default,NTP,0000,0000,0000,,-有吃的吗  -有啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- You got food? - Yup.
+Dialogue: 0,0:05:54.46,0:05:56.28,*Default,NTP,0000,0000,0000,,-有啤酒吗  -还用问吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Beer? - Absolutely!
+Dialogue: 0,0:05:56.28,0:05:59.10,*Default,NTP,0000,0000,0000,,-那气氛呢  -这个嘛...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Atmosphere? - Yeah... Nah...
+Dialogue: 0,0:05:59.10,0:06:01.32,*Default,NTP,0000,0000,0000,,就这儿了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, good enough.
+Dialogue: 0,0:06:01.32,0:06:04.39,*Default,NTP,0000,0000,0000,,老鲍  我觉得这样发展下去很有派对氛围\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa, Bobby, I think this might develop into a party type situation!
+Dialogue: 0,0:06:04.39,0:06:06.51,*Default,NTP,0000,0000,0000,,你们几个  老实待在地下室\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You kids stay down in the basement.
+Dialogue: 0,0:06:06.51,0:06:08.53,*Default,NTP,0000,0000,0000,,我已经选了一角作为浴室\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I already picked a corner for the bathroom.
+Dialogue: 0,0:06:08.53,0:06:09.94,*Default,NTP,0000,0000,0000,,就是那个  我去过的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That one, where I went.
+Dialogue: 0,0:06:09.94,0:06:11.32,*Default,NTP,0000,0000,0000,,那我要那边那个角落\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And I picked that corner.
+Dialogue: 0,0:06:11.32,0:06:12.75,*Default,NTP,0000,0000,0000,,这样就有两个浴室了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, we've got two bathrooms!
+Dialogue: 0,0:06:12.75,0:06:14.18,*Default,NTP,0000,0000,0000,,老妈  我要上去了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mom, I'm coming up!
+Dialogue: 0,0:06:14.18,0:06:15.57,*Default,NTP,0000,0000,0000,,老老实实待在那儿\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just stay down there.
+Dialogue: 0,0:06:15.57,0:06:16.19,*Default,NTP,0000,0000,0000,,飓风过后\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're gonna need you
+Dialogue: 0,0:06:16.19,0:06:18.98,*Default,NTP,0000,0000,0000,,留待你们重整家园  延续香火\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to help repopulate the earth when this is all over.
+Dialogue: 0,0:06:18.98,0:06:21.59,*Default,NTP,0000,0000,0000,,好恶心  你想要我们互相交配吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ew! You want us to mate with each other?!
+Dialogue: 0,0:06:21.59,0:06:23.44,*Default,NTP,0000,0000,0000,,不  你们得跟别人家的孩子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, you'll mate with the other kids
+Dialogue: 0,0:06:23.44,0:06:24.86,*Default,NTP,0000,0000,0000,,在别人家的地下室交配\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}in other basements.
+Dialogue: 0,0:06:24.86,0:06:26.19,*Default,NTP,0000,0000,0000,,你们继续\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Keep talking.
+Dialogue: 0,0:06:26.19,0:06:29.19,*Default,NTP,0000,0000,0000,,好棒  "锦绣三重奏"不插电演奏会\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right! JVH unplugged!
+Dialogue: 0,0:06:29.19,0:06:30.77,*Default,NTP,0000,0000,0000,,湿嗒嗒的银发羞嗒嗒地甩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look at all that wet gray hair.
+Dialogue: 0,0:06:30.77,0:06:33.15,*Default,NTP,0000,0000,0000,,鲍鲍你看  雨果来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, Bobby, look at Hugo.
+Dialogue: 0,0:06:33.15,0:06:34.84,*Default,NTP,0000,0000,0000,,还有可怜的落汤鸡罗恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, and poor wet Ron.
+Dialogue: 0,0:06:34.84,0:06:36.86,*Default,NTP,0000,0000,0000,,-是不是很滑稽  -鲍鲍\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Yeah. Isn't it hilarious? - Bobby.
+Dialogue: 0,0:06:36.86,0:06:38.22,*Default,NTP,0000,0000,0000,,好啦  我去开门\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, I'll let them in.
+Dialogue: 0,0:06:38.22,0:06:39.77,*Default,NTP,0000,0000,0000,,我只是想让他们欣赏一下我的菊花\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I just want to give them a pressed ham first.
+Dialogue: 0,0:06:39.77,0:06:40.36,*Default,NTP,0000,0000,0000,,快住手\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stop it!
+Dialogue: 0,0:06:40.37,0:06:41.41,*Default,NTP,0000,0000,0000,,求求你  答应我嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, let me.
+Dialogue: 0,0:06:41.41,0:06:42.30,*Default,NTP,0000,0000,0000,,那好吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right.
+Dialogue: 0,0:06:43.80,0:06:45.83,*Default,NTP,0000,0000,0000,,抱歉把你家的餐巾纸都用光了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sorry for using all of your napkins.
+Dialogue: 0,0:06:45.83,0:06:48.25,*Default,NTP,0000,0000,0000,,鲍勃  谢谢你让我们进来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I want to thank you for bringing us in, Bob.
+Dialogue: 0,0:06:48.25,0:06:49.74,*Default,NTP,0000,0000,0000,,那都是琳达的意思\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It was totally Linda's idea.
+Dialogue: 0,0:06:49.74,0:06:51.74,*Default,NTP,0000,0000,0000,,她可真是善解人意\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She is so damn considerate!
+Dialogue: 0,0:06:51.74,0:06:53.92,*Default,NTP,0000,0000,0000,,你什么都有  而我却一无所有\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You have everything, and I have nothing.
+Dialogue: 0,0:06:53.92,0:06:55.22,*Default,NTP,0000,0000,0000,,苍天  我好孤独\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}God, so alone!
+Dialogue: 0,0:06:55.98,0:06:57.92,*Default,NTP,0000,0000,0000,,龙虾节是我的全部\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lobsterfest was all I had.
+Dialogue: 0,0:06:57.92,0:06:59.26,*Default,NTP,0000,0000,0000,,现在也没了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And now that's gone, too.
+Dialogue: 0,0:06:59.26,0:07:00.91,*Default,NTP,0000,0000,0000,,我活着就是一个笑柄\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look at me. I'm a joke!
+Dialogue: 0,0:07:00.91,0:07:01.88,*Default,NTP,0000,0000,0000,,没错  真糟糕\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, that's too bad.
+Dialogue: 0,0:07:01.88,0:07:03.77,*Default,NTP,0000,0000,0000,,鲍鲍  龙虾女仆们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Bobby, some of the Lobster Maidens
+Dialogue: 0,0:07:03.77,0:07:05.77,*Default,NTP,0000,0000,0000,,很想玩湿衣大赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are open to the idea of a wet gown contest.
+Dialogue: 0,0:07:05.77,0:07:07.50,*Default,NTP,0000,0000,0000,,提供个奖品怎么样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Want to put up a prize?
+Dialogue: 0,0:07:07.50,0:07:08.66,*Default,NTP,0000,0000,0000,,毛巾行么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, how about a towel?
+Dialogue: 0,0:07:08.66,0:07:11.76,*Default,NTP,0000,0000,0000,,我的老天  这句真好笑\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ha! Oh, my God. That's so funny.
+Dialogue: 0,0:07:11.76,0:07:13.64,*Default,NTP,0000,0000,0000,,格雷琴  来认识下雨果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gretchen, have you, uh, met Hugo?
+Dialogue: 0,0:07:13.64,0:07:16.15,*Default,NTP,0000,0000,0000,,他本来是龙虾节的大元帅来着\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He was gonna be grand marshal at the Lobsterfest.
+Dialogue: 0,0:07:16.15,0:07:18.14,*Default,NTP,0000,0000,0000,,肩带很威武嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ooh. Nice sash.
+Dialogue: 0,0:07:18.14,0:07:19.47,*Default,NTP,0000,0000,0000,,有没有拿下来过\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ever take it off?
+Dialogue: 0,0:07:19.47,0:07:20.71,*Default,NTP,0000,0000,0000,,老实说  星期一\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, actually, on Monday,
+Dialogue: 0,0:07:20.71,0:07:22.41,*Default,NTP,0000,0000,0000,,我得把它拿去干洗  然后还回去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have to dry-clean it and give it back.
+Dialogue: 0,0:07:22.41,0:07:25.27,*Default,NTP,0000,0000,0000,,雨果 格雷琴对权威人物很感兴趣\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, Hugo, Gretchen is into authority figures.
+Dialogue: 0,0:07:25.28,0:07:27.57,*Default,NTP,0000,0000,0000,,警察  消防员  甚至邮递员\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cops, firemen, even mailmen,
+Dialogue: 0,0:07:27.57,0:07:28.98,*Default,NTP,0000,0000,0000,,只要有重大固定路线就行\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}if they have an important route.
+Dialogue: 0,0:07:28.98,0:07:30.56,*Default,NTP,0000,0000,0000,,天啊  我也是\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my Gosh. So am I!
+Dialogue: 0,0:07:30.56,0:07:31.32,*Default,NTP,0000,0000,0000,,什么  你对邮递员感兴趣么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What, you're into mailmen?
+Dialogue: 0,0:07:31.32,0:07:32.97,*Default,NTP,0000,0000,0000,,如果他们有重大固定路线的话\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, if they have an important route.
+Dialogue: 0,0:07:32.97,0:07:34.84,*Default,NTP,0000,0000,0000,,我觉得鲍勃想说的是\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think what Bob's saying is,
+Dialogue: 0,0:07:34.84,0:07:36.20,*Default,NTP,0000,0000,0000,,她喜欢佩戴勋章的男人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}she likes a man with a badge.
+Dialogue: 0,0:07:36.20,0:07:36.85,*Default,NTP,0000,0000,0000,,你不是有一个么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You have a badge.
+Dialogue: 0,0:07:36.85,0:07:37.72,*Default,NTP,0000,0000,0000,,格雷琴\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Gretchen!
+Dialogue: 0,0:07:37.72,0:07:38.60,*Default,NTP,0000,0000,0000,,干嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Huh?
+Dialogue: 0,0:07:38.60,0:07:40.54,*Default,NTP,0000,0000,0000,,雨果还是个卫生检查员\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Hugo's also a health inspector.
+Dialogue: 0,0:07:40.54,0:07:42.44,*Default,NTP,0000,0000,0000,,就像是食品治安官\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's like being a food sheriff.
+Dialogue: 0,0:07:42.44,0:07:43.88,*Default,NTP,0000,0000,0000,,这是我的勋章\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is my badge.
+Dialogue: 0,0:07:43.88,0:07:45.57,*Default,NTP,0000,0000,0000,,有点小啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kind of small.
+Dialogue: 0,0:07:45.57,0:07:46.63,*Default,NTP,0000,0000,0000,,你有枪么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You got a gun?
+Dialogue: 0,0:07:46.63,0:07:50.64,*Default,NTP,0000,0000,0000,,没有  实际上  我没有佩枪的资格\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, no. Actually, I'm not, uh... licensed to carry a firearm.
+Dialogue: 0,0:07:50.64,0:07:52.28,*Default,NTP,0000,0000,0000,,但我有食品安全检测仪\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I do have a food safety thermometer,
+Dialogue: 0,0:07:52.28,0:07:53.02,*Default,NTP,0000,0000,0000,,它非常的敏锐\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and it's very sharp.
+Dialogue: 0,0:07:53.02,0:07:54.16,*Default,NTP,0000,0000,0000,,雨果  拿出来看看\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Pull it out, Hugo.
+Dialogue: 0,0:07:54.16,0:07:55.39,*Default,NTP,0000,0000,0000,,对啊  雨果  拿出来看看\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, pull it out, Hugo.
+Dialogue: 0,0:07:55.39,0:07:57.83,*Default,NTP,0000,0000,0000,,小心点\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa! Watch out.
+Dialogue: 0,0:07:57.84,0:07:59.03,*Default,NTP,0000,0000,0000,,就是这个玩意啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here it is. Ooh.
+Dialogue: 0,0:07:59.03,0:08:00.75,*Default,NTP,0000,0000,0000,,不安全范围\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Unsafe Range".
+Dialogue: 0,0:08:00.75,0:08:03.50,*Default,NTP,0000,0000,0000,,我喜欢鲍鱼的颜色粉嫩一些\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I like my pork a little pink.
+Dialogue: 0,0:08:00.75,0:08:03.50,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}(ˉ▽ˉ" )没错\N你们懂的
+Dialogue: 0,0:08:11.32,0:08:12.69,*Default,NTP,0000,0000,0000,,蒂娜  你在干什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tina, what are you doing?
+Dialogue: 0,0:08:12.69,0:08:13.81,*Default,NTP,0000,0000,0000,,我在列交配清单\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm working on my mating list
+Dialogue: 0,0:08:13.81,0:08:15.58,*Default,NTP,0000,0000,0000,,重整家园时会用到的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for when we have to repopulate the world.
+Dialogue: 0,0:08:15.65,0:08:17.02,*Default,NTP,0000,0000,0000,,我看看\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let me see.
+Dialogue: 0,0:08:17.09,0:08:18.45,*Default,NTP,0000,0000,0000,,同性恋  同性恋\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gay. Gay.
+Dialogue: 0,0:08:18.52,0:08:20.06,*Default,NTP,0000,0000,0000,,虚拟人物\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mythical creature.
+Dialogue: 0,0:08:20.12,0:08:21.56,*Default,NTP,0000,0000,0000,,同性恋虚拟人物\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gay mythical creature.
+Dialogue: 0,0:08:21.63,0:08:23.16,*Default,NTP,0000,0000,0000,,祝你好运\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good luck.
+Dialogue: 0,0:08:23.23,0:08:24.58,*Default,NTP,0000,0000,0000,,各位  我们这是在浪费时间\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Guys, we're wasting time here.
+Dialogue: 0,0:08:24.65,0:08:26.15,*Default,NTP,0000,0000,0000,,我们得溜出去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We got to sneak out.
+Dialogue: 0,0:08:26.21,0:08:27.88,*Default,NTP,0000,0000,0000,,溜出去  可是外面正在刮飓风啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sneak out? But there's a hurricane.
+Dialogue: 0,0:08:27.95,0:08:29.25,*Default,NTP,0000,0000,0000,,这才是重头戏\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's my point.
+Dialogue: 0,0:08:29.25,0:08:32.22,*Default,NTP,0000,0000,0000,,我们应该出去  在暴风雨中  抢劫\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We should be out there, in the wind and rain, looting!
+Dialogue: 0,0:08:32.29,0:08:33.77,*Default,NTP,0000,0000,0000,,抢劫\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Looting?!
+Dialogue: 0,0:08:33.84,0:08:36.64,*Default,NTP,0000,0000,0000,,具体要怎样抢呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So how do we do this looting thing exactly?
+Dialogue: 0,0:08:36.69,0:08:37.72,*Default,NTP,0000,0000,0000,,简单的很\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's easy.
+Dialogue: 0,0:08:37.72,0:08:39.90,*Default,NTP,0000,0000,0000,,能拿走的  就可以拿着走了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You grab anything that's not nailed down.
+Dialogue: 0,0:08:39.90,0:08:41.93,*Default,NTP,0000,0000,0000,,能拿走的  这块砖头可以吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Anything? Like this brick?
+Dialogue: 0,0:08:42.00,0:08:44.23,*Default,NTP,0000,0000,0000,,-它是你的了  -免费砖头\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- It's yours. - Free brick!
+Dialogue: 0,0:08:44.30,0:08:45.25,*Default,NTP,0000,0000,0000,,免费硬币\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Free quarter.
+Dialogue: 0,0:08:45.32,0:08:46.28,*Default,NTP,0000,0000,0000,,免费号码\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Free phone numbers.
+Dialogue: 0,0:08:46.35,0:08:47.05,*Default,NTP,0000,0000,0000,,免费海藻\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Free seaweed.
+Dialogue: 0,0:08:47.05,0:08:49.22,*Default,NTP,0000,0000,0000,,吉恩  免费木板\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, free plywood.
+Dialogue: 0,0:08:50.82,0:08:52.86,*Default,NTP,0000,0000,0000,,鲍勃  收银机打不开了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Bob, the cash register won't open,
+Dialogue: 0,0:08:52.92,0:08:54.57,*Default,NTP,0000,0000,0000,,还有  你上汉堡的速度过快\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and you're serving burgers so fast,
+Dialogue: 0,0:08:54.66,0:08:56.59,*Default,NTP,0000,0000,0000,,我都记不清该收谁的欠条了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't even know who to get an IOU from.
+Dialogue: 0,0:08:56.59,0:08:58.93,*Default,NTP,0000,0000,0000,,放松  琳达  我来处理\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Relax, Linda. I'll take care of it.
+Dialogue: 0,0:08:59.00,0:09:01.36,*Default,NTP,0000,0000,0000,,听我说  听我说\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, hey, hey, hey, listen up, listen up.
+Dialogue: 0,0:09:01.43,0:09:03.37,*Default,NTP,0000,0000,0000,,你们都是我的朋友\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're all my friends.
+Dialogue: 0,0:09:03.43,0:09:06.44,*Default,NTP,0000,0000,0000,,朋友不收朋友的钱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And friends don't charge friends.
+Dialogue: 0,0:09:06.50,0:09:08.14,*Default,NTP,0000,0000,0000,,今晚汉堡免费\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The burgers are free, people!
+Dialogue: 0,0:09:08.21,0:09:09.76,*Default,NTP,0000,0000,0000,,所有食物全部免费\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everything is gonna be free!
+Dialogue: 0,0:09:09.84,0:09:12.11,*Default,NTP,0000,0000,0000,,鲍勃  飓风天气营业的意义\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, I thought the point of staying open
+Dialogue: 0,0:09:12.18,0:09:14.18,*Default,NTP,0000,0000,0000,,是为了多赚点钱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}during a hurricane was to make money!
+Dialogue: 0,0:09:14.23,0:09:16.80,*Default,NTP,0000,0000,0000,,这比赚钱重要多了  琳\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is way more important than money, Lin!
+Dialogue: 0,0:09:16.86,0:09:18.83,*Default,NTP,0000,0000,0000,,龙虾节死翘翘了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lobsterfest is dead.
+Dialogue: 0,0:09:18.90,0:09:20.60,*Default,NTP,0000,0000,0000,,鲍堡节取而代之\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bobsterfest killed it!
+Dialogue: 0,0:09:20.67,0:09:21.98,*Default,NTP,0000,0000,0000,,鲍堡节万岁\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Long live Bobsterfest!
+Dialogue: 0,0:09:24.86,0:09:26.27,*Default,NTP,0000,0000,0000,,抢劫好艰辛啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Looting is hard.
+Dialogue: 0,0:09:26.34,0:09:27.99,*Default,NTP,0000,0000,0000,,我想抢屁股\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, I think I'm getting loot glutes.
+Dialogue: 0,0:09:28.06,0:09:29.41,*Default,NTP,0000,0000,0000,,这些东西可真没档次\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This stuff sucks.
+Dialogue: 0,0:09:29.49,0:09:31.83,*Default,NTP,0000,0000,0000,,我们回家吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go home.
+Dialogue: 0,0:09:31.90,0:09:33.60,*Default,NTP,0000,0000,0000,,快看\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hello.
+Dialogue: 0,0:09:33.66,0:09:35.10,*Default,NTP,0000,0000,0000,,爬过来一只什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What have we here?
+Dialogue: 0,0:09:35.17,0:09:36.63,*Default,NTP,0000,0000,0000,,也许他迷路了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe he's lost.
+Dialogue: 0,0:09:36.70,0:09:37.65,*Default,NTP,0000,0000,0000,,看看它的脖子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Check his collar.
+Dialogue: 0,0:09:37.65,0:09:39.47,*Default,NTP,0000,0000,0000,,抓住它  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get him, Gene!
+Dialogue: 0,0:09:39.47,0:09:42.40,*Default,NTP,0000,0000,0000,,这个小家伙看起来像是掉进了办公用品中\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Looks like this little guy got into some office supplies.
+Dialogue: 0,0:09:42.40,0:09:44.74,*Default,NTP,0000,0000,0000,,没错  那两个皮套碍眼死了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, those rubber bands don't look comfortable.
+Dialogue: 0,0:09:44.74,0:09:46.24,*Default,NTP,0000,0000,0000,,你应该把它拿掉\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You should take them off.
+Dialogue: 0,0:09:48.26,0:09:49.69,*Default,NTP,0000,0000,0000,,这是我们唯一的一次机会\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is our one chance to see
+Dialogue: 0,0:09:49.69,0:09:51.73,*Default,NTP,0000,0000,0000,,体验传说中的传说\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}what everyone else is talking about.
+Dialogue: 0,0:09:51.80,0:09:53.03,*Default,NTP,0000,0000,0000,,你什么意思\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What do you mean?
+Dialogue: 0,0:09:53.10,0:09:54.38,*Default,NTP,0000,0000,0000,,今晚有龙虾吃呗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're gonna eat lobster tonight!
+Dialogue: 0,0:09:54.38,0:09:57.24,*Default,NTP,0000,0000,0000,,可这背离了我们一直以来的信仰\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But that goes against everything we were raised to believe in!
+Dialogue: 0,0:09:57.30,0:09:59.14,*Default,NTP,0000,0000,0000,,这不是背离我们的信仰\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It doesn't go against everything, okay?
+Dialogue: 0,0:09:59.21,0:10:01.16,*Default,NTP,0000,0000,0000,,不过这是个很好的开始\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But it's a start.
+Dialogue: 0,0:10:01.22,0:10:04.19,*Default,NTP,0000,0000,0000,,偷尝禁果的机会来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now's our chance to taste the forbidden fruit
+Dialogue: 0,0:10:04.26,0:10:06.70,*Default,NTP,0000,0000,0000,,一生一次的机会终于来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}that has been kept from us our whole lives.
+Dialogue: 0,0:10:06.76,0:10:08.15,*Default,NTP,0000,0000,0000,,你们支持我吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you with me?
+Dialogue: 0,0:10:08.15,0:10:10.07,*Default,NTP,0000,0000,0000,,-支持  -好啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Yeah! - Okay.
+Dialogue: 0,0:10:10.13,0:10:15.62,*Default,NTP,0000,0000,0000,,一位慷慨人士把龙虾节变成了鲍堡节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And one man's generosity has turned Lobsterfest into Bobsterfest.
+Dialogue: 0,0:10:15.71,0:10:17.86,*Default,NTP,0000,0000,0000,,我们来采访一下当事人  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're trying to get a word with Bob himself here.
+Dialogue: 0,0:10:17.92,0:10:20.78,*Default,NTP,0000,0000,0000,,我爱你  斯科特·佰格滋\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I love you, Scott Bags!
+Dialogue: 0,0:10:20.84,0:10:22.40,*Default,NTP,0000,0000,0000,,话筒底下连着线呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, there's a cable on that.
+Dialogue: 0,0:10:22.46,0:10:23.53,*Default,NTP,0000,0000,0000,,你别乱跑啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can't go all the way over there.
+Dialogue: 0,0:10:23.60,0:10:23.99,*Default,NTP,0000,0000,0000,,跟我走\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You come with me!
+Dialogue: 0,0:10:23.99,0:10:24.66,*Default,NTP,0000,0000,0000,,好的  好的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, okay.
+Dialogue: 0,0:10:24.73,0:10:26.10,*Default,NTP,0000,0000,0000,,跟我走\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You come with me!
+Dialogue: 0,0:10:26.17,0:10:27.28,*Default,NTP,0000,0000,0000,,可以把麦克风还给我吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can I... can I get my mic back, please?
+Dialogue: 0,0:10:27.35,0:10:28.90,*Default,NTP,0000,0000,0000,,你来拿呀\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You come up and get it.
+Dialogue: 0,0:10:28.91,0:10:29.42,*Default,NTP,0000,0000,0000,,把麦克风还给我\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give me the mic!
+Dialogue: 0,0:10:29.49,0:10:31.87,*Default,NTP,0000,0000,0000,,鲍勃  鲍勃  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob! Bob! Bob...!
+Dialogue: 0,0:10:31.87,0:10:33.04,*Default,NTP,0000,0000,0000,,感觉好怪异\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This feels weird!
+Dialogue: 0,0:10:33.11,0:10:34.62,*Default,NTP,0000,0000,0000,,老兄\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, bro.
+Dialogue: 0,0:10:34.69,0:10:37.09,*Default,NTP,0000,0000,0000,,我是不是挑起了你的欲望  雨果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did I hook you up or what, Hugo?
+Dialogue: 0,0:10:38.73,0:10:40.56,*Default,NTP,0000,0000,0000,,我这是要去哪里  这边吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, where are we going now? Over here?
+Dialogue: 0,0:10:40.63,0:10:42.36,*Default,NTP,0000,0000,0000,,谁说了算啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who decides which way we go?
+Dialogue: 0,0:10:42.43,0:10:43.82,*Default,NTP,0000,0000,0000,,那位是琳达  我老婆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There's Linda, my wife!
+Dialogue: 0,0:10:43.90,0:10:46.64,*Default,NTP,0000,0000,0000,,琳达  你看起来很生气\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Linda, you look mad.
+Dialogue: 0,0:10:46.69,0:10:48.15,*Default,NTP,0000,0000,0000,,咱们走另外一边吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go the other way.
+Dialogue: 0,0:10:48.22,0:10:50.79,*Default,NTP,0000,0000,0000,,转回去  拜  琳达\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Turn around. Bye, Linda.
+Dialogue: 0,0:10:53.26,0:10:55.13,*Default,NTP,0000,0000,0000,,感觉如何啊  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How you feeling, Bob?
+Dialogue: 0,0:10:55.20,0:10:56.86,*Default,NTP,0000,0000,0000,,什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What?
+Dialogue: 0,0:10:56.93,0:10:58.33,*Default,NTP,0000,0000,0000,,天哪  琳\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my God. Lin!
+Dialogue: 0,0:10:58.40,0:10:59.88,*Default,NTP,0000,0000,0000,,餐馆全毁了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The restaurant's destroyed.
+Dialogue: 0,0:10:59.95,0:11:01.73,*Default,NTP,0000,0000,0000,,龙卷风横扫这里  我们被袭了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The hurricane swept right through here, we got hit!
+Dialogue: 0,0:11:01.73,0:11:04.09,*Default,NTP,0000,0000,0000,,事实上  龙卷风转向了  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Actually, the hurricane missed us, Bob.
+Dialogue: 0,0:11:04.15,0:11:05.75,*Default,NTP,0000,0000,0000,,外面景色动人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's beautiful out.
+Dialogue: 0,0:11:07.66,0:11:09.94,*Default,NTP,0000,0000,0000,,你就是龙卷风  傻逼\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You were the hurricane, schmuck!
+Dialogue: 0,0:11:13.21,0:11:15.05,*Default,NTP,0000,0000,0000,,你好  格雷琴\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Gretchen.
+Dialogue: 0,0:11:15.12,0:11:16.80,*Default,NTP,0000,0000,0000,,你有我能穿的运动裤吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you have some sweat pants I can put on?
+Dialogue: 0,0:11:21.07,0:11:21.99,*Default,NTP,0000,0000,0000,,琳达\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Linda.
+Dialogue: 0,0:11:22.73,0:11:25.34,*Default,NTP,0000,0000,0000,,琳达  我感觉很不舒服\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Linda. I don't feel well.
+Dialogue: 0,0:11:25.34,0:11:26.48,*Default,NTP,0000,0000,0000,,你瞅瞅你这幅鬼样子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't even look at you.
+Dialogue: 0,0:11:26.48,0:11:27.63,*Default,NTP,0000,0000,0000,,我感觉很不舒服\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't feel well.
+Dialogue: 0,0:11:27.63,0:11:28.66,*Default,NTP,0000,0000,0000,,这是我整的吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I did this?
+Dialogue: 0,0:11:28.66,0:11:29.91,*Default,NTP,0000,0000,0000,,你和那帮乌合之众\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You and the mob you incited
+Dialogue: 0,0:11:29.91,0:11:32.35,*Default,NTP,0000,0000,0000,,喝着免费啤酒  吃着免费汉堡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}with free beer and burgers.
+Dialogue: 0,0:11:32.35,0:11:34.62,*Default,NTP,0000,0000,0000,,谁把我的票插弄弯了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, who bent my little spindle thing?
+Dialogue: 0,0:11:34.62,0:11:36.02,*Default,NTP,0000,0000,0000,,你只注意到这个吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's what you notice?!
+Dialogue: 0,0:11:36.02,0:11:37.81,*Default,NTP,0000,0000,0000,,好了  琳  现在看起来是很糟糕\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, Lin, it looks bad now,
+Dialogue: 0,0:11:37.81,0:11:40.25,*Default,NTP,0000,0000,0000,,但是我们昨晚交了很多新朋友啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but we made a lot of new friends last night.
+Dialogue: 0,0:11:40.25,0:11:42.63,*Default,NTP,0000,0000,0000,,一旦我鲍勃开口求助\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Once word spreads that Bob needs help,
+Dialogue: 0,0:11:42.63,0:11:44.22,*Default,NTP,0000,0000,0000,,这里就会重新挤满人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}this place will be jammed again.
+Dialogue: 0,0:11:44.22,0:11:46.33,*Default,NTP,0000,0000,0000,,而最大的问题其实是\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The biggest problem is gonna be
+Dialogue: 0,0:11:46.33,0:11:48.21,*Default,NTP,0000,0000,0000,,给需要工作的人找个活干\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}finding a job for everybody who wants one.
+Dialogue: 0,0:11:48.21,0:11:49.80,*Default,NTP,0000,0000,0000,,天啊  我很担心这东西\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gee, I'm worried about this,
+Dialogue: 0,0:11:49.80,0:11:50.65,*Default,NTP,0000,0000,0000,,我真的很喜欢它\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I really love it.
+Dialogue: 0,0:11:54.45,0:11:58.63,*Default,NTP,0000,0000,0000,,好了  昨晚的技术问题已经解决了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, technical problems from last night have been resolved.
+Dialogue: 0,0:11:58.63,0:12:02.34,*Default,NTP,0000,0000,0000,,吹风机  加上铁板  还有烤箱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hair dryer plus waffle iron plus toaster
+Dialogue: 0,0:12:02.34,0:12:03.82,*Default,NTP,0000,0000,0000,,就等于开水\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}equals boiling water.
+Dialogue: 0,0:12:03.82,0:12:05.89,*Default,NTP,0000,0000,0000,,在把它煮熟前  要怎么杀死它啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So how do we kill this guy before we boil him?
+Dialogue: 0,0:12:05.89,0:12:07.64,*Default,NTP,0000,0000,0000,,我们可以教龙虾开车\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We could teach the lobster to drive
+Dialogue: 0,0:12:07.64,0:12:09.34,*Default,NTP,0000,0000,0000,,然后等着看它被车撞死\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and wait until it gets into an accident.
+Dialogue: 0,0:12:09.34,0:12:12.19,*Default,NTP,0000,0000,0000,,或者雇个刺客\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or we could hire an assassin.
+Dialogue: 0,0:12:12.19,0:12:14.03,*Default,NTP,0000,0000,0000,,不  傻逼  龙虾要活着煮才对\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, idiots, you boil lobsters alive.
+Dialogue: 0,0:12:14.03,0:12:16.29,*Default,NTP,0000,0000,0000,,什么  听起来不对劲啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What?! That doesn't sound right.
+Dialogue: 0,0:12:16.29,0:12:18.20,*Default,NTP,0000,0000,0000,,没错  把它煮到死\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yep. Until he's dead.
+Dialogue: 0,0:12:18.20,0:12:19.87,*Default,NTP,0000,0000,0000,,然后再多煮一会\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And then we boil him some more.
+Dialogue: 0,0:12:19.87,0:12:21.01,*Default,NTP,0000,0000,0000,,要开煮了哦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here we go.
+Dialogue: 0,0:12:21.01,0:12:23.16,*Default,NTP,0000,0000,0000,,等等  怎么感觉有点不对劲呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait, this does'nt feel right.
+Dialogue: 0,0:12:23.29,0:12:26.25,*Default,NTP,0000,0000,0000,,在小黑屋里往脖子上掖条手纸就开吃了么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Doing it in a dark room with toilet paper around my neck?
+Dialogue: 0,0:12:26.32,0:12:28.76,*Default,NTP,0000,0000,0000,,我还以为第一次吃龙虾会特别一点\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I thought my first time eating lobster would be special.
+Dialogue: 0,0:12:28.76,0:12:31.55,*Default,NTP,0000,0000,0000,,现在  请随着小吉米夫妇\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And now please join Mr. and Mrs. Jimmy Jr.
+Dialogue: 0,0:12:31.55,0:12:34.34,*Default,NTP,0000,0000,0000,,吃下他们人生中的第一只龙虾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}as they eat their first lobster!
+Dialogue: 0,0:12:36.14,0:12:39.40,*Default,NTP,0000,0000,0000,,我也以为第一次吃龙虾会与众不同呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I thought my first time eating lobster would be different, too.
+Dialogue: 0,0:12:38.57,0:12:40.87,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}后台
+Dialogue: 0,0:12:39.46,0:12:41.42,*Default,NTP,0000,0000,0000,,吉恩  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene! Gene!
+Dialogue: 0,0:12:41.48,0:12:43.78,*Default,NTP,0000,0000,0000,,他们在热水桶里等着你呢  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're waiting for you in the hot tub, Gene.
+Dialogue: 0,0:12:43.85,0:12:45.14,*Default,NTP,0000,0000,0000,,好极了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excellent!
+Dialogue: 0,0:12:48.01,0:12:49.23,*Default,NTP,0000,0000,0000,,第二天重复前一天的内容\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And the next day do it again--
+Dialogue: 0,0:12:49.23,0:12:51.22,*Default,NTP,0000,0000,0000,,唱相同的歌曲  吃不同的龙虾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}same songs, different lobsters.
+Dialogue: 0,0:12:51.22,0:12:52.87,*Default,NTP,0000,0000,0000,,你们两个脑子被夹了是吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's the matter with you two?
+Dialogue: 0,0:12:52.87,0:12:54.52,*Default,NTP,0000,0000,0000,,那你说说  露易丝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, Louise,
+Dialogue: 0,0:12:54.52,0:12:56.08,*Default,NTP,0000,0000,0000,,这是你想象中初次品尝龙虾的情景吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}is this really how you imagined your first time?
+Dialogue: 0,0:12:56.09,0:12:57.37,*Default,NTP,0000,0000,0000,,是啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:12:57.37,0:12:59.84,*Default,NTP,0000,0000,0000,,好吧  不太符合\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, not quite.
+Dialogue: 0,0:12:59.84,0:13:01.65,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}州监狱
+Dialogue: 0,0:12:59.84,0:13:01.65,*Default,NTP,0000,0000,0000,,露易丝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Louise,
+Dialogue: 0,0:13:01.65,0:13:03.38,*Default,NTP,0000,0000,0000,,今天  你要为你犯下的滔天大罪\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}today, you pay the super price
+Dialogue: 0,0:13:03.38,0:13:06.05,*Default,NTP,0000,0000,0000,,付出昂贵的代价\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for your super crimes.
+Dialogue: 0,0:13:06.05,0:13:08.04,*Default,NTP,0000,0000,0000,,好好享受你最后的晚餐吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Enjoy your last meal.
+Dialogue: 0,0:13:08.05,0:13:09.66,*Default,NTP,0000,0000,0000,,看我的...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It'll do just fine...
+Dialogue: 0,0:13:09.66,0:13:10.71,*Default,NTP,0000,0000,0000,,飞天钳\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}in a pinch!
+Dialogue: 0,0:13:13.16,0:13:15.24,*Default,NTP,0000,0000,0000,,也许我们操之过急了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe we have been rushing things.
+Dialogue: 0,0:13:15.24,0:13:16.75,*Default,NTP,0000,0000,0000,,我想等准备好了再吃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I want to wait till I'm ready.
+Dialogue: 0,0:13:16.75,0:13:18.14,*Default,NTP,0000,0000,0000,,别向这小妮子屈服\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's not give in to peer pressure.
+Dialogue: 0,0:13:18.14,0:13:19.55,*Default,NTP,0000,0000,0000,,我们把龙虾放回到\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's release the lobster
+Dialogue: 0,0:13:19.55,0:13:22.09,*Default,NTP,0000,0000,0000,,出售它的那家超市去吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}back into the supermarket from whence he came!
+Dialogue: 0,0:13:22.09,0:13:23.18,*Default,NTP,0000,0000,0000,,我想你们说的对\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I guess you're right.
+Dialogue: 0,0:13:23.19,0:13:26.84,*Default,NTP,0000,0000,0000,,这家伙哪辈子修来的...  糟了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Looks like this guy's the one that got a... Whoa! Oops!
+Dialogue: 0,0:13:27.59,0:13:29.16,*Default,NTP,0000,0000,0000,,我们有龙虾吃了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I guess we're having lobster.
+Dialogue: 0,0:13:29.16,0:13:30.33,*Default,NTP,0000,0000,0000,,这是命中注定的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It was meant to be.
+Dialogue: 0,0:13:30.33,0:13:31.01,*Default,NTP,0000,0000,0000,,你结婚的时候\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When you get married,
+Dialogue: 0,0:13:31.01,0:13:33.83,*Default,NTP,0000,0000,0000,,装成那是你第一次吃龙虾好了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}just pretend it's your first time eating lobster.
+Dialogue: 0,0:13:33.83,0:13:34.97,*Default,NTP,0000,0000,0000,,没问题\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No problem.
+Dialogue: 0,0:13:35.62,0:13:36.54,*Default,NTP,0000,0000,0000,,下来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Down it comes!
+Dialogue: 0,0:13:36.54,0:13:38.03,*Default,NTP,0000,0000,0000,,这座精美绝伦的黄油雕像\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This stunning butter sculpture,
+Dialogue: 0,0:13:38.03,0:13:39.69,*Default,NTP,0000,0000,0000,,是朱莉娅·柴尔德\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the likeness of Julia Child,
+Dialogue: 0,0:13:39.70,0:13:41.89,*Default,NTP,0000,0000,0000,,它集众多黄油条块制作而成\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}was made from every available stick and pat of butter
+Dialogue: 0,0:13:41.89,0:13:44.19,*Default,NTP,0000,0000,0000,,远近的黄油都被用光了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}within the local and outlying communities.
+Dialogue: 0,0:13:44.19,0:13:45.99,*Default,NTP,0000,0000,0000,,朱莉娅的脚下来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And there goes Julia's feet!
+Dialogue: 0,0:13:45.99,0:13:48.55,*Default,NTP,0000,0000,0000,,什么  龙虾节又重新启动了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What?! Lobsterfest is back on?
+Dialogue: 0,0:13:48.55,0:13:52.88,*Default,NTP,0000,0000,0000,,我说伙计  你们不是要去参加龙虾节吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, guys, um, you're not going to Lobsterfest, are you?
+Dialogue: 0,0:13:54.34,0:13:56.12,*Default,NTP,0000,0000,0000,,我有困难了  伙计们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm in kind of a bind, fellas.
+Dialogue: 0,0:13:56.12,0:13:58.32,*Default,NTP,0000,0000,0000,,在我的餐馆里赫然躺着个邮筒\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There's a mailbox in the middle of my restaurant.
+Dialogue: 0,0:13:58.32,0:14:00.48,*Default,NTP,0000,0000,0000,,你能帮我寄一下吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh! Can you mail this for me?
+Dialogue: 0,0:14:00.48,0:14:02.20,*Default,NTP,0000,0000,0000,,等等  我说  伙计们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait. Hey, guys?
+Dialogue: 0,0:14:02.26,0:14:05.17,*Default,NTP,0000,0000,0000,,你来啦  哥们  雨果  你好啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There he is, my buddy, Hugo! Hi.
+Dialogue: 0,0:14:05.23,0:14:06.83,*Default,NTP,0000,0000,0000,,-你好  鲍勃  -你好  鲍鲍\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Oh, hi, Bob. - Hi, Bobby.
+Dialogue: 0,0:14:06.90,0:14:08.37,*Default,NTP,0000,0000,0000,,你们两个要干嘛去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you both doing right now?
+Dialogue: 0,0:14:08.44,0:14:11.71,*Default,NTP,0000,0000,0000,,我的餐馆  昨晚不巧被毁掉了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My, uh, place, uh, happened to get destroyed last night.
+Dialogue: 0,0:14:11.77,0:14:13.11,*Default,NTP,0000,0000,0000,,-真的吗  -是啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Oh, really? - Yeah.
+Dialogue: 0,0:14:13.17,0:14:14.33,*Default,NTP,0000,0000,0000,,-我餐馆里...  -鲍勃  我非常忙\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- In the middle of... - Bob, I'm very busy.
+Dialogue: 0,0:14:14.33,0:14:16.73,*Default,NTP,0000,0000,0000,,众桌浓汤等着我评判呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have tables and tables of bisque to judge.
+Dialogue: 0,0:14:16.73,0:14:18.52,*Default,NTP,0000,0000,0000,,昨晚是我给你们两个牵的线				\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, I hooked you two up last night,
+Dialogue: 0,0:14:18.52,0:14:19.58,*Default,NTP,0000,0000,0000,,你们两个还弄坏了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and you guys kind of
+Dialogue: 0,0:14:19.58,0:14:22.32,*Default,NTP,0000,0000,0000,,浴室的婴儿换布台\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}broke the baby changing station in the bathroom.
+Dialogue: 0,0:14:22.32,0:14:24.74,*Default,NTP,0000,0000,0000,,来几句经典台词噎住他  雨果  我想看\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Slap him with a citation, Hugo. I want to watch.
+Dialogue: 0,0:14:24.74,0:14:26.37,*Default,NTP,0000,0000,0000,,宝贝喜欢看我耀武扬威\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Baby likes civil authority?
+Dialogue: 0,0:14:26.37,0:14:26.84,*Default,NTP,0000,0000,0000,,是啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, I love civil authority.
+Dialogue: 0,0:14:26.85,0:14:28.66,*Default,NTP,0000,0000,0000,,那我就耀下武扬下威\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll show baby civil authority.
+Dialogue: 0,0:14:29.07,0:14:31.63,*Default,NTP,0000,0000,0000,,高跷男  你从我的窗户摔了进去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stilts guy! You fell through my window.
+Dialogue: 0,0:14:31.63,0:14:33.37,*Default,NTP,0000,0000,0000,,遍地都是玻璃渣\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lot of glass on the floor.
+Dialogue: 0,0:14:33.38,0:14:35.20,*Default,NTP,0000,0000,0000,,-你要去哪  -我得走了  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Where you going? - Got to go, Bob!
+Dialogue: 0,0:14:35.22,0:14:37.80,*Default,NTP,0000,0000,0000,,如果我站的时间太久  会摔倒的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If I stay still too long, I fall over!
+Dialogue: 0,0:14:37.80,0:14:41.61,*Default,NTP,0000,0000,0000,,大家  等等  停下  等等  大家\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}People! Wait! Stop! Wait! People!
+Dialogue: 0,0:14:41.61,0:14:44.46,*Default,NTP,0000,0000,0000,,你们以为可以忽视我吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you think you can just ignore me?!
+Dialogue: 0,0:14:45.25,0:14:47.69,*Default,NTP,0000,0000,0000,,就此次意外死亡而言\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, as far as accidental death goes,
+Dialogue: 0,0:14:47.69,0:14:49.72,*Default,NTP,0000,0000,0000,,这只腿相当美味呀\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}this one was pretty tasty.
+Dialogue: 0,0:14:49.72,0:14:52.24,*Default,NTP,0000,0000,0000,,我觉得有点刺痛  你们有这种感觉吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I feel tingly. Do you feel tingly?
+Dialogue: 0,0:14:52.27,0:14:53.99,*Default,NTP,0000,0000,0000,,我想他过敏了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think he's having an allergic reaction.
+Dialogue: 0,0:14:53.99,0:14:55.17,*Default,NTP,0000,0000,0000,,我们得想想办法\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We should do something.
+Dialogue: 0,0:14:55.17,0:14:57.36,*Default,NTP,0000,0000,0000,,好  我们坐到他身上看看他会不会弹起来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, let's sit on him and see if he pops.
+Dialogue: 0,0:14:58.80,0:15:00.65,*Default,NTP,0000,0000,0000,,不  我们得带他去龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, we should take him to Lobsterfest.
+Dialogue: 0,0:15:00.67,0:15:01.67,*Default,NTP,0000,0000,0000,,那里有医疗所\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They have a medical tent.
+Dialogue: 0,0:15:01.67,0:15:03.39,*Default,NTP,0000,0000,0000,,那样我就能吃到更多的龙虾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And I could get more lobster!
+Dialogue: 0,0:15:03.39,0:15:06.20,*Default,NTP,0000,0000,0000,,-把我弹起来啊  -我正在努力\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Oh, pop! - I'm trying!
+Dialogue: 0,0:15:06.72,0:15:11.20,*Default,NTP,0000,0000,0000,,下面由锦绣三重奏献上一曲\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's hear it for John Van Horton and the music extrusion!
+Dialogue: 0,0:15:11.27,0:15:13.93,*Default,NTP,0000,0000,0000,,是我  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, it's me. Bob!
+Dialogue: 0,0:15:14.97,0:15:17.64,*Default,NTP,0000,0000,0000,,鲍勃  鲍勃  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob. Bob. Bob.
+Dialogue: 0,0:15:18.41,0:15:19.06,*Default,NTP,0000,0000,0000,,好吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay...
+Dialogue: 0,0:15:19.06,0:15:20.54,*Default,NTP,0000,0000,0000,,请安静\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}settle down.
+Dialogue: 0,0:15:20.61,0:15:22.28,*Default,NTP,0000,0000,0000,,发生什么了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Listen, what's going on here?
+Dialogue: 0,0:15:22.34,0:15:23.78,*Default,NTP,0000,0000,0000,,我们在干嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are we doing?
+Dialogue: 0,0:15:23.85,0:15:26.35,*Default,NTP,0000,0000,0000,,我记得的最后一件事\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Last thing I remember,
+Dialogue: 0,0:15:26.41,0:15:27.82,*Default,NTP,0000,0000,0000,,你们全都在我的餐馆里庆祝鲍堡节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you were all in my place and it was Bobsterfest.
+Dialogue: 0,0:15:27.88,0:15:29.65,*Default,NTP,0000,0000,0000,,我想回到那个时刻\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I want to get back to that.
+Dialogue: 0,0:15:29.72,0:15:31.39,*Default,NTP,0000,0000,0000,,让我们回到那个时刻吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go back to that!
+Dialogue: 0,0:15:31.45,0:15:34.80,*Default,NTP,0000,0000,0000,,你们之中起码有四五十个人会跟我走\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or at the very least, 40 or 50 of you come with me right now
+Dialogue: 0,0:15:34.80,0:15:37.73,*Default,NTP,0000,0000,0000,,帮我清理餐馆吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and help me clean up the restaurant!
+Dialogue: 0,0:15:37.79,0:15:39.69,*Default,NTP,0000,0000,0000,,不用一次全都来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not all at once.
+Dialogue: 0,0:15:39.76,0:15:41.16,*Default,NTP,0000,0000,0000,,你自己清理吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Clean it yourself!
+Dialogue: 0,0:15:41.23,0:15:43.70,*Default,NTP,0000,0000,0000,,老爸在龙虾节的舞台上呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa, dad's on the stage at Lobsterfest.
+Dialogue: 0,0:15:43.78,0:15:46.40,*Default,NTP,0000,0000,0000,,我看不见啊  给我详细描述一下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My eyes don't work. Paint me a word picture.
+Dialogue: 0,0:15:46.47,0:15:47.97,*Default,NTP,0000,0000,0000,,孩子们  你们在这里干嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kids? What are you doing here?
+Dialogue: 0,0:15:48.04,0:15:48.94,*Default,NTP,0000,0000,0000,,没什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nothing.
+Dialogue: 0,0:15:49.00,0:15:49.97,*Default,NTP,0000,0000,0000,,吉恩是怎么了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's wrong with Gene?
+Dialogue: 0,0:15:50.04,0:15:50.64,*Default,NTP,0000,0000,0000,,他看起来很吓人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He looks horrible.
+Dialogue: 0,0:15:50.64,0:15:52.27,*Default,NTP,0000,0000,0000,,他一直就这副德性\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He looks like he always looks.
+Dialogue: 0,0:15:52.27,0:15:54.24,*Default,NTP,0000,0000,0000,,才不是呢  是这样吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, he doesn't. Does he?
+Dialogue: 0,0:15:54.31,0:15:55.64,*Default,NTP,0000,0000,0000,,好像是对什么过敏了...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Looks like an allergic...
+Dialogue: 0,0:15:55.71,0:15:57.30,*Default,NTP,0000,0000,0000,,你是不是吃龙虾了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did you eat lobster?!
+Dialogue: 0,0:15:57.30,0:15:59.68,*Default,NTP,0000,0000,0000,,-我...  -他拒绝回答这个问题\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I, uh... -He refuses to answer that.
+Dialogue: 0,0:15:59.68,0:16:01.72,*Default,NTP,0000,0000,0000,,你们都是怎么了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's wrong with you people!
+Dialogue: 0,0:16:01.72,0:16:03.95,*Default,NTP,0000,0000,0000,,-看看我儿子  -大家好\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Look at my son! - Hello.
+Dialogue: 0,0:16:03.95,0:16:05.10,*Default,NTP,0000,0000,0000,,这都怪你们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You did this!
+Dialogue: 0,0:16:05.10,0:16:08.42,*Default,NTP,0000,0000,0000,,和你们对龙虾变态的执着\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You and your disgusting food fetish!
+Dialogue: 0,0:16:08.42,0:16:10.19,*Default,NTP,0000,0000,0000,,鲍勃  你给我下来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, get off the stage!
+Dialogue: 0,0:16:10.26,0:16:11.46,*Default,NTP,0000,0000,0000,,你在破坏公共秩序\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're disorderly.
+Dialogue: 0,0:16:11.53,0:16:13.59,*Default,NTP,0000,0000,0000,,是么  那我是不是该破坏一下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, yeah? Maybe I should get disorderly
+Dialogue: 0,0:16:13.66,0:16:15.43,*Default,NTP,0000,0000,0000,,这锅龙虾呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}with this lobster pot here.
+Dialogue: 0,0:16:15.50,0:16:16.34,*Default,NTP,0000,0000,0000,,没错  你们没听错\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's right, you heard me.
+Dialogue: 0,0:16:16.35,0:16:18.97,*Default,NTP,0000,0000,0000,,你们毁了我的店  我就要毁掉龙虾节  \N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You trash my restaurant, I trash Lobsterfest, 
+Dialogue: 0,0:16:18.97,0:16:20.67,*Default,NTP,0000,0000,0000,,就从这口煮虾锅开始\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}starting with this lobster pot.
+Dialogue: 0,0:16:20.74,0:16:21.82,*Default,NTP,0000,0000,0000,,我擦  好烫\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ow! It's hot.
+Dialogue: 0,0:16:21.89,0:16:23.22,*Default,NTP,0000,0000,0000,,算了  先放过它\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's leave that alone.
+Dialogue: 0,0:16:23.29,0:16:24.89,*Default,NTP,0000,0000,0000,,哎哟  我看见了黄油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, but I see some butter.
+Dialogue: 0,0:16:24.96,0:16:26.32,*Default,NTP,0000,0000,0000,,如果有谁弄脏这珍贵的黄油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You wouldn't like it
+Dialogue: 0,0:16:26.39,0:16:27.86,*Default,NTP,0000,0000,0000,,你们应该会不高兴吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}if someone messed with your precious butter!
+Dialogue: 0,0:16:27.93,0:16:30.46,*Default,NTP,0000,0000,0000,,把我这大毛脚趾伸进去如何啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Like stuff a big, hairy toe in it!
+Dialogue: 0,0:16:30.53,0:16:33.03,*Default,NTP,0000,0000,0000,,鲍勃  慢慢地把脚放回到袜子里\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, put your foot back in your sock slowly.
+Dialogue: 0,0:16:33.03,0:16:34.57,*Default,NTP,0000,0000,0000,,我现在有权使用\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm authorizing myself
+Dialogue: 0,0:16:34.57,0:16:38.18,*Default,NTP,0000,0000,0000,,这把全新的豆袋枪向你开枪\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to use my brand-new beanbag gun to subdue you.
+Dialogue: 0,0:16:38.18,0:16:40.32,*Default,NTP,0000,0000,0000,,借过  不好意思  借过  借过\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me, I'm sorry, excuse me, excuse me.
+Dialogue: 0,0:16:40.32,0:16:43.52,*Default,NTP,0000,0000,0000,,鲍勃  停下来  这不是你会做的事\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob! No! This isn't you!
+Dialogue: 0,0:16:43.59,0:16:44.86,*Default,NTP,0000,0000,0000,,这就是我  琳达\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is me, Linda!
+Dialogue: 0,0:16:44.93,0:16:46.69,*Default,NTP,0000,0000,0000,,是他们把我逼成这样的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is the "Me" that they made!
+Dialogue: 0,0:16:46.76,0:16:49.16,*Default,NTP,0000,0000,0000,,你看他们把我们的儿子弄成什么样了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And look what they did to our son.
+Dialogue: 0,0:16:49.23,0:16:51.39,*Default,NTP,0000,0000,0000,,他本来不长这样  是吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's not how he normally looks, is it?
+Dialogue: 0,0:16:51.39,0:16:53.10,*Default,NTP,0000,0000,0000,,鲍鲍  听我说\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bobby, listen to me.
+Dialogue: 0,0:16:53.17,0:16:54.55,*Default,NTP,0000,0000,0000,,借过  抱歉\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me, I'm sorry, oh...
+Dialogue: 0,0:16:54.62,0:16:56.00,*Default,NTP,0000,0000,0000,,你不用过来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You don't have to keep moving!
+Dialogue: 0,0:16:56.07,0:16:59.67,*Default,NTP,0000,0000,0000,,你并不卑微  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're not a bottom feeder, Bob!
+Dialogue: 0,0:16:59.74,0:17:02.64,*Default,NTP,0000,0000,0000,,对  我才不卑微呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, I'm not a bottom feeder.
+Dialogue: 0,0:17:02.71,0:17:04.88,*Default,NTP,0000,0000,0000,,我是汉堡男\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm a burger man.
+Dialogue: 0,0:17:04.95,0:17:07.98,*Default,NTP,0000,0000,0000,,好吧  我要走了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, I'm leaving.
+Dialogue: 0,0:17:08.05,0:17:10.72,*Default,NTP,0000,0000,0000,,我知道你们都想让我离开\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm sure that's what everybody wants.
+Dialogue: 0,0:17:10.79,0:17:12.10,*Default,NTP,0000,0000,0000,,如果我动一下会...  糟糕\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, what happens if I-- Oh, woops!
+Dialogue: 0,0:17:16.90,0:17:18.43,*Default,NTP,0000,0000,0000,,鲍鲍  你还好吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bobby, are you okay?
+Dialogue: 0,0:17:18.49,0:17:20.78,*Default,NTP,0000,0000,0000,,请让一下  借过\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me, uh, excuse me.
+Dialogue: 0,0:17:20.78,0:17:22.38,*Default,NTP,0000,0000,0000,,我的上帝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my God!
+Dialogue: 0,0:17:22.38,0:17:24.63,*Default,NTP,0000,0000,0000,,整桶黄油都被鲍勃弄脏了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All the butter's been contaminated by Bob,
+Dialogue: 0,0:17:24.70,0:17:26.63,*Default,NTP,0000,0000,0000,,而且城里没有别的黄油了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and there isn't any more in town!
+Dialogue: 0,0:17:32.14,0:17:33.80,*Default,NTP,0000,0000,0000,,鲍勃搞砸了我们的龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob destroyed Lobsterfest!
+Dialogue: 0,0:17:33.89,0:17:36.21,*Default,NTP,0000,0000,0000,,你们就别沾黄油直接吃呗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can't you just eat lobster without butter?
+Dialogue: 0,0:17:36.27,0:17:38.14,*Default,NTP,0000,0000,0000,,不行  怎么可能  太可恶了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No! How? That's an outrage!
+Dialogue: 0,0:17:38.21,0:17:40.16,*Default,NTP,0000,0000,0000,,既然如此  你们怎么不管它叫"黄油节"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, why don't you call it "butterfest"?
+Dialogue: 0,0:17:40.23,0:17:41.48,*Default,NTP,0000,0000,0000,,主角是虾不是黄油  混蛋\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It brings out the succulence, jerk!
+Dialogue: 0,0:17:41.55,0:17:42.51,*Default,NTP,0000,0000,0000,,没错\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah!
+Dialogue: 0,0:17:42.58,0:17:43.93,*Default,NTP,0000,0000,0000,,我们得怎么处置他\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So what should we do with him?
+Dialogue: 0,0:17:43.98,0:17:45.55,*Default,NTP,0000,0000,0000,,把他扔进虾壳堆里\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Throw him in the shell pile!
+Dialogue: 0,0:17:45.62,0:17:46.52,*Default,NTP,0000,0000,0000,,虾壳堆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shell pile?
+Dialogue: 0,0:17:46.58,0:17:48.69,*Default,NTP,0000,0000,0000,,虾壳堆  虾壳堆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shell pile! Shell pile!
+Dialogue: 0,0:17:48.75,0:17:51.15,*Default,NTP,0000,0000,0000,,虾壳堆  虾壳堆  虾壳堆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shell pile! Shell pile! Shell...
+Dialogue: 0,0:17:51.22,0:17:52.22,*Default,NTP,0000,0000,0000,,不是吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, boy.
+Dialogue: 0,0:17:52.29,0:17:54.16,*Default,NTP,0000,0000,0000,,请让一下  请让一下  抱歉\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse me, excuse me, sorry.
+Dialogue: 0,0:17:54.22,0:17:56.56,*Default,NTP,0000,0000,0000,,鲍勃是不该用污染黄油威胁你们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe Bob shouldn't have threatened your butter,
+Dialogue: 0,0:17:56.63,0:17:59.20,*Default,NTP,0000,0000,0000,,而且他完全可以冲你们收汉堡钱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and he definitely should have charged you for the burgers.
+Dialogue: 0,0:18:00.93,0:18:03.37,*Default,NTP,0000,0000,0000,,昨晚他对你们慷慨相邀\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But he opened his beautiful heart last night,
+Dialogue: 0,0:18:03.43,0:18:06.17,*Default,NTP,0000,0000,0000,,而你们却像煮龙虾一样把他的心意活煮了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and you boiled it alive like a lobster!
+Dialogue: 0,0:18:06.24,0:18:08.25,*Default,NTP,0000,0000,0000,,你这样说只会让我们更气愤\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All you're doing is making us angrier!
+Dialogue: 0,0:18:08.32,0:18:09.32,*Default,NTP,0000,0000,0000,,龙虾壳堆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shell pile!
+Dialogue: 0,0:18:09.39,0:18:10.56,*Default,NTP,0000,0000,0000,,龙虾壳堆\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shell pile!
+Dialogue: 0,0:18:10.62,0:18:12.49,*Default,NTP,0000,0000,0000,,抱歉  鲍鲍  我打错了比方\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sorry, Bobby, I used a bad analogy.
+Dialogue: 0,0:18:12.56,0:18:13.73,*Default,NTP,0000,0000,0000,,雨果  好像有点不对劲\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hugo, this doesn't seem right.
+Dialogue: 0,0:18:13.79,0:18:15.36,*Default,NTP,0000,0000,0000,,怎么了  我处上对象了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What? I have a girlfriend;
+Dialogue: 0,0:18:15.43,0:18:17.66,*Default,NTP,0000,0000,0000,,鲍勃也要被扔进虾壳堆里了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob's about to be thrown on to a shell pile--
+Dialogue: 0,0:18:17.73,0:18:19.47,*Default,NTP,0000,0000,0000,,跟我幻想过的场景一摸一样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I've had this exact fantasy.
+Dialogue: 0,0:18:19.53,0:18:20.93,*Default,NTP,0000,0000,0000,,别这样  雨果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, Hugo.
+Dialogue: 0,0:18:21.00,0:18:23.19,*Default,NTP,0000,0000,0000,,昨晚要不是鲍勃帮你牵线搭桥\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If Bob hadn't been your wingman last night,
+Dialogue: 0,0:18:23.25,0:18:25.69,*Default,NTP,0000,0000,0000,,你现在还是个身披肩带的孤独单身汉呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you'd be another lonely guy in a satin sash.
+Dialogue: 0,0:18:25.77,0:18:26.99,*Default,NTP,0000,0000,0000,,我好得很\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was doing fine!
+Dialogue: 0,0:18:27.06,0:18:29.64,*Default,NTP,0000,0000,0000,,我才不需要谁给我牵线\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't need a wingman!
+Dialogue: 0,0:18:29.71,0:18:31.24,*Default,NTP,0000,0000,0000,,是么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, no?
+Dialogue: 0,0:18:33.35,0:18:34.88,*Default,NTP,0000,0000,0000,,红郎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wingman,
+Dialogue: 0,0:18:34.95,0:18:36.68,*Default,NTP,0000,0000,0000,,振翅伴您左右\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}flying with the eagles.
+Dialogue: 0,0:18:36.75,0:18:38.07,*Default,NTP,0000,0000,0000,,红郎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wingman,
+Dialogue: 0,0:18:38.14,0:18:40.07,*Default,NTP,0000,0000,0000,,助您一臂之力\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}he's trying to help you out.
+Dialogue: 0,0:18:40.14,0:18:41.69,*Default,NTP,0000,0000,0000,,红郎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wingman,
+Dialogue: 0,0:18:41.76,0:18:44.66,*Default,NTP,0000,0000,0000,,红郎  红郎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}wingman, wingman,
+Dialogue: 0,0:18:44.73,0:18:48.53,*Default,NTP,0000,0000,0000,,红郎  红郎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}wingman, wingman...
+Dialogue: 0,0:18:48.60,0:18:50.38,*Default,NTP,0000,0000,0000,,够了  罗恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Agh! Damn it, Ron!
+Dialogue: 0,0:18:50.46,0:18:52.05,*Default,NTP,0000,0000,0000,,好了  大家听我说\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, attention, people!
+Dialogue: 0,0:18:52.13,0:18:54.12,*Default,NTP,0000,0000,0000,,停下来  都给我停下来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stop it, everyone! Slow down!
+Dialogue: 0,0:18:54.18,0:18:56.22,*Default,NTP,0000,0000,0000,,我是卫生检查员\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the health inspector.
+Dialogue: 0,0:18:56.29,0:18:59.99,*Default,NTP,0000,0000,0000,,有人曾说我好比食品治安官\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Someone once told me that's like being the food sheriff.
+Dialogue: 0,0:19:00.06,0:19:02.33,*Default,NTP,0000,0000,0000,,鲍勃有没有毁掉这桶黄油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This vat of butter isn't contaminated by Bob
+Dialogue: 0,0:19:02.39,0:19:04.29,*Default,NTP,0000,0000,0000,,要待我调查之后才能定夺\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}until I say so!
+Dialogue: 0,0:19:04.36,0:19:07.53,*Default,NTP,0000,0000,0000,,我这儿有个奶制品纯度检测仪\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have with me a dairy purity spectrometer.
+Dialogue: 0,0:19:08.60,0:19:09.88,*Default,NTP,0000,0000,0000,,现在  让我来检测一下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now, give me some room.
+Dialogue: 0,0:19:09.95,0:19:11.20,*Default,NTP,0000,0000,0000,,让他好好检测一下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give him some room!
+Dialogue: 0,0:19:11.27,0:19:13.12,*Default,NTP,0000,0000,0000,,谢谢你  格雷琴\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you, Gretchen.
+Dialogue: 0,0:19:14.29,0:19:15.71,*Default,NTP,0000,0000,0000,,你干嘛扎我\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ow! You stabbed me!
+Dialogue: 0,0:19:15.79,0:19:16.99,*Default,NTP,0000,0000,0000,,给你扎了针肾上腺素\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's just epinephrine.
+Dialogue: 0,0:19:17.04,0:19:18.12,*Default,NTP,0000,0000,0000,,你刚才只是过敏性休克了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're in anaphylactic shock.
+Dialogue: 0,0:19:18.19,0:19:19.74,*Default,NTP,0000,0000,0000,,你这只虾长得挺带感嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mm, you're a handsome shrimp.
+Dialogue: 0,0:19:19.81,0:19:21.94,*Default,NTP,0000,0000,0000,,我这有张世界末日交配名单\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You just jumped to the top of my list.
+Dialogue: 0,0:19:22.01,0:19:24.15,*Default,NTP,0000,0000,0000,,我刚刚把你排在了前面\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a mating list for when the world ends.
+Dialogue: 0,0:19:24.21,0:19:25.77,*Default,NTP,0000,0000,0000,,-你的电邮能给我吗  -不行\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Can I get your e-mail? - No.
+Dialogue: 0,0:19:25.83,0:19:27.97,*Default,NTP,0000,0000,0000,,检测结果已经出来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have finished my butter analysis.
+Dialogue: 0,0:19:30.60,0:19:32.84,*Default,NTP,0000,0000,0000,,鲍勃的皮屑  臂毛  以及指甲泥\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob's skin flakes, arm hair and fingernail dirt
+Dialogue: 0,0:19:32.91,0:19:34.14,*Default,NTP,0000,0000,0000,,都检测到了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are all present.
+Dialogue: 0,0:19:34.21,0:19:35.58,*Default,NTP,0000,0000,0000,,不是吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No!
+Dialogue: 0,0:19:35.64,0:19:37.28,*Default,NTP,0000,0000,0000,,我还没说完\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let me finish!
+Dialogue: 0,0:19:37.34,0:19:39.85,*Default,NTP,0000,0000,0000,,虽然都检测到了  但还不至于构成威胁\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're present, but not at threatening levels.
+Dialogue: 0,0:19:39.91,0:19:42.08,*Default,NTP,0000,0000,0000,,黄油等级为C到D-之间\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The butter is grade C to D-.
+Dialogue: 0,0:19:42.15,0:19:43.90,*Default,NTP,0000,0000,0000,,除婴儿和免疫力低下人群以外\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fit for everyone except babies
+Dialogue: 0,0:19:43.97,0:19:46.07,*Default,NTP,0000,0000,0000,,大家可以放心食用\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and people with compromised immune systems.
+Dialogue: 0,0:19:46.14,0:19:48.60,*Default,NTP,0000,0000,0000,,我是说  系上你的围嘴吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In other words, get your bib on!
+Dialogue: 0,0:19:53.29,0:19:55.16,*Default,NTP,0000,0000,0000,,这真是有史以来最棒的一次龙虾节\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Man, that was the best Lobsterfest ever.
+Dialogue: 0,0:19:55.23,0:19:57.56,*Default,NTP,0000,0000,0000,,看来大家都是\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. Turns out people are hard on the outside
+Dialogue: 0,0:19:57.63,0:19:59.40,*Default,NTP,0000,0000,0000,,刀子嘴豆腐心啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and soft on the inside.
+Dialogue: 0,0:19:59.45,0:20:00.83,*Default,NTP,0000,0000,0000,,就像是...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Like, uh...
+Dialogue: 0,0:20:00.90,0:20:03.04,*Default,NTP,0000,0000,0000,,像是...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}like, uh...
+Dialogue: 0,0:20:04.94,0:20:07.49,*Default,NTP,0000,0000,0000,,我不知道啦  就像是...  螃蟹\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, I don't know, like a... like a crab.
+Dialogue: 0,0:20:07.56,0:20:09.23,*Default,NTP,0000,0000,0000,,没错  大家就像螃蟹\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yup. People are just like crabs.
+Dialogue: 0,0:20:09.29,0:20:11.84,*Default,NTP,0000,0000,0000,,我们还目睹了一项新传统的诞生\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And we witnessed the birth of a new tradition--
+Dialogue: 0,0:20:11.91,0:20:14.80,*Default,NTP,0000,0000,0000,,那就是在每年龙虾节前夜搞砸鲍勃的店\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}every year on Lobsterfest Eve, we trash Bob's place.
+Dialogue: 0,0:20:14.80,0:20:15.91,*Default,NTP,0000,0000,0000,,-不不不不  -是吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- No, no, no, no. - Right?
+Dialogue: 0,0:20:15.91,0:20:17.30,*Default,NTP,0000,0000,0000,,现在就开砸吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's start now!
+Dialogue: 0,0:20:17.37,0:20:20.58,*Default,NTP,0000,0000,0000,,吉恩  你发誓你没吃过龙虾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, you swear you didn't have lobster?
+Dialogue: 0,0:20:20.58,0:20:21.79,*Default,NTP,0000,0000,0000,,你一直长成这样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You've always looked like this?
+Dialogue: 0,0:20:21.79,0:20:23.36,*Default,NTP,0000,0000,0000,,我生来就是这副模样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was born like this.
+Dialogue: 0,0:20:23.36,0:20:26.28,*Default,NTP,0000,0000,0000,,我得拿照片对比一下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, I need a picture to compare.
+Dialogue: 0,0:20:26.28,0:20:27.25,*Default,NTP,0000,0000,0000,,我的上帝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my God,
+Dialogue: 0,0:20:27.25,0:20:28.51,*Default,NTP,0000,0000,0000,,你确实生来就是这副模样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you do always look like this.
+Dialogue: 0,0:20:28.51,0:20:29.61,*Default,NTP,0000,0000,0000,,你好  帅哥\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hello, gorgeous!
+Dialogue: 0,0:20:32.01,0:20:34.06,*Default,NTP,0000,0000,0000,,-鲍勃  琳达  -你好  雨果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Bob, Linda. - Hey, Hugo.
+Dialogue: 0,0:20:34.06,0:20:34.97,*Default,NTP,0000,0000,0000,,格雷琴呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's Gretchen?
+Dialogue: 0,0:20:34.97,0:20:37.18,*Default,NTP,0000,0000,0000,,那个叫格雷琴的真是活力十足啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She's a firecracker, that Gretchen.
+Dialogue: 0,0:20:37.18,0:20:39.17,*Default,NTP,0000,0000,0000,,你能驾驭她吗  雨果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You sure she's not more than you can handle, Hugo?
+Dialogue: 0,0:20:39.24,0:20:40.61,*Default,NTP,0000,0000,0000,,她刚刚把我甩了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gretchen just broke up with me.
+Dialogue: 0,0:20:40.67,0:20:42.84,*Default,NTP,0000,0000,0000,,她说我驾驭不了她\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She said she was more than I could handle.
+Dialogue: 0,0:20:42.91,0:20:44.38,*Default,NTP,0000,0000,0000,,场面很尴尬\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh. It was ugly.
+Dialogue: 0,0:20:44.45,0:20:46.45,*Default,NTP,0000,0000,0000,,她说她并不介意勋章的大小\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She said she didn't mind a small badge,
+Dialogue: 0,0:20:46.51,0:20:49.55,*Default,NTP,0000,0000,0000,,但关键问题是我不懂怎么利用  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but said I didn't know how to use it, Bob!
+Dialogue: 0,0:20:50.72,0:20:51.95,*Default,NTP,0000,0000,0000,,那真是太糟了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, that's too bad.
+Dialogue: 0,0:20:52.02,0:20:54.25,*Default,NTP,0000,0000,0000,,我不需要你的同情\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't need your pity!
+Dialogue: 0,0:20:54.32,0:20:56.82,*Default,NTP,0000,0000,0000,,我来这是想\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So, here we are.
+Dialogue: 0,0:20:56.89,0:20:58.96,*Default,NTP,0000,0000,0000,,搞个突击检查\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Surprise inspection!
+Dialogue: 0,0:20:59.03,0:20:59.96,*Default,NTP,0000,0000,0000,,-铅笔  -铅笔\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Pencil! - Pencil.
+Dialogue: 0,0:21:00.03,0:21:01.13,*Default,NTP,0000,0000,0000,,-本子  -本子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Pad! - Pad.
+Dialogue: 0,0:21:01.20,0:21:05.03,*Default,NTP,0000,0000,0000,,哎哟  票插弯了  罗恩  封店\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ooh, bent spindle. Ron! Shut it down!

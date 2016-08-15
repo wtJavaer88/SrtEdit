@@ -1,0 +1,615 @@
+[Script Info]
+; // 此字幕由Srt2Ass生成
+; // 欢迎访问人人影视 http://www.YYeTs.com
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,21,&H00FFFFFF,&HF0000000,&H006C3300,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:05.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fscx100\fscy100\fsp0\fr0\shad1\c&HFFFFFF&\4c&H00000&\fad(500,500)\pos(190,278)\b1\fs16\fn方正准圆_GBK\bord0}本字幕由{\fs24\fn方正综艺_GBK\fe0\c&H26F4FF&}YYeTs{\fe134\fn方正宋黑_GBK\c&HFFAE1A&}人人影视 {\fn方正准圆_GBK\c&HFFFFFF&\fs16}原创翻译制作\N{\fs14\b0\shad0}仅供学习 禁止用于任何商业盈利行为\N{\fs16}更多影视更新 请登陆 {\c&H26F4FF&\fn方正综艺_GBK\fs24}www.YYeTs.com
+Dialogue: 0,0:00:00.00,0:00:05.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,290)\fs86\fscx600}■
+Dialogue: 1,0:00:05.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\c&H24EFFF&\4c&H00000\fs16\b1\i0\u0\s0\fscx100\fscy100\fsp0\fr0\bord0\shad1\fad(500,500)\pos(190,268)\fn方正准圆_GBK}翻译：{\fs18\c&HFFFFFF&}Ｊ小糯    Soomii    红豆包    Iz
+Dialogue: 0,0:00:05.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,278)\fs36\fscx1800}■
+Dialogue: 1,0:00:10.00,0:00:15.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\c&H24EFFF&\4c&H00000\fs16\b1\i0\u0\s0\fscx100\fscy100\fsp0\fr0\bord0\shad1\fad(500,500)\pos(190,268)\fn方正准圆_GBK}校对：{\fs18\c&HFFFFFF&}Ｊ小糯      {\fs16\c&H24EFFF&}时间轴：{\fs18\c&HFFFFFF&}grace
+Dialogue: 0,0:00:10.00,0:00:15.00,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,278)\fs36\fscx1800}■
+Dialogue: 1,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\fe134\an2\c&H24EFFF&\4c&H00000\fs16\b1\i0\u0\s0\fscx100\fscy100\fsp0\fr0\bord0\shad1\fad(500,500)\pos(190,268)\fn方正准圆_GBK}后期：{\fs18\c&HFFFFFF&}鱼骨头      {\fs16\c&H24EFFF&}总监：{\fs18\c&HFFFFFF&}stephanie
+Dialogue: 0,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\fe134\an2\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\pos(190,278)\fs36\fscx1800}■
+Dialogue: 1,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\an8}{\fad(500,500)}{\fs20} {\c&H24EFFF&}{\fn方正准圆简体}{\bord0}《开心汉堡店》\N{\fs17}{\c&HFFFFFF&}第一季第十三集
+Dialogue: 0,0:00:15.00,0:00:18.70,*Default,NTP,0000,0000,0000,,{\fe134\an5\pos(190,23)\fn方正黑体_GBK\alpha&H9F&\c&H000000&\3c&H000000&\b1\i0\u0\s0\fscy100\fsp0\fr0\bord1\shad0\fad(500,500)\fs56\fscx500}■
+Dialogue: 0,0:00:21.39,0:00:22.60,*Default,NTP,0000,0000,0000,,新鲜嫩滑的牛肉\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fresh ground meat!
+Dialogue: 0,0:00:22.65,0:00:23.96,*Default,NTP,0000,0000,0000,,其乐融融的氛围\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great atmosphere!
+Dialogue: 0,0:00:24.18,0:00:26.07,*Default,NTP,0000,0000,0000,,吉恩  快进来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, bring it in.
+Dialogue: 0,0:00:26.14,0:00:28.02,*Default,NTP,0000,0000,0000,,快把汉堡服脱下来  要出发了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get out of that burger suit. We're going.
+Dialogue: 0,0:00:28.07,0:00:29.64,*Default,NTP,0000,0000,0000,,棒球开赛不等人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Baseball waits for no one.
+Dialogue: 0,0:00:30.18,0:00:32.06,*Default,NTP,0000,0000,0000,,怎么一股尿骚味  你往这上面撒过尿么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It smells like urine. Did you pee in that?
+Dialogue: 0,0:00:32.11,0:00:33.23,*Default,NTP,0000,0000,0000,,我得走了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I had to go!
+Dialogue: 0,0:00:33.23,0:00:34.35,*Default,NTP,0000,0000,0000,,我说过不要往这上撒尿\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I told you not to pee in it
+Dialogue: 0,0:00:34.40,0:00:35.49,*Default,NTP,0000,0000,0000,,尤其是在我洗过之后\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}after I cleaned up from the...
+Dialogue: 0,0:00:35.54,0:00:36.74,*Default,NTP,0000,0000,0000,,只有我穿这玩意\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the only one who wears it.
+Dialogue: 0,0:00:36.79,0:00:37.68,*Default,NTP,0000,0000,0000,,干不干净又怎样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's the difference?
+Dialogue: 0,0:00:37.68,0:00:38.56,*Default,NTP,0000,0000,0000,,我的老天\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my God.
+Dialogue: 0,0:00:38.61,0:00:39.66,*Default,NTP,0000,0000,0000,,怎么  尿骚男卖的汉堡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What, you don't want to buy burgers
+Dialogue: 0,0:00:39.71,0:00:41.04,*Default,NTP,0000,0000,0000,,你不会买么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}from a guy who smells like pee?
+Dialogue: 0,0:00:41.09,0:00:43.14,*Default,NTP,0000,0000,0000,,我又不能把尿憋回去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No one can place where it's coming from.
+Dialogue: 0,0:00:43.19,0:00:43.99,*Default,NTP,0000,0000,0000,,真不敢相信\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't believe
+Dialogue: 0,0:00:43.99,0:00:46.53,*Default,NTP,0000,0000,0000,,你关门就是为了去看棒球比赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you'll close the restaurant to go to a baseball game.
+Dialogue: 0,0:00:46.58,0:00:47.72,*Default,NTP,0000,0000,0000,,露易丝  我们不仅是去看比赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Louise, this isn't just a game.
+Dialogue: 0,0:00:47.77,0:00:49.33,*Default,NTP,0000,0000,0000,,还去看球场上我们打出的广告\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We bought an ad at the ballpark.
+Dialogue: 0,0:00:49.38,0:00:51.00,*Default,NTP,0000,0000,0000,,这件事值得我们关一天门吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's worth closing for, right?
+Dialogue: 0,0:00:51.05,0:00:52.73,*Default,NTP,0000,0000,0000,,我迫不及待了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, can't wait to see it!
+Dialogue: 0,0:00:52.78,0:00:54.66,*Default,NTP,0000,0000,0000,,好兴奋呀  我们出名了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's gonna be so exciting. We're famous.
+Dialogue: 0,0:00:54.66,0:00:56.90,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}开心汉堡店\NA级牛肉  A+级口味
+Dialogue: 0,0:00:55.30,0:00:57.58,*Default,NTP,0000,0000,0000,,好像一张热狗包装纸卡在了球网上\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It looks like a hot dog wrapper's stuck in the net.
+Dialogue: 0,0:00:57.63,0:01:00.08,*Default,NTP,0000,0000,0000,,一个小得不能再小的热狗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Like, a really tiny hot dog.
+Dialogue: 0,0:01:00.13,0:01:01.66,*Default,NTP,0000,0000,0000,,我还以为会比这大一点呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I did think it was gonna be a little bigger.
+Dialogue: 0,0:01:01.71,0:01:03.22,*Default,NTP,0000,0000,0000,,如果你登的是"尿壶蛋糕"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think more people would see your ad
+Dialogue: 0,0:01:03.27,0:01:04.53,*Default,NTP,0000,0000,0000,,也许看广告的人会多一些\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}if it was a urinal cake.
+Dialogue: 0,0:01:04.53,0:01:05.21,*Default,NTP,0000,0000,0000,,坑你爹呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you kidding?
+Dialogue: 0,0:01:05.21,0:01:07.02,*Default,NTP,0000,0000,0000,,我倒是希望有钱登则尿壶蛋糕的广告\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I wish I could afford a urinal cake ad.
+Dialogue: 0,0:01:07.07,0:01:09.29,*Default,NTP,0000,0000,0000,,一个劲儿提蛋糕  都把我听饿了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All this talk about cake is making me hungry.
+Dialogue: 0,0:01:09.34,0:01:12.56,*Default,NTP,0000,0000,0000,,我要叫住那个卖冰淇淋三明治的小伙\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm gonna flag down the ice cream sandwich guy. Hey!
+Dialogue: 0,0:01:13.29,0:01:14.43,*Default,NTP,0000,0000,0000,,比赛开始\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Play ball!
+Dialogue: 0,0:01:14.48,0:01:17.52,*Default,NTP,0000,0000,0000,,欢迎各位在小联盟的开幕日前来观看比赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Welcome to opening day of Minor League Baseball.
+Dialogue: 0,0:01:16.00,0:01:18.33,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}加油\N奇葩狗
+Dialogue: 0,0:01:17.57,0:01:21.14,*Default,NTP,0000,0000,0000,,为出彩码头  奇葩狗  欢呼吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's hear it for your Wonder Wharf, Wonderdogs!
+Dialogue: 0,0:01:21.19,0:01:24.66,*Default,NTP,0000,0000,0000,,欢迎奇葩狗的费诺上场\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please give a big Wonderdog welcome to Phe-Nom,
+Dialogue: 0,0:01:24.73,0:01:26.88,*Default,NTP,0000,0000,0000,,他是韩裔短打高手\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the Korean bunt specialist!
+Dialogue: 0,0:01:26.93,0:01:29.70,*Default,NTP,0000,0000,0000,,我从不知道棒球比赛中有如此多的臀部接触\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I never realized baseball had so much butt-touching.
+Dialogue: 0,0:01:29.75,0:01:31.59,*Default,NTP,0000,0000,0000,,他们就是靠这种方式沟通的  蒂娜\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's how they communicate, Tina.
+Dialogue: 0,0:01:31.64,0:01:33.56,*Default,NTP,0000,0000,0000,,就像盲人摸盲文  而他们摸的是屁股\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's like Braille, but with butts.
+Dialogue: 0,0:01:33.61,0:01:35.06,*Default,NTP,0000,0000,0000,,来摸摸我的屁股\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Read my butt!
+Dialogue: 0,0:01:35.49,0:01:37.25,*Default,NTP,0000,0000,0000,,{\an8}{\pos(170,40)\frx20\fry20\frz345}{\fn微软雅黑\fs32\3c&000000&\bord1}主场
+Dialogue: 0,0:01:35.49,0:01:37.25,*Default,NTP,0000,0000,0000,,{\an8}{\pos(246,65)\frx20\fry20\frz345}{\fn微软雅黑\fs32\3c&000000&\bord1}客场
+Dialogue: 0,0:01:35.49,0:01:37.25,*Default,NTP,0000,0000,0000,,{\an8}{\pos(216,160)\frx20\fry20\frz348}{\fn微软雅黑\fs22\3c&000000&\bord1}第7局
+Dialogue: 0,0:01:35.49,0:01:37.25,*Default,NTP,0000,0000,0000,,{\an8}{\pos(70,170)\frx20\fry20\frz350}{\fn微软雅黑\fs28\3c&000000&\bord1}坏球
+Dialogue: 0,0:01:35.49,0:01:37.25,*Default,NTP,0000,0000,0000,,{\an8}{\pos(280,220)\frx20\fry20\frz350}{\fn微软雅黑\fs28\3c&000000&\bord1}好球
+Dialogue: 0,0:01:37.25,0:01:38.52,*Default,NTP,0000,0000,0000,,我好无聊啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm bored.
+Dialogue: 0,0:01:38.57,0:01:40.25,*Default,NTP,0000,0000,0000,,无聊的比赛  无聊的运动\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Boredom. Boring sports.
+Dialogue: 0,0:01:40.30,0:01:43.39,*Default,NTP,0000,0000,0000,,第七局中场休息  吉祥物赛跑又要开始了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, it's the seventh-inning stretch. Time for the mascot race.
+Dialogue: 0,0:01:43.44,0:01:44.92,*Default,NTP,0000,0000,0000,,这个带劲儿啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, hello!
+Dialogue: 0,0:01:45.10,0:01:47.28,*Default,NTP,0000,0000,0000,,欢迎奇葩狗的老板\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please welcome the owner of the Wonderdogs,
+Dialogue: 0,0:01:47.33,0:01:49.87,*Default,NTP,0000,0000,0000,,凯尔文·费舍奥德先生\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr. Calvin Fischoeder!
+Dialogue: 0,0:01:49.92,0:01:50.61,*Default,NTP,0000,0000,0000,,大鱼\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fish!
+Dialogue: 0,0:01:50.66,0:01:51.89,*Default,NTP,0000,0000,0000,,赛跑时间又到了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's that time.
+Dialogue: 0,0:01:51.94,0:01:54.15,*Default,NTP,0000,0000,0000,,为你喜欢的吉祥物大声欢呼吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now cheer for your favorite mascot!
+Dialogue: 0,0:01:54.20,0:01:55.95,*Default,NTP,0000,0000,0000,,这支球队是费舍奥德先生的吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr. Fischoeder owns the team?
+Dialogue: 0,0:01:56.00,0:01:58.33,*Default,NTP,0000,0000,0000,,球场  球队  出彩码头  全都是他的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He owns the ballpark, the team, Wonder Wharf.
+Dialogue: 0,0:01:58.40,0:01:59.86,*Default,NTP,0000,0000,0000,,我要嫁给他\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm gonna marry that man.
+Dialogue: 0,0:01:59.91,0:02:01.95,*Default,NTP,0000,0000,0000,,-你给我打住  -我想变成有钱人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- No, you're not. - I wanna be rich!
+Dialogue: 0,0:02:02.00,0:02:03.51,*Default,NTP,0000,0000,0000,,别害怕\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't be frightened.
+Dialogue: 0,0:02:03.56,0:02:04.74,*Default,NTP,0000,0000,0000,,我有枪\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have a gun!
+Dialogue: 0,0:02:04.79,0:02:06.51,*Default,NTP,0000,0000,0000,,预备...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So, get set...
+Dialogue: 0,0:02:08.46,0:02:10.56,*Default,NTP,0000,0000,0000,,我之前怎么就没碰上这种比赛呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where has this sport been all my life?
+Dialogue: 0,0:02:10.61,0:02:13.46,*Default,NTP,0000,0000,0000,,你也知道  我整天穿着汉堡服\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, I wear the burger costume all the time.
+Dialogue: 0,0:02:13.51,0:02:15.72,*Default,NTP,0000,0000,0000,,老爸  也许我可以下去跑上一两圈呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe I could race in one of these races, dad.
+Dialogue: 0,0:02:15.77,0:02:17.38,*Default,NTP,0000,0000,0000,,我敢打赌  要想参赛并非易事  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I bet it's impossible to get in, Gene.
+Dialogue: 0,0:02:17.45,0:02:19.33,*Default,NTP,0000,0000,0000,,-你得有门路才能混进去  -你有的啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I'm sure you gotta know someone. - You do.
+Dialogue: 0,0:02:19.38,0:02:21.42,*Default,NTP,0000,0000,0000,,费舍奥德先生  我们的房东嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's Mr. Fischoeder, our landlord.
+Dialogue: 0,0:02:21.47,0:02:22.66,*Default,NTP,0000,0000,0000,,可是  我无法向\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, I can't ask a favor
+Dialogue: 0,0:02:22.71,0:02:24.85,*Default,NTP,0000,0000,0000,,从未准时收到过房租的房东开口求情\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}of a guy I've never paid rent on time to.
+Dialogue: 0,0:02:24.90,0:02:26.92,*Default,NTP,0000,0000,0000,,你是他亲儿子  吉恩  他会去求情的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're his son, Gene. He'll ask him.
+Dialogue: 0,0:02:26.97,0:02:27.84,*Default,NTP,0000,0000,0000,,-太好了  -我才不去呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Yay! - No, I won't.
+Dialogue: 0,0:02:27.89,0:02:29.36,*Default,NTP,0000,0000,0000,,现在  投手已经站到投球板上了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now taking the mound to pitch,
+Dialogue: 0,0:02:29.41,0:02:31.12,*Default,NTP,0000,0000,0000,,名噪一时的职棒前主投\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}former Major League sensation,
+Dialogue: 0,0:02:31.19,0:02:32.52,*Default,NTP,0000,0000,0000,,陶彼德·琼斯\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo Jones!
+Dialogue: 0,0:02:32.57,0:02:34.17,*Default,NTP,0000,0000,0000,,那个不是陶彼...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That can't be the same Torpe...
+Dialogue: 0,0:02:34.22,0:02:36.35,*Default,NTP,0000,0000,0000,,孩子们  那个人真的是陶彼德·琼斯\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kids, that's the Torpedo Jones!
+Dialogue: 0,0:02:36.40,0:02:37.83,*Default,NTP,0000,0000,0000,,真不敢相信他还在打球\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't believe he's still playing.
+Dialogue: 0,0:02:37.88,0:02:40.12,*Default,NTP,0000,0000,0000,,天啊  他得有我这么大了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}God, he must be... my age.
+Dialogue: 0,0:02:40.17,0:02:41.85,*Default,NTP,0000,0000,0000,,我代表在座列位声明\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I speak for everyone here when I say,
+Dialogue: 0,0:02:41.90,0:02:44.39,*Default,NTP,0000,0000,0000,,"我可不认识什么陶彼德·琼斯"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"I don't know what a Torpedo Jones is."
+Dialogue: 0,0:02:44.44,0:02:45.82,*Default,NTP,0000,0000,0000,,-我跟你们讲...  -谁稀奇啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Let me tell you, nobody... - We don't care.
+Dialogue: 0,0:02:45.87,0:02:47.77,*Default,NTP,0000,0000,0000,,吉恩  让我说完  没有谁...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, let me finish. Nobody...
+Dialogue: 0,0:02:47.82,0:02:49.61,*Default,NTP,0000,0000,0000,,"没人"你就别说了呗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's what I was trying to prevent.
+Dialogue: 0,0:02:49.66,0:02:51.19,*Default,NTP,0000,0000,0000,,没有谁的投球技术能赶上陶彼德\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nobody pitched like Torpedo.
+Dialogue: 0,0:02:51.24,0:02:53.47,*Default,NTP,0000,0000,0000,,我有幸看到他人生的巅峰时刻\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was there for his greatest moment,
+Dialogue: 0,0:02:53.47,0:02:54.22,*Default,NTP,0000,0000,0000,,"凌波微球"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"the pitch".
+Dialogue: 0,0:02:54.54,0:02:55.68,*Default,NTP,0000,0000,0000,,那是15年前\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It was 15 years ago,
+Dialogue: 0,0:02:55.68,0:02:57.95,*Default,NTP,0000,0000,0000,,可在我记忆中  那仿佛是10年前\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but I remember it like it was 10.
+Dialogue: 0,0:02:58.00,0:03:00.56,*Default,NTP,0000,0000,0000,,他投出了一记漂亮的无影指叉球\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}His pitch was the split-finger skadootch.
+Dialogue: 0,0:03:01.56,0:03:03.05,*Default,NTP,0000,0000,0000,,陶彼德用那记投球\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo clinched the pennant for us
+Dialogue: 0,0:03:03.05,0:03:03.93,*Default,NTP,0000,0000,0000,,赢得了优胜锦旗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}with that pitch.
+Dialogue: 0,0:03:03.98,0:03:05.00,*Default,NTP,0000,0000,0000,,如果他这么有名的话\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If he's so good,
+Dialogue: 0,0:03:05.00,0:03:06.30,*Default,NTP,0000,0000,0000,,为什么我们都没听说过他\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}why have we never heard of this guy?
+Dialogue: 0,0:03:06.35,0:03:08.13,*Default,NTP,0000,0000,0000,,那是因为他在大联盟待的时间不长\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, because he didn't last long in the bigs.
+Dialogue: 0,0:03:08.18,0:03:10.30,*Default,NTP,0000,0000,0000,,那记无影球也只是众多投球中的一记\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, the skadootch is just one of those pitches.
+Dialogue: 0,0:03:10.35,0:03:12.35,*Default,NTP,0000,0000,0000,,当它雄风大振的时候  真的好给力\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When it was on, it was really on.
+Dialogue: 0,0:03:12.40,0:03:14.15,*Default,NTP,0000,0000,0000,,但当它雄风不振的时候...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But when it wasn't...
+Dialogue: 0,0:03:14.74,0:03:19.22,*Default,NTP,0000,0000,0000,,击破它就好像用球棒打掉婴儿手里的糖果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}it's like hitting candy out of a baby's hand with a bat.
+Dialogue: 0,0:03:19.27,0:03:21.91,*Default,NTP,0000,0000,0000,,因为婴儿手小  所以糖果很难打掉吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait. You mean it's hard because babies' hands are so small?
+Dialogue: 0,0:03:21.96,0:03:23.00,*Default,NTP,0000,0000,0000,,不  我是说那样很容易\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, it's easy because...
+Dialogue: 0,0:03:23.05,0:03:24.07,*Default,NTP,0000,0000,0000,,你怎么能对婴儿下手\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How could you hit a baby?
+Dialogue: 0,0:03:24.12,0:03:26.12,*Default,NTP,0000,0000,0000,,现实中不会有人用球棒击打婴儿的小手啦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nobody would hit a baby's hand with a bat in real life.
+Dialogue: 0,0:03:26.17,0:03:26.73,*Default,NTP,0000,0000,0000,,我不是很懂\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't understand.
+Dialogue: 0,0:03:26.74,0:03:29.49,*Default,NTP,0000,0000,0000,,他被开除是因为他用球棒击打婴儿吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Was he fired from the bigs 'cause he hit a baby with a bat?
+Dialogue: 0,0:03:29.54,0:03:31.16,*Default,NTP,0000,0000,0000,,我不想再跟你们说话了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm not interested in talking to you anymore.
+Dialogue: 0,0:03:33.50,0:03:35.47,*Default,NTP,0000,0000,0000,,抱歉  吉恩  哪都看不见费舍奥德\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sorry, Gene. I don't see Fischoeder anywhere.
+Dialogue: 0,0:03:35.52,0:03:36.50,*Default,NTP,0000,0000,0000,,咱们还是走吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's get going.
+Dialogue: 0,0:03:36.55,0:03:39.66,*Default,NTP,0000,0000,0000,,没关系啦  我也只是想想而已\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's all right. I only wanted to do it really, really bad.
+Dialogue: 0,0:03:39.71,0:03:41.55,*Default,NTP,0000,0000,0000,,那个是陶彼德哎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh! There's Torpedo!
+Dialogue: 0,0:03:41.60,0:03:44.04,*Default,NTP,0000,0000,0000,,老爸  跟陶彼德说说参加赛跑的事吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dad, ask Torpedo about the mascot races.
+Dialogue: 0,0:03:44.09,0:03:45.36,*Default,NTP,0000,0000,0000,,也许他能帮个忙呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe he can get Gene in.
+Dialogue: 0,0:03:45.41,0:03:46.32,*Default,NTP,0000,0000,0000,,得了吧  孩子们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kids, come on.
+Dialogue: 0,0:03:46.37,0:03:48.74,*Default,NTP,0000,0000,0000,,我不想去烦陶彼德  他可是我的偶像\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't bother Torpedo. He's, like, my role model.
+Dialogue: 0,0:03:48.79,0:03:52.38,*Default,NTP,0000,0000,0000,,真好笑  你的偶像跟你一样大\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, that's creepy. Your role model is the same age as you?
+Dialogue: 0,0:03:52.43,0:03:55.68,*Default,NTP,0000,0000,0000,,我永远也不会崇拜一个九岁的小屁孩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I would never have another nine-year-old as my role model.
+Dialogue: 0,0:03:55.73,0:03:57.01,*Default,NTP,0000,0000,0000,,陶彼德\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Torpedo!
+Dialogue: 0,0:03:57.01,0:04:01.60,*Default,NTP,0000,0000,0000,,我老爸是美国棒球联赛的超级粉丝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My dad is a huge scout for the Baseball League of America!
+Dialogue: 0,0:04:01.65,0:04:04.55,*Default,NTP,0000,0000,0000,,逗你的啦  他想请你帮个忙\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kidding. But he has a favor to ask you.
+Dialogue: 0,0:04:05.39,0:04:06.88,*Default,NTP,0000,0000,0000,,你好  我是你的超级粉丝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi, I'm a huge fan.
+Dialogue: 0,0:04:06.93,0:04:08.91,*Default,NTP,0000,0000,0000,,有幸瞻仰"凌波微球"的诞生\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, I was there for "the pitch".
+Dialogue: 0,0:04:08.96,0:04:10.53,*Default,NTP,0000,0000,0000,,你想要什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So, uh, what can I do for ya?
+Dialogue: 0,0:04:10.58,0:04:11.70,*Default,NTP,0000,0000,0000,,照片  签名\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Picture? Autograph? 
+Dialogue: 0,0:04:11.71,0:04:13.39,*Default,NTP,0000,0000,0000,,3块钱一张  5块钱两张\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Three bucks each, both for five.
+Dialogue: 0,0:04:13.44,0:04:15.87,*Default,NTP,0000,0000,0000,,那  我要两张吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, yeah, both would be great.
+Dialogue: 0,0:04:15.92,0:04:16.97,*Default,NTP,0000,0000,0000,,老爸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dad!
+Dialogue: 0,0:04:17.02,0:04:19.92,*Default,NTP,0000,0000,0000,,还有  我儿子想要参加吉祥物赛跑\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, and my kid wants to run in the mascot race.
+Dialogue: 0,0:04:19.97,0:04:21.65,*Default,NTP,0000,0000,0000,,-您看能不能...  -拉塞尔\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- You don't think... - Hey, Russell!
+Dialogue: 0,0:04:21.70,0:04:24.43,*Default,NTP,0000,0000,0000,,这儿有个小孩想参加吉祥物赛跑\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Some kid here wants to run in a mascot race.
+Dialogue: 0,0:04:24.48,0:04:26.37,*Default,NTP,0000,0000,0000,,陶彼德  您怎么说怎么是\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}For you, Torpedo, I'll make it happen.
+Dialogue: 0,0:04:26.42,0:04:28.81,*Default,NTP,0000,0000,0000,,我得空出一个角色服\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I gotta free up one of these outfits.
+Dialogue: 0,0:04:28.86,0:04:30.54,*Default,NTP,0000,0000,0000,,不必了  我自己有\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, you don't! I got my own.
+Dialogue: 0,0:04:30.59,0:04:31.47,*Default,NTP,0000,0000,0000,,是个大汉堡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a burger.
+Dialogue: 0,0:04:31.52,0:04:33.56,*Default,NTP,0000,0000,0000,,-不错嘛  -非常感谢  陶彼德\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Easy enough. - Thanks a lot, Torpedo.
+Dialogue: 0,0:04:33.61,0:04:35.04,*Default,NTP,0000,0000,0000,,祝你好运  老兄\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good luck out there, Sport.
+Dialogue: 0,0:04:35.09,0:04:36.55,*Default,NTP,0000,0000,0000,,琳达  你  你听到了吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Linda, did you-- did you hear that?
+Dialogue: 0,0:04:36.60,0:04:38.47,*Default,NTP,0000,0000,0000,,陶彼德·琼斯喊我"老兄"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo Jones called me "Sport".
+Dialogue: 0,0:04:38.52,0:04:40.83,*Default,NTP,0000,0000,0000,,他那不是喊你  他喊吉恩呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He didn't call you "Sport", he called Gene "Sport".
+Dialogue: 0,0:04:40.88,0:04:41.90,*Default,NTP,0000,0000,0000,,不  他当时是看着我说的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, he was looking right at me.
+Dialogue: 0,0:04:41.95,0:04:44.96,*Default,NTP,0000,0000,0000,,没错  他喊的是我  还抓了抓我的头发\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, he called me "Sport" and he tussled my hair.
+Dialogue: 0,0:04:45.01,0:04:46.76,*Default,NTP,0000,0000,0000,,太棒了  吉恩  你真棒\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It was great, Gene. You were great.
+Dialogue: 0,0:04:46.81,0:04:48.84,*Default,NTP,0000,0000,0000,,我就是招人抓的孩子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm a great tussle receiver.
+Dialogue: 0,0:04:48.89,0:04:51.73,*Default,NTP,0000,0000,0000,,在吉祥物赛跑上穿着汉堡服  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wow, wearing the burger suit in the mascot race, Gene.
+Dialogue: 0,0:04:51.78,0:04:53.79,*Default,NTP,0000,0000,0000,,这是给老爸做广告啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's advertising, huh?
+Dialogue: 0,0:04:54.13,0:04:55.01,*Default,NTP,0000,0000,0000,,别碰我\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't touch me!
+Dialogue: 0,0:04:59.00,0:05:01.80,*Default,NTP,0000,0000,0000,,陶彼德人真好  让我们坐在贵宾席\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It was so nice of Torpedo to give us these seats
+Dialogue: 0,0:05:01.85,0:05:03.69,*Default,NTP,0000,0000,0000,,这样就能清楚观看吉恩的比赛了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}so we can watch Gene's race.
+Dialogue: 0,0:05:03.74,0:05:06.16,*Default,NTP,0000,0000,0000,,在这里连球员的纹身都看得一清二楚\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can really make out the players' tattoos from here.
+Dialogue: 0,0:05:06.21,0:05:08.99,*Default,NTP,0000,0000,0000,,被遮住的纹身更让人浮想联翩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Makes you wonder about the tattoos we can't see.
+Dialogue: 0,0:05:09.06,0:05:10.29,*Default,NTP,0000,0000,0000,,纹在屁股上的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}On their butts.
+Dialogue: 0,0:05:10.34,0:05:11.79,*Default,NTP,0000,0000,0000,,感觉怎么样  吉恩  心跳快吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How you doing, Gene? You feeling fast?
+Dialogue: 0,0:05:11.84,0:05:14.01,*Default,NTP,0000,0000,0000,,不  我有点想吐\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, I feel queasy.
+Dialogue: 0,0:05:14.06,0:05:15.31,*Default,NTP,0000,0000,0000,,是不是很紧张呀  王牌\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Got some butterflies, Ace?
+Dialogue: 0,0:05:15.36,0:05:17.55,*Default,NTP,0000,0000,0000,,-陶彼德  -想听听我的建议吗  孩子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Torpedo! - Want my advice, kid?
+Dialogue: 0,0:05:17.60,0:05:19.39,*Default,NTP,0000,0000,0000,,这比赛要穿着角色服跑\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a mascot race,
+Dialogue: 0,0:05:19.39,0:05:20.91,*Default,NTP,0000,0000,0000,,你需要做的就是稳住脚下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}all you gotta do is stay on your feet.
+Dialogue: 0,0:05:20.96,0:05:23.16,*Default,NTP,0000,0000,0000,,让其他选手自乱阵脚\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let the other guys trip over themselves.
+Dialogue: 0,0:05:23.21,0:05:26.18,*Default,NTP,0000,0000,0000,,吉祥物赛跑的时间到了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's time for the mascot race!
+Dialogue: 0,0:05:27.39,0:05:28.25,*Default,NTP,0000,0000,0000,,老天啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Goodie.
+Dialogue: 0,0:05:28.30,0:05:30.57,*Default,NTP,0000,0000,0000,,记住  你是我们餐馆的形象大使\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Remember, you're an ambassador for our restaurant,
+Dialogue: 0,0:05:30.62,0:05:32.30,*Default,NTP,0000,0000,0000,,跑两下意思意思就行了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}so just trying and run well,
+Dialogue: 0,0:05:32.30,0:05:33.43,*Default,NTP,0000,0000,0000,,你本来跑得就不咋地\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}'cause you don't run well.
+Dialogue: 0,0:05:33.58,0:05:35.19,*Default,NTP,0000,0000,0000,,祝你好运  老兄\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good luck out there, Sport.
+Dialogue: 0,0:05:35.24,0:05:37.45,*Default,NTP,0000,0000,0000,,之前那句"老兄"  我还以为你在喊我呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh. Yeah, I thought earlier you called me "Sport", so...
+Dialogue: 0,0:05:37.50,0:05:39.87,*Default,NTP,0000,0000,0000,,不  在那出现的孩子我都那么叫  闪兄\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nah, that was-- that was a nickname for the kid there, Flash.
+Dialogue: 0,0:05:39.87,0:05:40.54,*Default,NTP,0000,0000,0000,,那我就叫"闪兄"吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll take "Flash".
+Dialogue: 0,0:05:40.54,0:05:42.08,*Default,NTP,0000,0000,0000,,孩子们  从现在起叫我"闪兄"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kids, call me "Flash" from now on.
+Dialogue: 0,0:05:42.13,0:05:44.26,*Default,NTP,0000,0000,0000,,为了区分一下  还是叫你"臭兄"吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's split the diff and call you "Stinky".
+Dialogue: 0,0:05:44.31,0:05:46.20,*Default,NTP,0000,0000,0000,,臭兄  我喜欢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stinky! I like it!
+Dialogue: 0,0:05:46.25,0:05:47.87,*Default,NTP,0000,0000,0000,,陶彼德  为了感谢你让吉恩参赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, Torpedo, here's a little thank-you
+Dialogue: 0,0:05:47.92,0:05:49.35,*Default,NTP,0000,0000,0000,,这是一点小意思\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for getting Gene in the race.
+Dialogue: 0,0:05:49.40,0:05:51.41,*Default,NTP,0000,0000,0000,,我是个卖汉堡的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I make burgers for a living,
+Dialogue: 0,0:05:51.46,0:05:53.85,*Default,NTP,0000,0000,0000,,所以给你这东西不算奇怪吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}so it's not weird for me to give you this.
+Dialogue: 0,0:05:53.90,0:05:55.45,*Default,NTP,0000,0000,0000,,我不觉得奇怪啊  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't think it's weird at all, Bob.
+Dialogue: 0,0:05:55.50,0:05:56.80,*Default,NTP,0000,0000,0000,,装作好吃的样子吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Like a good burger.
+Dialogue: 0,0:05:57.28,0:05:58.72,*Default,NTP,0000,0000,0000,,味道真的很好呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mmm. That's a good burger.
+Dialogue: 0,0:05:58.77,0:06:00.91,*Default,NTP,0000,0000,0000,,我去解决一下投球区的那个废柴\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Finish this guy back on the mound.
+Dialogue: 0,0:06:00.96,0:06:03.96,*Default,NTP,0000,0000,0000,,陶彼德·琼斯刚刚夸我做的汉堡好吃哎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ha! Torpedo Jones just said I make a good burger!
+Dialogue: 0,0:06:04.01,0:06:05.44,*Default,NTP,0000,0000,0000,,我想把那句话刻在我的墓碑上\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I want that on my tombstone.
+Dialogue: 0,0:06:05.44,0:06:06.39,*Default,NTP,0000,0000,0000,,我没开玩笑  可以吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Seriously, okay?
+Dialogue: 0,0:06:06.44,0:06:08.76,*Default,NTP,0000,0000,0000,,不行  你的墓志铭我已经替你选好了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, I already got your tombstone picked out for ya.
+Dialogue: 0,0:06:08.81,0:06:10.25,*Default,NTP,0000,0000,0000,,什么  是什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What, what is it?
+Dialogue: 0,0:06:10.25,0:06:11.53,*Default,NTP,0000,0000,0000,,"汉堡来喽"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It says, "Order up."
+Dialogue: 0,0:06:11.58,0:06:13.33,*Default,NTP,0000,0000,0000,,不错  就刻这个吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's good. Let's go with that one.
+Dialogue: 0,0:06:13.38,0:06:15.56,*Default,NTP,0000,0000,0000,,今天  加入出彩码头吉祥物赛跑的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Joining your Wonder Wharf mascots today
+Dialogue: 0,0:06:15.56,0:06:17.07,*Default,NTP,0000,0000,0000,,是一位特别的食物来宾\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}is a special guest food,
+Dialogue: 0,0:06:17.12,0:06:18.01,*Default,NTP,0000,0000,0000,,一个大汉堡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}a burger!
+Dialogue: 0,0:06:18.06,0:06:20.02,*Default,NTP,0000,0000,0000,,操纵它的是一个男孩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A boy who is also a burger.
+Dialogue: 0,0:06:20.07,0:06:21.74,*Default,NTP,0000,0000,0000,,注意听令\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And I have my gun.
+Dialogue: 0,0:06:21.88,0:06:24.82,*Default,NTP,0000,0000,0000,,预备  就位\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ready, set...
+Dialogue: 0,0:06:26.14,0:06:27.87,*Default,NTP,0000,0000,0000,,超过他们  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go get 'em, Gene!
+Dialogue: 0,0:06:27.92,0:06:29.18,*Default,NTP,0000,0000,0000,,我强化了一下汉堡服的侧边\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I reinforced the crotch
+Dialogue: 0,0:06:29.18,0:06:30.23,*Default,NTP,0000,0000,0000,,这样他就不会撕开它了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}so he wouldn't tear it.
+Dialogue: 0,0:06:30.28,0:06:33.23,*Default,NTP,0000,0000,0000,,加油  吉恩  替亡父报仇\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Win, Gene! Avenge dad's death!
+Dialogue: 0,0:06:34.17,0:06:35.98,*Default,NTP,0000,0000,0000,,海狮萨米倒下了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Down goes Sammy Sea Lion!
+Dialogue: 0,0:06:38.31,0:06:40.35,*Default,NTP,0000,0000,0000,,只剩下两个选手了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ooh! It's a two-mascot race!
+Dialogue: 0,0:06:40.40,0:06:42.58,*Default,NTP,0000,0000,0000,,汉堡男孩和鹈鹕船长\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Burger and Captain Pel-I-Can.
+Dialogue: 0,0:06:42.63,0:06:43.58,*Default,NTP,0000,0000,0000,,他们激烈地竞争着\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There they go,
+Dialogue: 0,0:06:43.63,0:06:45.49,*Default,NTP,0000,0000,0000,,像两个踩着风火轮的...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}like two, fast, fiery...
+Dialogue: 0,0:06:45.54,0:06:46.85,*Default,NTP,0000,0000,0000,,哪吒\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}bew!
+Dialogue: 0,0:06:49.28,0:06:51.35,*Default,NTP,0000,0000,0000,,汉堡男孩赢了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The burger is your winner!
+Dialogue: 0,0:06:54.64,0:06:56.93,*Default,NTP,0000,0000,0000,,祝贺你  汉堡小伙\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, congratulations, young burger.
+Dialogue: 0,0:06:56.98,0:06:57.59,*Default,NTP,0000,0000,0000,,女士们先生们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ladies and gentlemen,
+Dialogue: 0,0:06:57.64,0:06:59.02,*Default,NTP,0000,0000,0000,,您可以在公园内购买\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you can purchase delicious burgers
+Dialogue: 0,0:06:59.02,0:07:00.48,*Default,NTP,0000,0000,0000,,差不多这个样子的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}that look somewhat like him
+Dialogue: 0,0:07:00.48,0:07:02.34,*Default,NTP,0000,0000,0000,,超级美味汉堡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}right here at the park.
+Dialogue: 0,0:07:02.39,0:07:04.64,*Default,NTP,0000,0000,0000,,还可以在我家餐馆购买\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And at my family's restaurant.
+Dialogue: 0,0:07:04.69,0:07:07.17,*Default,NTP,0000,0000,0000,,你家餐馆叫什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And, uh, what's the name of that restaurant?
+Dialogue: 0,0:07:07.22,0:07:09.15,*Default,NTP,0000,0000,0000,,是...  是...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, it's-- it's--
+Dialogue: 0,0:07:09.15,0:07:11.96,*Default,NTP,0000,0000,0000,,-我每天都泡在那啊  -开心汉堡店\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- God, I'm there every day. - Bob's Burgers!
+Dialogue: 0,0:07:12.01,0:07:13.79,*Default,NTP,0000,0000,0000,,-什么来的  神哪  -开心汉堡店\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- It's-- Oh, God... - Bob's Burgers!
+Dialogue: 0,0:07:13.84,0:07:16.52,*Default,NTP,0000,0000,0000,,-吉恩  不  -算了算了  没关系\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Gene! No! - Never mind. Never mind. That's okay.
+Dialogue: 0,0:07:16.57,0:07:17.88,*Default,NTP,0000,0000,0000,,不管这家店叫什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can get everything you expect from a burger
+Dialogue: 0,0:07:17.93,0:07:21.83,*Default,NTP,0000,0000,0000,,你都可以点个汉堡  享受美味\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}at whatever the name of his restaurant is...
+Dialogue: 0,0:07:21.88,0:07:23.73,*Default,NTP,0000,0000,0000,,我想起来了  我想起来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, oh, I just remembered! I just remembered!
+Dialogue: 0,0:07:23.78,0:07:24.48,*Default,NTP,0000,0000,0000,,晚了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's too late.
+Dialogue: 0,0:07:24.53,0:07:26.11,*Default,NTP,0000,0000,0000,,但你今天可以在公园买到\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But you can get them here at the park, today.
+Dialogue: 0,0:07:26.16,0:07:27.65,*Default,NTP,0000,0000,0000,,不  说出来啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No! Say it!
+Dialogue: 0,0:07:28.11,0:07:30.98,*Default,NTP,0000,0000,0000,,我赢了  赢了赢了  我赢了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I won something! I won! I won! I won something!
+Dialogue: 0,0:07:31.03,0:07:33.05,*Default,NTP,0000,0000,0000,,而且  你没有像其他人一样摔倒\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, and you didn't fall down like everyone else.
+Dialogue: 0,0:07:33.10,0:07:35.22,*Default,NTP,0000,0000,0000,,-跟你的孙子们好好显摆显摆  -我会的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Tell that to your grandkids. - I will.
+Dialogue: 0,0:07:35.27,0:07:36.86,*Default,NTP,0000,0000,0000,,吉恩  你真是坑爹呢啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, are you kidding me?!
+Dialogue: 0,0:07:36.91,0:07:39.26,*Default,NTP,0000,0000,0000,,我们家餐馆叫做  开心汉堡店\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The name of the restaurant is Bob's Burgers!
+Dialogue: 0,0:07:39.31,0:07:41.33,*Default,NTP,0000,0000,0000,,可是  我喊你"老爸"的啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, I call you "dad"!
+Dialogue: 0,0:07:41.38,0:07:43.18,*Default,NTP,0000,0000,0000,,我还以为叫"老爸汉堡店"呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think of it as Dad's Burgers!
+Dialogue: 0,0:07:43.23,0:07:44.81,*Default,NTP,0000,0000,0000,,你就睡在餐馆上面\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You live above it!
+Dialogue: 0,0:07:44.81,0:07:46.39,*Default,NTP,0000,0000,0000,,你每天都在餐馆里干活啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You work in it every day!
+Dialogue: 0,0:07:46.44,0:07:47.81,*Default,NTP,0000,0000,0000,,鲍勃  冷静  冷静\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, calm down, calm down.
+Dialogue: 0,0:07:47.86,0:07:48.63,*Default,NTP,0000,0000,0000,,我很抱歉  老爸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm sorry, dad.
+Dialogue: 0,0:07:48.68,0:07:49.95,*Default,NTP,0000,0000,0000,,我没事我没事  他很棒\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm fine. I'm fine. He did great.
+Dialogue: 0,0:07:50.00,0:07:51.02,*Default,NTP,0000,0000,0000,,你很棒  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You did great, Gene.
+Dialogue: 0,0:07:51.07,0:07:54.25,*Default,NTP,0000,0000,0000,,金牌哎  我们应该给它镀层青铜\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A gold medal! Oh, we should get that bronzed!
+Dialogue: 0,0:07:56.01,0:07:57.64,*Default,NTP,0000,0000,0000,,好球  三振出局\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Strike three. You're out!
+Dialogue: 0,0:07:57.69,0:08:01.26,*Default,NTP,0000,0000,0000,,陶彼德的无影指叉球突然球风一转\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo's split-finger skadootch has suddenly started clicking.
+Dialogue: 0,0:08:01.31,0:08:03.91,*Default,NTP,0000,0000,0000,,我好喜欢你做的汉堡  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I love that burger of yours, Bob.
+Dialogue: 0,0:08:03.96,0:08:07.12,*Default,NTP,0000,0000,0000,,比赛结束后  我们去开心汉堡店闹一闹吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, after the game, let's all go to Bob's Burgers!
+Dialogue: 0,0:08:08.82,0:08:11.64,*Default,NTP,0000,0000,0000,,现在  有人给我宣传了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now that's advertising, huh?
+Dialogue: 0,0:08:11.69,0:08:14.44,*Default,NTP,0000,0000,0000,,今日汉堡\N我与汉堡有个约会
+Dialogue: 0,0:08:14.49,0:08:16.34,*Default,NTP,0000,0000,0000,,精制花生口味\N上等汉堡  只要5.95
+Dialogue: 0,0:08:17.91,0:08:19.84,*Default,NTP,0000,0000,0000,,小天使\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ooh, Angel!
+Dialogue: 0,0:08:19.89,0:08:22.19,*Default,NTP,0000,0000,0000,,他们这么叫你  是因为你很乖吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do they call you that 'cause you're such a good boy?
+Dialogue: 0,0:08:22.24,0:08:25.23,*Default,NTP,0000,0000,0000,,为了逃出古巴  我做了很多坏事\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I did many bad things to escape Cuba.
+Dialogue: 0,0:08:25.28,0:08:27.65,*Default,NTP,0000,0000,0000,,那些事总在无尽的暗夜中纠缠着我\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Things that haunt me in the dark of the night.
+Dialogue: 0,0:08:28.83,0:08:30.17,*Default,NTP,0000,0000,0000,,再来杯啤酒吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How about another beer?
+Dialogue: 0,0:08:30.22,0:08:32.80,*Default,NTP,0000,0000,0000,,兄弟  知道吗  你们的老爸非常赞\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Man, you kids got a great dad, you know that?
+Dialogue: 0,0:08:32.85,0:08:35.56,*Default,NTP,0000,0000,0000,,一夫一妻一家庭  这样才对\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}One wife. One family. That's the way to do it.
+Dialogue: 0,0:08:35.61,0:08:38.36,*Default,NTP,0000,0000,0000,,知道么  职棒联盟的那些家伙\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know, in the majors, most guys got a whole bunch of families 
+Dialogue: 0,0:08:38.41,0:08:40.19,*Default,NTP,0000,0000,0000,,一人娶遍50州\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}spread out over the 50 states.
+Dialogue: 0,0:08:40.24,0:08:42.64,*Default,NTP,0000,0000,0000,,春训时  佛罗里达的妻子相伴左右\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When spring training starts, you get your Florida wife.
+Dialogue: 0,0:08:42.69,0:08:44.97,*Default,NTP,0000,0000,0000,,常规赛季  意味着"开放赛季"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When it's regular season, it's open season, 
+Dialogue: 0,0:08:45.02,0:08:46.30,*Default,NTP,0000,0000,0000,,你们懂我在说什么吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}if you know what I'm talkin' about.
+Dialogue: 0,0:08:46.35,0:08:48.66,*Default,NTP,0000,0000,0000,,你吻别老家的农妇和孩子们\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You kiss your home field wife and kids good-bye,
+Dialogue: 0,0:08:48.71,0:08:50.36,*Default,NTP,0000,0000,0000,,告诉他们你会想他们的  你也确实会\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you tell 'em you'll miss 'em, and you do.
+Dialogue: 0,0:08:50.41,0:08:53.78,*Default,NTP,0000,0000,0000,,然后偷拿一些玩具  送给另一处的孩子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But you still take some of their toys and re-gift 'em for your away kids.
+Dialogue: 0,0:08:53.83,0:08:55.70,*Default,NTP,0000,0000,0000,,那你一定是个了不起的爸爸喽\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I bet you're a great dad.
+Dialogue: 0,0:08:55.79,0:08:57.23,*Default,NTP,0000,0000,0000,,兼三个超级赞的丈夫\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And three great husbands.
+Dialogue: 0,0:08:57.28,0:08:59.72,*Default,NTP,0000,0000,0000,,陶彼德先生  我无意中注意到\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr. Torpedo, I couldn't help but notice
+Dialogue: 0,0:08:59.77,0:09:02.07,*Default,NTP,0000,0000,0000,,那个高个子男生有点无精打采的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}that the tall boy was looking a little lethargic.
+Dialogue: 0,0:09:02.17,0:09:04.51,*Default,NTP,0000,0000,0000,,他生狼疮了  或是佝偻病犯了还是什么的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, he's got Lupus or rickets or somethin'.
+Dialogue: 0,0:09:04.58,0:09:07.22,*Default,NTP,0000,0000,0000,,我就纳闷为啥我们队总招这些病秧子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know why we keep giving that job to these sick kids.
+Dialogue: 0,0:09:07.27,0:09:09.76,*Default,NTP,0000,0000,0000,,请问我能为您提供服务吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was wondering if I could offer my services.
+Dialogue: 0,0:09:09.81,0:09:11.52,*Default,NTP,0000,0000,0000,,我健康着呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm very healthy.
+Dialogue: 0,0:09:12.35,0:09:16.77,*Default,NTP,0000,0000,0000,,行了行了行了  可以可以  别再拱了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, okay, okay. Hey, you got the job. Just stop doing that.
+Dialogue: 0,0:09:16.82,0:09:18.22,*Default,NTP,0000,0000,0000,,你的第一个任务来了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here's your first ball girl duty:
+Dialogue: 0,0:09:18.27,0:09:20.65,*Default,NTP,0000,0000,0000,,每场比赛前都给我带个汉堡\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}bringing me one of your dad's burgers before every game.
+Dialogue: 0,0:09:20.70,0:09:21.53,*Default,NTP,0000,0000,0000,,好的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay.
+Dialogue: 0,0:09:23.27,0:09:25.63,*Default,NTP,0000,0000,0000,,这是你想要的香烟\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here's the tabacco you wanted.
+Dialogue: 0,0:09:25.68,0:09:27.34,*Default,NTP,0000,0000,0000,,你想要的漫画\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And your comic books.
+Dialogue: 0,0:09:28.13,0:09:30.62,*Default,NTP,0000,0000,0000,,答应你的事  我已搞定
+Dialogue: 0,0:09:30.62,0:09:34.26,*Default,NTP,0000,0000,0000,,那排失踪的玉米粒我换上新的了
+Dialogue: 0,0:09:36.40,0:09:40.67,*Default,NTP,0000,0000,0000,,费诺  同时爱上25个人  这有可能吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Phe-Nom, is it possible to be in love with 25 people at once?
+Dialogue: 0,0:09:40.72,0:09:42.50,*Default,NTP,0000,0000,0000,,你是我的最爱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're my favorite.
+Dialogue: 0,0:09:42.55,0:09:44.70,*Default,NTP,0000,0000,0000,,别告诉小天使  他火气大\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't tell Angel. He's fiery.
+Dialogue: 0,0:09:46.88,0:09:48.13,*Default,NTP,0000,0000,0000,,三振出局\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Strike three!
+Dialogue: 0,0:09:49.09,0:09:51.88,*Default,NTP,0000,0000,0000,,掌声雷动  因为陶彼德情绪高涨了起来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sound the alarm because Torpedo is on fire!
+Dialogue: 0,0:09:53.47,0:09:55.52,*Default,NTP,0000,0000,0000,,狂热  狂热  狂热\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fire! Fire! Fire!
+Dialogue: 0,0:09:55.57,0:09:58.08,*Default,NTP,0000,0000,0000,,这样不好吧  伯特  体育场里人这么多\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not a good idea, Burt. It's a crowded stadium.
+Dialogue: 0,0:09:58.13,0:09:59.88,*Default,NTP,0000,0000,0000,,那个陶彼德真是超乎想象\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That Torpedo is amazing!
+Dialogue: 0,0:09:59.93,0:10:01.42,*Default,NTP,0000,0000,0000,,他总是这么出色吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Has he always been this good?
+Dialogue: 0,0:10:01.47,0:10:03.08,*Default,NTP,0000,0000,0000,,不  他低迷了很长一段时间\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, he hasn't been good in a long time.
+Dialogue: 0,0:10:03.13,0:10:04.94,*Default,NTP,0000,0000,0000,,他说我的汉堡帮他提高了投球技术呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He says my burgers have helped him pitch better.
+Dialogue: 0,0:10:04.99,0:10:07.08,*Default,NTP,0000,0000,0000,,汉堡怎么会帮人提高投球技术呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How does a burger help someone pitch better?
+Dialogue: 0,0:10:07.13,0:10:09.06,*Default,NTP,0000,0000,0000,,鲍勃  接着  小小纪念品\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here ya go, Bob, little souvenir.
+Dialogue: 0,0:10:09.63,0:10:11.02,*Default,NTP,0000,0000,0000,,多谢了  老兄\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thanks, buddy!
+Dialogue: 0,0:10:11.39,0:10:12.76,*Default,NTP,0000,0000,0000,,好滑啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa, slippery.
+Dialogue: 0,0:10:12.81,0:10:14.27,*Default,NTP,0000,0000,0000,,全都是油啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's greasy, huh?
+Dialogue: 0,0:10:15.28,0:10:16.33,*Default,NTP,0000,0000,0000,,一股什么味儿\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What does this smell like?
+Dialogue: 0,0:10:16.38,0:10:18.46,*Default,NTP,0000,0000,0000,,别再闻陶彼德的蛋了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, stop sniffing Torpedo's balls.
+Dialogue: 0,0:10:16.38,0:10:18.46,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}ball也有"睾丸"的意思
+Dialogue: 0,0:10:19.73,0:10:20.49,*Default,NTP,0000,0000,0000,,你明白吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get it?
+Dialogue: 0,0:10:20.54,0:10:22.16,*Default,NTP,0000,0000,0000,,你好像爱上了他\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's like you're in love with him.
+Dialogue: 0,0:10:22.74,0:10:24.35,*Default,NTP,0000,0000,0000,,等等  这是我们家汉堡味\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait. That's our burger.
+Dialogue: 0,0:10:24.40,0:10:26.83,*Default,NTP,0000,0000,0000,,我擦  陶彼德往球上抹油了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, crap. Torpedo's putting my grease on the ball.
+Dialogue: 0,0:10:26.88,0:10:29.57,*Default,NTP,0000,0000,0000,,怪不得他的"无影球"还好使呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's how his skadootch is skadootching so much.
+Dialogue: 0,0:10:29.62,0:10:32.81,*Default,NTP,0000,0000,0000,,你的英雄用你的汉堡油赢分  好棒\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Your hero's using your burger grease to win. That's great!
+Dialogue: 0,0:10:32.86,0:10:36.49,*Default,NTP,0000,0000,0000,,不  琳  陶彼德在利用我的汉堡油作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, Lin, Torpedo is using my burger grease to cheat.
+Dialogue: 0,0:10:44.29,0:10:46.16,*Default,NTP,0000,0000,0000,,这么说你无意中帮助陶彼德作弊了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So you helped Torpedo cheat.
+Dialogue: 0,0:10:46.21,0:10:48.77,*Default,NTP,0000,0000,0000,,如果奇葩狗还来餐馆吃饭\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If that means the Wonderdogs keep coming to the restaurant
+Dialogue: 0,0:10:48.82,0:10:50.69,*Default,NTP,0000,0000,0000,,照顾我们家生意\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}bringing all sorts of business with them,
+Dialogue: 0,0:10:50.74,0:10:52.29,*Default,NTP,0000,0000,0000,,我就睁只眼闭只眼\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I say big whoop,
+Dialogue: 0,0:10:52.29,0:10:54.31,*Default,NTP,0000,0000,0000,,让那个老男人投抹油的球吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}let the old man throw a greasy skadootch.
+Dialogue: 0,0:10:54.75,0:10:57.52,*Default,NTP,0000,0000,0000,,我都不知道该怎样看待这件事\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't even know what to think about this.
+Dialogue: 0,0:10:57.57,0:10:59.18,*Default,NTP,0000,0000,0000,,我去尿泼尿\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I gotta go take a leak.
+Dialogue: 0,0:10:59.23,0:11:01.68,*Default,NTP,0000,0000,0000,,给我带个小号冰淇淋回来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, get me an ice cream in a mini helmet!
+Dialogue: 0,0:11:01.68,0:11:02.68,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}男厕
+Dialogue: 0,0:11:03.63,0:11:05.16,*Default,NTP,0000,0000,0000,,鲍勃  怎么闷闷不乐的啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob. You look glum.
+Dialogue: 0,0:11:05.21,0:11:06.26,*Default,NTP,0000,0000,0000,,我...  那个...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, I, uh...
+Dialogue: 0,0:11:06.31,0:11:10.24,*Default,NTP,0000,0000,0000,,你尿尿时  不扶着...  你的...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You... don't hold your... when you pee.
+Dialogue: 0,0:11:09.38,0:11:10.24,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}小鸡鸡吗
+Dialogue: 0,0:11:10.29,0:11:11.86,*Default,NTP,0000,0000,0000,,怎么  反正它又不会乱跑\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why? It's not going anywhere.
+Dialogue: 0,0:11:12.61,0:11:13.50,*Default,NTP,0000,0000,0000,,好吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay.
+Dialogue: 0,0:11:13.57,0:11:16.59,*Default,NTP,0000,0000,0000,,如果你发现  某个你认识的人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Um, well, what if you found out that someone you knew
+Dialogue: 0,0:11:16.64,0:11:17.86,*Default,NTP,0000,0000,0000,,正在做一些不太光明的事\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}was doing something sort of bad,
+Dialogue: 0,0:11:17.91,0:11:20.43,*Default,NTP,0000,0000,0000,,而你无意中成了帮凶...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and you were helping them do that sort of bad thing...
+Dialogue: 0,0:11:20.48,0:11:22.31,*Default,NTP,0000,0000,0000,,说我呢吗  你指堕胎吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is it me? Is it abortions?
+Dialogue: 0,0:11:22.37,0:11:24.47,*Default,NTP,0000,0000,0000,,-等等  什么  -你刚才说什么了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Wait. What? - Uh, what were you saying?
+Dialogue: 0,0:11:24.54,0:11:26.56,*Default,NTP,0000,0000,0000,,陶彼德·琼斯往球上抹油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo Jones is greasing the ball,
+Dialogue: 0,0:11:26.61,0:11:28.49,*Default,NTP,0000,0000,0000,,那是我家汉堡上的油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and he's using my grease to do it.
+Dialogue: 0,0:11:29.71,0:11:31.81,*Default,NTP,0000,0000,0000,,跟我来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh. Come walk with me.
+Dialogue: 0,0:11:33.02,0:11:35.26,*Default,NTP,0000,0000,0000,,来看看幕后吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come behind the scenes!
+Dialogue: 0,0:11:35.31,0:11:37.13,*Default,NTP,0000,0000,0000,,陶彼德那眩目的球技\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo's dazzling pitching
+Dialogue: 0,0:11:37.13,0:11:38.63,*Default,NTP,0000,0000,0000,,吸引越来越多的人前来观看比赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}is putting more butts in seats
+Dialogue: 0,0:11:38.63,0:11:40.46,*Default,NTP,0000,0000,0000,,多到体育场都快装不下了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}than this stadium can handle.
+Dialogue: 0,0:11:40.51,0:11:42.36,*Default,NTP,0000,0000,0000,,没有那些高厚木板支撑\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is the roller coaster going to be okay
+Dialogue: 0,0:11:42.41,0:11:44.22,*Default,NTP,0000,0000,0000,,这辆过山车不会出问题吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}without those huge planks of wood?
+Dialogue: 0,0:11:44.27,0:11:45.84,*Default,NTP,0000,0000,0000,,没问题  没问题\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sure, sure!
+Dialogue: 0,0:11:45.89,0:11:48.08,*Default,NTP,0000,0000,0000,,这些人不会为多余的木头付钱  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}These people aren't paying for extra wood, Bob.
+Dialogue: 0,0:11:48.13,0:11:50.89,*Default,NTP,0000,0000,0000,,没人想乘坐"多余木山车"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No one wants to ride Extra Wood Mountain.
+Dialogue: 0,0:11:50.94,0:11:53.58,*Default,NTP,0000,0000,0000,,小心这些多余的螺帽和螺栓\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whoa! Watch out! Extra nuts and bolts.
+Dialogue: 0,0:11:54.24,0:11:55.88,*Default,NTP,0000,0000,0000,,人们来看棒球比赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}People come to baseball games
+Dialogue: 0,0:11:55.93,0:11:58.41,*Default,NTP,0000,0000,0000,,和去游乐场是出于同一种原因\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for the same reason they come to the amusement park:
+Dialogue: 0,0:11:58.47,0:12:00.41,*Default,NTP,0000,0000,0000,,都是为了找乐子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to be entertained!
+Dialogue: 0,0:12:00.48,0:12:02.98,*Default,NTP,0000,0000,0000,,有没有暗箱操作关系大吗  不大\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Does it really matter if the games are rigged? No!
+Dialogue: 0,0:12:03.05,0:12:04.90,*Default,NTP,0000,0000,0000,,-比赛有暗箱  -是的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- The games are rigged? - Yes!
+Dialogue: 0,0:12:04.95,0:12:07.28,*Default,NTP,0000,0000,0000,,哎哟  我的小鸡鸡怎么还在外面\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my wonderdog is hanging out.
+Dialogue: 0,0:12:07.35,0:12:09.22,*Default,NTP,0000,0000,0000,,是啊  是啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes. Yes, it is.
+Dialogue: 0,0:12:09.27,0:12:10.66,*Default,NTP,0000,0000,0000,,我聊得太投入了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I got so caught up in our conversation,
+Dialogue: 0,0:12:10.71,0:12:11.85,*Default,NTP,0000,0000,0000,,拉链都忘了拉\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I forgot to zip.
+Dialogue: 0,0:12:11.90,0:12:13.78,*Default,NTP,0000,0000,0000,,我不想发表意见\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah, I didn't want to say anything.
+Dialogue: 0,0:12:13.83,0:12:14.84,*Default,NTP,0000,0000,0000,,-为什么  -我...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Why not? - I, uh...
+Dialogue: 0,0:12:14.89,0:12:16.76,*Default,NTP,0000,0000,0000,,好听的话不嫌多  我刚才说到哪了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Compliments are welcome. Where was I?
+Dialogue: 0,0:12:16.82,0:12:18.83,*Default,NTP,0000,0000,0000,,你刚才说  比赛有暗箱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You were saying the games are rigged.
+Dialogue: 0,0:12:18.89,0:12:20.99,*Default,NTP,0000,0000,0000,,没错  所有比赛  游戏  都被暗箱了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes. The games are all rigged.
+Dialogue: 0,0:12:25.20,0:12:27.78,*Default,NTP,0000,0000,0000,,这些游戏我不会再让孩子们玩了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm not letting my kids play these games anymore.
+Dialogue: 0,0:12:27.83,0:12:29.81,*Default,NTP,0000,0000,0000,,你看这些开心的脸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But look at these smiling faces,
+Dialogue: 0,0:12:29.86,0:12:31.82,*Default,NTP,0000,0000,0000,,就和那些开心的脸一样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}just like those smiling faces.
+Dialogue: 0,0:12:31.87,0:12:35.03,*Default,NTP,0000,0000,0000,,陶彼德的每个无影球都给大家带来了无尽的欢乐\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Smiling at every skadootch the Torpedo throws.
+Dialogue: 0,0:12:35.08,0:12:36.63,*Default,NTP,0000,0000,0000,,他们不想知道真相  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They don't want to know, Bob.
+Dialogue: 0,0:12:36.68,0:12:39.18,*Default,NTP,0000,0000,0000,,他们不想看到"帷幕后的景象"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They don't want to "look behind the curtain".
+Dialogue: 0,0:12:39.23,0:12:40.15,*Default,NTP,0000,0000,0000,,我不知道\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know.
+Dialogue: 0,0:12:40.21,0:12:42.58,*Default,NTP,0000,0000,0000,,也许  善恶各有报应\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It just seems like bad karma or something.
+Dialogue: 0,0:12:42.65,0:12:45.85,*Default,NTP,0000,0000,0000,,报应  这世上哪有"报应"一说啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Karma? There's no such thing as "karma".
+Dialogue: 0,0:12:46.52,0:12:48.29,*Default,NTP,0000,0000,0000,,至少不会在本市出现\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not in this town.
+Dialogue: 0,0:12:49.15,0:12:51.60,*Default,NTP,0000,0000,0000,,快踢掉  快把它们踢到海里去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, just kick 'em. Kick 'em right into the ocean!
+Dialogue: 0,0:12:51.65,0:12:53.14,*Default,NTP,0000,0000,0000,,-好  -好了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Okay. - That's it.
+Dialogue: 0,0:12:55.37,0:12:58.07,*Default,NTP,0000,0000,0000,,等等  为什么陶纳德想要一罐用过的油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait, why does Tornado want our old grease in a jar?
+Dialogue: 0,0:12:55.37,0:12:58.07,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}Tornado:  龙卷风
+Dialogue: 0,0:12:58.12,0:13:00.11,*Default,NTP,0000,0000,0000,,是陶彼德  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's Torpedo, Gene.
+Dialogue: 0,0:12:58.12,0:13:00.11,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs20\3c&000000&\bord1}陶彼德:  鱼雷
+Dialogue: 0,0:13:00.16,0:13:01.79,*Default,NTP,0000,0000,0000,,这会帮他投出好球\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, it helps him pitch better.
+Dialogue: 0,0:13:01.84,0:13:03.05,*Default,NTP,0000,0000,0000,,还有  记住  这是秘密\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And-- and don't forget, it's a secret.
+Dialogue: 0,0:13:03.10,0:13:04.72,*Default,NTP,0000,0000,0000,,怎么  这样做是违规的么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why? Is it against the rules?
+Dialogue: 0,0:13:04.77,0:13:05.90,*Default,NTP,0000,0000,0000,,严格说来  是的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Technically, yes.
+Dialogue: 0,0:13:05.92,0:13:07.06,*Default,NTP,0000,0000,0000,,那这是作弊喽\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So then it's cheating.
+Dialogue: 0,0:13:07.11,0:13:08.10,*Default,NTP,0000,0000,0000,,不  这样做\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No. What it is,
+Dialogue: 0,0:13:08.10,0:13:10.42,*Default,NTP,0000,0000,0000,,是帮助大家享受更多看球的乐趣\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}is helping people enjoy baseball more.
+Dialogue: 0,0:13:10.47,0:13:11.84,*Default,NTP,0000,0000,0000,,这是在  取悦大家\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's entertainment.
+Dialogue: 0,0:13:11.89,0:13:13.11,*Default,NTP,0000,0000,0000,,我不明白\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm confused.
+Dialogue: 0,0:13:13.16,0:13:14.69,*Default,NTP,0000,0000,0000,,你和妈妈要离婚了吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you and mom getting divorced?
+Dialogue: 0,0:13:14.74,0:13:16.25,*Default,NTP,0000,0000,0000,,-什么  -天哪  还真是\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- What? - Oh, my God, you are.
+Dialogue: 0,0:13:16.30,0:13:17.64,*Default,NTP,0000,0000,0000,,-我跟老妈  -我跟老爸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I call mom! - I call dad!
+Dialogue: 0,0:13:17.71,0:13:18.77,*Default,NTP,0000,0000,0000,,你俩把爸妈都给占了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You guys took both of them.
+Dialogue: 0,0:13:18.82,0:13:20.45,*Default,NTP,0000,0000,0000,,够了  给我装调料去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Enough. Go fill the condiments.
+Dialogue: 0,0:13:20.50,0:13:22.15,*Default,NTP,0000,0000,0000,,-我装番茄酱  -我装芥末酱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I call ketchup! - I call mustard!
+Dialogue: 0,0:13:22.20,0:13:23.81,*Default,NTP,0000,0000,0000,,你可以装辣根酱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can do horseradish.
+Dialogue: 0,0:13:23.86,0:13:25.35,*Default,NTP,0000,0000,0000,,又没有...  好的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There's not... Okay.
+Dialogue: 0,0:13:25.73,0:13:26.67,*Default,NTP,0000,0000,0000,,谢谢  老鲍\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thanks, Bobby.
+Dialogue: 0,0:13:26.72,0:13:28.96,*Default,NTP,0000,0000,0000,,谁想吃汉堡  我请客\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, who wants a burger on the Torpedo!
+Dialogue: 0,0:13:28.96,0:13:29.97,*Default,NTP,0000,0000,0000,,万岁\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hooray!
+Dialogue: 0,0:13:31.34,0:13:33.80,*Default,NTP,0000,0000,0000,,吉恩  你要卫冕哦  紧张吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, you're defending your title. Are you nervous?
+Dialogue: 0,0:13:33.86,0:13:35.71,*Default,NTP,0000,0000,0000,,你怎么不问问我拉肚子好没好\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why don't you ask my diarrhea.
+Dialogue: 0,0:13:35.76,0:13:37.30,*Default,NTP,0000,0000,0000,,你应该感到紧张\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You should be nervous.
+Dialogue: 0,0:13:37.35,0:13:39.50,*Default,NTP,0000,0000,0000,,你这个穿着汉堡服的胖小子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're a chubby kid in a mascot suit.
+Dialogue: 0,0:13:39.57,0:13:42.05,*Default,NTP,0000,0000,0000,,这正是我想说的  我应该作作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's what I'm saying. I should cheat.
+Dialogue: 0,0:13:42.10,0:13:44.24,*Default,NTP,0000,0000,0000,,老爸也说过  如果是为了取乐就可以作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dad says it's okay when it's for entertainment.
+Dialogue: 0,0:13:44.29,0:13:46.01,*Default,NTP,0000,0000,0000,,没错  我们作弊吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's right! Let's cheat!
+Dialogue: 0,0:13:46.08,0:13:47.78,*Default,NTP,0000,0000,0000,,-看到那只鹈鹕了吗  -看到了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- You see that pelican? - Yeah.
+Dialogue: 0,0:13:47.83,0:13:48.88,*Default,NTP,0000,0000,0000,,你用跑的  对吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're running, right?
+Dialogue: 0,0:13:48.94,0:13:51.20,*Default,NTP,0000,0000,0000,,你往鞋上绑把弹簧刀\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You have a switchblade taped to your shoe.
+Dialogue: 0,0:13:51.29,0:13:52.31,*Default,NTP,0000,0000,0000,,-他有装吗  -他会装的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- He does? - He will.
+Dialogue: 0,0:13:52.36,0:13:54.67,*Default,NTP,0000,0000,0000,,在另外一只鞋上绑个柠檬\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And on your other shoe, you'll have a lemon.
+Dialogue: 0,0:13:54.72,0:13:56.08,*Default,NTP,0000,0000,0000,,捅死你  捅死你  捅死你\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stab! Stab! Stab!
+Dialogue: 0,0:13:56.15,0:13:57.46,*Default,NTP,0000,0000,0000,,蜇死你  蜇死你  蜇死你\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sting, sting, sting!
+Dialogue: 0,0:13:57.51,0:13:58.76,*Default,NTP,0000,0000,0000,,"你在干什么"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"What are you doing?"
+Dialogue: 0,0:13:58.81,0:14:01.21,*Default,NTP,0000,0000,0000,,"我在往你的伤口里挤柠檬汁"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"I'm squeezing lemon into your wound!"
+Dialogue: 0,0:14:01.26,0:14:03.09,*Default,NTP,0000,0000,0000,,甜心宝贝刀锋脚\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sweet baby, blade foot.
+Dialogue: 0,0:14:03.14,0:14:06.13,*Default,NTP,0000,0000,0000,,我也可以用手肘撞他  然后使绊子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Or... I can give him a nudge and tip him over.
+Dialogue: 0,0:14:06.18,0:14:07.16,*Default,NTP,0000,0000,0000,,这样行么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ugh, really?
+Dialogue: 0,0:14:07.23,0:14:08.49,*Default,NTP,0000,0000,0000,,行  他头重脚轻\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. He's top-heavy.
+Dialogue: 0,0:14:08.54,0:14:10.43,*Default,NTP,0000,0000,0000,,我只要轻轻拍一下就行了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll just give him a little tippity-tap.
+Dialogue: 0,0:14:10.50,0:14:12.98,*Default,NTP,0000,0000,0000,,我还是坚持在脚底绑刀\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, I'm still gluing a knife to my foot.
+Dialogue: 0,0:14:14.89,0:14:16.55,*Default,NTP,0000,0000,0000,,吉恩加油  吉恩快跑\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yay, Gene! Go, Gene!
+Dialogue: 0,0:14:16.55,0:14:17.07,*Default,NTP,0000,0000,0000,,就是这样  儿子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That-a-way, son!
+Dialogue: 0,0:14:19.53,0:14:20.91,*Default,NTP,0000,0000,0000,,轻轻拍一下\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tippity-tap.
+Dialogue: 0,0:14:22.83,0:14:24.71,*Default,NTP,0000,0000,0000,,三个吉祥物连环相撞\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a three-mascot-pileup!
+Dialogue: 0,0:14:24.78,0:14:26.66,*Default,NTP,0000,0000,0000,,吉恩快跑  吉恩好样的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, Gene! All right! Go!
+Dialogue: 0,0:14:26.71,0:14:28.81,*Default,NTP,0000,0000,0000,,汉堡男孩又赢了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The Boy Burger wins again!
+Dialogue: 0,0:14:28.88,0:14:30.62,*Default,NTP,0000,0000,0000,,你认为怎么样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How about that?
+Dialogue: 0,0:14:30.68,0:14:32.17,*Default,NTP,0000,0000,0000,,你认为怎么样  菲尔\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, how about this, Phil?
+Dialogue: 0,0:14:34.80,0:14:36.90,*Default,NTP,0000,0000,0000,,我不知道  伯特  我不是很确定\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know, Burt. I'm not so sure about that.
+Dialogue: 0,0:14:37.96,0:14:39.70,*Default,NTP,0000,0000,0000,,我赢了  我又赢了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I won! I won again!
+Dialogue: 0,0:14:39.75,0:14:41.13,*Default,NTP,0000,0000,0000,,我弟弟赢了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My brother won!
+Dialogue: 0,0:14:41.18,0:14:43.03,*Default,NTP,0000,0000,0000,,伙计们  快脱掉球衫\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Guys, take off your shirts.
+Dialogue: 0,0:14:45.24,0:14:47.14,*Default,NTP,0000,0000,0000,,手臂甩得很起劲嘛  宝贝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good arm pumping, baby!
+Dialogue: 0,0:14:47.19,0:14:48.73,*Default,NTP,0000,0000,0000,,很好地掩饰了我推人这招\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's how I disguised the push.
+Dialogue: 0,0:14:48.80,0:14:49.81,*Default,NTP,0000,0000,0000,,你推人了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What push?
+Dialogue: 0,0:14:49.81,0:14:51.25,*Default,NTP,0000,0000,0000,,他把棉花糖推倒了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He pushed the Cotton Candy mascot so he'd fall over.
+Dialogue: 0,0:14:51.30,0:14:53.27,*Default,NTP,0000,0000,0000,,作弊万岁\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hooray for cheating!
+Dialogue: 0,0:14:53.34,0:14:55.44,*Default,NTP,0000,0000,0000,,吉恩  你怎么能这样  这样做是错的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, how could you? You know that's wrong.
+Dialogue: 0,0:14:55.49,0:14:57.94,*Default,NTP,0000,0000,0000,,不不不  如果是为了取乐  就不是错的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh-uh-uh. Not when it's entertainment.
+Dialogue: 0,0:14:57.99,0:14:59.01,*Default,NTP,0000,0000,0000,,你自己说的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You said it yourself.
+Dialogue: 0,0:14:59.08,0:15:00.45,*Default,NTP,0000,0000,0000,,这是你教的么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You told them cheating is okay?
+Dialogue: 0,0:15:00.50,0:15:02.01,*Default,NTP,0000,0000,0000,,不  我没有  琳达\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, I didn't, Linda.
+Dialogue: 0,0:15:02.08,0:15:03.74,*Default,NTP,0000,0000,0000,,就是他教的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, he did.
+Dialogue: 0,0:15:03.79,0:15:05.62,*Default,NTP,0000,0000,0000,,-鲍鲍  -糟糕\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Oh, Bobby. -Oh, crap.
+Dialogue: 0,0:15:05.68,0:15:08.41,*Default,NTP,0000,0000,0000,,去给我买个蛋卷冰淇淋  要经典造型的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go get me a soft serve. And make it a swirl!
+Dialogue: 0,0:15:14.35,0:15:15.94,*Default,NTP,0000,0000,0000,,吉恩  我那句"作弊没关系"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, Gene, when I said it's okay to cheat,
+Dialogue: 0,0:15:15.99,0:15:17.52,*Default,NTP,0000,0000,0000,,是说陶彼德作弊没关系\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I meant for Torpedo,
+Dialogue: 0,0:15:17.52,0:15:19.01,*Default,NTP,0000,0000,0000,,不是说你作弊没关系\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}not for you to cheat in your mascot race.
+Dialogue: 0,0:15:19.06,0:15:21.63,*Default,NTP,0000,0000,0000,,你应该还回去一块金牌\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You should really give back one of those medals.
+Dialogue: 0,0:15:21.68,0:15:23.99,*Default,NTP,0000,0000,0000,,但在还之前  我想给你照张相\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ooh, but I want to get a picture of you wearing them before you do.
+Dialogue: 0,0:15:24.04,0:15:25.93,*Default,NTP,0000,0000,0000,,我才不要还\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm not giving back my medals!
+Dialogue: 0,0:15:25.98,0:15:28.05,*Default,NTP,0000,0000,0000,,那些混蛋花钱花得值啊  老爸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Those suckers got their money's worth, pops.
+Dialogue: 0,0:15:28.10,0:15:29.65,*Default,NTP,0000,0000,0000,,你看我很有商业头脑吧  老爸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm good for business, dad.
+Dialogue: 0,0:15:29.70,0:15:31.73,*Default,NTP,0000,0000,0000,,从现在开始  不许再作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know what? From now on, there'll be no more cheating.
+Dialogue: 0,0:15:31.78,0:15:33.94,*Default,NTP,0000,0000,0000,,也就是说我不应该再给陶彼德送油了是吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Does that mean I shouldn't give Torpedo this grease?
+Dialogue: 0,0:15:33.99,0:15:35.10,*Default,NTP,0000,0000,0000,,没错  蒂娜\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's right, Tina. 
+Dialogue: 0,0:15:35.15,0:15:38.53,*Default,NTP,0000,0000,0000,,是的  这个家不许再有人作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes. No more cheating for anyone in this house.
+Dialogue: 0,0:15:38.58,0:15:41.70,*Default,NTP,0000,0000,0000,,从今往后  我再也不穿收腹牛仔裤了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}From now on, I won't wear my tummy tuck jeans.
+Dialogue: 0,0:15:41.75,0:15:44.94,*Default,NTP,0000,0000,0000,,再见  巴西佬  你好  热带雨林\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And goodbye, Brazilian. Hello, rainforest.
+Dialogue: 0,0:15:46.31,0:15:47.28,*Default,NTP,0000,0000,0000,,抱歉  老爸\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sorry, Dad.
+Dialogue: 0,0:15:47.33,0:15:50.12,*Default,NTP,0000,0000,0000,,但如果明天我赢了  我将是有史以来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But if I win tomorrow, I'll be the first mascot
+Dialogue: 0,0:15:50.17,0:15:52.70,*Default,NTP,0000,0000,0000,,第一个三连胜的吉祥物\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}ever to win three races in a row.
+Dialogue: 0,0:15:52.75,0:15:53.61,*Default,NTP,0000,0000,0000,,多V5啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm a top!
+Dialogue: 0,0:15:53.66,0:15:54.79,*Default,NTP,0000,0000,0000,,你的意思是  "威武"么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You mean you're on top.
+Dialogue: 0,0:15:54.84,0:15:56.71,*Default,NTP,0000,0000,0000,,不  是"V5"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No. I'm a top!
+Dialogue: 0,0:16:00.39,0:16:02.08,*Default,NTP,0000,0000,0000,,我还以为\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shew. I was starting to think
+Dialogue: 0,0:16:02.13,0:16:03.55,*Default,NTP,0000,0000,0000,,你会放我鸽子呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}maybe you were going to leave me high and dry here.
+Dialogue: 0,0:16:03.60,0:16:06.00,*Default,NTP,0000,0000,0000,,这只罐里的东西  值得你等待\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, what's in this jar is worth the wait.
+Dialogue: 0,0:16:06.05,0:16:06.76,*Default,NTP,0000,0000,0000,,搞什么...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What the...?
+Dialogue: 0,0:16:06.81,0:16:08.25,*Default,NTP,0000,0000,0000,,无需作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"You don't need to cheat.
+Dialogue: 0,0:16:08.30,0:16:10.17,*Default,NTP,0000,0000,0000,,没有我  你也能赢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"You can win without me.
+Dialogue: 0,0:16:10.22,0:16:12.47,*Default,NTP,0000,0000,0000,,全力以赴  就是冠军\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"If you try your hardest, you've already won.
+Dialogue: 0,0:16:12.52,0:16:13.90,*Default,NTP,0000,0000,0000,,爱你  鲍家汉堡油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Love, Bob's grease."
+Dialogue: 0,0:16:13.95,0:16:15.14,*Default,NTP,0000,0000,0000,,没错  陶彼德\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's right, Torpedo.
+Dialogue: 0,0:16:15.19,0:16:16.52,*Default,NTP,0000,0000,0000,,没有油你也能赢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can win without my grease.
+Dialogue: 0,0:16:16.57,0:16:18.73,*Default,NTP,0000,0000,0000,,我对你有信心\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It just took me believing in you.
+Dialogue: 0,0:16:18.78,0:16:20.50,*Default,NTP,0000,0000,0000,,听着  吉恩等会就要开跑了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now, listen. Gene's about to race,
+Dialogue: 0,0:16:20.55,0:16:21.72,*Default,NTP,0000,0000,0000,,你是他的偶像\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and since you're his role model,
+Dialogue: 0,0:16:21.77,0:16:22.96,*Default,NTP,0000,0000,0000,,所以我希望你能告诉他\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm hoping you'll tell Gene
+Dialogue: 0,0:16:23.01,0:16:25.36,*Default,NTP,0000,0000,0000,,不作弊也能赢  就像你一样\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}he can win without cheating, just like you.
+Dialogue: 0,0:16:25.41,0:16:26.55,*Default,NTP,0000,0000,0000,,吉恩是哪只鸟\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who the hell's Gene?
+Dialogue: 0,0:16:26.60,0:16:27.93,*Default,NTP,0000,0000,0000,,他是...  我儿子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's... my son.
+Dialogue: 0,0:16:27.98,0:16:30.61,*Default,NTP,0000,0000,0000,,你是他的偶像  也是我的偶像\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're his role model, and you're my role model, too.
+Dialogue: 0,0:16:30.66,0:16:33.96,*Default,NTP,0000,0000,0000,,擦  我怎么能是你的偶像  我们同龄啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wha...? I can't be your role model, we're the same age.
+Dialogue: 0,0:16:34.01,0:16:35.97,*Default,NTP,0000,0000,0000,,这是什么意思  你不再给我送油了吗  爆勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's this mean? You cutting me off, Bobo?
+Dialogue: 0,0:16:36.02,0:16:38.34,*Default,NTP,0000,0000,0000,,陶彼德  我在帮你释放自己\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo, I'm cutting you free.
+Dialogue: 0,0:16:38.39,0:16:39.60,*Default,NTP,0000,0000,0000,,-过来  -等等  你想干什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Come here. - Wait, what are you going to do?
+Dialogue: 0,0:16:39.65,0:16:41.88,*Default,NTP,0000,0000,0000,,-我想抱抱你  -慢着  大老虎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I'm going to hug you. - Slow down there, tiger.
+Dialogue: 0,0:16:41.93,0:16:44.68,*Default,NTP,0000,0000,0000,,看来我得用这瓶油撑过这一季了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Guess I'll have to make this grease last the whole season.
+Dialogue: 0,0:16:44.73,0:16:46.75,*Default,NTP,0000,0000,0000,,我就不应该给你提供油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I should have never given you my grease.
+Dialogue: 0,0:16:46.80,0:16:47.93,*Default,NTP,0000,0000,0000,,我亲手造就了一个怪物\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I created a monster.
+Dialogue: 0,0:16:47.98,0:16:49.63,*Default,NTP,0000,0000,0000,,你以为遇见你之后我才开始用油作弊吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You think you started my greasing?
+Dialogue: 0,0:16:49.68,0:16:52.19,*Default,NTP,0000,0000,0000,,我的职业生涯一直都在作弊  老鲍\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I've always cheated, Bobby.
+Dialogue: 0,0:16:52.24,0:16:53.76,*Default,NTP,0000,0000,0000,,至少凌波微球没有作弊啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not the... "the pitch".
+Dialogue: 0,0:16:53.81,0:16:55.55,*Default,NTP,0000,0000,0000,,凌波微球当然作弊了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, definitely "the pitch".
+Dialogue: 0,0:16:55.60,0:16:58.34,*Default,NTP,0000,0000,0000,,那场比赛  我在鼻孔里藏了块黄油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That game, I had a pat of butter in my nostril,
+Dialogue: 0,0:16:58.35,0:16:59.77,*Default,NTP,0000,0000,0000,,在腋下抹了点润滑剂\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}sex jelly in my armpit...
+Dialogue: 0,0:16:59.82,0:17:01.55,*Default,NTP,0000,0000,0000,,我还吃了几片处方药\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hell, I was on prescription drugs
+Dialogue: 0,0:17:01.60,0:17:03.65,*Default,NTP,0000,0000,0000,,以刺激耳屎生长\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to stimulate production of earwax.
+Dialogue: 0,0:17:03.70,0:17:05.14,*Default,NTP,0000,0000,0000,,什么"凌波微球"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And "the pitch"?
+Dialogue: 0,0:17:05.19,0:17:07.54,*Default,NTP,0000,0000,0000,,全靠从黑市的爱斯基摩人手里\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That was courtesy of some black market whale blubber
+Dialogue: 0,0:17:07.59,0:17:08.99,*Default,NTP,0000,0000,0000,,买到的鲸脂\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I bought off some Eskimos.
+Dialogue: 0,0:17:09.04,0:17:10.18,*Default,NTP,0000,0000,0000,,这个纸条还是很有爱的  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cute note, though, Bob.
+Dialogue: 0,0:17:10.18,0:17:13.89,*Default,NTP,0000,0000,0000,,我建议你  下次找偶像找个老一点的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bit of advice: if you want a role model, pick an old guy.
+Dialogue: 0,0:17:13.96,0:17:16.07,*Default,NTP,0000,0000,0000,,等你长大了  他们也死翘翘了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}By the time you grow up, they're dead.
+Dialogue: 0,0:17:17.93,0:17:19.09,*Default,NTP,0000,0000,0000,,不太顺利啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Didn't go great.
+Dialogue: 0,0:17:19.14,0:17:20.61,*Default,NTP,0000,0000,0000,,-吉恩  -我看肯定行\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Gene! - I'm sure it was fine.
+Dialogue: 0,0:17:20.66,0:17:22.58,*Default,NTP,0000,0000,0000,,陶彼德看上去是个讲理的人\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo seems like a reasonable guy.
+Dialogue: 0,0:17:22.63,0:17:25.30,*Default,NTP,0000,0000,0000,,陶彼德·琼斯要你们即刻离席\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Torpedo Jones wants you out of his seats this second.
+Dialogue: 0,0:17:25.35,0:17:27.33,*Default,NTP,0000,0000,0000,,-混蛋一个  -吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- What a schmuck. - Gene!
+Dialogue: 0,0:17:28.55,0:17:30.50,*Default,NTP,0000,0000,0000,,第七局中场休息\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's the seventh-inning stretch.
+Dialogue: 0,0:17:30.55,0:17:32.14,*Default,NTP,0000,0000,0000,,吉祥物们已经站好队了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mascots are lining up.
+Dialogue: 0,0:17:32.21,0:17:34.08,*Default,NTP,0000,0000,0000,,我想我有主意了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right, maybe I have an idea.
+Dialogue: 0,0:17:34.45,0:17:35.14,*Default,NTP,0000,0000,0000,,兄弟\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi, fellas,
+Dialogue: 0,0:17:35.19,0:17:36.97,*Default,NTP,0000,0000,0000,,我想跟我儿子说几句话\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'd love to say a few words to my son,
+Dialogue: 0,0:17:37.02,0:17:39.21,*Default,NTP,0000,0000,0000,,穿汉堡服那个  不好意思\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the burger, over the PA. Excuse me.
+Dialogue: 0,0:17:39.26,0:17:41.53,*Default,NTP,0000,0000,0000,,好吧  突发状况哟\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh... okay. Highly unusual.
+Dialogue: 0,0:17:41.58,0:17:43.44,*Default,NTP,0000,0000,0000,,不重要  这一切都不重要\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Doesn't matter. None of this matters.
+Dialogue: 0,0:17:43.49,0:17:44.68,*Default,NTP,0000,0000,0000,,吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene.
+Dialogue: 0,0:17:44.73,0:17:45.66,*Default,NTP,0000,0000,0000,,往上瞅\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Up here.
+Dialogue: 0,0:17:45.71,0:17:46.78,*Default,NTP,0000,0000,0000,,上帝吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jesus?
+Dialogue: 0,0:17:46.83,0:17:49.18,*Default,NTP,0000,0000,0000,,不  吉恩  是你老爸啦  我在上面\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, Gene, it's your father. I'm up here.
+Dialogue: 0,0:17:49.23,0:17:50.41,*Default,NTP,0000,0000,0000,,你死了吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're dead?!
+Dialogue: 0,0:17:50.82,0:17:51.76,*Default,NTP,0000,0000,0000,,没错\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:17:52.37,0:17:54.44,*Default,NTP,0000,0000,0000,,好啦  我开玩笑的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, I'm kidding.
+Dialogue: 0,0:17:54.49,0:17:57.42,*Default,NTP,0000,0000,0000,,我在解说台里  这边  看到了吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm up here in the booth. Right here. See me?
+Dialogue: 0,0:17:58.00,0:17:59.69,*Default,NTP,0000,0000,0000,,我去  这麦怎么有股啤酒味\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Boy, this microphone smells like beer.
+Dialogue: 0,0:17:59.74,0:18:02.77,*Default,NTP,0000,0000,0000,,戒酒互助会都纯"扯蛋"\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, let's just say AA was "A" waste of time.
+Dialogue: 0,0:18:02.82,0:18:04.41,*Default,NTP,0000,0000,0000,,夺冠不是最重要的  吉恩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Winning isn't everything, Gene.
+Dialogue: 0,0:18:04.41,0:18:06.59,*Default,NTP,0000,0000,0000,,没错  我们来这儿是为了开心\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, we're all here to be entertained,
+Dialogue: 0,0:18:06.59,0:18:08.59,*Default,NTP,0000,0000,0000,,但如果你投机取巧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but if you, um, cut corners now,
+Dialogue: 0,0:18:08.59,0:18:10.47,*Default,NTP,0000,0000,0000,,也许你今后就会\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the next thing you know, you'll be
+Dialogue: 0,0:18:10.52,0:18:12.91,*Default,NTP,0000,0000,0000,,往鼻孔里藏猪油\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}hiding lard in your nose
+Dialogue: 0,0:18:12.96,0:18:15.07,*Default,NTP,0000,0000,0000,,或者搭建过山车时偷工减料\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}or taking wood out of roller coasters.
+Dialogue: 0,0:18:15.12,0:18:17.58,*Default,NTP,0000,0000,0000,,我说你说够了没有\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, all right, that's enough of that.
+Dialogue: 0,0:18:17.63,0:18:19.17,*Default,NTP,0000,0000,0000,,开始比赛吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's start the race!
+Dialogue: 0,0:18:19.22,0:18:20.87,*Default,NTP,0000,0000,0000,,我正跟我儿子说话呢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm trying to talk to my son.
+Dialogue: 0,0:18:20.92,0:18:22.39,*Default,NTP,0000,0000,0000,,吉恩  不要作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, run clean.
+Dialogue: 0,0:18:22.44,0:18:23.32,*Default,NTP,0000,0000,0000,,各就各位\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}On your mark!
+Dialogue: 0,0:18:23.37,0:18:24.77,*Default,NTP,0000,0000,0000,,吉恩  你打算怎么做\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, what are you going to do?
+Dialogue: 0,0:18:24.82,0:18:25.90,*Default,NTP,0000,0000,0000,,我不知道\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know.
+Dialogue: 0,0:18:25.95,0:18:26.91,*Default,NTP,0000,0000,0000,,你要作弊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're going to cheat!
+Dialogue: 0,0:18:26.96,0:18:28.20,*Default,NTP,0000,0000,0000,,你要这样做\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's what you're going to do!
+Dialogue: 0,0:18:28.25,0:18:30.19,*Default,NTP,0000,0000,0000,,你要靠作弊夺冠\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're going to win by cheating!
+Dialogue: 0,0:18:35.49,0:18:38.61,*Default,NTP,0000,0000,0000,,有没有人想看汉堡男孩三连冠啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who wants to see the Burger win three in a row?
+Dialogue: 0,0:18:38.87,0:18:40.83,*Default,NTP,0000,0000,0000,,吉恩  听我说  你知道该怎么做\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene, listen to me. You know what to do.
+Dialogue: 0,0:18:40.88,0:18:43.33,*Default,NTP,0000,0000,0000,,鲍勃  小汉堡要三连冠哦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob... triple crown for Burger.
+Dialogue: 0,0:18:43.38,0:18:45.12,*Default,NTP,0000,0000,0000,,对你的生意也有好处哦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good for your business.
+Dialogue: 0,0:18:45.17,0:18:46.18,*Default,NTP,0000,0000,0000,,听到没\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}See?!
+Dialogue: 0,0:18:46.23,0:18:48.98,*Default,NTP,0000,0000,0000,,不  吉恩  别想着打广告了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, Gene! Don't worry about the advertising.
+Dialogue: 0,0:18:49.34,0:18:50.99,*Default,NTP,0000,0000,0000,,你们这是干嘛  那只是发令枪罢了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you doing? It's a starter's pistol.
+Dialogue: 0,0:18:51.04,0:18:52.39,*Default,NTP,0000,0000,0000,,那是真枪  我劝你也躲起来\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a real gun. You should get down.
+Dialogue: 0,0:18:52.44,0:18:55.64,*Default,NTP,0000,0000,0000,,什么  别打了  真荒唐\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What?! Stop shooting! This is crazy.
+Dialogue: 0,0:18:56.05,0:18:56.98,*Default,NTP,0000,0000,0000,,好  他不打了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, good. He stopped.
+Dialogue: 0,0:18:57.03,0:18:58.12,*Default,NTP,0000,0000,0000,,他只是子弹用完了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's just out of bullets.
+Dialogue: 0,0:18:58.17,0:18:59.71,*Default,NTP,0000,0000,0000,,棉花糖倒下了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And down goes Cotton Candy!
+Dialogue: 0,0:18:59.85,0:19:01.43,*Default,NTP,0000,0000,0000,,现在是两人争夺赛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a two-mascot race.
+Dialogue: 0,0:19:01.48,0:19:03.34,*Default,NTP,0000,0000,0000,,吉恩  别做傻事\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gene. Do the right thing.
+Dialogue: 0,0:19:03.39,0:19:05.92,*Default,NTP,0000,0000,0000,,没错  吉恩  你可以的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah. You can win on your own, Gene!
+Dialogue: 0,0:19:05.97,0:19:06.95,*Default,NTP,0000,0000,0000,,大概吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Probably.
+Dialogue: 0,0:19:12.40,0:19:14.77,*Default,NTP,0000,0000,0000,,好吧  好吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All right. Fine.
+Dialogue: 0,0:19:16.97,0:19:19.24,*Default,NTP,0000,0000,0000,,怎么是你推他  应该是他推你啊\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't push him! He was going to push you!
+Dialogue: 0,0:19:19.29,0:19:22.28,*Default,NTP,0000,0000,0000,,祝贺鹈鹕船长\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Congratulations to Captain Pel-I-Can!
+Dialogue: 0,0:19:22.33,0:19:23.85,*Default,NTP,0000,0000,0000,,吉恩  我很抱歉  孩子\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, Gene. Sorry, buddy.
+Dialogue: 0,0:19:23.90,0:19:26.36,*Default,NTP,0000,0000,0000,,看来报应在你身上灵验了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I mean, looks like karma caught up to you.
+Dialogue: 0,0:19:26.41,0:19:29.32,*Default,NTP,0000,0000,0000,,鲍勃  跟你说过  世上没有报应这回事\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob, I told you there's no such thing as karma.
+Dialogue: 0,0:19:29.37,0:19:30.56,*Default,NTP,0000,0000,0000,,我看有\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, yes, there is.
+Dialogue: 0,0:19:30.61,0:19:32.06,*Default,NTP,0000,0000,0000,,我看没有\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, I'm afraid there isn't!
+Dialogue: 0,0:19:32.11,0:19:34.66,*Default,NTP,0000,0000,0000,,-有  -没有\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I'm afraid there is. - Is not.
+Dialogue: 0,0:19:47.02,0:19:49.30,*Default,NTP,0000,0000,0000,,我勒个去\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, crap.
+Dialogue: 0,0:19:50.80,0:19:53.32,*Default,NTP,0000,0000,0000,,看到没  吉恩  这就是作弊的后果\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}See, Gene. This is what happens when you cheat.
+Dialogue: 0,0:19:53.37,0:19:54.94,*Default,NTP,0000,0000,0000,,太不可思议了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That was incredible!
+Dialogue: 0,0:19:54.99,0:19:57.07,*Default,NTP,0000,0000,0000,,作弊好酷哦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cheating is amazing!
+Dialogue: 0,0:19:57.88,0:19:58.87,*Default,NTP,0000,0000,0000,,鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bob?
+Dialogue: 0,0:19:58.92,0:20:00.54,*Default,NTP,0000,0000,0000,,你好\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh. Uh, hi.
+Dialogue: 0,0:20:00.59,0:20:02.54,*Default,NTP,0000,0000,0000,,你的过山车变成这样  我很难过\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sorry about your roller coaster.
+Dialogue: 0,0:20:02.59,0:20:04.80,*Default,NTP,0000,0000,0000,,哎  建了塌  塌了修嘛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah, roller coasters come and go.
+Dialogue: 0,0:20:04.85,0:20:07.98,*Default,NTP,0000,0000,0000,,而你鲍勃  一生难求\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But Bobs are once in a lifetime.
+Dialogue: 0,0:20:08.03,0:20:09.09,*Default,NTP,0000,0000,0000,,我很敬佩你\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I admire you.
+Dialogue: 0,0:20:09.14,0:20:11.26,*Default,NTP,0000,0000,0000,,-是吗  -你让我想起了我的父亲\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- You do? - You remind me of my father.
+Dialogue: 0,0:20:11.31,0:20:13.57,*Default,NTP,0000,0000,0000,,他很正直  勤勤恳恳\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He was honest, and he worked hard.
+Dialogue: 0,0:20:13.62,0:20:14.78,*Default,NTP,0000,0000,0000,,你是移民吗  鲍勃\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You an immigrant, Bob?
+Dialogue: 0,0:20:14.83,0:20:16.05,*Default,NTP,0000,0000,0000,,不是\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Um... no.
+Dialogue: 0,0:20:16.10,0:20:17.55,*Default,NTP,0000,0000,0000,,-天生的猩猩体质吗  -大概吧\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Just swarthy? - I guess.
+Dialogue: 0,0:20:17.60,0:20:20.40,*Default,NTP,0000,0000,0000,,-"猩猩体质"是啥意思  -又黑又多毛\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- What's "swarthy"? - Um, dark and hairy.
+Dialogue: 0,0:20:20.45,0:20:22.85,*Default,NTP,0000,0000,0000,,就是你啦  也是未来的我\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's you! And me in the future.
+Dialogue: 0,0:20:22.90,0:20:25.19,*Default,NTP,0000,0000,0000,,跟你不同  我父亲赚了很多钱\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, unlike you, my father made a fortune.
+Dialogue: 0,0:20:25.24,0:20:28.00,*Default,NTP,0000,0000,0000,,但在其它方面  你们有很多相同之处\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But in many other ways, you guys are the same.
+Dialogue: 0,0:20:28.05,0:20:31.18,*Default,NTP,0000,0000,0000,,比如  你们都很正直  也都很像猩猩\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two decent, swarthy peas in a pod.
+Dialogue: 0,0:20:31.25,0:20:33.02,*Default,NTP,0000,0000,0000,,然而一个富有  而另一个...\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}One rich, one...
+Dialogue: 0,0:20:33.07,0:20:35.49,*Default,NTP,0000,0000,0000,,-勉强维持生计  -谢谢\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- just scraping by. - Thanks.
+Dialogue: 0,0:20:35.54,0:20:37.52,*Default,NTP,0000,0000,0000,,好了  我要去做按摩了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, we're off to get a massage.
+Dialogue: 0,0:20:37.57,0:20:40.27,*Default,NTP,0000,0000,0000,,走吧  小鸡鸡  安分点儿\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, Wonderdog. Down, boy.
+Dialogue: 0,0:20:40.32,0:20:42.82,*Default,NTP,0000,0000,0000,,他走了  老爸  我未来的老公走了\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's gone, dad. My future husband's gone.
+Dialogue: 0,0:20:42.89,0:20:44.66,*Default,NTP,0000,0000,0000,,是你把他赶走的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You drove him away!
+Dialogue: 0,0:20:44.73,0:20:45.95,*Default,NTP,0000,0000,0000,,蒂娜  你手上拿的什么\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tina, what you got there?
+Dialogue: 0,0:20:46.00,0:20:47.37,*Default,NTP,0000,0000,0000,,队员们签过名的棒球\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The team signed a ball,
+Dialogue: 0,0:20:47.42,0:20:49.16,*Default,NTP,0000,0000,0000,,给我留作纪念的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}so I'd have something to remember them by.
+Dialogue: 0,0:20:49.21,0:20:50.85,*Default,NTP,0000,0000,0000,,我还拿了个下体保护带\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And I took this jockstrap.
+Dialogue: 0,0:20:50.90,0:20:52.88,*Default,NTP,0000,0000,0000,,好了  宝贝\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, sweetie.
+Dialogue: 0,0:20:52.93,0:20:54.92,*Default,NTP,0000,0000,0000,,-我们把它扔了吧  -不要\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Let's throw that in the wash. - No.
+Dialogue: 0,0:20:54.97,0:20:56.24,*Default,NTP,0000,0000,0000,,快点  给我\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, give it to me.
+Dialogue: 0,0:20:56.29,0:20:59.61,*Default,NTP,0000,0000,0000,,你知道那些球员身上染过多少性病吗\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you know how many venereal diseases those baseball players have?
+Dialogue: 0,0:20:59.67,0:21:00.58,*Default,NTP,0000,0000,0000,,我不在乎\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't care.
+Dialogue: 0,0:21:00.63,0:21:01.62,*Default,NTP,0000,0000,0000,,这是谁的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whose was it?
+Dialogue: 0,0:21:01.67,0:21:03.60,*Default,NTP,0000,0000,0000,,-闻着像是小天使的  -小天使的\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Smells like Angel. - Angel.
+Dialogue: 0,0:21:03.91,0:21:05.67,*Default,NTP,0000,0000,0000,,别告诉费诺哦\N{\fn方正综艺_GBK}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But don't tell Phe-Nom.
