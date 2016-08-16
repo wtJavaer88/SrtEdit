@@ -1,0 +1,194 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00ffffff,&Hf0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:38.11,0:01:43.24,Default,,0000,0000,0000,,Is it really wise for Shockwave to spawn an army of beasts
+Dialogue: 0,0:01:43.34,0:01:48.35,Default,,0000,0000,0000,,{\pos(192,280)}here in this laboratory, or within any part of this warship?
+Dialogue: 0,0:01:48.35,0:01:51.98,Default,,0000,0000,0000,,I mean, not even the lone beast we had was compact enough
+Dialogue: 0,0:01:51.98,0:01:56.59,Default,,0000,0000,0000,,to stroll these corridors without tearing them asunder.
+Dialogue: 0,0:01:56.74,0:02:01.90,Default,,0000,0000,0000,,{\pos(192,280)}Which reminds me, I am so very sorry for your loss.
+Dialogue: 0,0:02:02.85,0:02:06.33,Default,,0000,0000,0000,,{\pos(192,280)}I was referring to my offsite laboratory,
+Dialogue: 0,0:02:06.35,0:02:09.63,Default,,0000,0000,0000,,{\pos(192,280)}which we have erected expressly for the cloning procedures.
+Dialogue: 0,0:02:12.39,0:02:14.96,Default,,0000,0000,0000,,{\pos(192,280)}You think of everything, don't you?
+Dialogue: 0,0:02:17.40,0:02:19.04,Default,,0000,0000,0000,,We are under attack.
+Dialogue: 0,0:02:19.68,0:02:20.99,Default,,0000,0000,0000,,Autobots?
+Dialogue: 0,0:02:21.44,0:02:22.56,Default,,0000,0000,0000,,Illogical.
+Dialogue: 0,0:02:26.46,0:02:29.87,Default,,0000,0000,0000,,Though there appears to be an enormous mass upon the upper hull.
+Dialogue: 0,0:02:41.89,0:02:43.54,Default,,0000,0000,0000,,How did it find us?
+Dialogue: 0,0:02:43.54,0:02:46.84,Default,,0000,0000,0000,,Predacons possess precise homing instincts.
+Dialogue: 0,0:02:46.84,0:02:49.55,Default,,0000,0000,0000,,And astonishing resilience.
+Dialogue: 0,0:02:49.55,0:02:52.79,Default,,0000,0000,0000,,Starscream, assume command of my beast.
+Dialogue: 0,0:02:53.91,0:02:55.40,Default,,0000,0000,0000,,Me, master?
+Dialogue: 0,0:02:55.90,0:03:00.99,Default,,0000,0000,0000,,I... I mean, I wouldn't dream of seizing such an honor from its very creator.
+Dialogue: 0,0:03:00.99,0:03:04.15,Default,,0000,0000,0000,,Military command of the Predacon is most logical,
+Dialogue: 0,0:03:04.25,0:03:06.83,Default,,0000,0000,0000,,since my services are required elsewhere.
+Dialogue: 0,0:03:30.77,0:03:34.08,Default,,0000,0000,0000,,All right, Beast Hunters. According to our intel,
+Dialogue: 0,0:03:34.08,0:03:39.23,Default,,0000,0000,0000,,the Decepticons should be excavating for Predacon bones directly beneath us.
+Dialogue: 0,0:03:39.23,0:03:40.38,Default,,0000,0000,0000,,On it, chief.
+Dialogue: 0,0:03:43.67,0:03:46.86,Default,,0000,0000,0000,,Does Wheeljack not comprehend the chain of command?
+Dialogue: 0,0:03:46.86,0:03:49.72,Default,,0000,0000,0000,,I didn't authorize him to advance without proper cover.
+Dialogue: 0,0:03:49.72,0:03:55.65,Default,,0000,0000,0000,,Yeah... I'm sure Jackie's just trying to prove himself now that you and he are serving together again, sir.
+Dialogue: 0,0:03:55.74,0:03:58.16,Default,,0000,0000,0000,,Yee-ha!
+Dialogue: 0,0:04:08.88,0:04:10.16,Default,,0000,0000,0000,,Jackie, wait up.
+Dialogue: 0,0:04:10.17,0:04:11.18,Default,,0000,0000,0000,,Ultra Magnus wants us...
+Dialogue: 0,0:04:11.19,0:04:12.84,Default,,0000,0000,0000,,Blah, blah, blah.
+Dialogue: 0,0:04:13.54,0:04:14.86,Default,,0000,0000,0000,,Shh! Shh!
+Dialogue: 0,0:04:31.62,0:04:34.14,Default,,0000,0000,0000,,Wrecker fact number 17:
+Dialogue: 0,0:04:34.14,0:04:36.16,Default,,0000,0000,0000,,"Guards never look up."
+Dialogue: 0,0:05:09.10,0:05:10.50,Default,,0000,0000,0000,,Scrap.
+Dialogue: 0,0:05:55.52,0:05:58.08,Default,,0000,0000,0000,,That's why we wait for cover.
+Dialogue: 0,0:06:01.96,0:06:03.23,Default,,0000,0000,0000,,Ah, bolts.
+Dialogue: 0,0:06:08.94,0:06:10.05,Default,,0000,0000,0000,,Uh...
+Dialogue: 0,0:06:13.17,0:06:14.64,Default,,0000,0000,0000,,Forgot you were in there, kid.
+Dialogue: 0,0:06:16.88,0:06:19.57,Default,,0000,0000,0000,,At least I didn't heave on any floormats this time.
+Dialogue: 0,0:06:23.53,0:06:27.71,Default,,0000,0000,0000,,You miserable beast. I am your commanding officer,
+Dialogue: 0,0:06:27.71,0:06:33.17,Default,,0000,0000,0000,,and I order you to crawl into your kennel, now!
+Dialogue: 0,0:06:34.98,0:06:36.90,Default,,0000,0000,0000,,I said go, already!
+Dialogue: 0,0:06:39.67,0:06:40.72,Default,,0000,0000,0000,,Ahh!
+Dialogue: 0,0:06:54.19,0:06:57.74,Default,,0000,0000,0000,,And what could have possibly compelled you to bring the nativ?
+Dialogue: 0,0:07:02.48,0:07:03.30,Default,,0000,0000,0000,,Yo.
+Dialogue: 0,0:07:05.42,0:07:06.91,Default,,0000,0000,0000,,Can I come with?
+Dialogue: 0,0:07:06.91,0:07:08.18,Default,,0000,0000,0000,,Why not?
+Dialogue: 0,0:07:09.99,0:07:12.51,Default,,0000,0000,0000,,Are your circuits impaired, soldier?
+Dialogue: 0,0:07:12.77,0:07:15.44,Default,,0000,0000,0000,,Prime told you to lead the Wreckers on this one.
+Dialogue: 0,0:07:15.44,0:07:17.36,Default,,0000,0000,0000,,I assumed he meant all of 'em.
+Dialogue: 0,0:07:17.87,0:07:20.51,Default,,0000,0000,0000,,Are you mocking your commanding officer?
+Dialogue: 0,0:07:20.99,0:07:23.04,Default,,0000,0000,0000,,Wouldn't think of it, sir.
+Dialogue: 0,0:07:23.04,0:07:26.47,Default,,0000,0000,0000,,The kid's a full-blown Wrecker. Isn't that right, Bulkhead?
+Dialogue: 0,0:07:27.12,0:07:28.01,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:07:28.02,0:07:31.55,Default,,0000,0000,0000,,Look. She may be small, but she saved my tailpipe.
+Dialogue: 0,0:07:31.55,0:07:34.48,Default,,0000,0000,0000,,Snuffed an Insecticon all on her own.
+Dialogue: 0,0:07:34.74,0:07:37.23,Default,,0000,0000,0000,,Outside standard protocol, no doubt.
+Dialogue: 0,0:07:37.63,0:07:41.27,Default,,0000,0000,0000,,The point is, I can handle myself, sir.
+Dialogue: 0,0:07:41.76,0:07:44.11,Default,,0000,0000,0000,,Miko has been through worse,
+Dialogue: 0,0:07:44.11,0:07:46.96,Default,,0000,0000,0000,,and we've drawn out the enemy and cleared passage.
+Dialogue: 0,0:07:55.54,0:07:59.36,Default,,0000,0000,0000,,Okay, now in you go.
+Dialogue: 0,0:08:02.28,0:08:05.82,Default,,0000,0000,0000,,Do your worst. The Apex armor is virtually...
+Dialogue: 0,0:08:06.03,0:08:09.48,Default,,0000,0000,0000,,Ahh! Oh, oh! No! Ahh! Release me!
+Dialogue: 0,0:08:18.54,0:08:21.68,Default,,0000,0000,0000,,Starscream, are you with the beast?
+Dialogue: 0,0:08:22.16,0:08:23.57,Default,,0000,0000,0000,,Yes, master.
+Dialogue: 0,0:08:23.57,0:08:28.52,Default,,0000,0000,0000,,We've been reviewing attack maneuvers. He's doing quite well.
+Dialogue: 0,0:08:28.81,0:08:32.47,Default,,0000,0000,0000,,One of the excavation teams has failed to report in.
+Dialogue: 0,0:08:32.51,0:08:35.74,Default,,0000,0000,0000,,I shall assemble my seeker armada immediately and...
+Dialogue: 0,0:08:35.74,0:08:40.54,Default,,0000,0000,0000,,I would prefer that you lead our newly-returned asset on this mission,
+Dialogue: 0,0:08:40.55,0:08:48.17,Default,,0000,0000,0000,,so that we may see if our Predacon is as adept at fetching bones as it is hunting Autobots.
+Dialogue: 0,0:08:57.64,0:08:58.98,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:09:00.38,0:09:02.34,Default,,0000,0000,0000,,No. That is a rock.
+Dialogue: 0,0:09:05.02,0:09:07.93,Default,,0000,0000,0000,,Heh. Just like old times, huh, Jackie?
+Dialogue: 0,0:09:08.46,0:09:12.46,Default,,0000,0000,0000,,Except back then, I didn't need permission to pick my partners.
+Dialogue: 0,0:09:12.74,0:09:14.70,Default,,0000,0000,0000,,Come on, we're all on the same team.
+Dialogue: 0,0:09:14.74,0:09:16.70,Default,,0000,0000,0000,,Hey, Beast Hunters, right?
+Dialogue: 0,0:09:17.39,0:09:20.71,Default,,0000,0000,0000,,During all those cycles it took me to travel to Earth,
+Dialogue: 0,0:09:20.71,0:09:24.62,Default,,0000,0000,0000,,all I could think about was getting our band of brothers back together.
+Dialogue: 0,0:09:24.62,0:09:27.56,Default,,0000,0000,0000,,But this isn't the lineup I had in mind.
+Dialogue: 0,0:09:28.95,0:09:32.90,Default,,0000,0000,0000,,You did the smart thin, Bulk, leaving the Wreckers when you did.
+Dialogue: 0,0:09:32.90,0:09:37.19,Default,,0000,0000,0000,,While we were still bringing our A-game, before the rust set in.
+Dialogue: 0,0:09:37.34,0:09:40.99,Default,,0000,0000,0000,,Wait, I thought Wheeljack was the one who left the Wreckers.
+Dialogue: 0,0:09:41.56,0:09:46.31,Default,,0000,0000,0000,,Jackie basically deserted once the Wreckers fell under Ultra Magnus' command.
+Dialogue: 0,0:09:46.32,0:09:51.56,Default,,0000,0000,0000,,I transferred out before that, to join up with Optimus in the battle of Thunderhead Pass.
+Dialogue: 0,0:09:51.88,0:09:55.33,Default,,0000,0000,0000,,Sometimes I think Jackie feels like I deserted him.
+Dialogue: 0,0:09:55.52,0:09:57.94,Default,,0000,0000,0000,,You don't wanna be the one who breaks up the band, Bulk.
+Dialogue: 0,0:09:58.26,0:09:59.24,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:10:04.42,0:10:05.43,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:10:11.02,0:10:13.20,Default,,0000,0000,0000,,Whatever it is, it's big.
+Dialogue: 0,0:10:17.24,0:10:18.94,Default,,0000,0000,0000,,And it's coming fast.
+Dialogue: 0,0:10:25.64,0:10:28.74,Default,,0000,0000,0000,,The Predacon. Let's roll.
+Dialogue: 0,0:10:34.65,0:10:35.70,Default,,0000,0000,0000,,It's back?
+Dialogue: 0,0:11:04.43,0:11:05.72,Default,,0000,0000,0000,,Accelerate!
+Dialogue: 0,0:11:16.19,0:11:20.78,Default,,0000,0000,0000,,That rock won't hold it forever. We need to contact base and request reinforcements.
+Dialogue: 0,0:11:21.99,0:11:24.09,Default,,0000,0000,0000,,Wreckers don't call for backup.
+Dialogue: 0,0:11:27.42,0:11:32.39,Default,,0000,0000,0000,,What Jackie means is, we can't get a comm-link signal this far underground.
+Dialogue: 0,0:11:36.86,0:11:40.60,Default,,0000,0000,0000,,Miko, I have to get you out of here. Gonna need you to climb.
+Dialogue: 0,0:11:42.94,0:11:45.11,Default,,0000,0000,0000,,No way. I wanna help.
+Dialogue: 0,0:11:45.34,0:11:46.51,Default,,0000,0000,0000,,And you will.
+Dialogue: 0,0:11:46.64,0:11:51.11,Default,,0000,0000,0000,,Your mission: Reach my ship so you can contact Optimus Prime.
+Dialogue: 0,0:11:51.24,0:11:52.24,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:12:05.53,0:12:07.45,Default,,0000,0000,0000,,Not sure I like the sound of that.
+Dialogue: 0,0:12:08.52,0:12:09.83,Default,,0000,0000,0000,,So, uh...
+Dialogue: 0,0:12:09.83,0:12:14.17,Default,,0000,0000,0000,,We make our stand... here and now.
+Dialogue: 0,0:12:28.75,0:12:32.01,Default,,0000,0000,0000,,Given that this ship is currently unoccupied,
+Dialogue: 0,0:12:32.01,0:12:37.13,Default,,0000,0000,0000,,it would seem the Autobots did stumble upon our little mining operation.
+Dialogue: 0,0:12:37.13,0:12:38.34,Default,,0000,0000,0000,,No worries.
+Dialogue: 0,0:12:38.35,0:12:43.82,Default,,0000,0000,0000,,My Predacon is no doubt dismantling the interlopers as we speak.
+Dialogue: 0,0:12:43.92,0:12:48.21,Default,,0000,0000,0000,,It was a challenge, but I managed to tame the savage beast.
+Dialogue: 0,0:12:48.22,0:12:51.21,Default,,0000,0000,0000,,Taught it to heed my every command.
+Dialogue: 0,0:12:51.98,0:12:53.34,Default,,0000,0000,0000,,Come on, come on.
+Dialogue: 0,0:12:53.35,0:12:56.37,Default,,0000,0000,0000,,You're not wearing the armor to protect yourself from it?
+Dialogue: 0,0:12:57.68,0:13:00.68,Default,,0000,0000,0000,,From my beloved pet? Of course not.
+Dialogue: 0,0:13:00.69,0:13:03.70,Default,,0000,0000,0000,,In fact, it's getting rather warm in here.
+Dialogue: 0,0:13:12.15,0:13:14.11,Default,,0000,0000,0000,,Ah, ventilation.
+Dialogue: 0,0:13:35.62,0:13:37.12,Default,,0000,0000,0000,,Open fire!
+Dialogue: 0,0:13:44.54,0:13:45.46,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:14:04.84,0:14:05.84,Default,,0000,0000,0000,,No you don't.
+Dialogue: 0,0:14:16.29,0:14:17.92,Default,,0000,0000,0000,,Hey, hot-head!
+Dialogue: 0,0:14:39.36,0:14:40.72,Default,,0000,0000,0000,,Oh, scrap.
+Dialogue: 0,0:14:55.94,0:14:58.47,Default,,0000,0000,0000,,Ooh, that'll do some damage.
+Dialogue: 0,0:15:04.96,0:15:06.82,Default,,0000,0000,0000,,Miko, is it?
+Dialogue: 0,0:15:47.63,0:15:49.07,Default,,0000,0000,0000,,Oh, I'm sorry.
+Dialogue: 0,0:15:49.07,0:15:53.85,Default,,0000,0000,0000,,Were you trying to reach this ship? To call for help, perhaps?
+Dialogue: 0,0:16:28.12,0:16:32.42,Default,,0000,0000,0000,,What's the matter, 'Screamy? Can't pick on someone your own size?
+Dialogue: 0,0:16:43.84,0:16:46.94,Default,,0000,0000,0000,,What do you know, it does fetch.
+Dialogue: 0,0:16:51.62,0:16:52.56,Default,,0000,0000,0000,,Scrap.
+Dialogue: 0,0:17:07.63,0:17:10.82,Default,,0000,0000,0000,,Well, that didn't go exacty as planned.
+Dialogue: 0,0:17:10.86,0:17:16.60,Default,,0000,0000,0000,,That's because any first-cycle Cadet knows better than to detonate a grenade in a confined space.
+Dialogue: 0,0:17:16.87,0:17:21.30,Default,,0000,0000,0000,,Even if I intended the "confined space" to be the belly of the beast?
+Dialogue: 0,0:17:22.15,0:17:23.68,Default,,0000,0000,0000,,Uh, sir...
+Dialogue: 0,0:17:23.71,0:17:28.85,Default,,0000,0000,0000,,Your actions continue to be just one step removed from getting us all scrapped.
+Dialogue: 0,0:17:29.05,0:17:30.62,Default,,0000,0000,0000,,With all due respect, sir,
+Dialogue: 0,0:17:30.65,0:17:33.82,Default,,0000,0000,0000,,the Predacon's loose and Miko's out there alone.
+Dialogue: 0,0:17:37.16,0:17:39.99,Default,,0000,0000,0000,,Permission to provide cover, sir?
+Dialogue: 0,0:17:44.14,0:17:49.60,Default,,0000,0000,0000,,Go ahead, make a wreck of her, as you no doubt did the Wreckers.
+Dialogue: 0,0:17:49.64,0:17:52.39,Default,,0000,0000,0000,,Starscream, status report.
+Dialogue: 0,0:17:52.87,0:18:00.42,Default,,0000,0000,0000,,Master. We have secured the bone, and our Predacon is dealing with the Autobots' pet human as we speak.
+Dialogue: 0,0:18:00.48,0:18:02.64,Default,,0000,0000,0000,,On my command, of course.
+Dialogue: 0,0:18:02.64,0:18:07.00,Default,,0000,0000,0000,,I will not risk losing a precious commodity to your arrogance.
+Dialogue: 0,0:18:09.45,0:18:11.32,Default,,0000,0000,0000,,I'll tear you apart!
+Dialogue: 0,0:18:14.06,0:18:17.24,Default,,0000,0000,0000,,Have the beast return with my prize, immediately!
+Dialogue: 0,0:18:17.51,0:18:21.20,Default,,0000,0000,0000,,You can stay behind and finish the Autobots.
+Dialogue: 0,0:18:21.37,0:18:22.90,Default,,0000,0000,0000,,Yes, master.
+Dialogue: 0,0:18:24.47,0:18:27.42,Default,,0000,0000,0000,,Assuming I can coerce the brainless brute into...
+Dialogue: 0,0:18:40.12,0:18:43.10,Default,,0000,0000,0000,,But, you never obey my commands!
+Dialogue: 0,0:18:45.42,0:18:48.66,Default,,0000,0000,0000,,You heard our Master. We must locate the Autobots.
+Dialogue: 0,0:18:48.66,0:18:52.46,Default,,0000,0000,0000,,As soon as I retrieve what belongs to me.
+Dialogue: 0,0:18:56.92,0:19:02.83,Default,,0000,0000,0000,,Tsk, tsk, tsk, tsk... Even the strongest armor can't protect the weakest of creatures.
+Dialogue: 0,0:19:04.31,0:19:06.19,Default,,0000,0000,0000,,Protected you, didn't it?
+Dialogue: 0,0:20:04.87,0:20:06.63,Default,,0000,0000,0000,,Who's wrecking who now?
+Dialogue: 0,0:20:12.42,0:20:13.64,Default,,0000,0000,0000,,Miko?
+Dialogue: 0,0:20:15.27,0:20:18.41,Default,,0000,0000,0000,,Perhaps you weren't wrong about the human after all.
+Dialogue: 0,0:20:23.73,0:20:27.65,Default,,0000,0000,0000,,You do know that I vanquished Cliffjumper, don't you?
+Dialogue: 0,0:20:28.50,0:20:30.00,Default,,0000,0000,0000,,Big whoop.
+Dialogue: 0,0:20:30.73,0:20:32.93,Default,,0000,0000,0000,,I snuffed Hardshell.
+Dialogue: 0,0:20:39.80,0:20:41.64,Default,,0000,0000,0000,,Ah! Retreat.
+Dialogue: 0,0:20:46.44,0:20:47.58,Default,,0000,0000,0000,,Aw.
+Dialogue: 0,0:20:50.92,0:20:52.45,Default,,0000,0000,0000,,They got away with the bone.
+Dialogue: 0,0:20:52.74,0:20:55.47,Default,,0000,0000,0000,,Hey, you brought your A-game, kid,
+Dialogue: 0,0:20:55.50,0:20:57.27,Default,,0000,0000,0000,,like a true Wrecker.
+Dialogue: 0,0:21:06.89,0:21:09.75,Default,,0000,0000,0000,,And I wanna remember us just like this...
+Dialogue: 0,0:21:11.47,0:21:13.72,Default,,0000,0000,0000,,before the rust sets in.
+Dialogue: 0,0:21:19.33,0:21:21.52,Default,,0000,0000,0000,,What? Where's Wheeljack going?
+Dialogue: 0,0:21:22.50,0:21:23.83,Default,,0000,0000,0000,,Solo.
+Dialogue: 0,0:21:23.85,0:21:25.15,Default,,0000,0000,0000,,Again?
+Dialogue: 0,0:21:25.46,0:21:27.83,Default,,0000,0000,0000,,Jackie just broke up the band.

@@ -1,0 +1,254 @@
+[Script Info]
+;Dialogue: 0,0:00:02.00,0:00:03.60,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:14.35,0:00:17.25,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:01.10,0:00:03.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:04.60,0:00:07.30,Default,,0000,0000,0000,,Bfff... Detention. Uh!
+Dialogue: 0,0:00:28.40,0:00:33.50,Default,,0000,0000,0000,,I love this song! Yea... Braagagaga...
+Dialogue: 0,0:00:33.60,0:00:34.50,Default,,0000,0000,0000,,Miko.
+Dialogue: 0,0:00:34.60,0:00:36.60,Default,,0000,0000,0000,,I thought you had a history report to do.
+Dialogue: 0,0:00:36.90,0:00:38.30,Default,,0000,0000,0000,,Did detention end early?
+Dialogue: 0,0:00:39.30,0:00:40.20,Default,,0000,0000,0000,,It did for me.
+Dialogue: 0,0:00:41.50,0:00:43.20,Default,,0000,0000,0000,,Aho, here comes teacher,
+Dialogue: 0,0:00:43.30,0:00:44.80,Default,,0000,0000,0000,,and she doesn't look happy.
+Dialogue: 0,0:00:45.30,0:00:46.70,Default,,0000,0000,0000,,Step on it, Bulkhead!
+Dialogue: 0,0:00:47.30,0:00:49.00,Default,,0000,0000,0000,,Eh, Miko.
+Dialogue: 0,0:01:48.10,0:01:49.90,Default,,0000,0000,0000,,{\pos(192,280)}Miko, I'm supposed to be your guardian,
+Dialogue: 0,0:01:50.00,0:01:51.40,Default,,0000,0000,0000,,{\pos(192,280)}not your get-away car.
+Dialogue: 0,0:01:51.60,0:01:53.50,Default,,0000,0000,0000,,{\pos(192,280)}You can't just cut detention.
+Dialogue: 0,0:01:54.10,0:01:55.80,Default,,0000,0000,0000,,{\pos(192,280)}What if your parents found out?
+Dialogue: 0,0:01:56.00,0:01:58.00,Default,,0000,0000,0000,,{\pos(192,280)}They live in Tokyo, remember?
+Dialogue: 0,0:01:58.10,0:02:00.30,Default,,0000,0000,0000,,{\pos(192,280)}And don't even worry about host parents.
+Dialogue: 0,0:02:00.40,0:02:01.50,Default,,0000,0000,0000,,I think I scared them.
+Dialogue: 0,0:02:02.00,0:02:03.40,Default,,0000,0000,0000,,Miko, listen.
+Dialogue: 0,0:02:03.50,0:02:07.40,Default,,0000,0000,0000,,{\pos(192,280)}If you fail high school. You can't go to... uh.. to the...
+Dialogue: 0,0:02:07.40,0:02:13.20,Default,,0000,0000,0000,,{\pos(192,280)}Uh... Una... i... Wait wait wait what's that word again?
+Dialogue: 0,0:02:13.40,0:02:15.00,Default,,0000,0000,0000,,{\pos(192,280)}Uh, college?
+Dialogue: 0,0:02:16.50,0:02:18.20,Default,,0000,0000,0000,, You sound like my parents.
+Dialogue: 0,0:02:18.80,0:02:20.50,Default,,0000,0000,0000,,Aren't they Japanese?
+Dialogue: 0,0:02:20.70,0:02:22.10,Default,,0000,0000,0000,,They make speak a different language,
+Dialogue: 0,0:02:22.10,0:02:23.90,Default,,0000,0000,0000,,but you say the same things.
+Dialogue: 0,0:02:24.20,0:02:26.10,Default,,0000,0000,0000,,Because we want the best for you,
+Dialogue: 0,0:02:26.20,0:02:28.90,Default,,0000,0000,0000,,and that means making sure you go to school, not jail.
+Dialogue: 0,0:02:29.10,0:02:31.40,Default,,0000,0000,0000,,Uho, what did you do?
+Dialogue: 0,0:02:32.40,0:02:34.50,Default,,0000,0000,0000,,Look, Miko, before I became a warrior,
+Dialogue: 0,0:02:34.50,0:02:36.60,Default,,0000,0000,0000,,I was a laborer, construction.
+Dialogue: 0,0:02:36.80,0:02:40.30,Default,,0000,0000,0000,,I can build stuff, I can break stuff. And that's it.
+Dialogue: 0,0:02:41.10,0:02:42.70,Default,,0000,0000,0000,,I love breaking stuff.
+Dialogue: 0,0:02:42.90,0:02:44.60,Default,,0000,0000,0000,, I want to be just like you, Bulk.
+Dialogue: 0,0:02:45.20,0:02:47.50,Default,,0000,0000,0000,,Uh, why would you want to be like me,
+Dialogue: 0,0:02:47.50,0:02:49.80,Default,,0000,0000,0000,,when you can be a... a medic, like Rachet.
+Dialogue: 0,0:02:50.60,0:02:53.20,Default,,0000,0000,0000,,I'm detecting a fresh energon pos,
+Dialogue: 0,0:02:53.30,0:02:55.90,Default,,0000,0000,0000,, from a nation called Greece.
+Dialogue: 0,0:02:56.10,0:02:58.50,Default,,0000,0000,0000,,An ancient city, quite historical, I belief.
+Dialogue: 0,0:02:58.90,0:03:00.60,Default,,0000,0000,0000,,Ancient Greece, uh?
+Dialogue: 0,0:03:00.80,0:03:02.50,Default,,0000,0000,0000,,A field trip!
+Dialogue: 0,0:03:05.10,0:03:07.40,Default,,0000,0000,0000,,It's about time, Knockout.
+Dialogue: 0,0:03:07.90,0:03:11.30,Default,,0000,0000,0000,,I do not enjoy being kept waiting.
+Dialogue: 0,0:03:11.90,0:03:14.70,Default,,0000,0000,0000,,Ahh, it was a long drive, Starscream.
+Dialogue: 0,0:03:14.70,0:03:17.40,Default,,0000,0000,0000,,I'm still picking bugs out of my grille.
+Dialogue: 0,0:03:18.20,0:03:21.50,Default,,0000,0000,0000,,Yes, right. You're one of those.
+Dialogue: 0,0:03:22.00,0:03:22.90,Default,,0000,0000,0000,,Come again?
+Dialogue: 0,0:03:23.40,0:03:30.00,Default,,0000,0000,0000,,Never understood why any self-respecting Decepticon would choose automobile as his vehicle mode.
+Dialogue: 0,0:03:30.10,0:03:32.10,Default,,0000,0000,0000,,when it could have flight.
+Dialogue: 0,0:03:32.30,0:03:35.60,Default,,0000,0000,0000,,I like the way I look in steel belted radials.
+Dialogue: 0,0:03:37.30,0:03:41.00,Default,,0000,0000,0000,,I take it that lord Megatron requires a laboratory assist?
+Dialogue: 0,0:03:41.50,0:03:44.20,Default,,0000,0000,0000,,You might say that.
+Dialogue: 0,0:03:51.60,0:03:52.60,Default,,0000,0000,0000,,Wow.
+Dialogue: 0,0:04:01.50,0:04:02.50,Default,,0000,0000,0000,,Here we are.
+Dialogue: 0,0:04:04.30,0:04:05.60,Default,,0000,0000,0000,,S-weet!
+Dialogue: 0,0:04:09.70,0:04:12.00,Default,,0000,0000,0000,,So, what are we doing in Greek old ville?
+Dialogue: 0,0:04:12.00,0:04:13.80,Default,,0000,0000,0000,,I am scouting energon.
+Dialogue: 0,0:04:14.10,0:04:16.70,Default,,0000,0000,0000,,You are doing research for your history report.
+Dialogue: 0,0:04:17.50,0:04:20.00,Default,,0000,0000,0000,,You punked me Bulk? Not cool!
+Dialogue: 0,0:04:24.70,0:04:26.00,Default,,0000,0000,0000,,Signal strong.
+Dialogue: 0,0:04:26.90,0:04:28.40,Default,,0000,0000,0000,,Excavation site!
+Dialogue: 0,0:04:29.70,0:04:31.00,Default,,0000,0000,0000,,I know construction.
+Dialogue: 0,0:04:32.10,0:04:35.00,Default,,0000,0000,0000,,According to my scanner humans had energon vans.
+Dialogue: 0,0:04:35.50,0:04:37.00,Default,,0000,0000,0000,,And they don't even know it.
+Dialogue: 0,0:04:42.50,0:04:43.60,Default,,0000,0000,0000,,Wow.
+Dialogue: 0,0:04:46.10,0:04:47.80,Default,,0000,0000,0000,,That's Cybertronian.
+Dialogue: 0,0:04:49.50,0:04:55.10,Default,,0000,0000,0000,,Sadly, our inevitably former lord Megatron has been like this for some time.
+Dialogue: 0,0:04:55.50,0:04:59.50,Default,,0000,0000,0000,,But the crew took a vote and it was decided that
+Dialogue: 0,0:04:59.50,0:05:02.90,Default,,0000,0000,0000,,an expert might put him on the road to recovery.
+Dialogue: 0,0:05:03.20,0:05:06.10,Default,,0000,0000,0000,,I've done plenty of body-works, Starscream,
+Dialogue: 0,0:05:06.10,0:05:09.30,Default,,0000,0000,0000,, but I'm at breaking them than fixing them.
+Dialogue: 0,0:05:09.70,0:05:12.10,Default,,0000,0000,0000,,Uh, would help if I had my assistant.
+Dialogue: 0,0:05:12.20,0:05:14.50,Default,,0000,0000,0000,,I summoned both of you. Where is he?
+Dialogue: 0,0:05:14.70,0:05:17.80,Default,,0000,0000,0000,,We were halt on an energon trail when you called.
+Dialogue: 0,0:05:18.10,0:05:20.80,Default,,0000,0000,0000,,Breakdown will show when he's through scouting it.
+Dialogue: 0,0:05:22.40,0:05:25.60,Default,,0000,0000,0000,,Why would ancient Greeks paint of energon harvester.
+Dialogue: 0,0:05:26.10,0:05:28.00,Default,,0000,0000,0000,,You know what that round thing is?
+Dialogue: 0,0:05:28.50,0:05:30.10,Default,,0000,0000,0000,,You are smarter than you led on.
+Dialogue: 0,0:05:30.30,0:05:32.30,Default,,0000,0000,0000,,But even dumber than he looks.
+Dialogue: 0,0:05:39.00,0:05:40.00,Default,,0000,0000,0000,,Breakdown.
+Dialogue: 0,0:05:40.40,0:05:42.30,Default,,0000,0000,0000,,Hehehe, miss me?
+Dialogue: 0,0:05:42.80,0:05:45.00,Default,,0000,0000,0000,,Like rest of my undercarriage.
+Dialogue: 0,0:05:45.00,0:05:46.70,Default,,0000,0000,0000,,You know this lunkhead?
+Dialogue: 0,0:05:47.10,0:05:48.90,Default,,0000,0000,0000,,We have a history.
+Dialogue: 0,0:05:49.20,0:05:51.30,Default,,0000,0000,0000,,And you have a pet.
+Dialogue: 0,0:05:52.30,0:05:53.90,Default,,0000,0000,0000,,Does it play catch?
+Dialogue: 0,0:05:56.10,0:05:57.20,Default,,0000,0000,0000,,Catch!
+Dialogue: 0,0:05:59.60,0:06:00.70,Default,,0000,0000,0000,,Miko, stay down!
+Dialogue: 0,0:06:16.20,0:06:17.20,Default,,0000,0000,0000,,Oops.
+Dialogue: 0,0:06:17.40,0:06:20.00,Default,,0000,0000,0000,,Hope that pretty picture wasn't too important.
+Dialogue: 0,0:06:29.20,0:06:31.40,Default,,0000,0000,0000,,Told you I'm good at breaking things.
+Dialogue: 0,0:06:31.90,0:06:33.80,Default,,0000,0000,0000,,I always have you back, Bulk.
+Dialogue: 0,0:06:34.10,0:06:36.20,Default,,0000,0000,0000,,Got us a picture of the picture.
+Dialogue: 0,0:06:40.60,0:06:43.40,Default,,0000,0000,0000,,It is indeed an energon harvester.
+Dialogue: 0,0:06:44.30,0:06:47.20,Default,,0000,0000,0000,,A powerful tool created by the ancients
+Dialogue: 0,0:06:47.30,0:06:50.20,Default,,0000,0000,0000,,to remove raw energon from any source.
+Dialogue: 0,0:06:50.50,0:06:52.60,Default,,0000,0000,0000,,Greek gods knew Autobots?
+Dialogue: 0,0:06:53.00,0:06:53.90,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:06:54.00,0:06:58.60,Default,,0000,0000,0000,,The ancients often use the art of a given era to conceal messages.
+Dialogue: 0,0:06:58.90,0:07:03.50,Default,,0000,0000,0000,,This fresco is likely a sign post indicating a harvester's location,
+Dialogue: 0,0:07:03.70,0:07:05.60,Default,,0000,0000,0000,,hidden somewhere on this planet.
+Dialogue: 0,0:07:06.20,0:07:07.70,Default,,0000,0000,0000,,Uh, Optimus.
+Dialogue: 0,0:07:07.90,0:07:10.70,Default,,0000,0000,0000,, If the harvester removes energon from anything,
+Dialogue: 0,0:07:10.70,0:07:13.60,Default,,0000,0000,0000,,and you all have energon pumping inside you...
+Dialogue: 0,0:07:14.00,0:07:16.20,Default,,0000,0000,0000,,In Decepticon hands,
+Dialogue: 0,0:07:16.20,0:07:19.60,Default,,0000,0000,0000,,the harvester would be a devastating weapon.
+Dialogue: 0,0:07:20.10,0:07:23.10,Default,,0000,0000,0000,,See, you are a genius to total that painting.
+Dialogue: 0,0:07:23.40,0:07:24.80,Default,,0000,0000,0000,,Miko's not wrong.
+Dialogue: 0,0:07:25.10,0:07:27.80,Default,,0000,0000,0000,,How can the Cons find the harvester without the Fresco?
+Dialogue: 0,0:07:27.90,0:07:29.40,Default,,0000,0000,0000,,With high speed internet?
+Dialogue: 0,0:07:30.20,0:07:33.30,Default,,0000,0000,0000,,If we do an image search for Greek God and Gold orb,
+Dialogue: 0,0:07:33.30,0:07:34.60,Default,,0000,0000,0000,,this pops up.
+Dialogue: 0,0:07:34.70,0:07:35.90,Default,,0000,0000,0000,,It's in a museum.
+Dialogue: 0,0:07:37.30,0:07:38.70,Default,,0000,0000,0000,,That the real deal?
+Dialogue: 0,0:07:40.60,0:07:42.50,Default,,0000,0000,0000,,Contact Agent Fowler.
+Dialogue: 0,0:07:43.80,0:07:46.00,Default,,0000,0000,0000,,You've reached Special Agent William Fowler.
+Dialogue: 0,0:07:46.10,0:07:49.10,Default,,0000,0000,0000,,I've currently on an intensive training retreat.
+Dialogue: 0,0:07:49.20,0:07:50.80,Default,,0000,0000,0000,,And I'm not available until Tuesday.
+Dialogue: 0,0:07:50.80,0:07:53.20,Default,,0000,0000,0000,,I hate talking to machines.
+Dialogue: 0,0:07:53.40,0:07:55.70,Default,,0000,0000,0000,,Without Agent Fowler's direct aid,
+Dialogue: 0,0:07:56.10,0:07:59.30,Default,,0000,0000,0000,,we will have to confiscate the harvester on our own.
+Dialogue: 0,0:08:00.10,0:08:01.70,Default,,0000,0000,0000,,Well, well, well, confiscate?
+Dialogue: 0,0:08:01.80,0:08:03.70,Default,,0000,0000,0000,, As in steal museum property?
+Dialogue: 0,0:08:04.20,0:08:07.10,Default,,0000,0000,0000,,That sounds illegal.
+Dialogue: 0,0:08:07.50,0:08:10.20,Default,,0000,0000,0000,,I do not wish to break human law.
+Dialogue: 0,0:08:10.30,0:08:13.90,Default,,0000,0000,0000,,But once the Decepticons learn of the harvester's location,
+Dialogue: 0,0:08:14.10,0:08:18.00,Default,,0000,0000,0000,,they will not hesitate to obtain it by any means necessary.
+Dialogue: 0,0:08:18.20,0:08:20.40,Default,,0000,0000,0000,,We must act covertly.
+Dialogue: 0,0:08:20.40,0:08:22.90,Default,,0000,0000,0000,,Ehe, OK, no offense, Optimus.
+Dialogue: 0,0:08:22.90,0:08:26.50,Default,,0000,0000,0000,,But, covertly and giant robots don't really go together.
+Dialogue: 0,0:08:26.60,0:08:28.10,Default,,0000,0000,0000,,Museums are public.
+Dialogue: 0,0:08:28.20,0:08:31.10,Default,,0000,0000,0000,,And they have guards and security cameras.
+Dialogue: 0,0:08:31.30,0:08:33.30,Default,,0000,0000,0000,,No problem!
+Dialogue: 0,0:08:33.60,0:08:35.20,Default,,0000,0000,0000,,We are small enough to sneak in,
+Dialogue: 0,0:08:35.30,0:08:37.50,Default,,0000,0000,0000,,and we are not a government secret.
+Dialogue: 0,0:08:37.90,0:08:40.90,Default,,0000,0000,0000,,Miko, I'm not sure that's wise.
+Dialogue: 0,0:08:41.40,0:08:44.10,Default,,0000,0000,0000,,But it may be our best option, Bulkhead.
+Dialogue: 0,0:08:44.40,0:08:45.80,Default,,0000,0000,0000,,The longer we debate,
+Dialogue: 0,0:08:46.00,0:08:49.10,Default,,0000,0000,0000,,the more time we give to the Decepticons.
+Dialogue: 0,0:08:52.30,0:08:54.90,Default,,0000,0000,0000,,Umhm, that's definitely it.
+Dialogue: 0,0:08:55.20,0:08:59.40,Default,,0000,0000,0000,,And I'm afraid Megatron's well-being will have to wait.
+Dialogue: 0,0:08:59.90,0:09:02.80,Default,,0000,0000,0000,,It's harvest time.
+Dialogue: 0,0:09:20.20,0:09:23.30,Default,,0000,0000,0000,,Autobots, confirm position.
+Dialogue: 0,0:09:23.50,0:09:24.50,Default,,0000,0000,0000,,Westward held.
+Dialogue: 0,0:09:28.00,0:09:29.50,Default,,0000,0000,0000,,South side covered.
+Dialogue: 0,0:09:29.90,0:09:31.80,Default,,0000,0000,0000,,Maintain your guard.
+Dialogue: 0,0:09:32.40,0:09:34.10,Default,,0000,0000,0000,,Jack, Miko, Raphael,
+Dialogue: 0,0:09:34.20,0:09:36.10,Default,,0000,0000,0000,,I will have a clear view of you.
+Dialogue: 0,0:09:36.70,0:09:38.50,Default,,0000,0000,0000,,Once you secure the harvester,
+Dialogue: 0,0:09:38.70,0:09:41.90,Default,,0000,0000,0000,,I will contact Ratchet to bridge you back to base.
+Dialogue: 0,0:09:45.00,0:09:48.40,Default,,0000,0000,0000,,I'll send you bypass all points of normal entry.
+Dialogue: 0,0:09:48.50,0:09:51.30,Default,,0000,0000,0000,,You won't need to worry about setting off the alarm.
+Dialogue: 0,0:09:51.50,0:09:54.80,Default,,0000,0000,0000,,But take care to avoid any security guards.
+Dialogue: 0,0:10:09.30,0:10:10.50,Default,,0000,0000,0000,,Oppa!
+Dialogue: 0,0:11:00.80,0:11:04.10,Default,,0000,0000,0000,,Sweet rims, 24-gage?
+Dialogue: 0,0:11:04.20,0:11:07.10,Default,,0000,0000,0000,,You are really heavy duty,
+Dialogue: 0,0:11:07.20,0:11:09.60,Default,,0000,0000,0000,,just like my friend here.
+Dialogue: 0,0:11:45.90,0:11:47.20,Default,,0000,0000,0000,,It's Cons.
+Dialogue: 0,0:11:47.70,0:11:48.80,Default,,0000,0000,0000,,They got Optimus.
+Dialogue: 0,0:12:34.30,0:12:35.10,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:56.40,0:12:58.60,Default,,0000,0000,0000,,Come on, time to make our exit, boys.
+Dialogue: 0,0:13:14.00,0:13:16.30,Default,,0000,0000,0000,,Uh, what's up?
+Dialogue: 0,0:13:17.20,0:13:18.70,Default,,0000,0000,0000,,You'd better come with me, miss.
+Dialogue: 0,0:13:25.30,0:13:26.20,Default,,0000,0000,0000,,Not good.
+Dialogue: 0,0:13:31.50,0:13:32.40,Default,,0000,0000,0000,,Arcee!
+Dialogue: 0,0:13:38.20,0:13:39.40,Default,,0000,0000,0000,,It's Soundwave.
+Dialogue: 0,0:14:01.30,0:14:04.00,Default,,0000,0000,0000,,Hmm... That would be game.
+Dialogue: 0,0:14:11.70,0:14:13.40,Default,,0000,0000,0000,,The Cons have the harbester.
+Dialogue: 0,0:14:13.40,0:14:15.20,Default,,0000,0000,0000,,And security has Miko!
+Dialogue: 0,0:14:15.50,0:14:17.60,Default,,0000,0000,0000,,What? I'm going in after her.
+Dialogue: 0,0:14:17.70,0:14:20.70,Default,,0000,0000,0000,,Bulkhead, Miko may be detained,
+Dialogue: 0,0:14:20.70,0:14:22.70,Default,,0000,0000,0000,,but she is safe from harm.
+Dialogue: 0,0:14:25.90,0:14:28.10,Default,,0000,0000,0000,,Look, kid, if this is some kind of a prank,
+Dialogue: 0,0:14:28.10,0:14:31.30,Default,,0000,0000,0000,,you need to know that the authorities are on their way.
+Dialogue: 0,0:14:31.50,0:14:35.40,Default,,0000,0000,0000,,It'd go a whole lot easier for you if you just told me what happened to the sphere.
+Dialogue: 0,0:14:35.70,0:14:37.70,Default,,0000,0000,0000,,I was researching my history report,
+Dialogue: 0,0:14:37.80,0:14:41.30,Default,,0000,0000,0000,,I just lost track of time and got locked in here after closing.
+Dialogue: 0,0:14:41.70,0:14:44.00,Default,,0000,0000,0000,,So what's your history report about?
+Dialogue: 0,0:14:44.30,0:14:45.90,Default,,0000,0000,0000,, I'd love to know.
+Dialogue: 0,0:14:47.60,0:14:49.40,Default,,0000,0000,0000,,Eh...
+Dialogue: 0,0:14:54.70,0:15:00.50,Default,,0000,0000,0000,,In all likelihood Starscream will use the harvester to gather as much energon as quickly as he can
+Dialogue: 0,0:15:00.80,0:15:04.70,Default,,0000,0000,0000,,from the planet's otherwise un-minable energon deposits.
+Dialogue: 0,0:15:05.50,0:15:08.00,Default,,0000,0000,0000,,Approach with extreme caution.
+Dialogue: 0,0:15:08.10,0:15:13.20,Default,,0000,0000,0000,,Starscream will not hesitate to turn the harvester on any one of us.
+Dialogue: 0,0:15:13.40,0:15:14.40,Default,,0000,0000,0000,,Bulkhead,
+Dialogue: 0,0:15:14.50,0:15:16.80,Default,,0000,0000,0000,,it is best that you remain here.
+Dialogue: 0,0:15:16.90,0:15:18.80,Default,,0000,0000,0000,,So I can bust Miko out of the museum?
+Dialogue: 0,0:15:19.00,0:15:20.90,Default,,0000,0000,0000,,So you can help Ratchet.
+Dialogue: 0,0:15:21.10,0:15:23.00,Default,,0000,0000,0000,,You may be Miko's guardian,
+Dialogue: 0,0:15:23.20,0:15:25.60,Default,,0000,0000,0000,,but she requires human assistance.
+Dialogue: 0,0:15:25.70,0:15:28.40,Default,,0000,0000,0000,,Agent Fowler remains our best option.
+Dialogue: 0,0:15:33.60,0:15:35.90,Default,,0000,0000,0000,,You've reached special Agent William Fowler.
+Dialogue: 0,0:15:36.00,0:15:39.00,Default,,0000,0000,0000,,I'm currently on an intensive training retreat
+Dialogue: 0,0:15:39.10,0:15:41.40,Default,,0000,0000,0000,,and I¡¯m not available until Tuesday.
+Dialogue: 0,0:15:41.50,0:15:43.00,Default,,0000,0000,0000,,Still not answered.
+Dialogue: 0,0:15:43.30,0:15:46.40,Default,,0000,0000,0000,,Fowler's lounging around some poolside cabana.
+Dialogue: 0,0:15:48.70,0:15:51.30,Default,,0000,0000,0000,,Bulkhead, I needed that!
+Dialogue: 0,0:15:51.50,0:15:52.90,Default,,0000,0000,0000,,We can free Miko,
+Dialogue: 0,0:15:53.00,0:15:55.80,Default,,0000,0000,0000,,if we can just return that harvester to the museum.
+Dialogue: 0,0:15:55.90,0:15:58.70,Default,,0000,0000,0000,,So that Decepticons can steal it all over again?
+Dialogue: 0,0:16:02.30,0:16:04.30,Default,,0000,0000,0000,,I am so dumb!
+Dialogue: 0,0:16:04.70,0:16:06.70,Default,,0000,0000,0000,,So how are we going to help Miko?
+Dialogue: 0,0:16:06.80,0:16:09.80,Default,,0000,0000,0000,,By returning this replica to the museum,
+Dialogue: 0,0:16:10.30,0:16:13.80,Default,,0000,0000,0000,,The construction of which would be going a whole lot faster
+Dialogue: 0,0:16:13.80,0:16:17.00,Default,,0000,0000,0000,,if Bulkhead hadn't just mangled my frame wielder!
+Dialogue: 0,0:16:17.20,0:16:19.10,Default,,0000,0000,0000,,We're already trespassers and thieves,
+Dialogue: 0,0:16:19.20,0:16:20.90,Default,,0000,0000,0000,,why not add forgery to the list?
+Dialogue: 0,0:16:23.40,0:16:25.80,Default,,0000,0000,0000,,I wish I had never taken Miko to the...
+Dialogue: 0,0:16:26.40,0:16:30.20,Default,,0000,0000,0000,,the painting of the harvester isn't the only thing we found in those ruins.
+Dialogue: 0,0:16:30.70,0:16:31.60,Default,,0000,0000,0000,,I'm sorry?
+Dialogue: 0,0:16:31.80,0:16:33.50,Default,,0000,0000,0000,,Starscream is not dumb.
+Dialogue: 0,0:16:33.60,0:16:35.40,Default,,0000,0000,0000,,No matter what kind of tool he has,
+Dialogue: 0,0:16:35.50,0:16:37.60,Default,,0000,0000,0000,,he is going to take the easy route.
+Dialogue: 0,0:16:44.20,0:16:46.10,Default,,0000,0000,0000,,Why move maintains now,
+Dialogue: 0,0:16:46.20,0:16:50.60,Default,,0000,0000,0000,,when we have a motherload of energon right here for the taking,
+Dialogue: 0,0:16:50.80,0:16:55.10,Default,,0000,0000,0000,,courtesy of this gift from the ancient Autobots.
+Dialogue: 0,0:16:55.20,0:16:57.70,Default,,0000,0000,0000,,Uh, actually, commander Starscream,
+Dialogue: 0,0:16:57.80,0:17:00.60,Default,,0000,0000,0000,,it was a gift from breakdown and myself.
+Dialogue: 0,0:17:26.30,0:17:30.70,Default,,0000,0000,0000,,Oh, that energon, in such a tiny vessel.
+Dialogue: 0,0:17:31.20,0:17:35.90,Default,,0000,0000,0000,,Those ancient Autobots never missed a trick, lord Starscream.
+Dialogue: 0,0:18:09.50,0:18:10.70,Default,,0000,0000,0000,,Um, scrap.
+Dialogue: 0,0:18:10.90,0:18:12.10,Default,,0000,0000,0000,,Back for seconds.
+Dialogue: 0,0:18:46.60,0:18:48.10,Default,,0000,0000,0000,,You are a big one.
+Dialogue: 0,0:18:48.60,0:18:50.40,Default,,0000,0000,0000,,This could take a while.
+Dialogue: 0,0:18:59.00,0:19:01.40,Default,,0000,0000,0000,,Wait, what are you doing?
+Dialogue: 0,0:19:02.50,0:19:04.70,Default,,0000,0000,0000,,What I do best!
+Dialogue: 0,0:19:06.30,0:19:08.00,Default,,0000,0000,0000,,Breaking things!
+Dialogue: 0,0:19:26.10,0:19:28.60,Default,,0000,0000,0000,,He is a glutton for punishment.
+Dialogue: 0,0:19:36.10,0:19:36.80,Default,,0000,0000,0000,,Fight?
+Dialogue: 0,0:19:37.10,0:19:38.50,Default,,0000,0000,0000,,Um, drive.
+Dialogue: 0,0:20:02.80,0:20:03.80,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:20:07.50,0:20:11.40,Default,,0000,0000,0000,,And of course there is this whole principle of Deus ex Machina.
+Dialogue: 0,0:20:11.60,0:20:13.40,Default,,0000,0000,0000,,Uh, the god from the machine.
+Dialogue: 0,0:20:13.70,0:20:18.40,Default,,0000,0000,0000,,It's that part in Greek story telling when some character shows up out of the blue to make everything right.
+Dialogue: 0,0:20:19.10,0:20:20.40,Default,,0000,0000,0000,,That's so, young lady.
+Dialogue: 0,0:20:20.90,0:20:26.40,Default,,0000,0000,0000,,Well, I am sure the police will want to hear all about you history report.
+Dialogue: 0,0:20:32.10,0:20:33.70,Default,,0000,0000,0000,,Special Agent William Fowler,
+Dialogue: 0,0:20:33.80,0:20:37.50,Default,,0000,0000,0000,,the stolen property has been located and restored in museum premises.
+Dialogue: 0,0:20:43.70,0:20:45.20,Default,,0000,0000,0000,,The girl comes with me.
+Dialogue: 0,0:20:46.30,0:20:47.90,Default,,0000,0000,0000,,You dropped you cell phone.
+Dialogue: 0,0:20:48.10,0:20:52.20,Default,,0000,0000,0000,,Found on the floor right next to your history report.
+Dialogue: 0,0:21:02.50,0:21:03.30,Default,,0000,0000,0000,,Off you go.
+Dialogue: 0,0:21:06.50,0:21:07.70,Default,,0000,0000,0000,,Good timing, Bulk.
+Dialogue: 0,0:21:07.80,0:21:10.10,Default,,0000,0000,0000,,I was running out of history factoids-
+Dialogue: 0,0:21:10.20,0:21:12.20,Default,,0000,0000,0000,,-stuff I didn't even know I knew.
+Dialogue: 0,0:21:12.50,0:21:14.60,Default,,0000,0000,0000,,Looks like you are smarter than you led on?
+Dialogue: 0,0:21:14.80,0:21:16.10,Default,,0000,0000,0000,,Under pressure.
+Dialogue: 0,0:21:16.50,0:21:17.80,Default,,0000,0000,0000,,Me, too.
+Dialogue: 0,0:21:19.40,0:21:21.60,Default,,0000,0000,0000,,Can't wait to finish my history report.
+Dialogue: 0,0:21:21.80,0:21:26.00,Default,,0000,0000,0000,,I'm gonna write all about how the Autobots interacted with ancient civilizations.
+Dialogue: 0,0:21:26.20,0:21:30.90,Default,,0000,0000,0000,,Uh, I'm not so sure that will get you into college, Miko.

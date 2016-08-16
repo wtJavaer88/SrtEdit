@@ -1,0 +1,177 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 漫游字幕
+Original Script: 漫游字幕组
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: *Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,0,2,3,2,20,20,20,0
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+Dialogue: 0,0:00:50.81,0:00:53.34,Default,,0000,0000,0000,,Arhhh, really wish I packed some insect propellent.
+Dialogue: 0,0:00:54.12,0:00:58.42,Default,,0000,0000,0000,,The mosquitoes out here on this routine recon are the size of vampire bats,
+Dialogue: 0,0:00:58.42,0:01:00.52,Default,,0000,0000,0000,,and they drink just about as much of blood.
+Dialogue: 0,0:01:01.08,0:01:03.68,Default,,0000,0000,0000,,Quite the outdoorsman, aren't you, Jack?
+Dialogue: 0,0:01:03.68,0:01:06.50,Default,,0000,0000,0000,,You wouldn't be making fun of my survival kit?
+Dialogue: 0,0:01:06.50,0:01:07.69,Default,,0000,0000,0000,,Maybe.
+Dialogue: 0,0:01:07.69,0:01:10.42,Default,,0000,0000,0000,,I may not have stinger-proof metal skin, Arcee,
+Dialogue: 0,0:01:10.42,0:01:13.31,Default,,0000,0000,0000,,but in a pinch, I can use my multi-function pocket knife
+Dialogue: 0,0:01:13.31,0:01:14.91,Default,,0000,0000,0000,,and magnesium fire-starter
+Dialogue: 0,0:01:14.91,0:01:17.54,Default,,0000,0000,0000,,to cook up some freeze-dried mac and cheese.
+Dialogue: 0,0:01:17.54,0:01:19.91,Default,,0000,0000,0000,,You have your tools. I have mine.
+Dialogue: 0,0:01:21.14,0:01:22.12,Default,,0000,0000,0000,,That's odd.
+Dialogue: 0,0:01:22.12,0:01:24.02,Default,,0000,0000,0000,,Ratchet's satellite scans were accurate,
+Dialogue: 0,0:01:24.02,0:01:27.37,Default,,0000,0000,0000,,but subterranean energon deposits don't cause this kind of surge.
+Dialogue: 0,0:01:39.13,0:01:39.92,Default,,0000,0000,0000,,What happened here?
+Dialogue: 0,0:01:39.92,0:01:41.27,Default,,0000,0000,0000,,Crash landing.
+Dialogue: 0,0:01:41.93,0:01:43.97,Default,,0000,0000,0000,,Stay behind me, low and close.
+Dialogue: 0,0:02:46.32,0:02:48.07,Default,,0000,0000,0000,,Autobot or Decepticon?
+Dialogue: 0,0:02:48.07,0:02:50.27,Default,,0000,0000,0000,,{\pos(192,280)}Can't tell. Wait here.
+Dialogue: 0,0:03:28.54,0:03:29.66,Default,,0000,0000,0000,,Ar... Arcee?
+Dialogue: 0,0:03:44.27,0:03:46.11,Default,,0000,0000,0000,,Arcee, what's wrong?
+Dialogue: 0,0:03:46.21,0:03:48.98,Default,,0000,0000,0000,,I know who this ship belongs to.
+Dialogue: 0,0:03:48.98,0:03:51.64,Default,,0000,0000,0000,,Arcee to base, I need a Ground Bridge ASAP.
+Dialogue: 0,0:03:51.64,0:03:53.09,Default,,0000,0000,0000,,Wa... wait, why?
+Dialogue: 0,0:03:53.09,0:03:54.44,Default,,0000,0000,0000,,Whose ship is this?
+Dialogue: 0,0:03:54.44,0:03:56.25,Default,,0000,0000,0000,,Base, do you read?
+Dialogue: 0,0:03:56.25,0:03:59.14,Default,,0000,0000,0000,,Scrap! Comlink is dead.
+Dialogue: 0,0:03:59.24,0:04:01.87,Default,,0000,0000,0000,,The ship's got to be transmitting a high frequency scrambling pulse.
+Dialogue: 0,0:04:02.38,0:04:05.58,Default,,0000,0000,0000,,Ar... Arcee? OK, you're kind of freaking me out here.
+Dialogue: 0,0:04:06.96,0:04:08.47,Default,,0000,0000,0000,,Wait here.
+Dialogue: 0,0:04:46.31,0:04:47.46,Default,,0000,0000,0000,,Arcee?
+Dialogue: 0,0:04:51.69,0:04:52.79,Default,,0000,0000,0000,,Climb on!
+Dialogue: 0,0:05:02.61,0:05:05.32,Default,,0000,0000,0000,,Whoa, Arcee?
+Dialogue: 0,0:05:11.82,0:05:14.36,Default,,0000,0000,0000,,Ho, OK, was that really necessary?
+Dialogue: 0,0:05:14.75,0:05:17.75,Default,,0000,0000,0000,,Arcee to base... scrap!
+Dialogue: 0,0:05:17.78,0:05:19.67,Default,,0000,0000,0000,,Look, I've seen danger before, what's the big...?
+Dialogue: 0,0:05:19.67,0:05:21.91,Default,,0000,0000,0000,,Wait here, I mean it this time.
+Dialogue: 0,0:05:22.78,0:05:25.26,Default,,0000,0000,0000,,OK, first you shut me out, now you're ditching me?
+Dialogue: 0,0:05:26.13,0:05:27.33,Default,,0000,0000,0000,,I thought I was your partner.
+Dialogue: 0,0:05:27.33,0:05:29.12,Default,,0000,0000,0000,,No, Jack, you are a kid!
+Dialogue: 0,0:05:29.12,0:05:31.60,Default,,0000,0000,0000,,You are only here because this was supposed to be no risk.
+Dialogue: 0,0:05:32.44,0:05:33.40,Default,,0000,0000,0000,,Got it?
+Dialogue: 0,0:06:22.21,0:06:25.77,Default,,0000,0000,0000,,Arcee to Delta Team, requesting rendezvous coordinates, do you copy?
+Dialogue: 0,0:06:25.87,0:06:27.83,Default,,0000,0000,0000,,Arcee, you lost again?
+Dialogue: 0,0:06:27.83,0:06:30.32,Default,,0000,0000,0000,,Your sensor-direction could use some improvement.
+Dialogue: 0,0:06:30.32,0:06:32.48,Default,,0000,0000,0000,,So did your aim, Tailgate.
+Dialogue: 0,0:06:32.48,0:06:35.13,Default,,0000,0000,0000,,If you tagged that sniper back at the artillery depot,
+Dialogue: 0,0:06:35.13,0:06:38.38,Default,,0000,0000,0000,,I wouldn't have to break rank and engage the enemy hand to hand.
+Dialogue: 0,0:06:40.34,0:06:43.51,Default,,0000,0000,0000,,From the sound of things, I'm guessing you came out ahead?
+Dialogue: 0,0:06:44.85,0:06:47.86,Default,,0000,0000,0000,,Try waiting up for me this time and I'll give you the blow-by-blow.
+Dialogue: 0,0:06:48.03,0:06:49.19,Default,,0000,0000,0000,,What's your position?
+Dialogue: 0,0:06:49.19,0:06:51.78,Default,,0000,0000,0000,,About half a klik from depot due north.
+Dialogue: 0,0:06:51.78,0:06:53.75,Default,,0000,0000,0000,,Think you can find it, partner?
+Dialogue: 0,0:06:53.75,0:06:58.08,Default,,0000,0000,0000,,Trust me, Tailgate. My navigation ability... Uh... Ah...
+Dialogue: 0,0:07:18.43,0:07:20.25,Default,,0000,0000,0000,,Piece of advice...
+Dialogue: 0,0:07:21.32,0:07:23.40,Default,,0000,0000,0000,,make yourself comfortable.
+Dialogue: 0,0:07:27.15,0:07:29.12,Default,,0000,0000,0000,,You are going to be here a while.
+Dialogue: 0,0:08:03.50,0:08:05.67,Default,,0000,0000,0000,,My first local...
+Dialogue: 0,0:08:06.47,0:08:09.68,Default,,0000,0000,0000,,Time for human kind to feel my sting.
+Dialogue: 0,0:08:44.61,0:08:47.78,Default,,0000,0000,0000,,Ar-cee, small universe.
+Dialogue: 0,0:08:47.78,0:08:49.92,Default,,0000,0000,0000,,Too small, Airachnid.
+Dialogue: 0,0:08:50.02,0:08:52.62,Default,,0000,0000,0000,,You are still holding a grudge?
+Dialogue: 0,0:08:52.62,0:08:54.92,Default,,0000,0000,0000,,The war's been over for mega-cycles.
+Dialogue: 0,0:08:54.92,0:08:57.26,Default,,0000,0000,0000,,Tell that to the Decepticons.
+Dialogue: 0,0:08:57.26,0:09:00.94,Default,,0000,0000,0000,,These days I travel solo, in pursuit of my new hobby.
+Dialogue: 0,0:09:15.55,0:09:18.09,Default,,0000,0000,0000,,I got a look at your souvenir case.
+Dialogue: 0,0:09:18.09,0:09:20.32,Default,,0000,0000,0000,,You mean my trophies.
+Dialogue: 0,0:09:20.81,0:09:22.98,Default,,0000,0000,0000,,I collect endangered species.
+Dialogue: 0,0:09:22.98,0:09:27.89,Default,,0000,0000,0000,,Of course, they aren't really in danger, until they meet me.
+Dialogue: 0,0:09:27.89,0:09:30.92,Default,,0000,0000,0000,,And I have a slot reserved for human.
+Dialogue: 0,0:09:30.92,0:09:32.37,Default,,0000,0000,0000,,Not gonna happen.
+Dialogue: 0,0:10:17.04,0:10:18.03,Default,,0000,0000,0000,,Arcee?
+Dialogue: 0,0:10:29.35,0:10:31.12,Default,,0000,0000,0000,,I told you to wait for me!
+Dialogue: 0,0:10:31.12,0:10:33.31,Default,,0000,0000,0000,,Well, partners don't ditch partners.
+Dialogue: 0,0:10:34.15,0:10:35.25,Default,,0000,0000,0000,,Get this through your head:
+Dialogue: 0,0:10:35.25,0:10:37.39,Default,,0000,0000,0000,,You are not my partner, you are a liability.
+Dialogue: 0,0:10:37.39,0:10:38.46,Default,,0000,0000,0000,,I don't believe you.
+Dialogue: 0,0:10:38.46,0:10:41.73,Default,,0000,0000,0000,,I can see it in your eyes. You are afraid, Arcee,
+Dialogue: 0,0:10:41.73,0:10:43.34,Default,,0000,0000,0000,,and you're never afraid.
+Dialogue: 0,0:10:45.59,0:10:49.84,Default,,0000,0000,0000,,You know, for an Autobot, your resilience is quite impressive.
+Dialogue: 0,0:10:52.27,0:10:56.47,Default,,0000,0000,0000,,In fact, I'm guessing that no matter what I do to you,
+Dialogue: 0,0:10:56.47,0:10:57.88,Default,,0000,0000,0000,,you'll never crack.
+Dialogue: 0,0:10:58.37,0:10:59.68,Default,,0000,0000,0000,,Am I right?
+Dialogue: 0,0:11:01.65,0:11:03.54,Default,,0000,0000,0000,,That's what I thought.
+Dialogue: 0,0:11:08.76,0:11:09.77,Default,,0000,0000,0000,,Tailgate?
+Dialogue: 0,0:11:23.16,0:11:24.84,Default,,0000,0000,0000,,What have you done to him?
+Dialogue: 0,0:11:24.84,0:11:26.17,Default,,0000,0000,0000,,Not much,
+Dialogue: 0,0:11:26.97,0:11:28.07,Default,,0000,0000,0000,,yet.
+Dialogue: 0,0:11:29.71,0:11:31.58,Default,,0000,0000,0000,,Just tell me what I want to know,
+Dialogue: 0,0:11:31.58,0:11:36.43,Default,,0000,0000,0000,,or, well, you're a smart bot.
+Dialogue: 0,0:11:36.43,0:11:40.63,Default,,0000,0000,0000,,I think you can imagine what happens to Tailgate next.
+Dialogue: 0,0:11:40.63,0:11:42.45,Default,,0000,0000,0000,,I don't know the attack coordinates.
+Dialogue: 0,0:11:44.81,0:11:46.96,Default,,0000,0000,0000,,I swear upon the Allspark, it's the truth!
+Dialogue: 0,0:11:48.19,0:11:49.77,Default,,0000,0000,0000,,We shall see.
+Dialogue: 0,0:11:51.20,0:11:53.53,Default,,0000,0000,0000,,No, please!
+Dialogue: 0,0:12:02.54,0:12:04.24,Default,,0000,0000,0000,,Tailgate!
+Dialogue: 0,0:12:05.97,0:12:07.97,Default,,0000,0000,0000,,You are right, Jack, I am afraid,
+Dialogue: 0,0:12:07.97,0:12:09.48,Default,,0000,0000,0000,,of losing you.
+Dialogue: 0,0:12:10.92,0:12:15.24,Default,,0000,0000,0000,,You sure have trouble hanging on to your partners, don't you?
+Dialogue: 0,0:12:15.34,0:12:18.12,Default,,0000,0000,0000,,We both know what happened to Tailgate,
+Dialogue: 0,0:12:18.12,0:12:25.58,Default,,0000,0000,0000,,but I recently picked up some Decepticon radio chatter regarding the passing of Cliffjumper.
+Dialogue: 0,0:12:26.96,0:12:30.79,Default,,0000,0000,0000,,At some point, you really have to ask yourself, Arcee.
+Dialogue: 0,0:12:30.79,0:12:33.01,Default,,0000,0000,0000,,Is it them, or is it me?
+Dialogue: 0,0:12:34.03,0:12:35.38,Default,,0000,0000,0000,,Do you get it now, Jack?
+Dialogue: 0,0:12:35.38,0:12:38.35,Default,,0000,0000,0000,,She is not interested in me. She hunts indigenous species,
+Dialogue: 0,0:12:38.35,0:12:42.55,Default,,0000,0000,0000,,and she's on earth. That means humans. You!
+Dialogue: 0,0:12:42.55,0:12:43.91,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:12:46.86,0:12:52.42,Default,,0000,0000,0000,,Hahahaha... And that's why I now prefer to work alone.
+Dialogue: 0,0:12:53.63,0:12:57.80,Default,,0000,0000,0000,,It's so sad when bad things happen to those close to you.
+Dialogue: 0,0:12:57.90,0:12:59.64,Default,,0000,0000,0000,,But don't get me wrong.
+Dialogue: 0,0:12:59.64,0:13:02.99,Default,,0000,0000,0000,,I fully intend to snuff out your spark.
+Dialogue: 0,0:13:02.99,0:13:05.94,Default,,0000,0000,0000,,And believe me, I will make it hurt.
+Dialogue: 0,0:13:05.94,0:13:09.06,Default,,0000,0000,0000,,But that won't compare to the pain you feel knowing
+Dialogue: 0,0:13:09.06,0:13:13.21,Default,,0000,0000,0000,,I'm adding your human to my collection.
+Dialogue: 0,0:13:23.03,0:13:24.84,Default,,0000,0000,0000,,Jaaaaack!
+Dialogue: 0,0:13:49.86,0:13:53.59,Default,,0000,0000,0000,,That's the spirit, Jack. Play hard to get.
+Dialogue: 0,0:14:22.95,0:14:26.44,Default,,0000,0000,0000,,I couldn't save him. I couldn't save my partner!
+Dialogue: 0,0:14:31.01,0:14:32.85,Default,,0000,0000,0000,,Jack, I'm sorry.
+Dialogue: 0,0:14:32.85,0:14:34.92,Default,,0000,0000,0000,,I never should have looked back...
+Dialogue: 0,0:14:34.92,0:14:38.52,Default,,0000,0000,0000,,I should have... kept driving.
+Dialogue: 0,0:15:41.76,0:15:43.39,Default,,0000,0000,0000,,Hello, Jack.
+Dialogue: 0,0:17:17.97,0:17:19.41,Default,,0000,0000,0000,,Who am I kidding?
+Dialogue: 0,0:17:22.99,0:17:25.14,Default,,0000,0000,0000,,You're making this too easy, Jack,
+Dialogue: 0,0:17:25.14,0:17:28.52,Default,,0000,0000,0000,,and I do not enjoy being bored.
+Dialogue: 0,0:17:48.24,0:17:51.94,Default,,0000,0000,0000,,Now, where did you scamper off to?
+Dialogue: 0,0:18:19.80,0:18:23.95,Default,,0000,0000,0000,,If you wanted a tour, Jack, all you had to do was ask.
+Dialogue: 0,0:18:25.38,0:18:27.71,Default,,0000,0000,0000,,Did you spot the empty space?
+Dialogue: 0,0:18:27.71,0:18:29.25,Default,,0000,0000,0000,,I hope you like it.
+Dialogue: 0,0:18:29.25,0:18:32.15,Default,,0000,0000,0000,,It's where you'll soon hang your head.
+Dialogue: 0,0:18:45.79,0:18:46.98,Default,,0000,0000,0000,,Energon.
+Dialogue: 0,0:18:56.88,0:18:57.88,Default,,0000,0000,0000,,Jack?
+Dialogue: 0,0:19:22.73,0:19:23.61,Default,,0000,0000,0000,,Jack!
+Dialogue: 0,0:20:38.63,0:20:39.44,Default,,0000,0000,0000,,Jack.
+Dialogue: 0,0:20:41.31,0:20:42.38,Default,,0000,0000,0000,,Are you OK?
+Dialogue: 0,0:20:45.81,0:20:48.75,Default,,0000,0000,0000,,Yea, of course. Survival kit!
+Dialogue: 0,0:20:54.35,0:20:56.23,Default,,0000,0000,0000,,Airachnid!
+Dialogue: 0,0:21:00.58,0:21:03.37,Default,,0000,0000,0000,,Uh... so much for closure.
+Dialogue: 0,0:21:03.37,0:21:05.63,Default,,0000,0000,0000,,Now Airachnid's stuck here on Earth.
+Dialogue: 0,0:21:06.29,0:21:08.26,Default,,0000,0000,0000,,I'm not sure that's such a good thing.
+Dialogue: 0,0:21:08.97,0:21:11.88,Default,,0000,0000,0000,,I'm sorry you had to face that dement today.
+Dialogue: 0,0:21:11.88,0:21:13.62,Default,,0000,0000,0000,,You were pretty fearless there, Jack.
+Dialogue: 0,0:21:14.96,0:21:17.33,Default,,0000,0000,0000,,Hgh... actually I was terrified.
+Dialogue: 0,0:21:17.33,0:21:18.25,Default,,0000,0000,0000,,Mostly for you.
+Dialogue: 0,0:21:19.42,0:21:21.51,Default,,0000,0000,0000,,Ratchet, requesting Ground Bridge.
+Dialogue: 0,0:21:25.58,0:21:29.21,Default,,0000,0000,0000,,Need to get my partner far away from any over-sized insects.
+Dialogue: 0,0:21:29.21,0:21:30.97,Default,,0000,0000,0000,,Partner, Ughr?
+Dialogue: 0,0:21:30.97,0:21:35.07,Default,,0000,0000,0000,,Junior partner. I can still pull rank.

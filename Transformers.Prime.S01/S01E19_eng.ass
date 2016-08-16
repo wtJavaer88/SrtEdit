@@ -1,0 +1,274 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+Dialogue: 0,0:00:03.93,0:00:06.20,Default,,0000,0000,0000,,We're supposed to be at a rock concert,
+Dialogue: 0,0:00:06.32,0:00:08.65,Default,,0000,0000,0000,,but all I see is-- rock.
+Dialogue: 0,0:00:09.28,0:00:10.79,Default,,0000,0000,0000,,Relax, Miko.
+Dialogue: 0,0:00:10.91,0:00:12.88,Default,,0000,0000,0000,,The show doesn't start for two hours.
+Dialogue: 0,0:00:13.41,0:00:15.79,Default,,0000,0000,0000,,Do you know how long I've waited to see Slash Monkey?
+Dialogue: 0,0:00:15.79,0:00:16.30,Default,,0000,0000,0000,,Eh...
+Dialogue: 0,0:00:16.30,0:00:17.19,Default,,0000,0000,0000,,Forever!
+Dialogue: 0,0:00:17.19,0:00:18.94,Default,,0000,0000,0000,,And it's their only U.S. date!
+Dialogue: 0,0:00:19.07,0:00:20.06,Default,,0000,0000,0000,,There's a shock.
+Dialogue: 0,0:00:20.08,0:00:22.79,Default,,0000,0000,0000,,I mean, who doesn't love obscure Bulgarian shriek metal?
+Dialogue: 0,0:00:24.85,0:00:27.38,Default,,0000,0000,0000,,By all appearances the mines' been stripped.
+Dialogue: 0,0:00:27.65,0:00:28.99,Default,,0000,0000,0000,,But I'm getting a signal.
+Dialogue: 0,0:00:29.11,0:00:32.31,Default,,0000,0000,0000,,It's faint, but it's definitely energon.
+Dialogue: 0,0:00:32.85,0:00:34.05,Default,,0000,0000,0000,,Whoa...
+Dialogue: 0,0:00:35.56,0:00:36.78,Default,,0000,0000,0000,,Doesn't make sense.
+Dialogue: 0,0:00:37.00,0:00:39.92,Default,,0000,0000,0000,,This operation's been abadoned four, maybe five years?
+Dialogue: 0,0:00:39.92,0:00:42.30,Default,,0000,0000,0000,,And Decepticons never leave energon behind.
+Dialogue: 0,0:00:42.43,0:00:43.90,Default,,0000,0000,0000,,Eh, guys?
+Dialogue: 0,0:00:47.53,0:00:49.01,Default,,0000,0000,0000,,Cool!
+Dialogue: 0,0:00:49.14,0:00:50.03,Default,,0000,0000,0000,,She went in.
+Dialogue: 0,0:00:50.33,0:00:51.65,Default,,0000,0000,0000,,Unbelievable.
+Dialogue: 0,0:00:51.78,0:00:54.39,Default,,0000,0000,0000,,Really? Have you... met her?
+Dialogue: 0,0:00:54.39,0:00:57.65,Default,,0000,0000,0000,,Eh, Miko. Get back here!
+Dialogue: 0,0:00:57.79,0:00:59.94,Default,,0000,0000,0000,,It would be kind of interesting to see.
+Dialogue: 0,0:01:00.06,0:01:00.69,Default,,0000,0000,0000,,You know, if it were...
+Dialogue: 0,0:01:00.69,0:01:01.83,Default,,0000,0000,0000,,Safe?
+Dialogue: 0,0:01:01.99,0:01:05.24,Default,,0000,0000,0000,,A stripped mine can be structurally unstable, Jack.
+Dialogue: 0,0:01:05.37,0:01:07.10,Default,,0000,0000,0000,,I promise to step lightly.
+Dialogue: 0,0:01:08.50,0:01:10.93,Default,,0000,0000,0000,,Just... don't tell your mom.
+Dialogue: 0,0:02:22.68,0:02:24.84,Default,,0000,0000,0000,,{\pos(192,280)}Ah, Lord Megatron.
+Dialogue: 0,0:02:24.95,0:02:28.25,Default,,0000,0000,0000,,{\pos(192,280)}Far be it from me to question your intentions,
+Dialogue: 0,0:02:28.37,0:02:34.42,Default,,0000,0000,0000,,{\pos(192,280)}but I do not understand why we return here after all this time, alone?
+Dialogue: 0,0:02:37.91,0:02:42.11,Default,,0000,0000,0000,,{\pos(192,280)}Every last trace of energon was extracted from this mine.
+Dialogue: 0,0:02:42.42,0:02:44.29,Default,,0000,0000,0000,,{\pos(192,280)}There is nothing left.
+Dialogue: 0,0:02:46.72,0:02:49.99,Default,,0000,0000,0000,,Indulge me, Starscream, won't you?
+Dialogue: 0,0:03:00.67,0:03:02.02,Default,,0000,0000,0000,,Miko!
+Dialogue: 0,0:03:03.21,0:03:04.37,Default,,0000,0000,0000,,- Mi...
+Dialogue: 0,0:03:03.21,0:03:04.47,Default,,0000,0000,0000,,- Check it out!
+Dialogue: 0,0:03:04.58,0:03:07.60,Default,,0000,0000,0000,,Now, this would make an awesome rehearsal space.
+Dialogue: 0,0:03:09.34,0:03:13.66,Default,,0000,0000,0000,,Hello! Hello Cleveland.
+Dialogue: 0,0:03:15.25,0:03:17.32,Default,,0000,0000,0000,,Are you ready to rock?
+Dialogue: 0,0:03:18.29,0:03:21.64,Default,,0000,0000,0000,,Whoooooohaaaaa... whoa!
+Dialogue: 0,0:03:21.64,0:03:23.61,Default,,0000,0000,0000,,Arcee, found something.
+Dialogue: 0,0:03:23.87,0:03:27.39,Default,,0000,0000,0000,,Bulkhead? Bulkhead, do you read?
+Dialogue: 0,0:03:28.43,0:03:29.58,Default,,0000,0000,0000,,Scrap.
+Dialogue: 0,0:03:30.87,0:03:33.59,Default,,0000,0000,0000,,The mineral composition down here is causing interference.
+Dialogue: 0,0:03:33.76,0:03:36.51,Default,,0000,0000,0000,,OK, maybe the acoustics aren't perfect.
+Dialogue: 0,0:03:37.13,0:03:38.92,Default,,0000,0000,0000,,Over here.
+Dialogue: 0,0:03:39.05,0:03:40.71,Default,,0000,0000,0000,,Ratch's gonna want a sample.
+Dialogue: 0,0:04:00.02,0:04:02.31,Default,,0000,0000,0000,,How intriguing.
+Dialogue: 0,0:04:03.93,0:04:07.65,Default,,0000,0000,0000,,Ehhhh, incompetent fools!
+Dialogue: 0,0:04:08.67,0:04:11.68,Default,,0000,0000,0000,,This mining equipment should have been relocated.
+Dialogue: 0,0:04:11.78,0:04:13.26,Default,,0000,0000,0000,,Why is it still here?
+Dialogue: 0,0:04:13.26,0:04:15.74,Default,,0000,0000,0000,,A most valid question.
+Dialogue: 0,0:04:17.07,0:04:18.97,Default,,0000,0000,0000,,My apologies, master.
+Dialogue: 0,0:04:18.97,0:04:23.34,Default,,0000,0000,0000,,I believe Soundwave was in charge of coordinating transport.
+Dialogue: 0,0:04:25.35,0:04:26.76,Default,,0000,0000,0000,,But in fairness,
+Dialogue: 0,0:04:26.76,0:04:31.65,Default,,0000,0000,0000,,during your inter-stellar travels, we all had to assume additional responsibilities.
+Dialogue: 0,0:04:31.78,0:04:34.36,Default,,0000,0000,0000,,Clearly, mistakes were made.
+Dialogue: 0,0:04:35.54,0:04:38.70,Default,,0000,0000,0000,,Yes, clearly.
+Dialogue: 0,0:04:44.43,0:04:47.79,Default,,0000,0000,0000,,Every last trace of energon extracted?
+Dialogue: 0,0:04:47.90,0:04:50.77,Default,,0000,0000,0000,,Lord Megatron, I can explain.
+Dialogue: 0,0:04:50.80,0:04:52.35,Default,,0000,0000,0000,,Explain what?
+Dialogue: 0,0:04:52.49,0:04:55.96,Default,,0000,0000,0000,,That you've been hoarding a supply of energon for your personal use?
+Dialogue: 0,0:04:56.57,0:04:59.65,Default,,0000,0000,0000,,No! Not exactly. You said...
+Dialogue: 0,0:04:59.78,0:05:03.48,Default,,0000,0000,0000,,Do not take me for a fool, Starscream!
+Dialogue: 0,0:05:05.59,0:05:09.88,Default,,0000,0000,0000,,I have been wise to your transgressions from the beginning.
+Dialogue: 0,0:05:10.01,0:05:13.76,Default,,0000,0000,0000,,Not only did you pluck the Dark Energon from my chest
+Dialogue: 0,0:05:13.88,0:05:17.01,Default,,0000,0000,0000,,in a failed attempt to snuff my spark,
+Dialogue: 0,0:05:17.14,0:05:20.61,Default,,0000,0000,0000,,but you tried to raise your own undead warrior with it.
+Dialogue: 0,0:05:20.73,0:05:23.83,Default,,0000,0000,0000,,It's no secret that you lost an arm in the process,
+Dialogue: 0,0:05:23.93,0:05:26.37,Default,,0000,0000,0000,,which you've since had replaced.
+Dialogue: 0,0:05:26.59,0:05:28.27,Default,,0000,0000,0000,,You know about that?!
+Dialogue: 0,0:05:29.88,0:05:33.09,Default,,0000,0000,0000,,Soundwave is quite competent in surveillance.
+Dialogue: 0,0:05:33.24,0:05:35.46,Default,,0000,0000,0000,,I can assure you.
+Dialogue: 0,0:05:35.58,0:05:37.66,Default,,0000,0000,0000,,The fact is, Starscream,
+Dialogue: 0,0:05:37.80,0:05:39.75,Default,,0000,0000,0000,,despite your treachery,
+Dialogue: 0,0:05:39.93,0:05:41.94,Default,,0000,0000,0000,,I've allowed you to carry on this long
+Dialogue: 0,0:05:41.94,0:05:46.48,Default,,0000,0000,0000,,because I took a certain delight in following your string of failures.
+Dialogue: 0,0:05:46.66,0:05:50.31,Default,,0000,0000,0000,,But you finally become tiresome, predictable.
+Dialogue: 0,0:05:50.89,0:05:53.54,Default,,0000,0000,0000,,You hit rock bottom.
+Dialogue: 0,0:05:54.74,0:05:58.71,Default,,0000,0000,0000,,Master, please! Give me one more chance!
+Dialogue: 0,0:05:58.86,0:06:00.63,Default,,0000,0000,0000,,I beg of you!
+Dialogue: 0,0:06:09.29,0:06:13.10,Default,,0000,0000,0000,,You have ceased to be of use to me, Starscream,
+Dialogue: 0,0:06:13.57,0:06:16.51,Default,,0000,0000,0000,,so you shall simply cease to be.
+Dialogue: 0,0:06:34.73,0:06:36.15,Default,,0000,0000,0000,,Stay down!
+Dialogue: 0,0:06:49.95,0:06:53.54,Default,,0000,0000,0000,,Starscream! You dare abandon me?
+Dialogue: 0,0:07:24.80,0:07:26.19,Default,,0000,0000,0000,,Scrap!
+Dialogue: 0,0:08:05.52,0:08:08.19,Default,,0000,0000,0000,,What? No!
+Dialogue: 0,0:08:49.99,0:08:52.15,Default,,0000,0000,0000,,Arcee?
+Dialogue: 0,0:08:52.90,0:08:54.70,Default,,0000,0000,0000,,Arcee!
+Dialogue: 0,0:08:56.98,0:08:58.54,Default,,0000,0000,0000,,Oh, scrap.
+Dialogue: 0,0:09:08.01,0:09:09.69,Default,,0000,0000,0000,,Did I do that?
+Dialogue: 0,0:09:09.98,0:09:11.85,Default,,0000,0000,0000,,Don't think so.
+Dialogue: 0,0:09:12.22,0:09:13.68,Default,,0000,0000,0000,,You OK?
+Dialogue: 0,0:09:14.03,0:09:16.84,Default,,0000,0000,0000,,Natch. What about you?
+Dialogue: 0,0:09:18.71,0:09:20.21,Default,,0000,0000,0000,,Peachy...
+Dialogue: 0,0:09:27.08,0:09:28.32,Default,,0000,0000,0000,,Whoa...
+Dialogue: 0,0:09:28.45,0:09:29.57,Default,,0000,0000,0000,,Don't worry, Miko.
+Dialogue: 0,0:09:29.68,0:09:31.37,Default,,0000,0000,0000,,I got it under control.
+Dialogue: 0,0:09:31.52,0:09:33.37,Default,,0000,0000,0000,,What do you think caused the cavein?
+Dialogue: 0,0:09:34.06,0:09:35.14,Default,,0000,0000,0000,,Who knows.
+Dialogue: 0,0:09:35.26,0:09:37.43,Default,,0000,0000,0000,,I just hope Arcee and Jack are safe, 'cause...
+Dialogue: 0,0:09:37.54,0:09:39.56,Default,,0000,0000,0000,,We can definitely use an assist.
+Dialogue: 0,0:09:39.67,0:09:41.15,Default,,0000,0000,0000,,Just keep raising that roof, Bulk.
+Dialogue: 0,0:09:41.15,0:09:42.84,Default,,0000,0000,0000,,I'll get us outta here.
+Dialogue: 0,0:10:09.15,0:10:14.87,Default,,0000,0000,0000,,Hahahaha... Predictable, master?
+Dialogue: 0,0:10:15.01,0:10:16.94,Default,,0000,0000,0000,,Is that what you called me?
+Dialogue: 0,0:10:17.08,0:10:20.58,Default,,0000,0000,0000,,Well, now, who has hit rock bottom?
+Dialogue: 0,0:10:21.03,0:10:22.82,Default,,0000,0000,0000,,What's that? I'm sorry.
+Dialogue: 0,0:10:22.82,0:10:25.71,Default,,0000,0000,0000,,I can't hear you beneath all that rubble.
+Dialogue: 0,0:10:25.71,0:10:32.08,Default,,0000,0000,0000,,Hahahaha... Farewell, Lord Megatron.
+Dialogue: 0,0:10:32.22,0:10:35.00,Default,,0000,0000,0000,,May you rust in peace!
+Dialogue: 0,0:10:37.98,0:10:40.48,Default,,0000,0000,0000,,But you have survived far worse.
+Dialogue: 0,0:10:40.61,0:10:42.13,Default,,0000,0000,0000,,If you managed to free yourself,
+Dialogue: 0,0:10:42.13,0:10:44.40,Default,,0000,0000,0000,,you would blame me for your setback.
+Dialogue: 0,0:10:44.56,0:10:48.49,Default,,0000,0000,0000,,And there is no word that I could possibly escape from your wrath.
+Dialogue: 0,0:10:48.61,0:10:49.76,Default,,0000,0000,0000,,Or worse yet,
+Dialogue: 0,0:10:49.89,0:10:52.90,Default,,0000,0000,0000,,your mindless followers will come looking for you,
+Dialogue: 0,0:10:53.04,0:10:55.24,Default,,0000,0000,0000,,and take credit for your rescue.
+Dialogue: 0,0:10:55.38,0:10:58.37,Default,,0000,0000,0000,,Credit, that could rightfully be mine.
+Dialogue: 0,0:10:58.52,0:11:02.20,Default,,0000,0000,0000,,Ah! Megatron!
+Dialogue: 0,0:11:08.55,0:11:09.83,Default,,0000,0000,0000,,Arcee?
+Dialogue: 0,0:11:11.04,0:11:12.79,Default,,0000,0000,0000,,Bulkhead?
+Dialogue: 0,0:11:13.64,0:11:15.43,Default,,0000,0000,0000,,Miko?
+Dialogue: 0,0:11:24.06,0:11:26.75,Default,,0000,0000,0000,,Oh, that could come in handy.
+Dialogue: 0,0:11:40.29,0:11:41.35,Default,,0000,0000,0000,,Miko.
+Dialogue: 0,0:11:42.61,0:11:44.32,Default,,0000,0000,0000,,I'm feeling strong.
+Dialogue: 0,0:11:45.67,0:11:47.02,Default,,0000,0000,0000,,No, you're not.
+Dialogue: 0,0:11:47.13,0:11:50.91,Default,,0000,0000,0000,,I just need to... rest for a second.
+Dialogue: 0,0:11:50.91,0:11:52.13,Default,,0000,0000,0000,,That's all.
+Dialogue: 0,0:11:54.91,0:11:56.71,Default,,0000,0000,0000,,Miko, listen to me.
+Dialogue: 0,0:11:56.83,0:11:58.56,Default,,0000,0000,0000,,There is no fresh air down here.
+Dialogue: 0,0:11:58.69,0:12:00.84,Default,,0000,0000,0000,,If you use up the oxygen too fast...
+Dialogue: 0,0:12:00.98,0:12:02.55,Default,,0000,0000,0000,,We could suffocate!
+Dialogue: 0,0:12:02.75,0:12:05.89,Default,,0000,0000,0000,,Not we, Miko, you!
+Dialogue: 0,0:12:06.01,0:12:08.86,Default,,0000,0000,0000,,Autobots don't need to breathe, remember?
+Dialogue: 0,0:12:09.21,0:12:12.16,Default,,0000,0000,0000,,Right! Smack down in outter space.
+Dialogue: 0,0:12:12.16,0:12:13.73,Default,,0000,0000,0000,,That was cool...
+Dialogue: 0,0:12:14.42,0:12:18.02,Default,,0000,0000,0000,,OK, what if I just... slow down,
+Dialogue: 0,0:12:18.35,0:12:21.03,Default,,0000,0000,0000,,breathe... less.
+Dialogue: 0,0:12:29.37,0:12:32.16,Default,,0000,0000,0000,,No. You need to stop, now.
+Dialogue: 0,0:12:33.01,0:12:34.53,Default,,0000,0000,0000,,I can't, Bulk.
+Dialogue: 0,0:12:34.76,0:12:37.00,Default,,0000,0000,0000,,I have to get you out of here.
+Dialogue: 0,0:12:42.44,0:12:45.78,Default,,0000,0000,0000,,Miko, please, don't worry about me.
+Dialogue: 0,0:12:47.13,0:12:48.87,Default,,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:13:12.45,0:13:13.80,Default,,0000,0000,0000,,Roll out.
+Dialogue: 0,0:13:18.43,0:13:19.57,Default,,0000,0000,0000,,Do you hear that?
+Dialogue: 0,0:13:20.41,0:13:21.65,Default,,0000,0000,0000,,Sounds like...
+Dialogue: 0,0:13:21.65,0:13:22.53,Default,,0000,0000,0000,,Drilling.
+Dialogue: 0,0:13:22.53,0:13:24.37,Default,,0000,0000,0000,,Got to be Arcee and Jack.
+Dialogue: 0,0:13:24.49,0:13:27.37,Default,,0000,0000,0000,,We are in... here!
+Dialogue: 0,0:13:27.69,0:13:29.37,Default,,0000,0000,0000,,Here...
+Dialogue: 0,0:13:29.60,0:13:32.50,Default,,0000,0000,0000,,Miko, grab something, and bang it on my foot.
+Dialogue: 0,0:13:32.50,0:13:33.81,Default,,0000,0000,0000,,Can you do that?
+Dialogue: 0,0:13:44.75,0:13:46.61,Default,,0000,0000,0000,,I don't want to hurt you.
+Dialogue: 0,0:13:46.78,0:13:47.86,Default,,0000,0000,0000,,I know it's hard to believe,
+Dialogue: 0,0:13:47.86,0:13:49.64,Default,,0000,0000,0000,,but I'm tougher than I look.
+Dialogue: 0,0:13:49.75,0:13:51.19,Default,,0000,0000,0000,,Give it all you got.
+Dialogue: 0,0:14:08.91,0:14:10.25,Default,,0000,0000,0000,,I suppose,
+Dialogue: 0,0:14:10.27,0:14:15.43,Default,,0000,0000,0000,,helping those less fortunate would be completely out of the question.
+Dialogue: 0,0:14:17.40,0:14:19.10,Default,,0000,0000,0000,,If that is the case,
+Dialogue: 0,0:14:19.24,0:14:22.06,Default,,0000,0000,0000,,you might as well use your drill to finish me.
+Dialogue: 0,0:14:22.17,0:14:29.40,Default,,0000,0000,0000,,I guarantee you will never have a better opportunity than right now.
+Dialogue: 0,0:14:31.84,0:14:34.15,Default,,0000,0000,0000,,Well, what are you waiting for?
+Dialogue: 0,0:14:34.29,0:14:37.59,Default,,0000,0000,0000,,Think of the glory--seize the day!
+Dialogue: 0,0:14:37.62,0:14:39.44,Default,,0000,0000,0000,,Optimus would.
+Dialogue: 0,0:14:39.56,0:14:41.46,Default,,0000,0000,0000,,No, he wouldn't.
+Dialogue: 0,0:14:41.57,0:14:43.12,Default,,0000,0000,0000,,Not like this.
+Dialogue: 0,0:14:44.73,0:14:49.17,Default,,0000,0000,0000,,I will be sure to share the details of our little conversation with Optimus--
+Dialogue: 0,0:14:49.28,0:14:52.09,Default,,0000,0000,0000,,the day I rip out his spark!
+Dialogue: 0,0:15:06.20,0:15:07.95,Default,,0000,0000,0000,,That a girl.
+Dialogue: 0,0:15:12.77,0:15:13.98,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:15:13.98,0:15:14.88,Default,,0000,0000,0000,,Nothing.
+Dialogue: 0,0:15:15.00,0:15:16.82,Default,,0000,0000,0000,,Go on, keep banging.
+Dialogue: 0,0:15:22.57,0:15:25.56,Default,,0000,0000,0000,,Bulkhead, what's happening? Tell me!
+Dialogue: 0,0:15:25.92,0:15:29.97,Default,,0000,0000,0000,,My arms... they're starting to give...
+Dialogue: 0,0:15:44.00,0:15:45.45,Default,,0000,0000,0000,,Does it hurt?
+Dialogue: 0,0:15:46.58,0:15:47.76,Default,,0000,0000,0000,,A little.
+Dialogue: 0,0:15:50.00,0:15:51.28,Default,,0000,0000,0000,,Bulkhead!
+Dialogue: 0,0:15:51.40,0:15:52.32,Default,,0000,0000,0000,,Help's coming.
+Dialogue: 0,0:15:52.46,0:15:53.95,Default,,0000,0000,0000,,We just got to guide them here.
+Dialogue: 0,0:15:54.08,0:15:55.38,Default,,0000,0000,0000,,Hit me again!
+Dialogue: 0,0:15:56.19,0:15:57.85,Default,,0000,0000,0000,,Miko, do it!
+Dialogue: 0,0:16:11.72,0:16:13.12,Default,,0000,0000,0000,,Are they any closer?
+Dialogue: 0,0:16:13.45,0:16:14.74,Default,,0000,0000,0000,,I can't tell.
+Dialogue: 0,0:16:14.87,0:16:16.15,Default,,0000,0000,0000,,The sound is all...
+Dialogue: 0,0:16:17.80,0:16:19.51,Default,,0000,0000,0000,,freaky in here!
+Dialogue: 0,0:16:25.14,0:16:28.21,Default,,0000,0000,0000,,Hahaha, yes!
+Dialogue: 0,0:16:28.62,0:16:30.61,Default,,0000,0000,0000,,Arcee found us!
+Dialogue: 0,0:16:32.12,0:16:38.10,Default,,0000,0000,0000,,Hahahaha... Put any doubt of my allegiance to rest.
+Dialogue: 0,0:16:40.74,0:16:42.35,Default,,0000,0000,0000,,What's he doing down here?
+Dialogue: 0,0:16:42.37,0:16:45.28,Default,,0000,0000,0000,,Miko, get behind me, now!
+Dialogue: 0,0:16:50.34,0:16:55.78,Default,,0000,0000,0000,,Well, well, if it isn't Bulkhead and his pet vermin.
+Dialogue: 0,0:16:55.89,0:17:00.58,Default,,0000,0000,0000,,My, you do have your hands full, don't you, Autobot?
+Dialogue: 0,0:17:00.58,0:17:02.55,Default,,0000,0000,0000,,Do whatever you want to me, Starscream.
+Dialogue: 0,0:17:02.55,0:17:04.33,Default,,0000,0000,0000,,But let the human go!
+Dialogue: 0,0:17:04.47,0:17:07.86,Default,,0000,0000,0000,,No. I'm not leaving you.
+Dialogue: 0,0:17:08.07,0:17:11.98,Default,,0000,0000,0000,,It appears that the human wishes to remain.
+Dialogue: 0,0:17:12.68,0:17:16.06,Default,,0000,0000,0000,,Starscream, don't push me.
+Dialogue: 0,0:17:16.17,0:17:20.92,Default,,0000,0000,0000,,You like playing with the big robots, don't you, little girl?
+Dialogue: 0,0:17:40.31,0:17:42.20,Default,,0000,0000,0000,,That's it, Autobot!
+Dialogue: 0,0:17:42.32,0:17:43.03,Default,,0000,0000,0000,,I will...
+Dialogue: 0,0:17:43.03,0:17:44.98,Default,,0000,0000,0000,,What? You'll what?
+Dialogue: 0,0:17:45.13,0:17:48.08,Default,,0000,0000,0000,,Maybe bring down the ceiling on top of all of us?
+Dialogue: 0,0:17:48.32,0:17:49.82,Default,,0000,0000,0000,,Run, Miko!
+Dialogue: 0,0:17:52.74,0:17:55.16,Default,,0000,0000,0000,,Yes, run, Miko.
+Dialogue: 0,0:17:55.29,0:17:58.13,Default,,0000,0000,0000,,I would love to see you try.
+Dialogue: 0,0:17:58.26,0:18:01.54,Default,,0000,0000,0000,,Really, I would.
+Dialogue: 0,0:18:04.13,0:18:05.80,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:18:10.03,0:18:13.14,Default,,0000,0000,0000,,Jack, get Miko out of here, now!
+Dialogue: 0,0:18:19.14,0:18:20.68,Default,,0000,0000,0000,,Come on, come on!
+Dialogue: 0,0:18:21.49,0:18:22.69,Default,,0000,0000,0000,,Run, Miko!
+Dialogue: 0,0:18:30.73,0:18:33.37,Default,,0000,0000,0000,,We can't leave Bulkhead!
+Dialogue: 0,0:18:45.42,0:18:48.29,Default,,0000,0000,0000,,And then there were two.
+Dialogue: 0,0:18:52.99,0:18:55.48,Default,,0000,0000,0000,,Arcee will save him, won't she?
+Dialogue: 0,0:18:55.74,0:18:59.73,Default,,0000,0000,0000,,You and I just need to find a way out of here before Megatron digs himself free.
+Dialogue: 0,0:18:59.85,0:19:02.23,Default,,0000,0000,0000,,Megatron's here, too?
+Dialogue: 0,0:19:12.40,0:19:15.46,Default,,0000,0000,0000,,If you think I'm gonna beg for mercy, Starscream,
+Dialogue: 0,0:19:15.59,0:19:16.83,Default,,0000,0000,0000,,forget it!
+Dialogue: 0,0:19:16.87,0:19:22.17,Default,,0000,0000,0000,,Er, yes, begging for mercy would be quite pathetic, wouldn't it?
+Dialogue: 0,0:19:22.33,0:19:25.63,Default,,0000,0000,0000,,Well, you're much more valuable to me alive.
+Dialogue: 0,0:19:25.76,0:19:29.95,Default,,0000,0000,0000,,Imagine Megatron's appreciation when I not only rescue him,
+Dialogue: 0,0:19:30.08,0:19:32.53,Default,,0000,0000,0000,,but deliver a Autobot.
+Dialogue: 0,0:19:32.72,0:19:37.73,Default,,0000,0000,0000,,I believe that would restore my statue quite nicely.
+Dialogue: 0,0:19:42.74,0:19:45.91,Default,,0000,0000,0000,,Don't move, Starscream.
+Dialogue: 0,0:19:47.31,0:19:48.32,Default,,0000,0000,0000,,Hey, Bulk.
+Dialogue: 0,0:19:48.69,0:19:50.12,Default,,0000,0000,0000,,Hey, Cee.
+Dialogue: 0,0:19:50.32,0:19:51.94,Default,,0000,0000,0000,,Raise your hands.
+Dialogue: 0,0:19:54.48,0:19:56.04,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:20:10.76,0:20:12.95,Default,,0000,0000,0000,,We could finish him, here and now.
+Dialogue: 0,0:20:13.09,0:20:15.51,Default,,0000,0000,0000,,Shame I didn't bring any grenades.
+Dialogue: 0,0:20:16.77,0:20:19.19,Default,,0000,0000,0000,,Would Optimus finish them?
+Dialogue: 0,0:20:19.98,0:20:22.50,Default,,0000,0000,0000,,No, he probably wouldn't.
+Dialogue: 0,0:20:22.68,0:20:24.10,Default,,0000,0000,0000,,Not like this.
+Dialogue: 0,0:20:24.21,0:20:27.79,Default,,0000,0000,0000,,But Optimus wouldn't rescue them, either. Right?
+Dialogue: 0,0:20:28.26,0:20:30.02,Default,,0000,0000,0000,,Let's go home.
+Dialogue: 0,0:20:55.99,0:20:59.56,Default,,0000,0000,0000,,Master. You are alive!
+Dialogue: 0,0:20:59.78,0:21:01.91,Default,,0000,0000,0000,,Thank the Allspark!
+Dialogue: 0,0:21:06.82,0:21:09.74,Default,,0000,0000,0000,,I did not abandon you, master.
+Dialogue: 0,0:21:09.85,0:21:13.09,Default,,0000,0000,0000,,I returned... to save you!
+Dialogue: 0,0:21:13.22,0:21:14.81,Default,,0000,0000,0000,,Save me?
+Dialogue: 0,0:21:17.49,0:21:20.41,Default,,0000,0000,0000,,Look into my spark, Lord Megatron.
+Dialogue: 0,0:21:20.69,0:21:23.41,Default,,0000,0000,0000,,My intentions were true.
+Dialogue: 0,0:21:23.60,0:21:28.12,Default,,0000,0000,0000,,Please, have mercy!

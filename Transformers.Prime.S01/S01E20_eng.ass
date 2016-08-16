@@ -1,0 +1,300 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+Dialogue: 0,0:00:06.26,0:00:07.91,Default,,0000,0000,0000,,I have been a fool.
+Dialogue: 0,0:00:08.21,0:00:12.41,Default,,0000,0000,0000,,Made mistakes. Monumental ones.
+Dialogue: 0,0:00:12.70,0:00:17.41,Default,,0000,0000,0000,,I now realize that I was never destined to be  a leader,
+Dialogue: 0,0:00:17.78,0:00:20.22,Default,,0000,0000,0000,,or even an equal partner.
+Dialogue: 0,0:00:20.81,0:00:23.34,Default,,0000,0000,0000,,And, I'm at peace with that.
+Dialogue: 0,0:00:23.69,0:00:28.31,Default,,0000,0000,0000,,I have gained a clear understanding of my place in this universe,
+Dialogue: 0,0:00:28.75,0:00:34.61,Default,,0000,0000,0000,,of who I am, of who I was always meant to be.
+Dialogue: 0,0:00:34.94,0:00:38.42,Default,,0000,0000,0000,,Starscream, second-in-command,
+Dialogue: 0,0:00:38.75,0:00:42.71,Default,,0000,0000,0000,,humble servant to Lord Megatron.
+Dialogue: 0,0:00:43.22,0:00:46.90,Default,,0000,0000,0000,,Thank you for listening, Soundwave.
+Dialogue: 0,0:00:50.55,0:00:52.37,Default,,0000,0000,0000,,Is this true?
+Dialogue: 0,0:00:52.58,0:00:54.50,Default,,0000,0000,0000,,Starscream never mentioned it?
+Dialogue: 0,0:00:54.64,0:00:56.61,Default,,0000,0000,0000,,If he's up to his old tricks,
+Dialogue: 0,0:00:56.92,0:00:59.49,Default,,0000,0000,0000,,I shall grind him into powder.
+Dialogue: 0,0:01:01.85,0:01:03.57,Default,,0000,0000,0000,,Starscream?
+Dialogue: 0,0:01:03.69,0:01:07.56,Default,,0000,0000,0000,,Lord Megatron, please excuse Airachnid's impertinence.
+Dialogue: 0,0:01:07.69,0:01:11.88,Default,,0000,0000,0000,,Now, what was it that I allegedly failed to mention?
+Dialogue: 0,0:01:11.88,0:01:13.64,Default,,0000,0000,0000,,The Harbinger.
+Dialogue: 0,0:01:15.11,0:01:16.92,Default,,0000,0000,0000,,What about it?
+Dialogue: 0,0:01:17.11,0:01:21.82,Default,,0000,0000,0000,,Eons ago a Decepticon transport crash-landed on this planet.
+Dialogue: 0,0:01:22.27,0:01:24.41,Default,,0000,0000,0000,,Oh, please, common knowledge.
+Dialogue: 0,0:01:24.41,0:01:27.62,Default,,0000,0000,0000,,I scouted the crash site when we first arrived on Earth.
+Dialogue: 0,0:01:27.65,0:01:33.09,Default,,0000,0000,0000,,Then I presume you recovered the experimental weapon prototype the Harbinger had been transporting?
+Dialogue: 0,0:01:34.64,0:01:36.26,Default,,0000,0000,0000,,Where is the crash site?
+Dialogue: 0,0:01:36.52,0:01:39.34,Default,,0000,0000,0000,,It was never logged into your ship's database.
+Dialogue: 0,0:01:39.50,0:01:43.65,Default,,0000,0000,0000,,You failed to record the coordinates of a Decepticon transport?
+Dialogue: 0,0:01:44.26,0:01:46.40,Default,,0000,0000,0000,,An oversight, master.
+Dialogue: 0,0:01:46.63,0:01:49.72,Default,,0000,0000,0000,,But I noted its exact location.
+Dialogue: 0,0:01:49.86,0:01:51.78,Default,,0000,0000,0000,,Then you can lead Airachnid there.
+Dialogue: 0,0:01:51.95,0:01:54.97,Default,,0000,0000,0000,,So that she may retrieve the prototype for me.
+Dialogue: 0,0:01:55.17,0:01:57.78,Default,,0000,0000,0000,,My personal native guide.
+Dialogue: 0,0:01:57.97,0:01:59.82,Default,,0000,0000,0000,,How delightful.
+Dialogue: 0,0:02:54.52,0:02:55.84,Default,,0000,0000,0000,,Hey, partner,
+Dialogue: 0,0:02:56.23,0:02:57.95,Default,,0000,0000,0000,,heck of a view you got up here.
+Dialogue: 0,0:02:58.78,0:03:02.93,Default,,0000,0000,0000,,{\pos(192,280)}If there's even a small chance your spark is out there listening, well...
+Dialogue: 0,0:03:03.47,0:03:05.50,Default,,0000,0000,0000,,{\pos(192,280)}we could really use you, Cliff.
+Dialogue: 0,0:03:05.74,0:03:08.79,Default,,0000,0000,0000,,{\pos(192,280)}Seems like every day another Decepticon arrives on the scene.
+Dialogue: 0,0:03:08.91,0:03:10.56,Default,,0000,0000,0000,,{\pos(192,280)}We are outnumbered and outgunned.
+Dialogue: 0,0:03:12.26,0:03:13.94,Default,,0000,0000,0000,,{\pos(192,280)}Yea, I know what you'd say.
+Dialogue: 0,0:03:14.10,0:03:15.72,Default,,0000,0000,0000,,{\pos(192,280)}'Sounds like a fair fight.'
+Dialogue: 0,0:03:17.91,0:03:21.29,Default,,0000,0000,0000,,And if that's the world we live in, so be it.
+Dialogue: 0,0:03:22.45,0:03:23.82,Default,,0000,0000,0000,,I just want you to know:
+Dialogue: 0,0:03:24.63,0:03:26.18,Default,,0000,0000,0000,,I haven't given up.
+Dialogue: 0,0:03:26.64,0:03:29.26,Default,,0000,0000,0000,,I'm going to find the Con who took you from us.
+Dialogue: 0,0:03:43.38,0:03:46.69,Default,,0000,0000,0000,,Your chosen vehicle mode lacks thrust.
+Dialogue: 0,0:03:46.70,0:03:49.04,Default,,0000,0000,0000,,Are you going to preen or are you going to guide?
+Dialogue: 0,0:03:49.16,0:03:52.53,Default,,0000,0000,0000,,I will reveal the exact location of the Harbinger,
+Dialogue: 0,0:03:52.53,0:03:55.84,Default,,0000,0000,0000,,when you tell me exactly what we are looking for.
+Dialogue: 0,0:03:56.09,0:03:57.85,Default,,0000,0000,0000,,That information is need-to-know.
+Dialogue: 0,0:03:57.85,0:03:59.81,Default,,0000,0000,0000,,And right now, you don't.
+Dialogue: 0,0:03:59.82,0:04:03.03,Default,,0000,0000,0000,,Oh, You would do well to respect me, Airachnid.
+Dialogue: 0,0:04:03.16,0:04:05.08,Default,,0000,0000,0000,,Before I joined Megatron,
+Dialogue: 0,0:04:05.10,0:04:09.25,Default,,0000,0000,0000,,I was Air Commander of a squadron of Energon Seekers.
+Dialogue: 0,0:04:09.25,0:04:13.59,Default,,0000,0000,0000,,On Cybertron, and how many eons ago was that?
+Dialogue: 0,0:04:14.40,0:04:15.93,Default,,0000,0000,0000,,Just recently,
+Dialogue: 0,0:04:16.06,0:04:22.17,Default,,0000,0000,0000,,I personally vanquished one of Optimus Prime's fiercest warriors--Cliff Jumper.
+Dialogue: 0,0:04:22.38,0:04:24.88,Default,,0000,0000,0000,,You snuffed an Autobot?
+Dialogue: 0,0:04:25.03,0:04:28.15,Default,,0000,0000,0000,,Yes I did. Without mercy.
+Dialogue: 0,0:04:28.56,0:04:33.96,Default,,0000,0000,0000,,Oh, even Megatron showed you mercy when he planned to terminate you at the mine.
+Dialogue: 0,0:04:34.11,0:04:36.32,Default,,0000,0000,0000,,What? He told you about that?
+Dialogue: 0,0:04:36.35,0:04:37.37,Default,,0000,0000,0000,,We talk.
+Dialogue: 0,0:04:38.83,0:04:41.63,Default,,0000,0000,0000,,The wreckage lies just beneath where we stand.
+Dialogue: 0,0:04:41.80,0:04:44.26,Default,,0000,0000,0000,,I will need to find a point of entry.
+Dialogue: 0,0:04:48.69,0:04:50.21,Default,,0000,0000,0000,,Show off.
+Dialogue: 0,0:04:54.86,0:04:59.83,Default,,0000,0000,0000,,Suit yourself, I conducted a thorough search of this husk years ago.
+Dialogue: 0,0:05:01.49,0:05:02.82,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:05:03.21,0:05:04.95,Default,,0000,0000,0000,,Accessing the cargo manifest,
+Dialogue: 0,0:05:05.12,0:05:08.59,Default,,0000,0000,0000,,or didn't you think to do that during your thorough search?
+Dialogue: 0,0:05:08.72,0:05:12.81,Default,,0000,0000,0000,,Idiot. The ship's systems haven't been activated for eons.
+Dialogue: 0,0:05:12.95,0:05:15.96,Default,,0000,0000,0000,,The Autobots could detect its energy signature.
+Dialogue: 0,0:05:16.19,0:05:19.57,Default,,0000,0000,0000,,Ah, here it is. Section 23.
+Dialogue: 0,0:05:21.67,0:05:26.36,Default,,0000,0000,0000,,Optimus, our scanners have detected a Decepticon energy profile,
+Dialogue: 0,0:05:26.36,0:05:28.71,Default,,0000,0000,0000,,but it's... ancient.
+Dialogue: 0,0:05:28.71,0:05:32.77,Default,,0000,0000,0000,,The past has a way of catching up with the present, Ratchet.
+Dialogue: 0,0:05:37.92,0:05:42.30,Default,,0000,0000,0000,,Section 23 should be right about... here.
+Dialogue: 0,0:05:44.41,0:05:46.15,Default,,0000,0000,0000,,The ship just ends.
+Dialogue: 0,0:05:46.53,0:05:48.89,Default,,0000,0000,0000,,It must have broken in half during the crash.
+Dialogue: 0,0:05:49.44,0:05:51.04,Default,,0000,0000,0000,,Or in the air.
+Dialogue: 0,0:05:51.16,0:05:53.49,Default,,0000,0000,0000,,If you performed actual research,
+Dialogue: 0,0:05:53.49,0:05:58.57,Default,,0000,0000,0000,,You would have learned that an Autobot battalion shot the Harbinger out of the sky.
+Dialogue: 0,0:05:58.69,0:06:00.52,Default,,0000,0000,0000,,How far away is the other half?
+Dialogue: 0,0:06:00.67,0:06:04.58,Default,,0000,0000,0000,,I'm afraid that information is needed-to-know.
+Dialogue: 0,0:06:07.98,0:06:08.45,Default,,0000,0000,0000,,What are you...
+Dialogue: 0,0:06:08.45,0:06:11.37,Default,,0000,0000,0000,,You're trying to make me look like a fool before Megatron.
+Dialogue: 0,0:06:11.40,0:06:14.71,Default,,0000,0000,0000,,Have me return empty handed while you locate that weapon yourself.
+Dialogue: 0,0:06:14.86,0:06:17.11,Default,,0000,0000,0000,,How dare you acuse me!
+Dialogue: 0,0:06:17.25,0:06:20.23,Default,,0000,0000,0000,,You are nothing but a scavenger, an opportunist.
+Dialogue: 0,0:06:20.37,0:06:22.52,Default,,0000,0000,0000,,Aren't you one to talk?
+Dialogue: 0,0:06:22.81,0:06:25.54,Default,,0000,0000,0000,,Perhaps, but I've changed,
+Dialogue: 0,0:06:25.68,0:06:28.15,Default,,0000,0000,0000,,seeing the error of my ways.
+Dialogue: 0,0:06:28.29,0:06:31.41,Default,,0000,0000,0000,,I live to serve Megatron now.
+Dialogue: 0,0:06:31.93,0:06:37.44,Default,,0000,0000,0000,,You won't live to serve anyone if you don't tell me where to find the rest of the ship, now.
+Dialogue: 0,0:06:38.73,0:06:41.66,Default,,0000,0000,0000,,A few kliks north of here through a stone arch.
+Dialogue: 0,0:06:41.66,0:06:42.94,Default,,0000,0000,0000,,Now release me!
+Dialogue: 0,0:06:44.13,0:06:46.67,Default,,0000,0000,0000,,When I have the weapon in hand.
+Dialogue: 0,0:06:46.82,0:06:51.23,Default,,0000,0000,0000,,That is, if I can find my way back without my guide.
+Dialogue: 0,0:06:51.96,0:06:54.15,Default,,0000,0000,0000,,This is not funny, Airachnid,
+Dialogue: 0,0:06:54.29,0:06:56.58,Default,,0000,0000,0000,,come back here right now and cut me lose.
+Dialogue: 0,0:06:56.80,0:06:59.53,Default,,0000,0000,0000,,Airachnid, that is an order!
+Dialogue: 0,0:06:59.65,0:07:01.70,Default,,0000,0000,0000,,I am your commanding officer!
+Dialogue: 0,0:07:04.77,0:07:05.86,Default,,0000,0000,0000,,Airachnid.
+Dialogue: 0,0:07:05.90,0:07:07.28,Default,,0000,0000,0000,,Surrender.
+Dialogue: 0,0:07:10.08,0:07:12.83,Default,,0000,0000,0000,,Airachnid, you traitor!
+Dialogue: 0,0:07:21.37,0:07:22.41,Default,,0000,0000,0000,,Arcee, wait!
+Dialogue: 0,0:07:34.15,0:07:35.55,Default,,0000,0000,0000,,Arcee.
+Dialogue: 0,0:07:36.44,0:07:39.20,Default,,0000,0000,0000,,I didn't peg you for resigning with the Decepticons.
+Dialogue: 0,0:07:40.77,0:07:42.93,Default,,0000,0000,0000,,A temporary arrangement, Arcee.
+Dialogue: 0,0:07:43.10,0:07:45.15,Default,,0000,0000,0000,,You know I prefer working alone.
+Dialogue: 0,0:07:55.22,0:08:00.42,Default,,0000,0000,0000,,Speaking of add anymore deceased partners to your growing list?
+Dialogue: 0,0:08:00.93,0:08:03.82,Default,,0000,0000,0000,,Airachnid, release her.
+Dialogue: 0,0:08:12.14,0:08:16.86,Default,,0000,0000,0000,,Arcee, you know better than to engage the enemy alone.
+Dialogue: 0,0:08:17.06,0:08:20.39,Default,,0000,0000,0000,,Not her. Not after what she did to Tailgate.
+Dialogue: 0,0:08:23.33,0:08:28.75,Default,,0000,0000,0000,,No, please. Tailgate!
+Dialogue: 0,0:08:29.86,0:08:31.61,Default,,0000,0000,0000,,She will pay.
+Dialogue: 0,0:08:32.29,0:08:35.73,Default,,0000,0000,0000,,Revenge will not bring back those we have lost.
+Dialogue: 0,0:08:35.85,0:08:37.32,Default,,0000,0000,0000,,Is that understood?
+Dialogue: 0,0:08:39.03,0:08:40.17,Default,,0000,0000,0000,,Move it.
+Dialogue: 0,0:08:40.50,0:08:42.31,Default,,0000,0000,0000,,No need to use force.
+Dialogue: 0,0:08:44.02,0:08:46.22,Default,,0000,0000,0000,,I'll tell you anything you want to know.
+Dialogue: 0,0:08:46.22,0:08:47.40,Default,,0000,0000,0000,,Hehe, is that right?
+Dialogue: 0,0:08:47.52,0:08:49.35,Default,,0000,0000,0000,,And what you want in return?
+Dialogue: 0,0:08:50.96,0:08:54.55,Default,,0000,0000,0000,,I want to be on your side.
+Dialogue: 0,0:09:07.51,0:09:11.23,Default,,0000,0000,0000,,On our side? Haha, yeah, right.
+Dialogue: 0,0:09:11.37,0:09:13.52,Default,,0000,0000,0000,,And I've been lobbing with the Fallen!
+Dialogue: 0,0:09:13.91,0:09:15.84,Default,,0000,0000,0000,,You wouldn't betray the Decepticons.
+Dialogue: 0,0:09:15.84,0:09:16.80,Default,,0000,0000,0000,,Wouldn't I?
+Dialogue: 0,0:09:16.95,0:09:18.63,Default,,0000,0000,0000,,What have they done for me lately,
+Dialogue: 0,0:09:18.65,0:09:19.93,Default,,0000,0000,0000,,besides humiliate me,
+Dialogue: 0,0:09:19.93,0:09:22.13,Default,,0000,0000,0000,,spy on me, demote me?
+Dialogue: 0,0:09:22.33,0:09:25.80,Default,,0000,0000,0000,,Megatron tried to extinguish my spark in cold blood,
+Dialogue: 0,0:09:25.80,0:09:29.30,Default,,0000,0000,0000,,then all but to replace me with that treacherous wretch Airachnid.
+Dialogue: 0,0:09:29.55,0:09:31.14,Default,,0000,0000,0000,,She abandoned me!
+Dialogue: 0,0:09:31.30,0:09:33.04,Default,,0000,0000,0000,,Left me for scrap!
+Dialogue: 0,0:09:33.23,0:09:35.84,Default,,0000,0000,0000,,So why not rat them out?
+Dialogue: 0,0:09:42.99,0:09:45.63,Default,,0000,0000,0000,,He is telling the truth about Megatron trying to scrap him.
+Dialogue: 0,0:09:46.00,0:09:47.66,Default,,0000,0000,0000,,I saw with my own eyes.
+Dialogue: 0,0:09:47.83,0:09:50.68,Default,,0000,0000,0000,,You're not saying you actually trust Starscream?
+Dialogue: 0,0:09:50.98,0:09:53.04,Default,,0000,0000,0000,,Trust him? Never.
+Dialogue: 0,0:09:53.47,0:09:56.64,Default,,0000,0000,0000,,But this may be the one time our objective's alined.
+Dialogue: 0,0:09:57.84,0:09:59.91,Default,,0000,0000,0000,,You're right to be wary, Bulkhead.
+Dialogue: 0,0:10:00.10,0:10:02.21,Default,,0000,0000,0000,,But I agree with Arcee.
+Dialogue: 0,0:10:18.91,0:10:21.10,Default,,0000,0000,0000,,Be still, my beating spark.
+Dialogue: 0,0:10:39.63,0:10:40.87,Default,,0000,0000,0000,,What do you know.
+Dialogue: 0,0:10:43.04,0:10:44.49,Default,,0000,0000,0000,,Could still be a trap.
+Dialogue: 0,0:10:45.64,0:10:50.25,Default,,0000,0000,0000,,Starscream's loyalty to Megatron has always been questionable.
+Dialogue: 0,0:10:50.45,0:10:53.51,Default,,0000,0000,0000,,If he has truly split from the Decepticons,
+Dialogue: 0,0:10:53.68,0:10:58.12,Default,,0000,0000,0000,,our prisoner's knowledge of their agendas could make him a valuable ally.
+Dialogue: 0,0:10:58.28,0:10:59.94,Default,,0000,0000,0000,,You don't mean permanently?
+Dialogue: 0,0:11:00.06,0:11:02.18,Default,,0000,0000,0000,,As in key to the base and everything?
+Dialogue: 0,0:11:02.30,0:11:04.55,Default,,0000,0000,0000,,However unlikely that scenario,
+Dialogue: 0,0:11:04.78,0:11:08.87,Default,,0000,0000,0000,,every sentient being deserves an opportunity for redemption.
+Dialogue: 0,0:11:08.90,0:11:11.94,Default,,0000,0000,0000,,Even Bot-killers? Even Airachnid?
+Dialogue: 0,0:11:12.06,0:11:16.89,Default,,0000,0000,0000,,Without that hope, we may never achieve lasting peace.
+Dialogue: 0,0:11:18.56,0:11:20.63,Default,,0000,0000,0000,,Rise and shine, Screamy.
+Dialogue: 0,0:11:23.28,0:11:25.73,Default,,0000,0000,0000,,We are here. Where is the ship?
+Dialogue: 0,0:11:28.41,0:11:31.50,Default,,0000,0000,0000,,It's through the arch, among the stones.
+Dialogue: 0,0:11:32.87,0:11:35.36,Default,,0000,0000,0000,,Bulkhead, Bumblebee, you are with me.
+Dialogue: 0,0:11:35.49,0:11:38.06,Default,,0000,0000,0000,,Arcee, remain with our prisoner.
+Dialogue: 0,0:11:40.16,0:11:41.70,Default,,0000,0000,0000,,Optimus, please.
+Dialogue: 0,0:11:44.02,0:11:45.41,Default,,0000,0000,0000,,For Tailgate.
+Dialogue: 0,0:11:46.18,0:11:50.89,Default,,0000,0000,0000,,Your desire to avenge Tailgate will only continue to cloud your judgement.
+Dialogue: 0,0:11:54.40,0:11:56.76,Default,,0000,0000,0000,,Is the clamp really necessary?
+Dialogue: 0,0:11:56.88,0:11:58.80,Default,,0000,0000,0000,,I promise not to fly away.
+Dialogue: 0,0:11:59.00,0:12:01.18,Default,,0000,0000,0000,,It's really giving me a crick.
+Dialogue: 0,0:12:01.55,0:12:03.64,Default,,0000,0000,0000,,I can shove you back in the trailer.
+Dialogue: 0,0:12:08.48,0:12:09.81,Default,,0000,0000,0000,,Be alert.
+Dialogue: 0,0:12:09.96,0:12:13.42,Default,,0000,0000,0000,,Airachnid is known to attack from below ground.
+Dialogue: 0,0:12:13.55,0:12:15.04,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:12:40.26,0:12:41.51,Default,,0000,0000,0000,,I got it.
+Dialogue: 0,0:12:49.07,0:12:52.12,Default,,0000,0000,0000,,The Immobilizer. True to its name.
+Dialogue: 0,0:12:56.66,0:12:59.06,Default,,0000,0000,0000,,I'm not really so bad, you know.
+Dialogue: 0,0:12:59.19,0:13:02.32,Default,,0000,0000,0000,,Megatron, he is the evil one.
+Dialogue: 0,0:13:02.50,0:13:04.09,Default,,0000,0000,0000,,Tell it to someone who cares.
+Dialogue: 0,0:13:04.21,0:13:05.95,Default,,0000,0000,0000,,Like whom? Airachnid?
+Dialogue: 0,0:13:06.12,0:13:09.65,Default,,0000,0000,0000,,What I wouldn't do to get my hands around her wretched throat.
+Dialogue: 0,0:13:09.77,0:13:11.46,Default,,0000,0000,0000,,So we can agree on one thing.
+Dialogue: 0,0:13:11.68,0:13:13.97,Default,,0000,0000,0000,,Oh, you have no idea.
+Dialogue: 0,0:13:14.13,0:13:15.57,Default,,0000,0000,0000,,She showed up one day,
+Dialogue: 0,0:13:15.70,0:13:19.01,Default,,0000,0000,0000,,and the next thing you know, she is acting like she runs the place.
+Dialogue: 0,0:13:19.74,0:13:22.44,Default,,0000,0000,0000,,She whispered lies into Megatron's ear,
+Dialogue: 0,0:13:22.44,0:13:25.27,Default,,0000,0000,0000,,maneuvered to rob me of my rightful place.
+Dialogue: 0,0:13:25.27,0:13:28.53,Default,,0000,0000,0000,,Well, she terminated my partner.
+Dialogue: 0,0:13:28.78,0:13:32.35,Default,,0000,0000,0000,,What?! She is taking credit for scrapping him now, too?!
+Dialogue: 0,0:13:32.35,0:13:33.91,Default,,0000,0000,0000,,That was my doing!
+Dialogue: 0,0:13:33.93,0:13:35.07,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:36.14,0:13:37.11,Default,,0000,0000,0000,,You weren't there.
+Dialogue: 0,0:13:37.11,0:13:38.93,Default,,0000,0000,0000,,Ah, of course I wasn't.
+Dialogue: 0,0:13:39.06,0:13:40.87,Default,,0000,0000,0000,,I don't know what I was thinking.
+Dialogue: 0,0:13:41.04,0:13:42.25,Default,,0000,0000,0000,,Who are you talking about?
+Dialogue: 0,0:13:42.44,0:13:44.50,Default,,0000,0000,0000,,No one, who are you talking about?
+Dialogue: 0,0:13:44.65,0:13:45.64,Default,,0000,0000,0000,,Tailgate.
+Dialogue: 0,0:13:46.13,0:13:47.77,Default,,0000,0000,0000,,Who's Tailgate?
+Dialogue: 0,0:13:49.10,0:13:50.71,Default,,0000,0000,0000,,You were the one.
+Dialogue: 0,0:13:50.86,0:13:52.97,Default,,0000,0000,0000,,You extinguished Cliffjumper.
+Dialogue: 0,0:13:59.72,0:14:01.44,Default,,0000,0000,0000,,Cliffjumper?
+Dialogue: 0,0:14:03.13,0:14:04.36,Default,,0000,0000,0000,,No, no, no, no.
+Dialogue: 0,0:14:04.49,0:14:05.88,Default,,0000,0000,0000,,You misunderstand.
+Dialogue: 0,0:14:17.16,0:14:18.74,Default,,0000,0000,0000,,It wasn't like you think.
+Dialogue: 0,0:14:18.87,0:14:20.99,Default,,0000,0000,0000,,The Troopers mortally wounded him.
+Dialogue: 0,0:14:21.12,0:14:23.26,Default,,0000,0000,0000,,I was trying to help Cliffjumper...
+Dialogue: 0,0:14:23.42,0:14:24.85,Default,,0000,0000,0000,,put him out of his misery.
+Dialogue: 0,0:14:24.98,0:14:26.35,Default,,0000,0000,0000,,He begged me to!
+Dialogue: 0,0:14:31.37,0:14:33.77,Default,,0000,0000,0000,,OK, OK! it was a mistake!
+Dialogue: 0,0:14:33.92,0:14:36.46,Default,,0000,0000,0000,,I've made many, but I've changed!
+Dialogue: 0,0:14:36.70,0:14:40.17,Default,,0000,0000,0000,,You wouldn't terminate a defenceless prisoner, would you?
+Dialogue: 0,0:14:46.95,0:14:49.10,Default,,0000,0000,0000,,What... what is that?
+Dialogue: 0,0:14:49.24,0:14:50.67,Default,,0000,0000,0000,,The key to your cuffs.
+Dialogue: 0,0:14:50.87,0:14:52.00,Default,,0000,0000,0000,,What for?
+Dialogue: 0,0:14:52.00,0:14:54.20,Default,,0000,0000,0000,,Cliff would have given you a fighting chance.
+Dialogue: 0,0:14:54.59,0:14:57.70,Default,,0000,0000,0000,,No. Please, I... I don't want to!
+Dialogue: 0,0:14:57.84,0:14:59.21,Default,,0000,0000,0000,,What's past is past.
+Dialogue: 0,0:14:59.47,0:15:00.96,Default,,0000,0000,0000,,I'm one of you now!
+Dialogue: 0,0:15:02.73,0:15:05.11,Default,,0000,0000,0000,,No, no, no, no...
+Dialogue: 0,0:15:05.11,0:15:05.97,Default,,0000,0000,0000,,Take it!
+Dialogue: 0,0:15:14.34,0:15:16.17,Default,,0000,0000,0000,,You're pathetic.
+Dialogue: 0,0:15:30.92,0:15:33.75,Default,,0000,0000,0000,,Something wrong, Arcee?
+Dialogue: 0,0:15:33.95,0:15:36.90,Default,,0000,0000,0000,,I thought you wanted a fight.
+Dialogue: 0,0:16:00.13,0:16:01.17,Default,,0000,0000,0000,,Freeze.
+Dialogue: 0,0:16:24.23,0:16:27.59,Default,,0000,0000,0000,,You are tougher to scrap than your former partner,
+Dialogue: 0,0:16:27.75,0:16:30.08,Default,,0000,0000,0000,,at least the one I scrapped.
+Dialogue: 0,0:16:30.20,0:16:33.28,Default,,0000,0000,0000,,Was Tailgate weak like Cliffjumper?
+Dialogue: 0,0:16:34.98,0:16:38.26,Default,,0000,0000,0000,,Just keep talking, Starscream.
+Dialogue: 0,0:16:41.32,0:16:42.64,Default,,0000,0000,0000,,Tell me, bug.
+Dialogue: 0,0:16:42.91,0:16:46.13,Default,,0000,0000,0000,,Do you think Megatron will enjoy his new trophies?
+Dialogue: 0,0:16:46.37,0:16:49.98,Default,,0000,0000,0000,,He'll probably use the bulky one here for target practice.
+Dialogue: 0,0:16:54.10,0:16:56.93,Default,,0000,0000,0000,,Prime is the true prize.
+Dialogue: 0,0:16:57.05,0:17:00.64,Default,,0000,0000,0000,,Perhaps he'll adorn the prow of Megatron's warship.
+Dialogue: 0,0:17:20.97,0:17:22.87,Default,,0000,0000,0000,,But you, bug.
+Dialogue: 0,0:17:23.05,0:17:28.09,Default,,0000,0000,0000,,I suspect Meagtron will simply dismantle you for spare parts.
+Dialogue: 0,0:17:29.08,0:17:31.42,Default,,0000,0000,0000,,As a rogue, a scavenger,
+Dialogue: 0,0:17:31.42,0:17:34.30,Default,,0000,0000,0000,,I should disappear into the night with this treasure.
+Dialogue: 0,0:17:34.56,0:17:40.57,Default,,0000,0000,0000,,But using it to warm my way into Megatron's favor is too good an opportunity to pass up.
+Dialogue: 0,0:17:40.72,0:17:43.00,Default,,0000,0000,0000,,Wouldn't you say, Prime?
+Dialogue: 0,0:17:44.29,0:17:46.64,Default,,0000,0000,0000,,I mean with results like this.
+Dialogue: 0,0:17:46.84,0:17:49.95,Default,,0000,0000,0000,,I could earn Megatron's eternal trust.
+Dialogue: 0,0:17:58.42,0:17:59.99,Default,,0000,0000,0000,,You fool!
+Dialogue: 0,0:18:21.08,0:18:24.05,Default,,0000,0000,0000,,You should have finished me when I was hopeless to fight.
+Dialogue: 0,0:18:24.17,0:18:26.96,Default,,0000,0000,0000,,Just like I finished Cliffjumper.
+Dialogue: 0,0:18:29.30,0:18:34.64,Default,,0000,0000,0000,,Now, prepare to reunite with your partners.
+Dialogue: 0,0:18:38.39,0:18:42.58,Default,,0000,0000,0000,,What's that? I can't hear your last words.
+Dialogue: 0,0:18:42.71,0:18:47.26,Default,,0000,0000,0000,,This is for Cliffjumper!
+Dialogue: 0,0:18:57.41,0:18:59.32,Default,,0000,0000,0000,,Go on. Do it!
+Dialogue: 0,0:18:59.72,0:19:04.91,Default,,0000,0000,0000,,Megatron will only terminate me for treason if I dare return to the Decepticons.
+Dialogue: 0,0:19:05.15,0:19:09.30,Default,,0000,0000,0000,,You may as well be the one to put me out of my misery.
+Dialogue: 0,0:19:09.42,0:19:11.99,Default,,0000,0000,0000,,As if I needed convincing.
+Dialogue: 0,0:19:12.07,0:19:14.89,Default,,0000,0000,0000,,What? Wait! No!
+Dialogue: 0,0:19:38.84,0:19:42.50,Default,,0000,0000,0000,,You left Starscream with the Autobots?!
+Dialogue: 0,0:19:42.63,0:19:47.43,Default,,0000,0000,0000,,Do you have any notion of the consequences of your blunder?!
+Dialogue: 0,0:19:47.43,0:19:48.35,Default,,0000,0000,0000,,But, my lordship!
+Dialogue: 0,0:19:48.46,0:19:51.83,Default,,0000,0000,0000,,It was Starscream's incompetence that cost us the Immobilizer!
+Dialogue: 0,0:19:51.95,0:19:54.46,Default,,0000,0000,0000,,I don't care about some trinket!
+Dialogue: 0,0:19:54.68,0:19:58.02,Default,,0000,0000,0000,,My second-in-command is a prisoner of the enemy!
+Dialogue: 0,0:19:58.73,0:20:05.20,Default,,0000,0000,0000,,Which means all Decepticon intelligence could be at the fingertips of the Autobots!
+Dialogue: 0,0:20:07.22,0:20:08.73,Default,,0000,0000,0000,,The damage look bad,
+Dialogue: 0,0:20:08.91,0:20:10.60,Default,,0000,0000,0000,,but it was a snap to repair,
+Dialogue: 0,0:20:10.60,0:20:13.11,Default,,0000,0000,0000,,allowing us to reverse its effect on you.
+Dialogue: 0,0:20:13.14,0:20:15.95,Default,,0000,0000,0000,,You should regain your full range of motion before long.
+Dialogue: 0,0:20:16.53,0:20:18.42,Default,,0000,0000,0000,,And Arcee?
+Dialogue: 0,0:20:18.55,0:20:22.02,Default,,0000,0000,0000,,She is rather resilient for a two-wheeler.
+Dialogue: 0,0:20:27.66,0:20:31.49,Default,,0000,0000,0000,,It is the external wounds which heal the quickest.
+Dialogue: 0,0:20:31.61,0:20:34.64,Default,,0000,0000,0000,,I thought settling scores would allow me to move on...
+Dialogue: 0,0:20:35.82,0:20:39.53,Default,,0000,0000,0000,,Instead, I chased away our hope of winning this war anytime soon.
+Dialogue: 0,0:20:39.67,0:20:42.32,Default,,0000,0000,0000,,Wisdom cannot be granted, Arcee.
+Dialogue: 0,0:20:42.35,0:20:47.48,Default,,0000,0000,0000,,It must be earned, sometimes at a cost.
+Dialogue: 0,0:21:02.23,0:21:04.16,Default,,0000,0000,0000,,I have been a fool.
+Dialogue: 0,0:21:04.33,0:21:06.23,Default,,0000,0000,0000,,Made mistakes.
+Dialogue: 0,0:21:06.41,0:21:08.73,Default,,0000,0000,0000,,Monumental ones.
+Dialogue: 0,0:21:09.14,0:21:14.12,Default,,0000,0000,0000,,But I have gained a clear understanding of my place in this universe.
+Dialogue: 0,0:21:14.40,0:21:16.23,Default,,0000,0000,0000,,Of who I am.
+Dialogue: 0,0:21:16.40,0:21:22.73,Default,,0000,0000,0000,,Starscream: aligned with no side,
+Dialogue: 0,0:21:22.98,0:21:26.32,Default,,0000,0000,0000,,servant, to no one.

@@ -1,0 +1,268 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00ffffff,&Hf0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+
+Dialogue: 0,0:00:03.13,0:00:04.14,Default,,0000,0000,0000,,Prime!
+Dialogue: 0,0:00:04.28,0:00:07.26,Default,,0000,0000,0000,,What in blazes are your people doing out here?!
+Dialogue: 0,0:00:07.26,0:00:10.54,Default,,0000,0000,0000,,We had an agreement. "No collateral damage".
+Dialogue: 0,0:00:10.66,0:00:16.41,Default,,0000,0000,0000,,I am sorry, Agent Fowler. But all Autobots are present and accounted for.
+Dialogue: 0,0:00:16.41,0:00:23.54,Default,,0000,0000,0000,,Then explain why I'm receiving reports of two jumbo-size bots mixing it up twenty miles outside Omaha?
+Dialogue: 0,0:00:23.54,0:00:24.74,Default,,0000,0000,0000,,Decepticons?
+Dialogue: 0,0:00:24.79,0:00:28.77,Default,,0000,0000,0000,,There's has been plenty of infighting lately. Megatron can't seem to keep his ranks in line.
+Dialogue: 0,0:00:28.77,0:00:32.05,Default,,0000,0000,0000,,Well, I'm just arriving on the scene. Have a look.
+Dialogue: 0,0:00:35.07,0:00:38.67,Default,,0000,0000,0000,,I don't know. Paintjob aside, it can't be Skyquake. 
+Dialogue: 0,0:00:38.67,0:00:40.99,Default,,0000,0000,0000,,You and Optimus pounded him into the ground.
+Dialogue: 0,0:00:40.99,0:00:45.65,Default,,0000,0000,0000,,Before Starscream yanked him back out. As some kind of undead terrorcon.
+Dialogue: 0,0:00:45.65,0:00:48.91,Default,,0000,0000,0000,,The question still stands: who is the dance partner?
+Dialogue: 0,0:00:53.23,0:00:56.78,Default,,0000,0000,0000,,By the Allspark! It is one of ours!
+Dialogue: 0,0:00:57.16,0:00:58.33,Default,,0000,0000,0000,,Wheeljack!
+Dialogue: 0,0:00:58.38,0:01:00.41,Default,,0000,0000,0000,,Ha-ha, Jackie's back!!
+Dialogue: 0,0:01:00.45,0:01:02.72,Default,,0000,0000,0000,,I don't care if Abraham Lincoln's back!
+Dialogue: 0,0:01:02.72,0:01:07.72,Default,,0000,0000,0000,,We have to contain the situation before we all wind up on the eleven o'clock news!
+Dialogue: 0,0:02:02.93,0:02:05.14,Default,,0000,0000,0000,,You've got nowhere left to run, Con!
+Dialogue: 0,0:02:09.16,0:02:11.08,Default,,0000,0000,0000,,This is special agent Fowler of --
+Dialogue: 0,0:02:11.71,0:02:14.72,Default,,0000,0000,0000,,whoa! Stand down, hot-head! I'm on your side!
+Dialogue: 0,0:02:25.28,0:02:27.36,Default,,0000,0000,0000,,Had a feeling the gang might show.
+Dialogue: 0,0:02:45.30,0:02:46.20,Default,,0000,0000,0000,,{\pos(192,280)}Jackie!
+Dialogue: 0,0:03:01.35,0:03:02.90,Default,,0000,0000,0000,,{\pos(192,280)}That will do.
+Dialogue: 0,0:03:05.50,0:03:07.88,Default,,0000,0000,0000,,{\pos(192,280)}Ah! Not this again!
+Dialogue: 0,0:03:14.10,0:03:15.26,Default,,0000,0000,0000,,Oh no you don't!
+Dialogue: 0,0:03:15.26,0:03:15.78,Default,,0000,0000,0000,,Wheeljack!
+Dialogue: 0,0:03:15.78,0:03:17.03,Default,,0000,0000,0000,,Jackie! No!
+Dialogue: 0,0:03:33.03,0:03:34.93,Default,,0000,0000,0000,,{\pos(192,280)}Dreadwing rigged the place to blow.
+Dialogue: 0,0:03:35.31,0:03:36.51,Default,,0000,0000,0000,,{\pos(192,280)}Dreadwing?
+Dialogue: 0,0:03:36.57,0:03:38.37,Default,,0000,0000,0000,,Actually, it was your handiwork, sparky.
+Dialogue: 0,0:03:38.37,0:03:39.68,Default,,0000,0000,0000,,{\pos(192,280)}It's called a gas station.
+Dialogue: 0,0:03:39.68,0:03:43.81,Default,,0000,0000,0000,,{\pos(192,280)}Kinda like an energon depot. Doesn't mix well with blaster fire.
+Dialogue: 0,0:03:44.50,0:03:46.52,Default,,0000,0000,0000,,Huh. Well, our Con is getting away.
+Dialogue: 0,0:03:46.89,0:03:50.46,Default,,0000,0000,0000,,Wheeljack. There are other considerations.
+Dialogue: 0,0:03:50.56,0:03:52.58,Default,,0000,0000,0000,,While upon this world,
+Dialogue: 0,0:03:52.58,0:03:55.71,Default,,0000,0000,0000,,you would do well to follow my lead.
+Dialogue: 0,0:04:01.26,0:04:02.72,Default,,0000,0000,0000,,Ow! Take it easy, Doc.
+Dialogue: 0,0:04:02.72,0:04:03.93,Default,,0000,0000,0000,,I need that arm.
+Dialogue: 0,0:04:04.42,0:04:06.41,Default,,0000,0000,0000,,Hold still and maybe you'll keep it.
+Dialogue: 0,0:04:06.85,0:04:07.95,Default,,0000,0000,0000,,Look, Commander.
+Dialogue: 0,0:04:07.95,0:04:10.87,Default,,0000,0000,0000,,Apologies for fireworks. Won't happen again.
+Dialogue: 0,0:04:10.97,0:04:14.60,Default,,0000,0000,0000,,But I've tracked Dreadwing across a hundred light-years of space!
+Dialogue: 0,0:04:14.60,0:04:16.25,Default,,0000,0000,0000,,I thought you were roving the Galaxy...
+Dialogue: 0,0:04:16.25,0:04:16.88,Default,,0000,0000,0000,,You know...
+Dialogue: 0,0:04:16.88,0:04:19.12,Default,,0000,0000,0000,,looking for Autobot refugees?
+Dialogue: 0,0:04:19.13,0:04:21.47,Default,,0000,0000,0000,,I was. Until I found one...
+Dialogue: 0,0:04:21.57,0:04:22.47,Default,,0000,0000,0000,,A Wrecker.
+Dialogue: 0,0:04:22.59,0:04:23.51,Default,,0000,0000,0000,,Who?!
+Dialogue: 0,0:04:23.87,0:04:25.10,Default,,0000,0000,0000,,... Seaspray.
+Dialogue: 0,0:04:25.31,0:04:28.80,Default,,0000,0000,0000,,Ha! ... How is old Barnacle Butt?
+Dialogue: 0,0:04:28.83,0:04:32.80,Default,,0000,0000,0000,,Not so good, Bulk. Blown to bits, actually.
+Dialogue: 0,0:04:32.80,0:04:34.90,Default,,0000,0000,0000,,What? No...
+Dialogue: 0,0:04:38.20,0:04:39.55,Default,,0000,0000,0000,,Dreadwing.
+Dialogue: 0,0:04:40.47,0:04:51.52,Default,,0000,0000,0000,,
+Dialogue: 0,0:04:40.47,0:04:42.26,Default,,0000,0000,0000,,My flier, the "Jackhammer",
+Dialogue: 0,0:04:42.26,0:04:45.79,Default,,0000,0000,0000,,picked up Seaspray's signal a couple of light-years from Maderan.
+Dialogue: 0,0:04:47.89,0:04:51.52,Default,,0000,0000,0000,,We made contact and arranged a rendezvous in the Dromedon system.
+Dialogue: 0,0:04:51.66,0:04:54.66,Default,,0000,0000,0000,,But Dreadwing must have intercepted the transmission.
+Dialogue: 0,0:04:54.81,0:04:57.04,Default,,0000,0000,0000,,'cause he got to Seaspray first.
+Dialogue: 0,0:05:04.22,0:05:05.39,Default,,0000,0000,0000,,Proximity bomb.
+Dialogue: 0,0:05:05.39,0:05:06.93,Default,,0000,0000,0000,,Supposed to take us both out.
+Dialogue: 0,0:05:07.59,0:05:10.55,Default,,0000,0000,0000,,Guess I should be glad that Jackhammer can take a punch.
+Dialogue: 0,0:05:13.98,0:05:19.02,Default,,0000,0000,0000,,I picked up the Dreadwing's ion trail and tracked it through a dozen solar systems before catching up with him.
+Dialogue: 0,0:05:35.91,0:05:38.38,Default,,0000,0000,0000,,And he led me right back to this marble.
+Dialogue: 0,0:05:41.38,0:05:43.05,Default,,0000,0000,0000,,Some coincidence, huh.
+Dialogue: 0,0:05:43.10,0:05:44.76,Default,,0000,0000,0000,,I know of this Dreadwing.
+Dialogue: 0,0:05:44.76,0:05:47.12,Default,,0000,0000,0000,,He was Captain of a Seeker armada.
+Dialogue: 0,0:05:47.12,0:05:50.03,Default,,0000,0000,0000,,And as such -- like his twin Skyquake
+Dialogue: 0,0:05:50.03,0:05:53.24,Default,,0000,0000,0000,,-- fiercely loyal to the Decepticon cause.
+Dialogue: 0,0:05:53.43,0:05:59.10,Default,,0000,0000,0000,,Dreadwing has no doubt travelled to Earth to pay allegiance to his one true master...
+Dialogue: 0,0:05:59.18,0:06:00.63,Default,,0000,0000,0000,,Hope he's enjoying the visit.
+Dialogue: 0,0:06:00.63,0:06:02.27,Default,,0000,0000,0000,,It's gonna be his last.
+Dialogue: 0,0:06:03.35,0:06:04.37,Default,,0000,0000,0000,,Wheeljack!
+Dialogue: 0,0:06:04.37,0:06:06.65,Default,,0000,0000,0000,,This planet is heavily inhabited.
+Dialogue: 0,0:06:06.65,0:06:11.37,Default,,0000,0000,0000,,Any strike we make against the Decepticons must be carefully measured
+Dialogue: 0,0:06:11.37,0:06:16.03,Default,,0000,0000,0000,,as a team, lest we risk endangering the human population.
+Dialogue: 0,0:06:16.10,0:06:18.88,Default,,0000,0000,0000,,Are you suggesting we sit back and do nothing?
+Dialogue: 0,0:06:19.17,0:06:20.91,Default,,0000,0000,0000,,You! Loose cannon!
+Dialogue: 0,0:06:21.17,0:06:23.69,Default,,0000,0000,0000,,Your cowboy antics almost blew our cover!
+Dialogue: 0,0:06:23.79,0:06:26.04,Default,,0000,0000,0000,,- Cover?\N- We're robots in disguise, Jackie.
+Dialogue: 0,0:06:26.13,0:06:28.76,Default,,0000,0000,0000,,You needed an Earth-based vehicle mode outside of here.
+Dialogue: 0,0:06:28.78,0:06:30.95,Default,,0000,0000,0000,,That spaceship you shot down.
+Dialogue: 0,0:06:30.95,0:06:32.10,Default,,0000,0000,0000,,Not Earth-based!
+Dialogue: 0,0:06:32.21,0:06:35.49,Default,,0000,0000,0000,,I had to jump through some big hoops to get it hauled out of plain sight.
+Dialogue: 0,0:06:35.49,0:06:38.13,Default,,0000,0000,0000,,You need to keep a tighter leash on your people, Prime!
+Dialogue: 0,0:06:38.23,0:06:39.97,Default,,0000,0000,0000,,A tighter leash?
+Dialogue: 0,0:06:40.41,0:06:42.29,Default,,0000,0000,0000,,Let me clarify, tiny.
+Dialogue: 0,0:06:42.67,0:06:43.59,Default,,0000,0000,0000,,Jackie!
+Dialogue: 0,0:06:44.39,0:06:47.54,Default,,0000,0000,0000,,I'm not one of Optimus Prime's people.
+Dialogue: 0,0:06:51.32,0:06:52.87,Default,,0000,0000,0000,,I'll talk to him. Err... 
+Dialogue: 0,0:06:52.97,0:06:54.24,Default,,0000,0000,0000,,with your permission.
+Dialogue: 0,0:06:54.67,0:06:55.78,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:06:57.33,0:07:00.61,Default,,0000,0000,0000,,So. The new guy has a little problem with authority.
+Dialogue: 0,0:07:00.62,0:07:03.84,Default,,0000,0000,0000,,Wheeljack and Bulkhead served together in the Wreckers.
+Dialogue: 0,0:07:03.86,0:07:08.35,Default,,0000,0000,0000,,A combat unit that operated outside the normal chain of command.
+Dialogue: 0,0:07:08.35,0:07:10.56,Default,,0000,0000,0000,,Hm. Black ops.
+Dialogue: 0,0:07:10.90,0:07:15.63,Default,,0000,0000,0000,,They accepted missions no one else would.\NAnd many of them did not come back.
+Dialogue: 0,0:07:39.51,0:07:41.45,Default,,0000,0000,0000,,Lord Megatron.
+Dialogue: 0,0:07:41.83,0:07:44.25,Default,,0000,0000,0000,,I live to serve.
+Dialogue: 0,0:07:44.36,0:07:45.84,Default,,0000,0000,0000,,Rise, Dreadwing.
+Dialogue: 0,0:07:46.15,0:07:49.56,Default,,0000,0000,0000,,Loyalty such as yours is a rare commodity.
+Dialogue: 0,0:07:49.56,0:07:52.38,Default,,0000,0000,0000,,Mine runs deep and true.
+Dialogue: 0,0:07:52.38,0:07:55.86,Default,,0000,0000,0000,,Yet it is not loyalty alone brought me here.
+Dialogue: 0,0:07:56.15,0:07:57.15,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:07:57.25,0:08:01.61,Default,,0000,0000,0000,,I seek confirmation of the demise of one whom I considered a brother.
+Dialogue: 0,0:08:01.61,0:08:03.95,Default,,0000,0000,0000,,How did you learn of his passing?
+Dialogue: 0,0:08:04.01,0:08:06.51,Default,,0000,0000,0000,,My twin and I shared a split-Spark.
+Dialogue: 0,0:08:06.51,0:08:09.32,Default,,0000,0000,0000,,Our metal are but two halves of the same life-force.
+Dialogue: 0,0:08:09.32,0:08:13.84,Default,,0000,0000,0000,,Even across the Galaxy I sensed when he emerged from stasis on this planet.
+Dialogue: 0,0:08:13.92,0:08:16.82,Default,,0000,0000,0000,,And when his Spark was no more.
+Dialogue: 0,0:08:21.14,0:08:22.25,Default,,0000,0000,0000,,It is true.
+Dialogue: 0,0:08:22.25,0:08:25.22,Default,,0000,0000,0000,,Skyquake perished at the hands of the Autobots.
+Dialogue: 0,0:08:25.22,0:08:28.64,Default,,0000,0000,0000,,Though not, in fact, under my watch.
+Dialogue: 0,0:08:28.94,0:08:30.48,Default,,0000,0000,0000,,Then by the Pit,
+Dialogue: 0,0:08:30.48,0:08:35.86,Default,,0000,0000,0000,,every last Autobot on this accursed world will pay.
+Dialogue: 0,0:08:46.01,0:08:53.41,Default,,0000,0000,0000,,The Autobots WILL be punished for their crime and many others how and when I see fit.
+Dialogue: 0,0:08:49.23,0:08:53.41,Default,,0000,0000,0000,,
+Dialogue: 0,0:08:53.41,0:08:54.16,Default,,0000,0000,0000,,But Master!
+Dialogue: 0,0:08:54.16,0:08:58.02,Default,,0000,0000,0000,,Conflicting agendas will only result in chaos. And failure.
+Dialogue: 0,0:08:58.04,0:09:00.43,Default,,0000,0000,0000,,You would be wise to remember that, Dreadwing.
+Dialogue: 0,0:09:00.53,0:09:03.69,Default,,0000,0000,0000,,You are under my command now, and as such, 
+Dialogue: 0,0:09:03.69,0:09:06.20,Default,,0000,0000,0000,,you must follow my lead.
+Dialogue: 0,0:09:14.28,0:09:15.89,Default,,0000,0000,0000,,Jacky. Look.
+Dialogue: 0,0:09:15.89,0:09:17.18,Default,,0000,0000,0000,,Even if it weren't for the humans
+Dialogue: 0,0:09:17.18,0:09:19.19,Default,,0000,0000,0000,,we couldn't take on the Cons right now.
+Dialogue: 0,0:09:19.19,0:09:20.43,Default,,0000,0000,0000,,We're outnumbered.
+Dialogue: 0,0:09:20.91,0:09:24.68,Default,,0000,0000,0000,,Roadbuster, Pyro, Impactor, Rotorstorm, Seaspray...
+Dialogue: 0,0:09:24.68,0:09:25.80,Default,,0000,0000,0000,,all dust.
+Dialogue: 0,0:09:25.90,0:09:27.36,Default,,0000,0000,0000,,That's what I'm talking about.
+Dialogue: 0,0:09:27.36,0:09:28.57,Default,,0000,0000,0000,,Wreckers are Autobots.
+Dialogue: 0,0:09:28.57,0:09:30.47,Default,,0000,0000,0000,,There just aren't that many of us left.
+Dialogue: 0,0:09:30.47,0:09:32.25,Default,,0000,0000,0000,,But if we get behind Optimus,
+Dialogue: 0,0:09:32.30,0:09:35.43,Default,,0000,0000,0000,,we have a chance to end this. Once and for all.
+Dialogue: 0,0:09:35.51,0:09:37.86,Default,,0000,0000,0000,,Guys like Optimus, they talk a good game,
+Dialogue: 0,0:09:37.86,0:09:40.65,Default,,0000,0000,0000,,but when you're in the scrap they don't want to get their hands dirty.
+Dialogue: 0,0:09:40.68,0:09:41.42,Default,,0000,0000,0000,,Whoa-whoa-whoa.
+Dialogue: 0,0:09:41.45,0:09:43.50,Default,,0000,0000,0000,,You don't know Optimus like I do.
+Dialogue: 0,0:09:43.50,0:09:45.42,Default,,0000,0000,0000,,Being a Wrecker meant everything to me,
+Dialogue: 0,0:09:45.45,0:09:46.82,Default,,0000,0000,0000,,but I left that behind--
+Dialogue: 0,0:09:46.82,0:09:49.60,Default,,0000,0000,0000,,-- because Prime was the real thing, blah-blah-blah.
+Dialogue: 0,0:09:52.29,0:09:56.87,Default,,0000,0000,0000,,Wheeljack. I know you are out there, listening. I have  a proposition for you.
+Dialogue: 0,0:09:56.87,0:09:57.64,Default,,0000,0000,0000,,Is that?
+Dialogue: 0,0:09:57.66,0:09:58.97,Default,,0000,0000,0000,,Dreadwing.
+Dialogue: 0,0:09:59.17,0:10:03.18,Default,,0000,0000,0000,,Meet me at these coordinates. If you have the Spark.
+Dialogue: 0,0:10:03.53,0:10:06.96,Default,,0000,0000,0000,,I'll see you there, Con. Just to watch you fry.
+Dialogue: 0,0:10:07.22,0:10:08.50,Default,,0000,0000,0000,,Jacky, it's a trap.
+Dialogue: 0,0:10:08.50,0:10:11.27,Default,,0000,0000,0000,,I know. But when has that ever stopped me?
+Dialogue: 0,0:10:12.98,0:10:14.17,Default,,0000,0000,0000,,You coming with?
+Dialogue: 0,0:10:17.16,0:10:18.88,Default,,0000,0000,0000,,At least let me call for backup.
+Dialogue: 0,0:10:18.88,0:10:21.35,Default,,0000,0000,0000,,You know Wreckers don't call for backup--
+Dialogue: 0,0:10:21.78,0:10:23.92,Default,,0000,0000,0000,,- They call for clean up!\N- They call for clean up!
+Dialogue: 0,0:10:35.79,0:10:38.05,Default,,0000,0000,0000,,I wasn't certain you'd come.
+Dialogue: 0,0:10:38.10,0:10:40.49,Default,,0000,0000,0000,,I don't like unfinished business.
+Dialogue: 0,0:11:23.98,0:11:25.03,Default,,0000,0000,0000,,That all you've got?
+Dialogue: 0,0:11:38.53,0:11:40.64,Default,,0000,0000,0000,,If you're thinking about flying out of here...
+Dialogue: 0,0:11:40.64,0:11:42.02,Default,,0000,0000,0000,,Think again.
+Dialogue: 0,0:11:48.10,0:11:49.07,Default,,0000,0000,0000,,Bulkhead!
+Dialogue: 0,0:12:20.35,0:12:23.15,Default,,0000,0000,0000,,Bulkhead's signal. Over a thousand miles from here. 
+Dialogue: 0,0:12:23.15,0:12:25.96,Default,,0000,0000,0000,,And I would have to imagine that Wheeljack is with him.
+Dialogue: 0,0:12:26.02,0:12:27.92,Default,,0000,0000,0000,,Have you attempted contact?
+Dialogue: 0,0:12:28.36,0:12:29.90,Default,,0000,0000,0000,,No response.
+Dialogue: 0,0:12:45.50,0:12:47.09,Default,,0000,0000,0000,,What took you so long, Bulk?
+Dialogue: 0,0:12:47.09,0:12:49.44,Default,,0000,0000,0000,,Don't tell me riding with Prime has made you...
+Dialogue: 0,0:12:51.40,0:12:52.28,Default,,0000,0000,0000,,... soft?
+Dialogue: 0,0:12:56.50,0:12:59.72,Default,,0000,0000,0000,,If you will not take orders from me, that is one thing.
+Dialogue: 0,0:12:59.75,0:13:03.09,Default,,0000,0000,0000,,But when you place one of my Autobots in danger...
+Dialogue: 0,0:13:03.26,0:13:06.20,Default,,0000,0000,0000,,With all due respect, sir, Bulkhead knew the risks. 
+Dialogue: 0,0:13:06.20,0:13:07.54,Default,,0000,0000,0000,,Every Wrecker does.
+Dialogue: 0,0:13:07.54,0:13:10.09,Default,,0000,0000,0000,,And I'm sure he's just somewhere in this rubble.
+Dialogue: 0,0:13:10.74,0:13:15.32,Default,,0000,0000,0000,,Optimus! Bulkhead's signal has moved from your current position.
+Dialogue: 0,0:13:16.75,0:13:17.89,Default,,0000,0000,0000,,You coming with?
+Dialogue: 0,0:13:30.29,0:13:35.60,Default,,0000,0000,0000,,You and Bulkhead share quite a history. And yet you prefer to work alone.
+Dialogue: 0,0:13:36.64,0:13:38.72,Default,,0000,0000,0000,,The Wreckers scattered a long time ago. 
+Dialogue: 0,0:13:38.74,0:13:41.72,Default,,0000,0000,0000,,And alone is usually a lot less complicated.
+Dialogue: 0,0:13:53.94,0:13:56.67,Default,,0000,0000,0000,,We are close to population. Remember.
+Dialogue: 0,0:13:56.67,0:13:58.72,Default,,0000,0000,0000,,Blasters and fuel pumps don't mix.
+Dialogue: 0,0:14:00.37,0:14:02.09,Default,,0000,0000,0000,,Our boy is just up ahead.
+Dialogue: 0,0:14:08.67,0:14:09.95,Default,,0000,0000,0000,,Hey, guys.
+Dialogue: 0,0:14:13.42,0:14:14.69,Default,,0000,0000,0000,,... Scrap.
+Dialogue: 0,0:14:23.44,0:14:25.98,Default,,0000,0000,0000,,You really got yourself in a heap of scrap this time, partner.
+Dialogue: 0,0:14:26.00,0:14:27.63,Default,,0000,0000,0000,,Stay back, Jackie!
+Dialogue: 0,0:14:29.70,0:14:30.94,Default,,0000,0000,0000,,Better get to work.
+Dialogue: 0,0:14:31.68,0:14:34.29,Default,,0000,0000,0000,,Have you defused one of these before?
+Dialogue: 0,0:14:38.22,0:14:44.17,Default,,0000,0000,0000,,Failsafes... dummy leads... booby traps. It's a work of art.
+Dialogue: 0,0:14:47.55,0:14:49.40,Default,,0000,0000,0000,,Dreadwing. Where are you?
+Dialogue: 0,0:14:49.40,0:14:53.05,Default,,0000,0000,0000,,Merely pursuing my destiny, Lord Megatron.
+Dialogue: 0,0:14:53.12,0:14:56.68,Default,,0000,0000,0000,,Did I not order you to stand down?
+Dialogue: 0,0:14:56.90,0:14:58.93,Default,,0000,0000,0000,,Forgive me, one true Master.
+Dialogue: 0,0:14:58.93,0:15:03.62,Default,,0000,0000,0000,,But it is my hope that vanquishing Optimus Prime will earn your respect.
+Dialogue: 0,0:15:03.85,0:15:07.24,Default,,0000,0000,0000,,Optimus is not so easily disposed of.
+Dialogue: 0,0:15:07.24,0:15:12.76,Default,,0000,0000,0000,,As I keep trying to explain to all of those who foolishly attempt it.
+Dialogue: 0,0:15:14.46,0:15:17.41,Default,,0000,0000,0000,,Jackie. If you don't abort, we're both gonna need clean up!
+Dialogue: 0,0:15:17.41,0:15:19.24,Default,,0000,0000,0000,,Trying to focus here, Bulk.
+Dialogue: 0,0:15:22.05,0:15:23.34,Default,,0000,0000,0000,,Where's Optimus?
+Dialogue: 0,0:15:24.49,0:15:27.19,Default,,0000,0000,0000,,It's like I told you. 
+Dialogue: 0,0:15:27.19,0:15:30.62,Default,,0000,0000,0000,,When the scrap hits the fan blades -- the generals are the first to bail.
+Dialogue: 0,0:15:30.64,0:15:32.76,Default,,0000,0000,0000,,No. Not Optimus.
+Dialogue: 0,0:15:32.92,0:15:38.62,Default,,0000,0000,0000,,I assure you, Master. In but a few moments Optimus and two others wili be blown to atoms.
+Dialogue: 0,0:15:39.01,0:15:40.71,Default,,0000,0000,0000,,I will allow it, Dreadwing. 
+Dialogue: 0,0:15:40.71,0:15:43.99,Default,,0000,0000,0000,,In memory of your departed twin. But only this once.
+Dialogue: 0,0:15:45.91,0:15:50.38,Default,,0000,0000,0000,,I will be quite surprised if we ever set eyes upon Dreadwing again.
+Dialogue: 0,0:15:56.77,0:15:58.40,Default,,0000,0000,0000,,... Where's the Prime?
+Dialogue: 0,0:15:58.42,0:16:05.34,Default,,0000,0000,0000,,Dreadwing! If you are anything like Skyquake, I know that you value loyalty and honour.
+Dialogue: 0,0:16:05.60,0:16:08.34,Default,,0000,0000,0000,,Is there a point to your bluster, Prime?
+Dialogue: 0,0:16:08.44,0:16:11.91,Default,,0000,0000,0000,,Only that Megatron knows nothing of those principles.
+Dialogue: 0,0:16:11.91,0:16:15.77,Default,,0000,0000,0000,,He lives only for destruction and conquest. 
+Dialogue: 0,0:16:15.77,0:16:19.77,Default,,0000,0000,0000,,But there is another path. Deactivate the bomb.
+Dialogue: 0,0:16:33.06,0:16:34.40,Default,,0000,0000,0000,,Get out of here already!
+Dialogue: 0,0:16:34.43,0:16:37.82,Default,,0000,0000,0000,,I didn't leave you on Sandocan and I'm not leaving you here.
+Dialogue: 0,0:16:38.09,0:16:42.45,Default,,0000,0000,0000,,Face it. There's only one bot who can defuse this mess, and his name is Dreadwing.
+Dialogue: 0,0:16:42.72,0:16:46.01,Default,,0000,0000,0000,,Blaster fire is getting closer. As if the Commander...
+Dialogue: 0,0:16:51.95,0:16:54.12,Default,,0000,0000,0000,,Sorry, Jackie. It’s ‘cause I love you.
+Dialogue: 0,0:17:49.63,0:17:51.36,Default,,0000,0000,0000,,Oh, sorry, fishies!
+Dialogue: 0,0:17:53.52,0:17:54.86,Default,,0000,0000,0000,,Bulkhead! Wait!
+Dialogue: 0,0:17:55.02,0:17:56.20,Default,,0000,0000,0000,,Out of my way!
+Dialogue: 0,0:18:00.55,0:18:02.95,Default,,0000,0000,0000,,Will you listen to me, Bulk?
+Dialogue: 0,0:18:07.76,0:18:11.33,Default,,0000,0000,0000,,You were right. Dreadwing is the only one who can defuse it.
+Dialogue: 0,0:18:11.63,0:18:13.43,Default,,0000,0000,0000,,And Optimus knows it too.
+Dialogue: 0,0:18:42.50,0:18:47.81,Default,,0000,0000,0000,,Dreadwing, defuse the bomb. Or fall victim to your own device!
+Dialogue: 0,0:18:51.44,0:18:55.13,Default,,0000,0000,0000,,I will gladly sacrifice myself to avenge my brother.
+Dialogue: 0,0:18:55.40,0:19:00.68,Default,,0000,0000,0000,,Then we will in turn gladly join the Allspark with our brother.
+Dialogue: 0,0:19:00.75,0:19:04.41,Default,,0000,0000,0000,,And with you. You'll never shake us.
+Dialogue: 0,0:19:20.05,0:19:21.26,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:19:37.48,0:19:41.18,Default,,0000,0000,0000,,I had it narrowed down to the blue or the yellow. Or the red.
+Dialogue: 0,0:20:01.31,0:20:04.06,Default,,0000,0000,0000,,So. Who do we call for cleanup?
+Dialogue: 0,0:20:09.53,0:20:12.49,Default,,0000,0000,0000,,Optimus Prime still lives.
+Dialogue: 0,0:20:13.70,0:20:15.40,Default,,0000,0000,0000,,As do you, Dreadwing. 
+Dialogue: 0,0:20:15.40,0:20:17.89,Default,,0000,0000,0000,,And that is a victory, however small.
+Dialogue: 0,0:20:17.95,0:20:20.90,Default,,0000,0000,0000,,As Skyquake so tragically discovered.
+Dialogue: 0,0:20:21.20,0:20:25.06,Default,,0000,0000,0000,,Speak to me not of my twin, Lord Megatron.
+Dialogue: 0,0:20:25.06,0:20:30.36,Default,,0000,0000,0000,,For I am here on Earth to obey your will. And yours alone.
+Dialogue: 0,0:20:37.02,0:20:41.96,Default,,0000,0000,0000,,Listen, Commander. I just wanna say... it was an honour watching you work.
+Dialogue: 0,0:20:41.96,0:20:45.53,Default,,0000,0000,0000,,I, uh, think maybe I had the wrong idea about you.
+Dialogue: 0,0:20:45.58,0:20:51.29,Default,,0000,0000,0000,,And it would seem that you place a greater value on community than you otherwise let on.
+Dialogue: 0,0:20:51.94,0:20:54.09,Default,,0000,0000,0000,,Whoa, let's not jump the gun here.
+Dialogue: 0,0:20:55.05,0:20:59.25,Default,,0000,0000,0000,,Come on, Jackie. If you leave, you'll probably just wind up coming right back again.
+Dialogue: 0,0:20:59.79,0:21:03.21,Default,,0000,0000,0000,,All that wasted fuel. And Energon is in short supply.
+Dialogue: 0,0:21:05.93,0:21:08.80,Default,,0000,0000,0000,,Then again, we do have limited space.
+Dialogue: 0,0:21:10.52,0:21:13.24,Default,,0000,0000,0000,,Not sure if I'm ready to give up my freedom just yet.
+Dialogue: 0,0:21:13.24,0:21:16.59,Default,,0000,0000,0000,,Maybe I could do some exploring, see if this rock suits me.
+Dialogue: 0,0:21:16.66,0:21:21.49,Default,,0000,0000,0000,,No offense to the "Jackhammer", but you need an earth-based vehicle mode.

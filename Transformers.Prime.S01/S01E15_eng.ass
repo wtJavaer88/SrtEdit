@@ -1,0 +1,289 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+Dialogue: 0,0:00:17.43,0:00:20.12,Default,,0000,0000,0000,,Resting comfortably, Starscream?
+Dialogue: 0,0:00:21.04,0:00:23.61,Default,,0000,0000,0000,,Despite the extend of your injuries,
+Dialogue: 0,0:00:23.80,0:00:28.41,Default,,0000,0000,0000,,my medical staff assures me that you shall make a rapid recovery.
+Dialogue: 0,0:00:28.58,0:00:32.95,Default,,0000,0000,0000,,Hopefully, every bit as rapid as your wrath is swift.
+Dialogue: 0,0:00:34.73,0:00:40.29,Default,,0000,0000,0000,,Hahahahahaha... and how swiftly things change?
+Dialogue: 0,0:00:40.36,0:00:42.27,Default,,0000,0000,0000,,To think that but a short time ago,
+Dialogue: 0,0:00:42.27,0:00:46.21,Default,,0000,0000,0000,,it was you who were standing here while I was lying there,
+Dialogue: 0,0:00:46.21,0:00:50.49,Default,,0000,0000,0000,,right after your failed attempt to terminate me.
+Dialogue: 0,0:00:50.92,0:00:53.67,Default,,0000,0000,0000,,But know this, dear Starscream:
+Dialogue: 0,0:00:53.91,0:00:57.31,Default,,0000,0000,0000,,our position shall never again be reversed.
+Dialogue: 0,0:01:07.03,0:01:09.91,Default,,0000,0000,0000,,Starscream, have you lost your senses?
+Dialogue: 0,0:01:09.91,0:01:11.69,Default,,0000,0000,0000,,You haven't fully recuperated.
+Dialogue: 0,0:01:11.85,0:01:14.01,Default,,0000,0000,0000,,I feel fine, Knock Out, never better!
+Dialogue: 0,0:01:14.01,0:01:16.46,Default,,0000,0000,0000,,You are a brilliant physician. Now get out of my way!
+Dialogue: 0,0:01:26.16,0:01:31.78,Default,,0000,0000,0000,,Ahhh... Dark Energon may have replenished your strength, master.
+Dialogue: 0,0:01:34.53,0:01:42.09,Default,,0000,0000,0000,,But how could you forget, that you never reclaimed your original shard?
+Dialogue: 0,0:01:50.90,0:01:55.06,Default,,0000,0000,0000,,Once the blood of Unicron flows through my veins,
+Dialogue: 0,0:01:55.29,0:01:59.15,Default,,0000,0000,0000,,our positions shall be reversed.
+Dialogue: 0,0:02:52.39,0:02:57.38,Default,,0000,0000,0000,,{\pos(192,280)}I had hoped that my growing expertise on the subject would remain purely academic,
+Dialogue: 0,0:02:57.54,0:03:02.00,Default,,0000,0000,0000,,{\pos(192,280)}but though faint, this is clearly a Dark Energon signature,
+Dialogue: 0,0:03:02.00,0:03:03.66,Default,,0000,0000,0000,,{\pos(192,280)}and it's moving fast.
+Dialogue: 0,0:03:04.09,0:03:05.67,Default,,0000,0000,0000,,{\pos(192,280)}Megatron.
+Dialogue: 0,0:03:05.99,0:03:07.73,Default,,0000,0000,0000,,{\pos(192,280)}Where did he find more the bad stuff?
+Dialogue: 0,0:03:07.92,0:03:10.69,Default,,0000,0000,0000,,{\pos(192,280)}What's he gonna do with it? Recruiting new army of the undead?
+Dialogue: 0,0:03:11.16,0:03:12.33,Default,,0000,0000,0000,,Zombie-cons?
+Dialogue: 0,0:03:12.58,0:03:14.80,Default,,0000,0000,0000,,We cannot rule out the possibility,
+Dialogue: 0,0:03:15.05,0:03:19.26,Default,,0000,0000,0000,,{\pos(192,280)}especially since Megatron seems to be heading to a familiar site.
+Dialogue: 0,0:03:28.44,0:03:32.40,Default,,0000,0000,0000,,Ah, the grave site of the mighty Skyquake.
+Dialogue: 0,0:03:32.53,0:03:36.71,Default,,0000,0000,0000,,So quick to reject my authority while you lived,
+Dialogue: 0,0:03:36.86,0:03:41.03,Default,,0000,0000,0000,,but as the first of my reanimated warriors,
+Dialogue: 0,0:03:41.23,0:03:44.42,Default,,0000,0000,0000,,you shall bow to my command!
+Dialogue: 0,0:03:58.68,0:04:05.20,Default,,0000,0000,0000,,Yesss... power of Dark Energon... be mine!
+Dialogue: 0,0:04:06.31,0:04:15.45,Default,,0000,0000,0000,,Ahhh.... symbiosis... hahahahaha... I can feel it!
+Dialogue: 0,0:04:16.14,0:04:19.09,Default,,0000,0000,0000,,Megatron has barely emerged from stasis,
+Dialogue: 0,0:04:19.22,0:04:22.47,Default,,0000,0000,0000,,and it seems he's already making up for lost time.
+Dialogue: 0,0:04:22.74,0:04:27.14,Default,,0000,0000,0000,,Bulkhead, Bumblebee, Ratchet, prepare to roll out.
+Dialogue: 0,0:04:28.43,0:04:29.39,Default,,0000,0000,0000,,Me?
+Dialogue: 0,0:04:30.06,0:04:32.74,Default,,0000,0000,0000,,If we are dealing with Dark Energon,
+Dialogue: 0,0:04:32.89,0:04:35.66,Default,,0000,0000,0000,,I may well require your expertise.
+Dialogue: 0,0:04:35.74,0:04:36.54,Default,,0000,0000,0000,,Arcee...
+Dialogue: 0,0:04:36.70,0:04:38.62,Default,,0000,0000,0000,,Bridge operator, got it!
+Dialogue: 0,0:04:38.92,0:04:41.58,Default,,0000,0000,0000,,Go get'em, Bulkhead. Bring the heart.
+Dialogue: 0,0:04:46.40,0:04:48.30,Default,,0000,0000,0000,,That's not like Miko not wanna go.
+Dialogue: 0,0:04:48.56,0:04:50.59,Default,,0000,0000,0000,,She's definitely up to something.
+Dialogue: 0,0:05:06.24,0:05:07.48,Default,,0000,0000,0000,,Make it a break!
+Dialogue: 0,0:05:19.35,0:05:21.04,Default,,0000,0000,0000,,It's not safe.
+Dialogue: 0,0:05:21.50,0:05:24.54,Default,,0000,0000,0000,,I'm not gonna miss my first zombie-cons' throwdown!
+Dialogue: 0,0:05:28.09,0:05:29.03,Default,,0000,0000,0000,,Miko?
+Dialogue: 0,0:05:55.79,0:05:57.39,Default,,0000,0000,0000,,That's not Megatron!
+Dialogue: 0,0:05:58.04,0:06:02.31,Default,,0000,0000,0000,,Rise, Skyquake! Rise!
+Dialogue: 0,0:06:03.15,0:06:05.69,Default,,0000,0000,0000,,Let's see some fight of the living dead already!
+Dialogue: 0,0:06:06.81,0:06:08.85,Default,,0000,0000,0000,,Miko? What were you thinking?
+Dialogue: 0,0:06:09.10,0:06:10.35,Default,,0000,0000,0000,,She wasn't.
+Dialogue: 0,0:06:10.50,0:06:12.74,Default,,0000,0000,0000,,Hey, I totally missed out last time.
+Dialogue: 0,0:06:12.94,0:06:15.58,Default,,0000,0000,0000,,This could be my only chance to take some snaps.
+Dialogue: 0,0:06:17.17,0:06:20.80,Default,,0000,0000,0000,,My cellphone. I must have dropped it back at base.
+Dialogue: 0,0:06:22.67,0:06:23.89,Default,,0000,0000,0000,,Starscream.
+Dialogue: 0,0:06:24.17,0:06:25.37,Default,,0000,0000,0000,,Autobots?
+Dialogue: 0,0:06:25.52,0:06:27.47,Default,,0000,0000,0000,,Stand down.
+Dialogue: 0,0:06:27.64,0:06:29.48,Default,,0000,0000,0000,,You stand down.
+Dialogue: 0,0:06:33.57,0:06:38.62,Default,,0000,0000,0000,,You cannot harm me while Dark Energon flows through my veins!
+Dialogue: 0,0:06:52.79,0:06:54.98,Default,,0000,0000,0000,,You clipped his wing. He's grounded.
+Dialogue: 0,0:06:58.94,0:07:02.17,Default,,0000,0000,0000,,Come on, come on, rise already!
+Dialogue: 0,0:07:04.76,0:07:06.45,Default,,0000,0000,0000,,This is Commander Starscream,
+Dialogue: 0,0:07:06.45,0:07:09.73,Default,,0000,0000,0000,,requesting emergency Ground Bridge to my coordinates.
+Dialogue: 0,0:07:11.33,0:07:14.75,Default,,0000,0000,0000,,Ugrrr... I can't believe you make me lose my phone!
+Dialogue: 0,0:07:14.91,0:07:17.08,Default,,0000,0000,0000,,Eheh, how was this my fault?
+Dialogue: 0,0:07:17.10,0:07:18.06,Default,,0000,0000,0000,,Oh, no.
+Dialogue: 0,0:07:18.34,0:07:20.38,Default,,0000,0000,0000,,Base to Optimus, the kids are missing.
+Dialogue: 0,0:07:20.55,0:07:24.39,Default,,0000,0000,0000,,We have a visual, send the GroundBridge immediately.
+Dialogue: 0,0:07:31.39,0:07:36.57,Default,,0000,0000,0000,,Two? You three! Into our Ground Bridge, now!
+Dialogue: 0,0:07:37.06,0:07:38.04,Default,,0000,0000,0000,,Come on£¡
+Dialogue: 0,0:07:46.42,0:07:48.36,Default,,0000,0000,0000,,Ratchet, what is happening?
+Dialogue: 0,0:07:48.51,0:07:52.05,Default,,0000,0000,0000,,The dualing GroundBridge portals must be feeding back on each other.
+Dialogue: 0,0:07:52.87,0:07:55.44,Default,,0000,0000,0000,,Miko... we gotta get the kids out of there.
+Dialogue: 0,0:08:12.15,0:08:13.45,Default,,0000,0000,0000,,My arm!
+Dialogue: 0,0:08:17.22,0:08:20.16,Default,,0000,0000,0000,,Not a word about this! To anyone!
+Dialogue: 0,0:08:38.56,0:08:39.65,Default,,0000,0000,0000,,Are you guys OK?
+Dialogue: 0,0:08:40.53,0:08:43.89,Default,,0000,0000,0000,,Yea, I think so.
+Dialogue: 0,0:08:47.25,0:08:49.03,Default,,0000,0000,0000,,What.. what just happened?
+Dialogue: 0,0:08:52.41,0:08:54.12,Default,,0000,0000,0000,,I can't be certain,
+Dialogue: 0,0:08:54.33,0:08:58.21,Default,,0000,0000,0000,,but if two GroundBridges sent to the same coordinates crossed streams,
+Dialogue: 0,0:08:58.39,0:09:00.98,Default,,0000,0000,0000,,the feedback could have triggered the system overload.
+Dialogue: 0,0:09:01.08,0:09:04.66,Default,,0000,0000,0000,,Could? Hello? More like totally did!
+Dialogue: 0,0:09:04.84,0:09:06.40,Default,,0000,0000,0000,,The kids made it through, right?
+Dialogue: 0,0:09:08.03,0:09:09.18,Default,,0000,0000,0000,,What's he talking about?
+Dialogue: 0,0:09:10.11,0:09:12.36,Default,,0000,0000,0000,,Bulkhead, we are right here!
+Dialogue: 0,0:09:12.51,0:09:16.19,Default,,0000,0000,0000,,Arcee, did the children make it safely back to base?
+Dialogue: 0,0:09:16.58,0:09:18.82,Default,,0000,0000,0000,,Negative. You don't see them?
+Dialogue: 0,0:09:19.00,0:09:20.04,Default,,0000,0000,0000,,No sign.
+Dialogue: 0,0:09:20.55,0:09:22.22,Default,,0000,0000,0000,,What? No sign?
+Dialogue: 0,0:09:22.25,0:09:24.32,Default,,0000,0000,0000,,OK, seriously Bulk?
+Dialogue: 0,0:09:24.55,0:09:26.72,Default,,0000,0000,0000,,Woaaah!
+Dialogue: 0,0:09:27.00,0:09:28.47,Default,,0000,0000,0000,,He went right through you.
+Dialogue: 0,0:09:28.86,0:09:29.84,Default,,0000,0000,0000,,We are not alive!
+Dialogue: 0,0:09:30.09,0:09:31.62,Default,,0000,0000,0000,,I don't wanna be a ghost!
+Dialogue: 0,0:09:32.73,0:09:35.35,Default,,0000,0000,0000,,Wait, how can we still touch each other?
+Dialogue: 0,0:09:38.14,0:09:40.25,Default,,0000,0000,0000,,Ratchet, could the children have been
+Dialogue: 0,0:09:40.25,0:09:42.64,Default,,0000,0000,0000,,transported on to the Nemisis instead?
+Dialogue: 0,0:09:42.79,0:09:46.18,Default,,0000,0000,0000,,Not likely, if Starscream didn't arrive at our base.
+Dialogue: 0,0:09:46.36,0:09:48.99,Default,,0000,0000,0000,,The most likely explanation is a dislocation.
+Dialogue: 0,0:09:49.33,0:09:53.16,Default,,0000,0000,0000,,The children may simply have been bridged to an unintended destination.
+Dialogue: 0,0:09:57.00,0:09:59.90,Default,,0000,0000,0000,,Another place but in the same place?
+Dialogue: 0,0:10:00.10,0:10:02.29,Default,,0000,0000,0000,,Wh... what do you mean?
+Dialogue: 0,0:10:02.69,0:10:05.01,Default,,0000,0000,0000,,We're probably in a different dimension.
+Dialogue: 0,0:10:05.15,0:10:09.51,Default,,0000,0000,0000,,Some kind of alternate reality, a shadowzone.
+Dialogue: 0,0:10:09.89,0:10:11.17,Default,,0000,0000,0000,,Nerd alert.
+Dialogue: 0,0:10:12.35,0:10:15.51,Default,,0000,0000,0000,,Look, Skyquake's tomb is empty.
+Dialogue: 0,0:10:15.79,0:10:18.40,Default,,0000,0000,0000,,How do we miss Skyquake rising and shining?
+Dialogue: 0,0:10:18.54,0:10:21.24,Default,,0000,0000,0000,,It would seem Starscream got what he came for.
+Dialogue: 0,0:10:21.65,0:10:23.80,Default,,0000,0000,0000,,Another matter for another time.
+Dialogue: 0,0:10:23.97,0:10:28.21,Default,,0000,0000,0000,,Right now, our priority is locating Jack, Miko and Raphael.
+Dialogue: 0,0:10:28.46,0:10:31.29,Default,,0000,0000,0000,,Arcee, bridge us back to base.
+Dialogue: 0,0:10:48.24,0:10:49.47,Default,,0000,0000,0000,,Zombie!
+Dialogue: 0,0:10:50.02,0:10:50.93,Default,,0000,0000,0000,,Guys, look out!
+Dialogue: 0,0:10:50.93,0:10:51.57,Default,,0000,0000,0000,,Bulkhead!
+Dialogue: 0,0:10:51.57,0:10:53.46,Default,,0000,0000,0000,,It's right behind you!
+Dialogue: 0,0:11:02.99,0:11:05.64,Default,,0000,0000,0000,,Awesome! It can't touch them either.
+Dialogue: 0,0:11:09.88,0:11:11.69,Default,,0000,0000,0000,,If that thing can't touch the Bots...
+Dialogue: 0,0:11:11.83,0:11:13.38,Default,,0000,0000,0000,,Just like we can't...
+Dialogue: 0,0:11:13.56,0:11:18.12,Default,,0000,0000,0000,,Then we are trapped in a shadowzone, with a Decepticon zombie!
+Dialogue: 0,0:11:18.25,0:11:21.73,Default,,0000,0000,0000,,If we aren't ghosts now, we will be soon.
+Dialogue: 0,0:11:51.13,0:11:51.94,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:11:53.87,0:11:55.23,Default,,0000,0000,0000,,Jack, my glasses!
+Dialogue: 0,0:12:00.35,0:12:01.65,Default,,0000,0000,0000,,Way too dangerous.
+Dialogue: 0,0:12:01.80,0:12:03.25,Default,,0000,0000,0000,,I can't see without them.
+Dialogue: 0,0:12:03.45,0:12:05.20,Default,,0000,0000,0000,,What are you, ninety£¿
+Dialogue: 0,0:12:05.36,0:12:06.39,Default,,0000,0000,0000,,Not helping!
+Dialogue: 0,0:12:06.55,0:12:07.36,Default,,0000,0000,0000,,Fine!
+Dialogue: 0,0:12:08.83,0:12:09.53,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:12:21.20,0:12:22.24,Default,,0000,0000,0000,,Hooya!
+Dialogue: 0,0:12:28.55,0:12:30.63,Default,,0000,0000,0000,,Here you go, gramps. Let's book.
+Dialogue: 0,0:12:39.34,0:12:42.19,Default,,0000,0000,0000,,Maybe we could set up a trap, trying to crash it!
+Dialogue: 0,0:12:43.37,0:12:46.77,Default,,0000,0000,0000,,With what? Nothing around here is solid except dusts on the ground.
+Dialogue: 0,0:12:47.08,0:12:50.39,Default,,0000,0000,0000,,We can't run forever. But maybe we can hide.
+Dialogue: 0,0:12:51.11,0:12:55.81,Default,,0000,0000,0000,,Ratchet, if the children were misdirected to an unintended location,
+Dialogue: 0,0:12:56.05,0:12:59.36,Default,,0000,0000,0000,,is there anyway to get a fix on their coordinates.
+Dialogue: 0,0:12:59.53,0:13:02.28,Default,,0000,0000,0000,,If they were lost, Miko would have called me by now.
+Dialogue: 0,0:13:04.32,0:13:06.38,Default,,0000,0000,0000,,Call them? Yes!
+Dialogue: 0,0:13:20.69,0:13:22.70,Default,,0000,0000,0000,,That's why Miko hasn't phoned.
+Dialogue: 0,0:13:22.76,0:13:23.87,Default,,0000,0000,0000,,Let me try Jack.
+Dialogue: 0,0:13:26.24,0:13:29.95,Default,,0000,0000,0000,,The best thing about zombies-- they are slow-moving.
+Dialogue: 0,0:13:31.85,0:13:32.81,Default,,0000,0000,0000,,Is that your...
+Dialogue: 0,0:13:32.85,0:13:33.81,Default,,0000,0000,0000,,- phone!\N- phone!\N- phone!
+Dialogue: 0,0:13:34.50,0:13:36.17,Default,,0000,0000,0000,,Hello, Arcee?
+Dialogue: 0,0:13:36.45,0:13:38.61,Default,,0000,0000,0000,,Jack, can you hear me?
+Dialogue: 0,0:13:39.96,0:13:40.94,Default,,0000,0000,0000,,Nothing.
+Dialogue: 0,0:13:41.79,0:13:46.39,Default,,0000,0000,0000,,Hello, Arcee? Uh, nothing.
+Dialogue: 0,0:13:46.69,0:13:48.04,Default,,0000,0000,0000,,Gee, imagine that,
+Dialogue: 0,0:13:48.19,0:13:51.11,Default,,0000,0000,0000,,the forth dimension has lausy cellphone reception.
+Dialogue: 0,0:13:51.34,0:13:53.61,Default,,0000,0000,0000,,Hey guys, guys, guys, the phone rang.
+Dialogue: 0,0:13:53.84,0:13:55.17,Default,,0000,0000,0000,,We are getting a signal.
+Dialogue: 0,0:13:55.53,0:13:58.89,Default,,0000,0000,0000,,Maybe the Autobots can't see or hear us because...
+Dialogue: 0,0:13:59.04,0:14:01.74,Default,,0000,0000,0000,,we are moving at hyper speed or something.
+Dialogue: 0,0:14:02.02,0:14:04.35,Default,,0000,0000,0000,,Do you think that they could read us?
+Dialogue: 0,0:14:05.00,0:14:06.20,Default,,0000,0000,0000,,Texting!
+Dialogue: 0,0:14:06.74,0:14:10.42,Default,,0000,0000,0000,,Text me! If my phone is back at base, maybe they'll see it!
+Dialogue: 0,0:14:16.08,0:14:19.28,Default,,0000,0000,0000,,Uh... can you type and run?
+Dialogue: 0,0:14:25.88,0:14:30.07,Default,,0000,0000,0000,,We are dealling with fluctuating energy profiles inside a wide distortion field,
+Dialogue: 0,0:14:30.07,0:14:35.04,Default,,0000,0000,0000,,but it may be possible to back-trace their coordinates.
+Dialogue: 0,0:14:41.78,0:14:42.91,Default,,0000,0000,0000,,D¨¦j¨¤ vu
+Dialogue: 0,0:14:43.34,0:14:44.00,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:44.10,0:14:46.09,Default,,0000,0000,0000,,This doesn't look familiar to you?
+Dialogue: 0,0:14:46.27,0:14:47.50,Default,,0000,0000,0000,,Not really.
+Dialogue: 0,0:14:49.15,0:14:52.30,Default,,0000,0000,0000,,Dude, we just ran one big circle!
+Dialogue: 0,0:14:59.46,0:15:00.59,Default,,0000,0000,0000,,Sweet!
+Dialogue: 0,0:15:00.61,0:15:01.16,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:15:02.04,0:15:05.40,Default,,0000,0000,0000,,It must have gone trapped in here during the explosion, too.
+Dialogue: 0,0:15:08.77,0:15:11.22,Default,,0000,0000,0000,,Well, if it's solid, we can use it.
+Dialogue: 0,0:15:13.68,0:15:18.40,Default,,0000,0000,0000,,Uh, Starscream, I don't quite understand how this could have happened.
+Dialogue: 0,0:15:18.56,0:15:20.37,Default,,0000,0000,0000,,And yet, it did!
+Dialogue: 0,0:15:20.51,0:15:21.92,Default,,0000,0000,0000,,Can you imagine my horror?
+Dialogue: 0,0:15:21.92,0:15:25.16,Default,,0000,0000,0000,,There I am, minding my own business, when my arm just falls off!
+Dialogue: 0,0:15:25.16,0:15:28.81,Default,,0000,0000,0000,,Clearly Megatron inflicted more damage upon me than you realize!
+Dialogue: 0,0:15:29.43,0:15:31.01,Default,,0000,0000,0000,,Doctor...
+Dialogue: 0,0:15:31.34,0:15:33.60,Default,,0000,0000,0000,,Well, on the bright side,
+Dialogue: 0,0:15:33.76,0:15:36.87,Default,,0000,0000,0000,,this provides an excellent opportunity for an upgrade.
+Dialogue: 0,0:15:36.91,0:15:39.75,Default,,0000,0000,0000,,Uh.. let's see, you could go with this sonic cannon.
+Dialogue: 0,0:15:39.93,0:15:43.44,Default,,0000,0000,0000,,It's reliable, low maintenance, although it lacks of certain flare.
+Dialogue: 0,0:15:43.59,0:15:45.99,Default,,0000,0000,0000,,Personally I prefer the null-ray.
+Dialogue: 0,0:15:46.13,0:15:48.96,Default,,0000,0000,0000,,It has just the right mix of flash and fire power.
+Dialogue: 0,0:15:49.11,0:15:51.65,Default,,0000,0000,0000,,I don't want a new model!
+Dialogue: 0,0:15:51.65,0:15:54.67,Default,,0000,0000,0000,,I just want the same arm I had before!
+Dialogue: 0,0:15:54.84,0:15:59.59,Default,,0000,0000,0000,,But Starscream, your equipment is a bit... obsolete...
+Dialogue: 0,0:15:59.75,0:16:02.19,Default,,0000,0000,0000,,I'm not sure I have another one lying around.
+Dialogue: 0,0:16:02.38,0:16:06.98,Default,,0000,0000,0000,,Of course we could try to salvage yours-- you kept it, didn't you?
+Dialogue: 0,0:16:07.21,0:16:11.36,Default,,0000,0000,0000,,It was beyond recovery.
+Dialogue: 0,0:16:18.80,0:16:20.70,Default,,0000,0000,0000,,Anyone know how to fire this thing?
+Dialogue: 0,0:16:20.98,0:16:22.43,Default,,0000,0000,0000,,I don't see a trigger.
+Dialogue: 0,0:16:22.61,0:16:25.61,Default,,0000,0000,0000,,Starscream did something with his fingers.
+Dialogue: 0,0:16:31.03,0:16:33.93,Default,,0000,0000,0000,,We have one shot. We need to make it count.
+Dialogue: 0,0:16:45.95,0:16:48.11,Default,,0000,0000,0000,,How do you like us now?
+Dialogue: 0,0:17:15.76,0:17:16.85,Default,,0000,0000,0000,,Come on, come on!
+Dialogue: 0,0:17:18.78,0:17:22.10,Default,,0000,0000,0000,,How can a zombie arm move faster than the actual zombie?
+Dialogue: 0,0:17:27.24,0:17:28.27,Default,,0000,0000,0000,,Miko's phone.
+Dialogue: 0,0:17:29.53,0:17:31.07,Default,,0000,0000,0000,,It wan't blinking before.
+Dialogue: 0,0:17:31.73,0:17:32.95,Default,,0000,0000,0000,,It's a message.
+Dialogue: 0,0:17:33.36,0:17:37.08,Default,,0000,0000,0000,,"In alternate dimension with zombie. Help!"
+Dialogue: 0,0:17:37.22,0:17:39.36,Default,,0000,0000,0000,,That doesn't sound possible.
+Dialogue: 0,0:17:39.52,0:17:42.16,Default,,0000,0000,0000,,Ratchet, can we triangulate the geographical position
+Dialogue: 0,0:17:42.16,0:17:44.17,Default,,0000,0000,0000,,of the cellphone's signal?
+Dialogue: 0,0:17:44.46,0:17:47.23,Default,,0000,0000,0000,,In a parallel dimensional plane?
+Dialogue: 0,0:17:48.32,0:17:49.56,Default,,0000,0000,0000,,Let's find out.
+Dialogue: 0,0:17:58.37,0:18:00.43,Default,,0000,0000,0000,,My Dark Energon shard.
+Dialogue: 0,0:18:01.01,0:18:05.13,Default,,0000,0000,0000,,Pulsing? My warrior lives!
+Dialogue: 0,0:18:05.68,0:18:08.41,Default,,0000,0000,0000,,Ahh... Look what I found in storage.
+Dialogue: 0,0:18:08.41,0:18:09.92,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:18:10.09,0:18:11.29,Default,,0000,0000,0000,,You were right, Knock Out.
+Dialogue: 0,0:18:11.29,0:18:13.56,Default,,0000,0000,0000,,I'm much too attached to my original appendage.
+Dialogue: 0,0:18:13.56,0:18:14.89,Default,,0000,0000,0000,,I will retrieve it.
+Dialogue: 0,0:18:15.91,0:18:20.44,Default,,0000,0000,0000,,Now, calculating for relative time delays and iron spheric distortions,
+Dialogue: 0,0:18:20.63,0:18:23.50,Default,,0000,0000,0000,,the signal eminated from the exact location
+Dialogue: 0,0:18:23.70,0:18:26.29,Default,,0000,0000,0000,,as the original GroundBridge coordinates!
+Dialogue: 0,0:18:26.36,0:18:28.33,Default,,0000,0000,0000,,But we already looked for them there.
+Dialogue: 0,0:18:28.81,0:18:34.21,Default,,0000,0000,0000,,Perhaps, but not in the correct dimensional phase as their message stated.
+Dialogue: 0,0:18:34.37,0:18:39.27,Default,,0000,0000,0000,,But, if I can recreate the feedback loop which triggered the event,
+Dialogue: 0,0:18:39.52,0:18:42.43,Default,,0000,0000,0000,,I might be able to generate a rescue portal,
+Dialogue: 0,0:18:42.59,0:18:44.94,Default,,0000,0000,0000,,allowing passage from their dimension...
+Dialogue: 0,0:18:45.10,0:18:46.10,Default,,0000,0000,0000,,Back to base?
+Dialogue: 0,0:18:46.28,0:18:50.58,Default,,0000,0000,0000,,No! We are talking about inter-dimensional travel here, Bulkhead!
+Dialogue: 0,0:18:50.77,0:18:54.79,Default,,0000,0000,0000,,Attempting to redirect the vortex trajectory would be far too risky.
+Dialogue: 0,0:18:54.99,0:18:56.26,Default,,0000,0000,0000,,Everyone knows that.
+Dialogue: 0,0:18:56.60,0:18:59.79,Default,,0000,0000,0000,,If the coordinates aren't precisely the same,
+Dialogue: 0,0:18:59.95,0:19:02.36,Default,,0000,0000,0000,,who knows where the humans could wind up?
+Dialogue: 0,0:19:06.32,0:19:08.02,Default,,0000,0000,0000,,Oh, come on!
+Dialogue: 0,0:19:08.23,0:19:10.85,Default,,0000,0000,0000,,This place is like one big merry-go-round.
+Dialogue: 0,0:19:11.05,0:19:14.58,Default,,0000,0000,0000,,Skyquake? You master summons you!
+Dialogue: 0,0:19:15.12,0:19:17.21,Default,,0000,0000,0000,,How'd that freak get into our dimension?
+Dialogue: 0,0:19:17.39,0:19:19.64,Default,,0000,0000,0000,,He didn't. He can't see us.
+Dialogue: 0,0:19:19.77,0:19:22.14,Default,,0000,0000,0000,,Forget Starscream, we get to run...
+Dialogue: 0,0:19:22.35,0:19:23.31,Default,,0000,0000,0000,,some more.
+Dialogue: 0,0:19:30.43,0:19:31.71,Default,,0000,0000,0000,,A GroundBridge portal?
+Dialogue: 0,0:19:31.97,0:19:33.50,Default,,0000,0000,0000,,That has to be a way out of here.
+Dialogue: 0,0:19:33.71,0:19:35.49,Default,,0000,0000,0000,,The Autobots saw our texts.
+Dialogue: 0,0:19:35.81,0:19:39.98,Default,,0000,0000,0000,,What? Mine? Or theirs?
+Dialogue: 0,0:19:41.45,0:19:44.45,Default,,0000,0000,0000,,If we go through, we will smack into Starscream.
+Dialogue: 0,0:19:44.45,0:19:45.62,Default,,0000,0000,0000,,If we don't...
+Dialogue: 0,0:19:46.03,0:19:47.32,Default,,0000,0000,0000,,We are zombie chow.
+Dialogue: 0,0:19:49.81,0:19:52.85,Default,,0000,0000,0000,,Option 3, we get running in circles.
+Dialogue: 0,0:19:53.00,0:19:53.96,Default,,0000,0000,0000,,Follow my lead.
+Dialogue: 0,0:20:04.24,0:20:04.81,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:20:09.42,0:20:11.84,Default,,0000,0000,0000,,Humans? Where did you vermin...
+Dialogue: 0,0:20:14.42,0:20:15.24,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:20:17.17,0:20:22.63,Default,,0000,0000,0000,,This isn't mine... ah... Unhand me!
+Dialogue: 0,0:20:25.12,0:20:27.65,Default,,0000,0000,0000,,Jack, Miko, Raphael.
+Dialogue: 0,0:20:27.85,0:20:30.31,Default,,0000,0000,0000,,Ah, Autobots again?
+Dialogue: 0,0:20:34.52,0:20:37.57,Default,,0000,0000,0000,,Requesting emergency GroundBridge, now!
+Dialogue: 0,0:20:41.36,0:20:44.80,Default,,0000,0000,0000,,Look, if you are gonna blame anybody, blame me.
+Dialogue: 0,0:20:44.92,0:20:48.53,Default,,0000,0000,0000,,I'm sorry, could you repeat that a couple of dozen times?
+Dialogue: 0,0:20:48.91,0:20:52.70,Default,,0000,0000,0000,,Miko, what you endured has been lesson enough.
+Dialogue: 0,0:20:53.31,0:20:55.32,Default,,0000,0000,0000,,We are just glad you are all safe.
+Dialogue: 0,0:20:57.10,0:20:59.34,Default,,0000,0000,0000,,Guess it was a good thing you dropped this.
+Dialogue: 0,0:20:59.77,0:21:01.86,Default,,0000,0000,0000,,Too bad you didn't get any pictures though.
+Dialogue: 0,0:21:02.09,0:21:03.35,Default,,0000,0000,0000,,Nah, that's OK.
+Dialogue: 0,0:21:03.51,0:21:04.39,Default,,0000,0000,0000,,I think after today,
+Dialogue: 0,0:21:04.39,0:21:08.28,Default,,0000,0000,0000,,I pretty much have zombie close-up seared into my brain.
+Dialogue: 0,0:21:09.19,0:21:13.24,Default,,0000,0000,0000,,What happened? Megatron pound you like scrap metal again?
+Dialogue: 0,0:21:13.24,0:21:14.81,Default,,0000,0000,0000,,I would rather not discuss it.
+Dialogue: 0,0:21:15.24,0:21:18.73,Default,,0000,0000,0000,,Honestly Starscream, you need to take better care of yourself.
+Dialogue: 0,0:21:19.33,0:21:21.27,Default,,0000,0000,0000,,Didn't you retrieve your limb?

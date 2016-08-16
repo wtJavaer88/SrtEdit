@@ -1,0 +1,264 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:02.14,0:00:05.44,Default,,0000,0000,0000,,Previously on Transformers: Prime
+Dialogue: 0,0:00:05.64,0:00:09.40,Default,,0000,0000,0000,,It's as if the blood of Unicron the Destroyer
+Dialogue: 0,0:00:09.60,0:00:12.41,Default,,0000,0000,0000,,flows through my veins.
+Dialogue: 0,0:00:13.11,0:00:14.86,Default,,0000,0000,0000,,Dark Energon?
+Dialogue: 0,0:00:15.16,0:00:18.23,Default,,0000,0000,0000,,It's so scarce as to be virtually non-existent.
+Dialogue: 0,0:00:18.43,0:00:20.20,Default,,0000,0000,0000,,Contact with civilians.
+Dialogue: 0,0:00:21.08,0:00:22.68,Default,,0000,0000,0000,,We're protecting them.
+Dialogue: 0,0:00:23.10,0:00:25.77,Default,,0000,0000,0000,,Fetch me this Fowler.
+Dialogue: 0,0:00:26.02,0:00:29.49,Default,,0000,0000,0000,,Tell me the location of the Autobot base.
+Dialogue: 0,0:00:29.69,0:00:31.17,Default,,0000,0000,0000,,It's an SOS.
+Dialogue: 0,0:00:37.17,0:00:38.63,Default,,0000,0000,0000,,- Scrap.\N- Scrap.
+Dialogue: 0,0:00:38.98,0:00:41.88,Default,,0000,0000,0000,,Rise, my army!
+Dialogue: 0,0:00:41.88,0:00:48.01,Default,,0000,0000,0000,,Behold, the power of Dark Energon!
+Dialogue: 0,0:01:03.35,0:01:09.34,Default,,0000,0000,0000,,Megatron has desecrated the resting place of our fallen ancestors... and his own!
+Dialogue: 0,0:01:09.90,0:01:13.60,Default,,0000,0000,0000,,Not even the dead are free from his war-mongering.
+Dialogue: 0,0:01:16.09,0:01:20.61,Default,,0000,0000,0000,,At last, symbiosis, I can feel it.
+Dialogue: 0,0:01:20.61,0:01:23.87,Default,,0000,0000,0000,,I possess complete control over my army.
+Dialogue: 0,0:01:24.56,0:01:26.41,Default,,0000,0000,0000,,Destroy them!
+Dialogue: 0,0:01:41.11,0:01:44.53,Default,,0000,0000,0000,,Optimus, if our combatants are already deceased,
+Dialogue: 0,0:01:44.53,0:01:46.98,Default,,0000,0000,0000,,How can we possibly defeat them?
+Dialogue: 0,0:02:04.33,0:02:06.16,Default,,0000,0000,0000,,Ratchet, retreat!
+Dialogue: 0,0:02:06.16,0:02:07.97,Default,,0000,0000,0000,,Bridge yourself back to base!
+Dialogue: 0,0:02:08.07,0:02:11.64,Default,,0000,0000,0000,,{\pos(192,280)}No, I shall stand with you, Optimus.
+Dialogue: 0,0:02:12.03,0:02:14.96,Default,,0000,0000,0000,,{\pos(192,280)}You may require a medic when this is over with.
+Dialogue: 0,0:02:21.80,0:02:24.52,Default,,0000,0000,0000,,{\pos(192,280)}I recommend dissection.
+Dialogue: 0,0:02:24.52,0:02:26.72,Default,,0000,0000,0000,,{\pos(192,280)}The smaller the pieces, the better!
+Dialogue: 0,0:02:28.38,0:02:31.17,Default,,0000,0000,0000,,{\pos(192,280)}Sound advice, old friend.
+Dialogue: 0,0:02:41.98,0:02:44.90,Default,,0000,0000,0000,,{\pos(192,280)}I have mastered Dark Energon.
+Dialogue: 0,0:02:44.90,0:02:47.11,Default,,0000,0000,0000,,{\pos(192,280)}When you fall, Optimus,
+Dialogue: 0,0:02:47.11,0:02:49.66,Default,,0000,0000,0000,,you too, shall join my army.
+Dialogue: 0,0:03:05.74,0:03:07.46,Default,,0000,0000,0000,,Get in, now!
+Dialogue: 0,0:03:14.99,0:03:16.08,Default,,0000,0000,0000,,Thanks, Bulkhead.
+Dialogue: 0,0:03:16.08,0:03:17.58,Default,,0000,0000,0000,,Yea, thanks.
+Dialogue: 0,0:03:17.58,0:03:19.41,Default,,0000,0000,0000,,What... what are you doing here?
+Dialogue: 0,0:03:19.71,0:03:21.46,Default,,0000,0000,0000,,We were worried about Miko.
+Dialogue: 0,0:03:21.46,0:03:22.64,Default,,0000,0000,0000,,Have you seen her?
+Dialogue: 0,0:03:22.64,0:03:23.73,Default,,0000,0000,0000,,What's she look like?
+Dialogue: 0,0:03:27.23,0:03:28.56,Default,,0000,0000,0000,,Everyone out.
+Dialogue: 0,0:03:29.13,0:03:31.97,Default,,0000,0000,0000,,And this time, please, wait here!
+Dialogue: 0,0:04:28.00,0:04:29.39,Default,,0000,0000,0000,,Where's Miko?
+Dialogue: 0,0:04:34.40,0:04:35.45,Default,,0000,0000,0000,,Miko?
+Dialogue: 0,0:04:35.87,0:04:37.48,Default,,0000,0000,0000,,I heaved on your floor mats.
+Dialogue: 0,0:04:37.48,0:04:38.99,Default,,0000,0000,0000,,Sorry! Ugh...
+Dialogue: 0,0:04:45.06,0:04:47.99,Default,,0000,0000,0000,,Remind me never to do that again.
+Dialogue: 0,0:05:25.65,0:05:27.47,Default,,0000,0000,0000,,Think they forgot about us?
+Dialogue: 0,0:05:52.57,0:05:53.99,Default,,0000,0000,0000,,I'm gonna heave again.
+Dialogue: 0,0:05:58.69,0:06:00.01,Default,,0000,0000,0000,,Bring them to the brig.
+Dialogue: 0,0:06:00.01,0:06:03.09,Default,,0000,0000,0000,,Commander Starscream has keeping the other human there.
+Dialogue: 0,0:06:14.52,0:06:15.70,Default,,0000,0000,0000,,Bumblebee!
+Dialogue: 0,0:06:18.25,0:06:20.33,Default,,0000,0000,0000,,Appreciate you cleared the front door for us.
+Dialogue: 0,0:06:20.33,0:06:23.86,Default,,0000,0000,0000,,But storming the Decepticon warship was not on the activities list.
+Dialogue: 0,0:06:24.36,0:06:25.52,Default,,0000,0000,0000,,Tell me about it.
+Dialogue: 0,0:06:29.65,0:06:31.07,Default,,0000,0000,0000,,- Friendly!\N- Hello!
+Dialogue: 0,0:06:32.43,0:06:33.92,Default,,0000,0000,0000,,Brought the humans, huh?
+Dialogue: 0,0:06:33.92,0:06:35.93,Default,,0000,0000,0000,,You try getting them to stay behind!
+Dialogue: 0,0:06:35.93,0:06:38.58,Default,,0000,0000,0000,,We need to find Fowler and get these kids outta here.
+Dialogue: 0,0:06:38.58,0:06:40.69,Default,,0000,0000,0000,,Uh, he's in the brig.
+Dialogue: 0,0:06:44.98,0:06:47.43,Default,,0000,0000,0000,,My dear Agent Fowler.
+Dialogue: 0,0:06:48.21,0:06:53.07,Default,,0000,0000,0000,,You do realize the Autobots have abandoned you.
+Dialogue: 0,0:06:56.18,0:06:59.87,Default,,0000,0000,0000,,I am the only one you can rely upon now.
+Dialogue: 0,0:06:59.87,0:07:02.29,Default,,0000,0000,0000,,So, tell me what I want to know,
+Dialogue: 0,0:07:02.49,0:07:03.67,Default,,0000,0000,0000,,or...
+Dialogue: 0,0:07:07.14,0:07:09.21,Default,,0000,0000,0000,,Please, no more.
+Dialogue: 0,0:07:09.21,0:07:12.39,Default,,0000,0000,0000,,They're in secret government base.
+Dialogue: 0,0:07:12.59,0:07:13.92,Default,,0000,0000,0000,,Go on.
+Dialogue: 0,0:07:20.23,0:07:21.33,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:07:21.63,0:07:23.60,Default,,0000,0000,0000,,In the old steel mill,
+Dialogue: 0,0:07:23.60,0:07:26.45,Default,,0000,0000,0000,,was it under that carnival's fun house?
+Dialogue: 0,0:07:32.50,0:07:35.86,Default,,0000,0000,0000,,Someone find out what is going on out there!
+Dialogue: 0,0:08:24.07,0:08:29.42,Default,,0000,0000,0000,,Ugh, Optimus, this prolonged exposure to Dark Energon
+Dialogue: 0,0:08:29.42,0:08:31.34,Default,,0000,0000,0000,,is sapping our strength.
+Dialogue: 0,0:08:31.34,0:08:33.56,Default,,0000,0000,0000,,We cannot falter now.
+Dialogue: 0,0:08:47.84,0:08:49.27,Default,,0000,0000,0000,,Optimus! Eah...
+Dialogue: 0,0:09:23.10,0:09:26.10,Default,,0000,0000,0000,,After all these years, Optimus,
+Dialogue: 0,0:09:26.10,0:09:28.69,Default,,0000,0000,0000,,still at the top of your game!
+Dialogue: 0,0:09:30.58,0:09:33.86,Default,,0000,0000,0000,,My legion, finish them!
+Dialogue: 0,0:09:54.70,0:09:55.85,Default,,0000,0000,0000,,Clear.
+Dialogue: 0,0:09:59.14,0:10:00.20,Default,,0000,0000,0000,,Wait in here.
+Dialogue: 0,0:10:02.53,0:10:05.26,Default,,0000,0000,0000,,They're slowing us down, and they're easy targets.
+Dialogue: 0,0:10:05.26,0:10:06.83,Default,,0000,0000,0000,,They'll be alright in here,
+Dialogue: 0,0:10:06.83,0:10:09.08,Default,,0000,0000,0000,,as long as they stay put.
+Dialogue: 0,0:10:17.09,0:10:19.50,Default,,0000,0000,0000,,That was intense.
+Dialogue: 0,0:10:19.50,0:10:20.36,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:10:20.36,0:10:23.15,Default,,0000,0000,0000,,It's your fault that we're stuck in this intensity.
+Dialogue: 0,0:10:23.15,0:10:24.51,Default,,0000,0000,0000,,What were you thinking, Miko?
+Dialogue: 0,0:10:24.71,0:10:26.26,Default,,0000,0000,0000,,Did I ask you to follow me?
+Dialogue: 0,0:10:26.26,0:10:28.34,Default,,0000,0000,0000,,You wanted us to be a band.
+Dialogue: 0,0:10:28.34,0:10:30.12,Default,,0000,0000,0000,,Doesn't that usually mean "playing together"?
+Dialogue: 0,0:10:30.32,0:10:32.44,Default,,0000,0000,0000,,Well, maybe I decided to go solo!!
+Dialogue: 0,0:10:32.44,0:10:34.89,Default,,0000,0000,0000,,Well, maybe I have some regard for your safety!
+Dialogue: 0,0:10:35.09,0:10:38.06,Default,,0000,0000,0000,,Oh, I'm sorry, is your name Optimus?
+Dialogue: 0,0:10:38.06,0:10:41.18,Default,,0000,0000,0000,,You can leave my protection to Bulkhead, thank you very much!
+Dialogue: 0,0:10:41.39,0:10:43.78,Default,,0000,0000,0000,,Stop it! Both of you!
+Dialogue: 0,0:10:48.92,0:10:51.65,Default,,0000,0000,0000,,Oh, hey hey hey, Raf, Raf, it's... it's ok.
+Dialogue: 0,0:10:51.65,0:10:53.96,Default,,0000,0000,0000,,Yea, we're gonna be fine.
+Dialogue: 0,0:10:55.13,0:10:57.62,Default,,0000,0000,0000,,Our bots will come back for us.
+Dialogue: 0,0:10:57.62,0:11:00.56,Default,,0000,0000,0000,,Yea. They're gonna take us home.
+Dialogue: 0,0:11:00.76,0:11:02.41,Default,,0000,0000,0000,,How do you know?
+Dialogue: 0,0:11:04.33,0:11:05.76,Default,,0000,0000,0000,,Hey, Raf,
+Dialogue: 0,0:11:05.76,0:11:07.31,Default,,0000,0000,0000,,what do you make of that?
+Dialogue: 0,0:11:19.34,0:11:20.70,Default,,0000,0000,0000,,It's important.
+Dialogue: 0,0:11:21.00,0:11:22.33,Default,,0000,0000,0000,,Really important.
+Dialogue: 0,0:11:25.02,0:11:27.99,Default,,0000,0000,0000,,Wake up, you pathetic lump of flesh!
+Dialogue: 0,0:11:28.23,0:11:32.30,Default,,0000,0000,0000,,Mmm... Grandma? Is it cookie time?
+Dialogue: 0,0:11:39.31,0:11:40.39,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:11:46.52,0:11:48.55,Default,,0000,0000,0000,,Not so fast!
+Dialogue: 0,0:11:50.59,0:11:51.86,Default,,0000,0000,0000,,I wouldn't.
+Dialogue: 0,0:11:52.06,0:11:54.27,Default,,0000,0000,0000,,Oh, but I MIGHT...
+Dialogue: 0,0:11:56.31,0:11:58.13,Default,,0000,0000,0000,,We got to get this to Optimus.
+Dialogue: 0,0:11:58.33,0:12:01.25,Default,,0000,0000,0000,,How do you know it isn't just a recipe for space nachos?
+Dialogue: 0,0:12:01.45,0:12:03.27,Default,,0000,0000,0000,,I know math when I see it.
+Dialogue: 0,0:12:03.27,0:12:05.70,Default,,0000,0000,0000,,And that is one serious equation.
+Dialogue: 0,0:12:05.90,0:12:09.06,Default,,0000,0000,0000,,Can you... download it?
+Dialogue: 0,0:12:09.92,0:12:11.50,Default,,0000,0000,0000,,I got a flash drive.
+Dialogue: 0,0:12:14.36,0:12:16.57,Default,,0000,0000,0000,,But I don't see anywhere to plug it in.
+Dialogue: 0,0:12:16.57,0:12:19.09,Default,,0000,0000,0000,,This tech is way alien.
+Dialogue: 0,0:12:51.86,0:12:56.33,Default,,0000,0000,0000,,Now, Agent Fowler and I will take our leave.
+Dialogue: 0,0:12:56.33,0:12:59.26,Default,,0000,0000,0000,,The evil says "yep!"
+Dialogue: 0,0:13:24.86,0:13:26.41,Default,,0000,0000,0000,,Miko, take a picture!
+Dialogue: 0,0:13:26.61,0:13:27.80,Default,,0000,0000,0000,,Great idea!
+Dialogue: 0,0:13:30.60,0:13:31.91,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:13:36.20,0:13:38.72,Default,,0000,0000,0000,,Not of that, of that!
+Dialogue: 0,0:13:38.90,0:13:40.02,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:13:45.67,0:13:47.48,Default,,0000,0000,0000,,Go, go, go!
+Dialogue: 0,0:14:08.96,0:14:11.31,Default,,0000,0000,0000,,I told you to stay put!
+Dialogue: 0,0:14:13.34,0:14:15.21,Default,,0000,0000,0000,,I like pie.
+Dialogue: 0,0:14:15.21,0:14:17.03,Default,,0000,0000,0000,,Can we stop for pie?
+Dialogue: 0,0:14:17.03,0:14:18.43,Default,,0000,0000,0000,,You found Fowler!
+Dialogue: 0,0:14:18.43,0:14:19.62,Default,,0000,0000,0000,,ROCK ON!
+Dialogue: 0,0:14:29.03,0:14:30.88,Default,,0000,0000,0000,,Bravo, Optimus!
+Dialogue: 0,0:14:31.08,0:14:33.15,Default,,0000,0000,0000,,Though this is but a prelude.
+Dialogue: 0,0:14:33.15,0:14:36.80,Default,,0000,0000,0000,,You may wish to save your strength for the main event!
+Dialogue: 0,0:14:40.31,0:14:43.83,Default,,0000,0000,0000,,You will not prevail, Megatron.
+Dialogue: 0,0:14:45.37,0:14:47.44,Default,,0000,0000,0000,,Not while energon still flows
+Dialogue: 0,0:14:47.44,0:14:50.37,Default,,0000,0000,0000,,through my veins!
+Dialogue: 0,0:14:50.57,0:14:55.77,Default,,0000,0000,0000,,Fit in, for this Dark Energon which flows through mine.
+Dialogue: 0,0:15:10.47,0:15:13.21,Default,,0000,0000,0000,,If this wasn't Megatron's in game,
+Dialogue: 0,0:15:13.88,0:15:15.06,Default,,0000,0000,0000,,what is?
+Dialogue: 0,0:15:31.72,0:15:33.87,Default,,0000,0000,0000,,What happened to you guys anyway?
+Dialogue: 0,0:15:33.87,0:15:37.53,Default,,0000,0000,0000,,We engaged an army of undead Cybertronian warriors.
+Dialogue: 0,0:15:37.73,0:15:38.97,Default,,0000,0000,0000,,Zombies?
+Dialogue: 0,0:15:38.97,0:15:41.28,Default,,0000,0000,0000,,You fought zombies and I missed it?
+Dialogue: 0,0:15:41.28,0:15:42.63,Default,,0000,0000,0000,,Bulkhead,
+Dialogue: 0,0:15:42.63,0:15:47.96,Default,,0000,0000,0000,,you exercised extremely poor judgement at allowing the humans to accompany you.
+Dialogue: 0,0:15:49.73,0:15:51.98,Default,,0000,0000,0000,,It won't happen again, Optimus,
+Dialogue: 0,0:15:51.98,0:15:53.71,Default,,0000,0000,0000,,I promise.
+Dialogue: 0,0:15:53.72,0:15:55.84,Default,,0000,0000,0000,,But it wasn't Bulkhead's fault.
+Dialogue: 0,0:15:55.94,0:15:57.93,Default,,0000,0000,0000,,Miko, please!
+Dialogue: 0,0:15:57.93,0:15:58.84,Default,,0000,0000,0000,,And check it out.
+Dialogue: 0,0:15:59.14,0:16:00.29,Default,,0000,0000,0000,,Recon!
+Dialogue: 0,0:16:02.48,0:16:05.32,Default,,0000,0000,0000,,Umm... Ratchet, have a look.
+Dialogue: 0,0:16:05.32,0:16:08.13,Default,,0000,0000,0000,,It could be of importance to Megatron.
+Dialogue: 0,0:16:08.98,0:16:10.95,Default,,0000,0000,0000,,Wow, Megatron's back?
+Dialogue: 0,0:16:10.95,0:16:13.26,Default,,0000,0000,0000,,That's really bad news, right?
+Dialogue: 0,0:16:15.48,0:16:18.03,Default,,0000,0000,0000,,I... don't understand.
+Dialogue: 0,0:16:19.23,0:16:20.33,Default,,0000,0000,0000,,Oops.
+Dialogue: 0,0:16:20.70,0:16:23.47,Default,,0000,0000,0000,,That's the Con who'd tried to blow Raf away.
+Dialogue: 0,0:16:23.47,0:16:25.30,Default,,0000,0000,0000,,At least that's what it look like
+Dialogue: 0,0:16:25.30,0:16:28.32,Default,,0000,0000,0000,,before Bulkhead rearrange his grill.
+Dialogue: 0,0:16:28.34,0:16:31.35,Default,,0000,0000,0000,,Miko, Raf was almost killed!
+Dialogue: 0,0:16:31.35,0:16:32.55,Default,,0000,0000,0000,,This isn't a game,
+Dialogue: 0,0:16:32.55,0:16:34.84,Default,,0000,0000,0000,,when do you gonna get that through your fixed skull?
+Dialogue: 0,0:16:34.84,0:16:37.98,Default,,0000,0000,0000,,Umm, we were all almost killed, Jack.
+Dialogue: 0,0:16:37.98,0:16:39.61,Default,,0000,0000,0000,,You, me, Raf,
+Dialogue: 0,0:16:39.61,0:16:41.07,Default,,0000,0000,0000,,even them!
+Dialogue: 0,0:16:41.87,0:16:44.90,Default,,0000,0000,0000,,Well, if this was just an average day with the Autobots,
+Dialogue: 0,0:16:44.90,0:16:46.39,Default,,0000,0000,0000,,then I don't wanna be a part of it.
+Dialogue: 0,0:16:46.39,0:16:47.74,Default,,0000,0000,0000,,Not any more.
+Dialogue: 0,0:16:48.11,0:16:49.49,Default,,0000,0000,0000,,Jack,
+Dialogue: 0,0:16:49.60,0:16:53.28,Default,,0000,0000,0000,,putting you in harm's way was never our intent.
+Dialogue: 0,0:16:53.78,0:16:59.28,Default,,0000,0000,0000,,However, it is no longer the safety of you three that is at risk,
+Dialogue: 0,0:16:59.28,0:17:02.40,Default,,0000,0000,0000,,but the safety of all human kind.
+Dialogue: 0,0:17:02.40,0:17:06.04,Default,,0000,0000,0000,,We will respect your decision if you wish to leave.
+Dialogue: 0,0:17:07.53,0:17:10.21,Default,,0000,0000,0000,,No point in long good-byes. Here's the door.
+Dialogue: 0,0:17:12.76,0:17:13.96,Default,,0000,0000,0000,,Come on, Raf.
+Dialogue: 0,0:17:18.75,0:17:22.28,Default,,0000,0000,0000,,I'll be ok, Jack. See you at school.
+Dialogue: 0,0:17:22.86,0:17:24.20,Default,,0000,0000,0000,,Sure thing.
+Dialogue: 0,0:17:30.39,0:17:32.58,Default,,0000,0000,0000,,I know, you don't exist.
+Dialogue: 0,0:17:32.78,0:17:34.58,Default,,0000,0000,0000,,Don't make me hunt you down.
+Dialogue: 0,0:17:47.13,0:17:50.83,Default,,0000,0000,0000,,Please, Lord Megatron, I meant no... Ah...
+Dialogue: 0,0:17:53.73,0:17:56.77,Default,,0000,0000,0000,,I ordered you to await my command!
+Dialogue: 0,0:17:59.75,0:18:04.49,Default,,0000,0000,0000,,Instead, your mindless agenda resulted in the disabling of my ship!
+Dialogue: 0,0:18:04.49,0:18:07.34,Default,,0000,0000,0000,,And the delay of my plans!
+Dialogue: 0,0:18:08.44,0:18:11.28,Default,,0000,0000,0000,,My intentions were pure, master.
+Dialogue: 0,0:18:11.28,0:18:14.33,Default,,0000,0000,0000,,I only wanted you to be rid of Optimus!
+Dialogue: 0,0:18:15.03,0:18:17.93,Default,,0000,0000,0000,,No one rids me of Optimus Prime but me.
+Dialogue: 0,0:18:17.93,0:18:19.94,Default,,0000,0000,0000,,Do you understand,
+Dialogue: 0,0:18:19.94,0:18:20.95,Default,,0000,0000,0000,,do you?
+Dialogue: 0,0:18:21.90,0:18:27.25,Default,,0000,0000,0000,,Lord Megatron, I will make things right, I swear!
+Dialogue: 0,0:18:27.25,0:18:31.60,Default,,0000,0000,0000,,I know how to set your plans back on course!
+Dialogue: 0,0:18:33.91,0:18:36.71,Default,,0000,0000,0000,,Explain, Starscream,
+Dialogue: 0,0:18:36.71,0:18:38.32,Default,,0000,0000,0000,,quickly.
+Dialogue: 0,0:18:50.50,0:18:53.71,Default,,0000,0000,0000,,Now I understand why you had to rush home.
+Dialogue: 0,0:18:53.81,0:18:56.49,Default,,0000,0000,0000,,Don't you have something more exciting to do, Miko?
+Dialogue: 0,0:18:56.68,0:18:59.13,Default,,0000,0000,0000,,So, this is where you hang, huh?
+Dialogue: 0,0:18:59.23,0:19:00.45,Default,,0000,0000,0000,,Back home in Tokyo,
+Dialogue: 0,0:19:00.45,0:19:02.84,Default,,0000,0000,0000,,I have loving parents and two purebred cats,
+Dialogue: 0,0:19:02.84,0:19:04.15,Default,,0000,0000,0000,,Chi Chi and Ding Dong.
+Dialogue: 0,0:19:04.15,0:19:07.45,Default,,0000,0000,0000,,I went to the best school, to piano lessons since I was three.
+Dialogue: 0,0:19:07.55,0:19:09.35,Default,,0000,0000,0000,,How nice for you.
+Dialogue: 0,0:19:10.17,0:19:12.44,Default,,0000,0000,0000,,No, how boring.
+Dialogue: 0,0:19:14.34,0:19:15.88,Default,,0000,0000,0000,,It wasn't me.
+Dialogue: 0,0:19:15.88,0:19:18.81,Default,,0000,0000,0000,,Why do you think I jumped at the chance to transfer here?
+Dialogue: 0,0:19:19.91,0:19:21.98,Default,,0000,0000,0000,,To Jasper, Navada,
+Dialogue: 0,0:19:21.98,0:19:24.18,Default,,0000,0000,0000,,the entertainment capital of the world?
+Dialogue: 0,0:19:24.71,0:19:27.17,Default,,0000,0000,0000,,Yeah, well, the bros sure lied.
+Dialogue: 0,0:19:27.17,0:19:30.41,Default,,0000,0000,0000,,Piano lessons were starting to look pretty good, in fact.
+Dialogue: 0,0:19:30.65,0:19:33.33,Default,,0000,0000,0000,,But then, the last couple of days happened.
+Dialogue: 0,0:19:33.43,0:19:35.82,Default,,0000,0000,0000,,Do you have a point?
+Dialogue: 0,0:19:36.25,0:19:37.55,Default,,0000,0000,0000,,You bet?
+Dialogue: 0,0:19:37.55,0:19:39.25,Default,,0000,0000,0000,,I saw what you did today,
+Dialogue: 0,0:19:39.25,0:19:40.79,Default,,0000,0000,0000,,when you saved Raf,
+Dialogue: 0,0:19:40.79,0:19:42.64,Default,,0000,0000,0000,,when you came to save me.
+Dialogue: 0,0:19:43.67,0:19:45.73,Default,,0000,0000,0000,,I've been raised to be responsible,
+Dialogue: 0,0:19:45.73,0:19:48.91,Default,,0000,0000,0000,,to my schoolwork, to my mom, my job.
+Dialogue: 0,0:19:50.32,0:19:52.27,Default,,0000,0000,0000,,Dude, hear me out.
+Dialogue: 0,0:19:52.27,0:19:53.73,Default,,0000,0000,0000,,You're no fry cook,
+Dialogue: 0,0:19:53.73,0:19:55.38,Default,,0000,0000,0000,,you're a rock star.
+Dialogue: 0,0:19:55.40,0:19:57.98,Default,,0000,0000,0000,,Stop pretending you're normal, Jack.
+Dialogue: 0,0:19:57.98,0:19:59.66,Default,,0000,0000,0000,,You'll never fit in.
+Dialogue: 0,0:19:59.74,0:20:02.39,Default,,0000,0000,0000,,You were born to do so much more.
+Dialogue: 0,0:20:02.60,0:20:03.88,Default,,0000,0000,0000,,Thanks, Miko.
+Dialogue: 0,0:20:03.88,0:20:06.12,Default,,0000,0000,0000,,But I think normal suits me fine.
+Dialogue: 0,0:20:24.92,0:20:26.99,Default,,0000,0000,0000,,It can't be.
+Dialogue: 0,0:20:27.56,0:20:29.12,Default,,0000,0000,0000,,Optimus!
+Dialogue: 0,0:20:30.92,0:20:36.51,Default,,0000,0000,0000,,These are engineering specs for a space-time vortex generator.
+Dialogue: 0,0:20:36.71,0:20:39.58,Default,,0000,0000,0000,,Megatron's building a Space Bridge,
+Dialogue: 0,0:20:39.58,0:20:41.72,Default,,0000,0000,0000,,if he hasn't already.
+Dialogue: 0,0:20:41.72,0:20:43.68,Default,,0000,0000,0000,,The sooner he leaves, the better.
+Dialogue: 0,0:20:43.68,0:20:48.28,Default,,0000,0000,0000,,Bulkhead, a Space Bridge runs in two directions.
+Dialogue: 0,0:20:48.28,0:20:51.45,Default,,0000,0000,0000,,Megatron may not be using it to leave Earth,
+Dialogue: 0,0:20:51.45,0:20:54.49,Default,,0000,0000,0000,,but to bring through his conquering army.
+Dialogue: 0,0:20:54.69,0:20:57.85,Default,,0000,0000,0000,,The main event Megatron referred to...
+Dialogue: 0,0:20:58.31,0:21:06.00,Default,,0000,0000,0000,,But the only place Megatron could possibly recruit that many fallen warriors...
+Dialogue: 0,0:21:06.00,0:21:07.60,Default,,0000,0000,0000,,Precisely...
+Dialogue: 0,0:21:28.48,0:21:29.97,Default,,0000,0000,0000,,Cybertron.

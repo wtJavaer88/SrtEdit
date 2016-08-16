@@ -1,0 +1,185 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00ffffff,&Hf0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+
+Dialogue: 0,0:00:01.30,0:00:04.30,Default,,0000,0000,0000,,Previously on "Transformers Prime..."
+Dialogue: 0,0:00:04.30,0:00:07.60,Default,,0000,0000,0000,,Assembly of the Omega Lock is entering the final stage.
+Dialogue: 0,0:00:07.60,0:00:10.77,Default,,0000,0000,0000,,Megatron is preparing to cyber-form Earth.
+Dialogue: 0,0:00:10.77,0:00:14.21,Default,,0000,0000,0000,,Autobots, lock on to those coordinates.
+Dialogue: 0,0:00:14.21,0:00:16.21,Default,,0000,0000,0000,,Spectrum analysis confirms
+Dialogue: 0,0:00:16.21,0:00:17.98,Default,,0000,0000,0000,,that the Synthetic Energon is stable.
+Dialogue: 0,0:00:17.98,0:00:22.42,Default,,0000,0000,0000,,But pity you won't live long enough to witness the fruits of your labor.
+Dialogue: 0,0:00:22.42,0:00:27.62,Default,,0000,0000,0000,,Your high and mighty leader wanted your Predacons exterminated!
+Dialogue: 0,0:00:29.76,0:00:33.83,Default,,0000,0000,0000,,And my only mistake was not seeing the extermination through.
+Dialogue: 0,0:00:34.96,0:00:37.33,Default,,0000,0000,0000,,You should have faced me as a beast!
+Dialogue: 0,0:00:38.73,0:00:41.24,Default,,0000,0000,0000,,Globalize what remains of our forces.
+Dialogue: 0,0:00:41.24,0:00:46.27,Default,,0000,0000,0000,,This will be our last stand.
+Dialogue: 0,0:00:55.10,0:00:58.45,Default,,0000,0000,0000,,The Omega Lock's control station is located on the lower deck.
+Dialogue: 0,0:00:58.85,0:00:59.82,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:01:03.42,0:01:04.66,Default,,0000,0000,0000,,I am making my way there now.
+Dialogue: 0,0:01:05.43,0:01:06.79,Default,,0000,0000,0000,,Copy, Ratchet.
+Dialogue: 0,0:01:06.80,0:01:08.83,Default,,0000,0000,0000,,We will rendezvous at the objective.
+Dialogue: 0,0:01:08.83,0:01:12.77,Default,,0000,0000,0000,,R.C., lead stealth team to secure the Omega Lock.
+Dialogue: 0,0:01:12.77,0:01:17.07,Default,,0000,0000,0000,,Ultra Magnus, you and the Wreckers storm the bridge.
+Dialogue: 0,0:01:17.57,0:01:20.71,Default,,0000,0000,0000,,Prevent the Decepticons from targeting the device
+Dialogue: 0,0:01:20.71,0:01:22.68,Default,,0000,0000,0000,,if stealth team is delayed.
+Dialogue: 0,0:01:25.58,0:01:30.02,Default,,0000,0000,0000,,Optimus, if we fail to secure the lock before it's ready to deploy,
+Dialogue: 0,0:01:30.02,0:01:31.35,Default,,0000,0000,0000,,do we destroy it?
+Dialogue: 0,0:01:31.35,0:01:36.76,Default,,0000,0000,0000,,I do not intend to squander a second chance to restore Cybertron.
+Dialogue: 0,0:01:41.30,0:01:42.46,Default,,0000,0000,0000,,Wreckers.
+Dialogue: 0,0:01:42.46,0:01:44.27,Default,,0000,0000,0000,,Bee, Smokescreen... with me.
+Dialogue: 0,0:01:51.17,0:01:52.11,Default,,0000,0000,0000,,Smokescreen!
+Dialogue: 0,0:02:05.99,0:02:07.12,Default,,0000,0000,0000,,Raaaah!
+Dialogue: 0,0:02:22.67,0:02:23.84,Default,,0000,0000,0000,,Raaaah!
+Dialogue: 0,0:02:55.00,0:02:56.14,Default,,0000,0000,0000,,{\pos(192,280)}Go on without me.
+Dialogue: 0,0:02:58.44,0:02:59.67,Default,,0000,0000,0000,,That isn't the mission.
+Dialogue: 0,0:03:01.28,0:03:02.58,Default,,0000,0000,0000,,{\pos(192,280)}There's something I need to do.
+Dialogue: 0,0:03:23.83,0:03:25.87,Default,,0000,0000,0000,,Shut it down, Shockwave.
+Dialogue: 0,0:03:25.87,0:03:28.50,Default,,0000,0000,0000,,I cannot allow you to harm Earth.
+Dialogue: 0,0:03:28.50,0:03:30.37,Default,,0000,0000,0000,,The planet will not be harmed...
+Dialogue: 0,0:03:30.37,0:03:32.71,Default,,0000,0000,0000,,only its indigenous life-forms.
+Dialogue: 0,0:03:32.71,0:03:35.91,Default,,0000,0000,0000,,Over my sparkless husk.
+Dialogue: 0,0:03:35.91,0:03:37.61,Default,,0000,0000,0000,,Aaah!
+Dialogue: 0,0:03:47.05,0:03:48.42,Default,,0000,0000,0000,,Aaah!
+Dialogue: 0,0:03:52.46,0:03:54.43,Default,,0000,0000,0000,,Ratchet, we're approaching your position.
+Dialogue: 0,0:03:55.93,0:03:56.83,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:57.03,0:03:58.23,Default,,0000,0000,0000,,Scrap.
+Dialogue: 0,0:03:58.23,0:03:59.33,Default,,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:03.37,0:04:05.41,Default,,0000,0000,0000,,Pack light. Pack light.
+Dialogue: 0,0:04:08.54,0:04:09.81,Default,,0000,0000,0000,,Pack smart.
+Dialogue: 0,0:04:22.36,0:04:24.16,Default,,0000,0000,0000,,I was hoping you'd still be here.
+Dialogue: 0,0:04:28.98,0:04:30.26,Default,,0000,0000,0000,,Secure the bridge!
+Dialogue: 0,0:04:47.31,0:04:50.18,Default,,0000,0000,0000,,Ultra Magnus to all units. We will be delayed.
+Dialogue: 0,0:04:50.31,0:04:52.82,Default,,0000,0000,0000,,Soundwave pulled one of his relocation tricks.
+Dialogue: 0,0:04:54.11,0:04:56.52,Default,,0000,0000,0000,,Raf, can you get me onto the warship's bridge?
+Dialogue: 0,0:04:56.61,0:04:58.92,Default,,0000,0000,0000,,Sure, now that I have a fix on it.
+Dialogue: 0,0:04:59.02,0:05:01.46,Default,,0000,0000,0000,,But you won't have a chance against Soundwave.
+Dialogue: 0,0:05:01.56,0:05:03.46,Default,,0000,0000,0000,,I will if I have backup.
+Dialogue: 0,0:05:04.78,0:05:05.55,Default,,0000,0000,0000,,Eh... ah!
+Dialogue: 0,0:05:10.77,0:05:13.77,Default,,0000,0000,0000,,Lord Megatron, the Omega Lock is fueled and ready.
+Dialogue: 0,0:05:38.33,0:05:43.30,Default,,0000,0000,0000,,Shockwave, commence Omega Lock firing sequence.
+Dialogue: 0,0:06:05.37,0:06:06.90,Default,,0000,0000,0000,,Eee! Yaaah!
+Dialogue: 0,0:06:09.02,0:06:10.66,Default,,0000,0000,0000,,Eh! Oh, scrap!
+Dialogue: 0,0:06:25.38,0:06:26.25,Default,,0000,0000,0000,,Surprise!
+Dialogue: 0,0:06:29.21,0:06:30.12,Default,,0000,0000,0000,,Hah!
+Dialogue: 0,0:06:30.44,0:06:32.26,Default,,0000,0000,0000,,Pick on someone your own size.
+Dialogue: 0,0:06:45.46,0:06:46.83,Default,,0000,0000,0000,,Raf, showtime!
+Dialogue: 0,0:06:46.89,0:06:48.30,Default,,0000,0000,0000,,Are you sure about this, Jack?
+Dialogue: 0,0:06:48.30,0:06:49.57,Default,,0000,0000,0000,,Last time you crossed the streams...
+Dialogue: 0,0:06:49.57,0:06:50.90,Default,,0000,0000,0000,,Do it, Raf... now!
+Dialogue: 0,0:07:15.73,0:07:17.83,Default,,0000,0000,0000,,Enjoy the shadow zone, dude.
+Dialogue: 0,0:07:18.02,0:07:20.50,Default,,0000,0000,0000,,Come on. We need to figure out how to navigate this thing.
+Dialogue: 0,0:07:42.73,0:07:44.66,Default,,0000,0000,0000,,Shockwave, prepare to fire the...
+Dialogue: 0,0:07:45.64,0:07:46.29,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:48.89,0:07:49.80,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:07:52.25,0:07:53.28,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:07:54.21,0:07:56.10,Default,,0000,0000,0000,,Dude, where'd you learn to drive?
+Dialogue: 0,0:07:59.27,0:08:00.74,Default,,0000,0000,0000,,Special delivery.
+Dialogue: 0,0:08:01.20,0:08:02.05,Default,,0000,0000,0000,,That way, right?
+Dialogue: 0,0:08:22.56,0:08:23.96,Default,,0000,0000,0000,,Optimus! Catch!
+Dialogue: 0,0:08:24.08,0:08:25.34,Default,,0000,0000,0000,,Smokescreen!
+Dialogue: 0,0:08:28.32,0:08:29.31,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:08:46.46,0:08:47.80,Default,,0000,0000,0000,,Heh! Hah!
+Dialogue: 0,0:09:21.36,0:09:25.57,Default,,0000,0000,0000,,Optimus, you must use the Saber to destroy the Omega Lock.
+Dialogue: 0,0:09:27.10,0:09:29.54,Default,,0000,0000,0000,,It is the onty way to save Earth!
+Dialogue: 0,0:09:32.47,0:09:33.67,Default,,0000,0000,0000,,The Star Saber!
+Dialogue: 0,0:10:51.12,0:10:53.87,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:28.81,0:11:33.08,Default,,0000,0000,0000,,Prepare to join your scout in the Allspark.
+Dialogue: 0,0:11:33.09,0:11:34.55,Default,,0000,0000,0000,,Megatron!
+Dialogue: 0,0:11:54.64,0:11:56.74,Default,,0000,0000,0000,,You took my voice.
+Dialogue: 0,0:11:56.74,0:12:00.74,Default,,0000,0000,0000,,You will never rob anyone of anything ever again.
+Dialogue: 0,0:12:24.54,0:12:26.54,Default,,0000,0000,0000,,Lord Megatron! No!
+Dialogue: 0,0:13:05.14,0:13:07.45,Default,,0000,0000,0000,,I will avenge you, master!
+Dialogue: 0,0:13:07.95,0:13:10.81,Default,,0000,0000,0000,,Starscream! Do not be a fool!
+Dialogue: 0,0:13:10.82,0:13:12.91,Default,,0000,0000,0000,,Curse you and your logic!
+Dialogue: 0,0:13:19.41,0:13:21.06,Default,,0000,0000,0000,,Bumblebee!
+Dialogue: 0,0:13:21.06,0:13:22.03,Default,,0000,0000,0000,,Your voice...
+Dialogue: 0,0:13:23.17,0:13:24.93,Default,,0000,0000,0000,,My voice? What are you...
+Dialogue: 0,0:13:24.93,0:13:26.10,Default,,0000,0000,0000,,my voice!
+Dialogue: 0,0:13:27.49,0:13:30.18,Default,,0000,0000,0000,,Ratchet, I have my pipes back!
+Dialogue: 0,0:13:30.84,0:13:33.64,Default,,0000,0000,0000,,Yes. Yes, we noticed.
+Dialogue: 0,0:13:34.90,0:13:36.40,Default,,0000,0000,0000,,The cyber matter...
+Dialogue: 0,0:13:36.53,0:13:39.27,Default,,0000,0000,0000,,It is the only possible explanation.
+Dialogue: 0,0:13:39.32,0:13:43.76,Default,,0000,0000,0000,,It would seem the old field medic made good after all.
+Dialogue: 0,0:13:45.22,0:13:48.07,Default,,0000,0000,0000,,Optimus Prime to all units.
+Dialogue: 0,0:13:48.09,0:13:51.12,Default,,0000,0000,0000,,Megatron is no more.
+Dialogue: 0,0:13:53.67,0:13:54.89,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:13:54.89,0:13:56.18,Default,,0000,0000,0000,,Hooah!
+Dialogue: 0,0:13:56.33,0:14:00.30,Default,,0000,0000,0000,,Wreckers, a job well done securing the bridge.
+Dialogue: 0,0:14:00.40,0:14:01.62,Default,,0000,0000,0000,,It wasn't us, sir.
+Dialogue: 0,0:14:01.62,0:14:03.62,Default,,0000,0000,0000,,The credit belongs to the humans.
+Dialogue: 0,0:14:04.59,0:14:05.43,Default,,0000,0000,0000,,Hoo-Yeah!
+Dialogue: 0,0:14:08.18,0:14:10.65,Default,,0000,0000,0000,,The Omega Lock is under our control.
+Dialogue: 0,0:14:10.78,0:14:13.26,Default,,0000,0000,0000,,I propose that we put it to good use.
+Dialogue: 0,0:14:13.28,0:14:15.22,Default,,0000,0000,0000,,Agreed, old friend.
+Dialogue: 0,0:14:15.32,0:14:19.42,Default,,0000,0000,0000,,Ultra Magnus, set course for Cybertron.
+Dialogue: 0,0:14:20.42,0:14:23.95,Default,,0000,0000,0000,,Hey, Raf, if you could tear yourself away from your laptop for two seconds...
+Dialogue: 0,0:14:23.97,0:14:26.88,Default,,0000,0000,0000,,grid yourself up here so we can get to Cybertron already.
+Dialogue: 0,0:14:26.92,0:14:28.59,Default,,0000,0000,0000,,Wait. Who's that?
+Dialogue: 0,0:14:31.36,0:14:32.33,Default,,0000,0000,0000,,Bee?
+Dialogue: 0,0:14:56.72,0:15:01.84,Default,,0000,0000,0000,,Eh... ah. Your elbow articulator is digging into my lateral flexor!
+Dialogue: 0,0:15:01.84,0:15:04.97,Default,,0000,0000,0000,,Do you intend to whine for the duration of the voyage?
+Dialogue: 0,0:15:08.81,0:15:11.96,Default,,0000,0000,0000,,Optimus, I... was never able to learn
+Dialogue: 0,0:15:11.96,0:15:14.71,Default,,0000,0000,0000,,Shockwave's side of the cyber matter equation.
+Dialogue: 0,0:15:15.01,0:15:17.27,Default,,0000,0000,0000,,This may be all we ever have.
+Dialogue: 0,0:15:17.28,0:15:20.06,Default,,0000,0000,0000,,And Cybertron is a much larger planet than Earth.
+Dialogue: 0,0:15:20.37,0:15:25.81,Default,,0000,0000,0000,,Then we must launch the cyber matter at Cybertron's very core.
+Dialogue: 0,0:15:25.96,0:15:28.81,Default,,0000,0000,0000,,Into the heart of Primus himself?
+Dialogue: 0,0:15:32.96,0:15:38.08,Default,,0000,0000,0000,,Commander, we've arrived at the Well of all Sparks.
+Dialogue: 0,0:16:46.25,0:16:49.33,Default,,0000,0000,0000,,Ahh. Such luster.
+Dialogue: 0,0:16:53.84,0:16:56.86,Default,,0000,0000,0000,,What? I'm joining the winning team.
+Dialogue: 0,0:16:57.06,0:16:58.11,Default,,0000,0000,0000,,Aaah!
+Dialogue: 0,0:17:40.53,0:17:41.99,Default,,0000,0000,0000,,The Predacon.
+Dialogue: 0,0:17:45.25,0:17:49.56,Default,,0000,0000,0000,,Though our home world is once again capable of supporting life...
+Dialogue: 0,0:17:51.53,0:17:54.27,Default,,0000,0000,0000,,we have much rebuilding to do.
+Dialogue: 0,0:17:55.88,0:18:00.00,Default,,0000,0000,0000,,Alas, we will miss our home away from home
+Dialogue: 0,0:18:00.90,0:18:04.02,Default,,0000,0000,0000,,and the family we've made here.
+Dialogue: 0,0:18:07.41,0:18:10.95,Default,,0000,0000,0000,,If 'Cons are still out there, won't Earth be on their radar?
+Dialogue: 0,0:18:11.19,0:18:15.16,Default,,0000,0000,0000,,Raf, if you ever need me, need us for any reason,
+Dialogue: 0,0:18:15.35,0:18:17.09,Default,,0000,0000,0000,,we're just a space bridge away.
+Dialogue: 0,0:18:17.52,0:18:19.20,Default,,0000,0000,0000,,Besides, we'll be in good hands with
+Dialogue: 0,0:18:19.20,0:18:22.38,Default,,0000,0000,0000,,you, Jack, and Miko continuing to serve Unit-E...
+Dialogue: 0,0:18:22.61,0:18:24.99,Default,,0000,0000,0000,,In our semi-Official capacity.
+Dialogue: 0,0:18:25.10,0:18:26.76,Default,,0000,0000,0000,,Whoa! We are Agents?!
+Dialogue: 0,0:18:27.44,0:18:29.07,Default,,0000,0000,0000,,Consultants.
+Dialogue: 0,0:18:29.07,0:18:30.30,Default,,0000,0000,0000,,Until you're of age.
+Dialogue: 0,0:18:30.36,0:18:32.76,Default,,0000,0000,0000,,I trust that Unit-E doesn't have any rules
+Dialogue: 0,0:18:32.77,0:18:36.65,Default,,0000,0000,0000,,forbidding the enlistment of rusty, old Autobot consultants?
+Dialogue: 0,0:18:36.74,0:18:38.67,Default,,0000,0000,0000,,Ratchet? You of all...
+Dialogue: 0,0:18:38.67,0:18:40.20,Default,,0000,0000,0000,,Yep, yep, yep.
+Dialogue: 0,0:18:40.51,0:18:42.55,Default,,0000,0000,0000,,I know where I am needed.
+Dialogue: 0,0:18:53.52,0:18:54.60,Default,,0000,0000,0000,,Raf...
+Dialogue: 0,0:18:56.52,0:18:57.56,Default,,0000,0000,0000,,I know, Bee.
+Dialogue: 0,0:18:58.58,0:19:00.10,Default,,0000,0000,0000,,You don't need to say anything.
+Dialogue: 0,0:19:03.16,0:19:04.65,Default,,0000,0000,0000,,I never did.
+Dialogue: 0,0:19:20.32,0:19:23.22,Default,,0000,0000,0000,,Miko, I guess this is...
+Dialogue: 0,0:19:45.01,0:19:46.54,Default,,0000,0000,0000,,It's been quite a ride.
+Dialogue: 0,0:19:53.20,0:19:55.10,Default,,0000,0000,0000,,Keep in touch, Jack.
+Dialogue: 0,0:19:59.29,0:20:01.47,Default,,0000,0000,0000,,Don't make me hunt you down.
+Dialogue: 0,0:20:39.58,0:20:42.28,Default,,0000,0000,0000,,Until we meet again, old friend.

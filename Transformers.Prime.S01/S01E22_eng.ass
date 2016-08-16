@@ -1,0 +1,262 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+Dialogue: 0,0:00:02.56,0:00:05.43,Default,,0000,0000,0000,,Hmm? Surprisingly stable.
+Dialogue: 0,0:00:05.54,0:00:09.00,Default,,0000,0000,0000,,Hey Ratchet, is that Synthetic Energon?
+Dialogue: 0,0:00:09.13,0:00:10.96,Default,,0000,0000,0000,,Well, yes.
+Dialogue: 0,0:00:11.09,0:00:13.46,Default,,0000,0000,0000,,In fact I'm preparing to test the sample.
+Dialogue: 0,0:00:13.46,0:00:17.32,Default,,0000,0000,0000,,I see that you come equipped with protective goggles.
+Dialogue: 0,0:00:17.47,0:00:18.67,Default,,0000,0000,0000,,I can watch?
+Dialogue: 0,0:00:18.82,0:00:22.85,Default,,0000,0000,0000,,Haha, We just add some to the test engine.
+Dialogue: 0,0:00:29.82,0:00:31.94,Default,,0000,0000,0000,,It works! Bee!
+Dialogue: 0,0:00:32.06,0:00:33.39,Default,,0000,0000,0000,,Dah, dah dah?
+Dialogue: 0,0:00:33.49,0:00:36.87,Default,,0000,0000,0000,,This iteration of the formula requires further trial
+Dialogue: 0,0:00:36.87,0:00:39.27,Default,,0000,0000,0000,,before we could even think about using it for fuel
+Dialogue: 0,0:00:39.45,0:00:41.90,Default,,0000,0000,0000,,ammunition or first aid
+Dialogue: 0,0:00:42.07,0:00:47.55,Default,,0000,0000,0000,,which is rather unfortunate since our own reserves are in all time low.
+Dialogue: 0,0:00:47.84,0:00:52.70,Default,,0000,0000,0000,,Our severely outnumbered warriors have been rapidly burdening through our stockpile of late
+Dialogue: 0,0:00:52.99,0:00:57.50,Default,,0000,0000,0000,,as the Decepticon army continues to run us and ground us down.
+Dialogue: 0,0:00:58.13,0:01:01.96,Default,,0000,0000,0000,,Natural Energon is in such short supply on your planet,
+Dialogue: 0,0:01:02.06,0:01:08.13,Default,,0000,0000,0000,,and Megatron seems to have his oily claws buried deep in all the earth deposits.
+Dialogue: 0,0:01:08.14,0:01:13.18,Default,,0000,0000,0000,,But, if we can successfully produce a synthetic form
+Dialogue: 0,0:01:13.30,0:01:16.63,Default,,0000,0000,0000,,we can manufacture all the energy we'll ever need.
+Dialogue: 0,0:01:18.66,0:01:20.02,Default,,0000,0000,0000,,Raw Energon on the move.
+Dialogue: 0,0:01:20.02,0:01:21.43,Default,,0000,0000,0000,,Again.
+Dialogue: 0,0:01:22.96,0:01:26.50,Default,,0000,0000,0000,,Their recent activity suggests a familiar pattern.
+Dialogue: 0,0:01:26.71,0:01:31.27,Default,,0000,0000,0000,,The Decepticons are desperately scouting for new deposits to mine.
+Dialogue: 0,0:01:31.84,0:01:32.96,Default,,0000,0000,0000,,Autobots...
+Dialogue: 0,0:01:32.96,0:01:38.62,Default,,0000,0000,0000,,Optimus, if one of you comes back wounded this time, well...
+Dialogue: 0,0:01:38.72,0:01:41.52,Default,,0000,0000,0000,,our Energon reserves are nearly depleted.
+Dialogue: 0,0:01:42.28,0:01:43.75,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:01:43.89,0:01:46.00,Default,,0000,0000,0000,,Activate the Ground Bridge.
+Dialogue: 0,0:01:46.13,0:01:48.96,Default,,0000,0000,0000,,Autobots, roll out.
+Dialogue: 0,0:01:55.49,0:01:59.70,Default,,0000,0000,0000,,Sometimes, I wish I could do more.
+Dialogue: 0,0:03:08.65,0:03:13.78,Default,,0000,0000,0000,,Ratchet, wake up!
+Dialogue: 0,0:03:14.08,0:03:15.25,Default,,0000,0000,0000,,Ugh?
+Dialogue: 0,0:03:15.26,0:03:19.24,Default,,0000,0000,0000,,{\pos(192,280)}How is it that such small beings can be so loud.
+Dialogue: 0,0:03:19.36,0:03:21.68,Default,,0000,0000,0000,,Are you hurt? You fell.
+Dialogue: 0,0:03:22.72,0:03:25.17,Default,,0000,0000,0000,,{\pos(192,280)}I'm fine. I'm...
+Dialogue: 0,0:03:26.99,0:03:28.71,Default,,0000,0000,0000,,more than fine.
+Dialogue: 0,0:03:29.43,0:03:33.31,Default,,0000,0000,0000,,Hah, energy efficiency is of thirty percent?
+Dialogue: 0,0:03:33.43,0:03:35.41,Default,,0000,0000,0000,,{\pos(192,280)}Motor functions optimal?
+Dialogue: 0,0:03:35.66,0:03:37.47,Default,,0000,0000,0000,,{\pos(192,280)}Haha...
+Dialogue: 0,0:03:38.72,0:03:40.50,Default,,0000,0000,0000,,Any word from the others?
+Dialogue: 0,0:03:48.61,0:03:51.36,Default,,0000,0000,0000,,{\pos(192,280)}Knock Out, can't we just Bridge out of here?
+Dialogue: 0,0:03:51.50,0:03:54.48,Default,,0000,0000,0000,,{\pos(192,280)}This cube is putting some serious drag on me.
+Dialogue: 0,0:03:55.04,0:03:57.14,Default,,0000,0000,0000,,{\pos(192,280)}The more we give the Autobots a work out
+Dialogue: 0,0:03:57.14,0:03:58.73,Default,,0000,0000,0000,,the more fuel they burn.
+Dialogue: 0,0:03:58.86,0:04:01.59,Default,,0000,0000,0000,,And we win the Energon race.
+Dialogue: 0,0:04:02.69,0:04:07.14,Default,,0000,0000,0000,,Besides, here comes air support.
+Dialogue: 0,0:04:50.74,0:04:54.36,Default,,0000,0000,0000,,Arcee, fall back, you are out-numbered!
+Dialogue: 0,0:04:54.48,0:04:56.16,Default,,0000,0000,0000,,We are always out-numbered.
+Dialogue: 0,0:04:56.31,0:04:58.80,Default,,0000,0000,0000,,We need that Energon!
+Dialogue: 0,0:04:58.93,0:05:01.69,Default,,0000,0000,0000,,Ratchet, lock on to Arcee's coordinates,
+Dialogue: 0,0:05:01.69,0:05:04.69,Default,,0000,0000,0000,,and prepare an emergency Ground Bridge.
+Dialogue: 0,0:05:04.79,0:05:05.76,Default,,0000,0000,0000,,I'm locked up.
+Dialogue: 0,0:05:05.95,0:05:09.16,Default,,0000,0000,0000,,Arcee, decelerate and prepare to return to base.
+Dialogue: 0,0:05:09.36,0:05:12.07,Default,,0000,0000,0000,,Save it, Ratchet, I'm too close.
+Dialogue: 0,0:05:12.20,0:05:13.68,Default,,0000,0000,0000,,Don't be a fool!
+Dialogue: 0,0:05:42.66,0:05:44.04,Default,,0000,0000,0000,,She's hurt.
+Dialogue: 0,0:05:44.65,0:05:46.22,Default,,0000,0000,0000,,Man the Ground Bridge.
+Dialogue: 0,0:06:12.74,0:06:13.97,Default,,0000,0000,0000,,HOOAAH!
+Dialogue: 0,0:06:28.05,0:06:29.13,Default,,0000,0000,0000,,Ratchet?
+Dialogue: 0,0:06:44.61,0:06:47.73,Default,,0000,0000,0000,,Looks like the Autobots brought in a ringer.
+Dialogue: 0,0:06:47.83,0:06:50.34,Default,,0000,0000,0000,,Well then I'll ring his bell.
+Dialogue: 0,0:06:55.98,0:06:57.73,Default,,0000,0000,0000,,You'll have to wait.
+Dialogue: 0,0:07:24.93,0:07:26.67,Default,,0000,0000,0000,,HOOAAH!
+Dialogue: 0,0:07:28.29,0:07:29.77,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:07:29.89,0:07:31.60,Default,,0000,0000,0000,,I only saw the glory aftermath,
+Dialogue: 0,0:07:31.60,0:07:35.08,Default,,0000,0000,0000,,but I hear the doc was on one Bot ragging machine.
+Dialogue: 0,0:07:35.50,0:07:36.39,Default,,0000,0000,0000,,Whoa...
+Dialogue: 0,0:07:36.75,0:07:38.68,Default,,0000,0000,0000,,Oh, hey, little fella.
+Dialogue: 0,0:07:41.83,0:07:44.01,Default,,0000,0000,0000,,Alright, what's you secret.
+Dialogue: 0,0:07:44.46,0:07:45.64,Default,,0000,0000,0000,,No secret,
+Dialogue: 0,0:07:45.72,0:07:50.30,Default,,0000,0000,0000,,just a thing something I like to call Synthen.
+Dialogue: 0,0:07:51.48,0:07:53.57,Default,,0000,0000,0000,,From the data Bulkhead transcribed?
+Dialogue: 0,0:07:53.71,0:07:54.91,Default,,0000,0000,0000,,I thought the formula was...
+Dialogue: 0,0:07:54.91,0:07:57.80,Default,,0000,0000,0000,,Incomplete? Hehe, not anymore.
+Dialogue: 0,0:07:59.24,0:08:03.03,Default,,0000,0000,0000,,So Ratchet makes a better tough guy than I do a smart guy?
+Dialogue: 0,0:08:04.46,0:08:09.90,Default,,0000,0000,0000,,Ratchet, I question the wisdom of using yourself as a test subject.
+Dialogue: 0,0:08:09.91,0:08:12.26,Default,,0000,0000,0000,,Optimus, you didn't see Ratchet out there.
+Dialogue: 0,0:08:12.37,0:08:13.99,Default,,0000,0000,0000,,He was an overdrive.
+Dialogue: 0,0:08:14.14,0:08:15.76,Default,,0000,0000,0000,,We should all try this stuff.
+Dialogue: 0,0:08:15.89,0:08:19.18,Default,,0000,0000,0000,,Or give Ratchet more so we can take a vacation.
+Dialogue: 0,0:08:19.30,0:08:23.30,Default,,0000,0000,0000,,I agree that the initial results seem promising,
+Dialogue: 0,0:08:23.45,0:08:27.13,Default,,0000,0000,0000,,but I recommend that further testing be confined to machines,
+Dialogue: 0,0:08:27.26,0:08:29.55,Default,,0000,0000,0000,,not Autobots.
+Dialogue: 0,0:08:29.68,0:08:32.67,Default,,0000,0000,0000,,Out-numbered, though, we may be, old friend.
+Dialogue: 0,0:08:32.76,0:08:35.93,Default,,0000,0000,0000,,We need a warrior in the laboratory right now,
+Dialogue: 0,0:08:36.24,0:08:39.52,Default,,0000,0000,0000,,more than we need another in the field.
+Dialogue: 0,0:08:42.42,0:08:46.33,Default,,0000,0000,0000,,And then, he came right at me, and I...
+Dialogue: 0,0:08:47.37,0:08:50.39,Default,,0000,0000,0000,,well, come on, Bulk, come at me.
+Dialogue: 0,0:08:50.71,0:08:52.77,Default,,0000,0000,0000,,I don't want to hurt you, Ratch.
+Dialogue: 0,0:08:54.71,0:08:56.96,Default,,0000,0000,0000,,I said, come at me!
+Dialogue: 0,0:09:04.93,0:09:06.41,Default,,0000,0000,0000,,HOOAAH!
+Dialogue: 0,0:09:06.52,0:09:08.04,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:09:10.06,0:09:12.65,Default,,0000,0000,0000,,You have competition, Bulk.
+Dialogue: 0,0:09:12.76,0:09:15.49,Default,,0000,0000,0000,,I'm a bit stronger than I used to be.
+Dialogue: 0,0:09:17.42,0:09:20.92,Default,,0000,0000,0000,,Also a bit fast, hehaha...
+Dialogue: 0,0:09:21.06,0:09:23.78,Default,,0000,0000,0000,,Say you could take me, muscle car?
+Dialogue: 0,0:09:26.72,0:09:29.94,Default,,0000,0000,0000,,Wimp. How¡¯s it hummin?
+Dialogue: 0,0:09:30.46,0:09:31.79,Default,,0000,0000,0000,,Did he just?
+Dialogue: 0,0:09:31.91,0:09:35.82,Default,,0000,0000,0000,,Stronger, faster, studlier.
+Dialogue: 0,0:09:40.84,0:09:44.59,Default,,0000,0000,0000,,I need to be at the top of my game.
+Dialogue: 0,0:09:45.04,0:09:47.61,Default,,0000,0000,0000,,Our survival depends upon it.
+Dialogue: 0,0:09:54.08,0:09:56.38,Default,,0000,0000,0000,,Looks like the Cons hit another vein.
+Dialogue: 0,0:09:56.66,0:09:58.73,Default,,0000,0000,0000,,Autobots, roll out.
+Dialogue: 0,0:09:58.73,0:10:01.50,Default,,0000,0000,0000,,Heyhey, shouldn't we wait for our secret weapon?
+Dialogue: 0,0:10:01.64,0:10:05.41,Default,,0000,0000,0000,,This mission is unlikely to require medical expertise.
+Dialogue: 0,0:10:05.41,0:10:10.13,Default,,0000,0000,0000,,But you'll never know if you may require additional fire power.
+Dialogue: 0,0:10:10.56,0:10:13.72,Default,,0000,0000,0000,,Bumblebee can handle Ground Bridge duty.
+Dialogue: 0,0:10:18.05,0:10:22.01,Default,,0000,0000,0000,,Time to put some hurt on those Decepticons.
+Dialogue: 0,0:10:54.63,0:10:56.00,Default,,0000,0000,0000,,The signal is weak.
+Dialogue: 0,0:10:56.15,0:10:57.20,Default,,0000,0000,0000,,They may have hit a vein
+Dialogue: 0,0:10:57.20,0:10:59.61,Default,,0000,0000,0000,,but they won't find much of Energon pulse
+Dialogue: 0,0:10:59.74,0:11:00.89,Default,,0000,0000,0000,,not here.
+Dialogue: 0,0:11:00.89,0:11:02.98,Default,,0000,0000,0000,,I take some comfort in the fact that Megatron seems as
+Dialogue: 0,0:11:02.98,0:11:04.93,Default,,0000,0000,0000,,desperate to find the stuff as we are.
+Dialogue: 0,0:11:05.03,0:11:08.29,Default,,0000,0000,0000,,Do you two always talk this mush during these missions?
+Dialogue: 0,0:11:17.52,0:11:18.81,Default,,0000,0000,0000,,Autobots!
+Dialogue: 0,0:11:28.56,0:11:29.75,Default,,0000,0000,0000,,It's alright.
+Dialogue: 0,0:11:29.77,0:11:31.82,Default,,0000,0000,0000,,I'm an emergency vehicle.
+Dialogue: 0,0:12:13.34,0:12:14.91,Default,,0000,0000,0000,,Why the big rush?
+Dialogue: 0,0:12:15.52,0:12:19.00,Default,,0000,0000,0000,,Just trying to get as far as I can from the Autobot stink.
+Dialogue: 0,0:12:19.16,0:12:21.90,Default,,0000,0000,0000,,Does your boss know you have a potty mouth?
+Dialogue: 0,0:12:22.08,0:12:24.38,Default,,0000,0000,0000,,Maybe I should pay him a visit and tell him.
+Dialogue: 0,0:12:24.50,0:12:26.40,Default,,0000,0000,0000,,Get melted, wheel-grinder.
+Dialogue: 0,0:12:26.55,0:12:30.39,Default,,0000,0000,0000,,Melted? Now there is the concept.
+Dialogue: 0,0:12:31.02,0:12:34.24,Default,,0000,0000,0000,,I won't ask you a second time--
+Dialogue: 0,0:12:34.37,0:12:38.63,Default,,0000,0000,0000,,where is Megatron?
+Dialogue: 0,0:12:42.88,0:12:46.37,Default,,0000,0000,0000,,No, no--Nooooo!!
+Dialogue: 0,0:12:47.05,0:12:49.76,Default,,0000,0000,0000,,That's all I know, really!
+Dialogue: 0,0:12:56.90,0:12:59.79,Default,,0000,0000,0000,,Now was that so difficult?
+Dialogue: 0,0:13:01.55,0:13:04.95,Default,,0000,0000,0000,,Ratchet, what are you doing?
+Dialogue: 0,0:13:06.04,0:13:07.89,Default,,0000,0000,0000,,Get results.
+Dialogue: 0,0:13:08.00,0:13:10.45,Default,,0000,0000,0000,,And breaking protocol.
+Dialogue: 0,0:13:10.59,0:13:14.61,Default,,0000,0000,0000,,That was a Decepticon minor, servant class.
+Dialogue: 0,0:13:14.75,0:13:16.42,Default,,0000,0000,0000,,Not warrior class.
+Dialogue: 0,0:13:16.54,0:13:20.42,Default,,0000,0000,0000,,Oh, let me guess: I'm just the medic.
+Dialogue: 0,0:13:20.56,0:13:25.45,Default,,0000,0000,0000,,Autobots do not inflict harm unless all other options have been exhausted.
+Dialogue: 0,0:13:25.79,0:13:29.39,Default,,0000,0000,0000,,It is what separates us from the Decepticons.
+Dialogue: 0,0:13:30.30,0:13:34.69,Default,,0000,0000,0000,,Ha! Is this really the time for another lecture, Optimuse?
+Dialogue: 0,0:13:34.86,0:13:38.42,Default,,0000,0000,0000,,You didn't just happen to discover Megatron's current location, did you?
+Dialogue: 0,0:13:38.56,0:13:39.79,Default,,0000,0000,0000,,Well, I did.
+Dialogue: 0,0:13:39.90,0:13:43.78,Default,,0000,0000,0000,,And you happen to know where there is a stockpile of raw Energon right for the taking?
+Dialogue: 0,0:13:43.97,0:13:45.37,Default,,0000,0000,0000,,I do!
+Dialogue: 0,0:13:45.49,0:13:47.36,Default,,0000,0000,0000,,Come on, Ratchet. Calm it down.
+Dialogue: 0,0:13:47.53,0:13:49.25,Default,,0000,0000,0000,,Calm is the last thing we need!
+Dialogue: 0,0:13:49.37,0:13:52.38,Default,,0000,0000,0000,,Calm is what lost us Cybertron!
+Dialogue: 0,0:13:52.49,0:13:54.72,Default,,0000,0000,0000,,The Cons have a warship, an army,
+Dialogue: 0,0:13:54.88,0:13:56.45,Default,,0000,0000,0000,,all this Energon scouting.
+Dialogue: 0,0:13:56.47,0:13:59.35,Default,,0000,0000,0000,,You think Megatron isn't gearing up for something big?
+Dialogue: 0,0:13:59.60,0:14:01.46,Default,,0000,0000,0000,,We are squandering our resources
+Dialogue: 0,0:14:01.47,0:14:03.34,Default,,0000,0000,0000,,chasing after his crumbs.
+Dialogue: 0,0:14:03.45,0:14:05.43,Default,,0000,0000,0000,,When we really should be hitting him hard
+Dialogue: 0,0:14:05.55,0:14:07.69,Default,,0000,0000,0000,,and hitting him now...
+Dialogue: 0,0:14:07.81,0:14:10.37,Default,,0000,0000,0000,,precisely where it hurts!
+Dialogue: 0,0:14:10.49,0:14:14.69,Default,,0000,0000,0000,,A direct assault on the Decepticons would only provoke retaliation...
+Dialogue: 0,0:14:14.80,0:14:18.17,Default,,0000,0000,0000,,and lead to incalculable losses.
+Dialogue: 0,0:14:18.35,0:14:21.86,Default,,0000,0000,0000,,I will not endanger innocent human lifes.
+Dialogue: 0,0:14:21.98,0:14:24.40,Default,,0000,0000,0000,,Yet you seem to have no problem endangering ours!
+Dialogue: 0,0:14:24.51,0:14:26.16,Default,,0000,0000,0000,,Just ask Cliffjumper!
+Dialogue: 0,0:14:26.29,0:14:27.53,Default,,0000,0000,0000,,Oh, I forgot!
+Dialogue: 0,0:14:27.66,0:14:29.09,Default,,0000,0000,0000,,He couldn't be here today!
+Dialogue: 0,0:14:29.41,0:14:30.80,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:14:33.64,0:14:35.62,Default,,0000,0000,0000,,You know your problem, Optimus?
+Dialogue: 0,0:14:36.00,0:14:38.61,Default,,0000,0000,0000,,For such a big, strong Bot...
+Dialogue: 0,0:14:38.93,0:14:40.50,Default,,0000,0000,0000,,you're soft.
+Dialogue: 0,0:14:40.67,0:14:44.46,Default,,0000,0000,0000,,You didn't pound Megatron into scrap when you had the chance!
+Dialogue: 0,0:14:44.59,0:14:46.37,Default,,0000,0000,0000,,Many chances, in fact!
+Dialogue: 0,0:14:46.76,0:14:52.29,Default,,0000,0000,0000,,I'm afraid that the Synthetic Energon has impaired you judgement, old friend.
+Dialogue: 0,0:14:52.45,0:14:56.08,Default,,0000,0000,0000,,I am confining you to base until further notice.
+Dialogue: 0,0:14:56.72,0:14:59.94,Default,,0000,0000,0000,,Bumblebee, bridge us back.
+Dialogue: 0,0:15:06.94,0:15:08.22,Default,,0000,0000,0000,,Fine...
+Dialogue: 0,0:15:20.74,0:15:23.65,Default,,0000,0000,0000,,Ummmm! Yahhhh!
+Dialogue: 0,0:15:46.50,0:15:48.74,Default,,0000,0000,0000,,Can't get a fix on Ratchet's coordinates.
+Dialogue: 0,0:15:48.87,0:15:51.76,Default,,0000,0000,0000,,That bogus Energon must be scrambling his signal.
+Dialogue: 0,0:15:51.97,0:15:53.35,Default,,0000,0000,0000,,Keep trying.
+Dialogue: 0,0:15:53.54,0:15:55.52,Default,,0000,0000,0000,,We've got to find Rathcet,
+Dialogue: 0,0:15:55.68,0:15:58.52,Default,,0000,0000,0000,,before he finds Megatron.
+Dialogue: 0,0:16:13.63,0:16:16.75,Default,,0000,0000,0000,,Yeah, she's kinda domineering and the extra arms are weird,
+Dialogue: 0,0:16:17.01,0:16:19.46,Default,,0000,0000,0000,,but... I find myself intrigued by her.
+Dialogue: 0,0:16:24.98,0:16:27.96,Default,,0000,0000,0000,,I was wondering when you might show.
+Dialogue: 0,0:16:32.90,0:16:35.85,Default,,0000,0000,0000,,You call yourself a scientist?
+Dialogue: 0,0:16:36.07,0:16:40.07,Default,,0000,0000,0000,,You were supported to have located a fresh Energon source by now.
+Dialogue: 0,0:16:40.17,0:16:41.84,Default,,0000,0000,0000,,Apologies, Lord Megatron.
+Dialogue: 0,0:16:42.01,0:16:45.55,Default,,0000,0000,0000,,We got little distracted by the new Autobot who attacked us.
+Dialogue: 0,0:16:45.78,0:16:47.01,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:16:47.19,0:16:50.10,Default,,0000,0000,0000,,And what new Autobot would that be?
+Dialogue: 0,0:16:54.62,0:16:56.09,Default,,0000,0000,0000,,HOOAAH!
+Dialogue: 0,0:16:56.48,0:16:58.03,Default,,0000,0000,0000,,Well, the...
+Dialogue: 0,0:16:58.13,0:17:01.32,Default,,0000,0000,0000,,That is your fiercesome new adversary?
+Dialogue: 0,0:17:01.38,0:17:05.92,Default,,0000,0000,0000,,Hahahaha! He is Optimus Prime's mech.
+Dialogue: 0,0:17:06.04,0:17:07.99,Default,,0000,0000,0000,,Oh, no, Megatron.
+Dialogue: 0,0:17:08.12,0:17:11.14,Default,,0000,0000,0000,,I am your doctor of doom.
+Dialogue: 0,0:17:11.77,0:17:12.77,Default,,0000,0000,0000,,HOOAAH!
+Dialogue: 0,0:17:23.28,0:17:25.30,Default,,0000,0000,0000,,Alright then.
+Dialogue: 0,0:17:26.05,0:17:28.26,Default,,0000,0000,0000,,For Cybertron!
+Dialogue: 0,0:17:28.40,0:17:31.88,Default,,0000,0000,0000,,Ahhh, Ahhhhh!
+Dialogue: 0,0:17:32.15,0:17:36.25,Default,,0000,0000,0000,,Ratchet is rather more spirited than I recollect.
+Dialogue: 0,0:17:36.41,0:17:38.42,Default,,0000,0000,0000,,Chemical enhancement, perhaps?
+Dialogue: 0,0:17:48.08,0:17:51.76,Default,,0000,0000,0000,,There is your laboratory sample, doctor.
+Dialogue: 0,0:17:51.91,0:17:53.38,Default,,0000,0000,0000,,Find out...
+Dialogue: 0,0:17:53.55,0:17:58.35,Default,,0000,0000,0000,,If a chemical can do this for Optimus Prime's lab doc, hehe
+Dialogue: 0,0:17:58.48,0:18:01.52,Default,,0000,0000,0000,,imagine what it could do for our troops.
+Dialogue: 0,0:18:01.56,0:18:06.52,Default,,0000,0000,0000,,Oh, Optimus, I've been a fool.
+Dialogue: 0,0:18:10.80,0:18:12.79,Default,,0000,0000,0000,,Optimus, Ratchet's signal.
+Dialogue: 0,0:18:12.97,0:18:14.43,Default,,0000,0000,0000,,It's back online.
+Dialogue: 0,0:18:15.84,0:18:17.32,Default,,0000,0000,0000,,Bumblebee.
+Dialogue: 0,0:18:20.74,0:18:23.65,Default,,0000,0000,0000,,Autobots, roll out.
+Dialogue: 0,0:18:36.06,0:18:38.66,Default,,0000,0000,0000,,Doctor, to doctor, I must say,
+Dialogue: 0,0:18:38.82,0:18:44.49,Default,,0000,0000,0000,,you contribution to the Decepticon cause is very much appreciated.
+Dialogue: 0,0:18:44.62,0:18:48.77,Default,,0000,0000,0000,,I'll be sure to boast of your accomplishment when you are gone.
+Dialogue: 0,0:18:48.89,0:18:52.98,Default,,0000,0000,0000,,Which will happen in three, two...
+Dialogue: 0,0:18:54.78,0:18:56.08,Default,,0000,0000,0000,,Scrap.
+Dialogue: 0,0:19:34.72,0:19:37.86,Default,,0000,0000,0000,,Hahahahah... what are you going to do?
+Dialogue: 0,0:19:37.86,0:19:39.12,Default,,0000,0000,0000,,Drink it?
+Dialogue: 0,0:19:44.41,0:19:49.11,Default,,0000,0000,0000,,No. I'm going to destroy it.
+Dialogue: 0,0:19:54.59,0:19:55.65,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:19:55.80,0:19:58.27,Default,,0000,0000,0000,,Megatron will have my head!
+Dialogue: 0,0:20:27.24,0:20:28.66,Default,,0000,0000,0000,,Easy, old friend.
+Dialogue: 0,0:20:29.32,0:20:31.54,Default,,0000,0000,0000,,You lost a lot of Energon--
+Dialogue: 0,0:20:31.94,0:20:34.04,Default,,0000,0000,0000,,good and bad.
+Dialogue: 0,0:20:34.21,0:20:38.54,Default,,0000,0000,0000,,I... I didn't intended to hurt anyone.
+Dialogue: 0,0:20:38.66,0:20:41.96,Default,,0000,0000,0000,,I just... wanted so... badly to...
+Dialogue: 0,0:20:42.09,0:20:43.33,Default,,0000,0000,0000,,Help us.
+Dialogue: 0,0:20:43.42,0:20:44.71,Default,,0000,0000,0000,,We know.
+Dialogue: 0,0:20:44.83,0:20:48.71,Default,,0000,0000,0000,,But you nearly caused the loss of something irreplaceable--
+Dialogue: 0,0:20:49.03,0:20:50.62,Default,,0000,0000,0000,,our medic,
+Dialogue: 0,0:20:50.76,0:20:53.33,Default,,0000,0000,0000,,and a most trusted friend.
+Dialogue: 0,0:20:55.68,0:20:59.59,Default,,0000,0000,0000,,You did lead us to a much needed Energon supply.
+Dialogue: 0,0:21:00.41,0:21:02.31,Default,,0000,0000,0000,,And, for that,
+Dialogue: 0,0:21:02.48,0:21:04.98,Default,,0000,0000,0000,,we should all be thankful.
+Dialogue: 0,0:21:08.24,0:21:13.90,Default,,0000,0000,0000,,The Synthetic Energon formula clearly needs refining before it can be tested again-
+Dialogue: 0,0:21:16.12,0:21:19.67,Default,,0000,0000,0000,,on machines, not Autobots.
+Dialogue: 0,0:21:19.79,0:21:21.94,Default,,0000,0000,0000,,Let us take comfort in the fact that you
+Dialogue: 0,0:21:21.94,0:21:26.03,Default,,0000,0000,0000,,are able to dispose of the quantity that remained.

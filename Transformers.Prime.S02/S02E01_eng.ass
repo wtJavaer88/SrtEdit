@@ -1,0 +1,308 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00ffffff,&Hf0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+
+
+
+Dialogue: 0,0:00:01.91,0:00:04.86,Default,,0000,0000,0000,,In hindsight, we accomplished what was required.
+Dialogue: 0,0:00:06.89,0:00:08.67,Default,,0000,0000,0000,,With Unicron's awakening,
+Dialogue: 0,0:00:09.03,0:00:11.48,Default,,0000,0000,0000,,extreme measures needed to be taken.
+Dialogue: 0,0:00:11.79,0:00:13.59,Default,,0000,0000,0000,,Enemies became allies,
+Dialogue: 0,0:00:14.07,0:00:16.12,Default,,0000,0000,0000,,allies became confidants.
+Dialogue: 0,0:00:17.68,0:00:20.13,Default,,0000,0000,0000,,And, with the Matrix of Leadership,
+Dialogue: 0,0:00:21.04,0:00:23.51,Default,,0000,0000,0000,,the planet Earth was saved.
+Dialogue: 0,0:00:25.53,0:00:28.28,Default,,0000,0000,0000,,Though at immeasurable personal cost...
+Dialogue: 0,0:00:28.63,0:00:31.02,Default,,0000,0000,0000,,When Optimus surrendered the Matrix
+Dialogue: 0,0:00:31.02,0:00:34.63,Default,,0000,0000,0000,,he'd lost more than the collective wisdom of the Primes.
+Dialogue: 0,0:00:34.65,0:00:35.59,Default,,0000,0000,0000,,Who are they?
+Dialogue: 0,0:00:35.85,0:00:37.34,Default,,0000,0000,0000,,Our mortal enemies!
+Dialogue: 0,0:00:43.12,0:00:44.77,Default,,0000,0000,0000,,... He lost himself.
+Dialogue: 0,0:00:45.74,0:00:46.74,Default,,0000,0000,0000,,That doesn't follow.
+Dialogue: 0,0:00:46.74,0:00:48.46,Default,,0000,0000,0000,,Optimus knew Megatron!
+Dialogue: 0,0:00:48.59,0:00:50.10,Default,,0000,0000,0000,,They were like BFFs!
+Dialogue: 0,0:00:52.21,0:00:54.63,Default,,0000,0000,0000,,If Optimus did not know his own name,
+Dialogue: 0,0:00:55.17,0:00:59.73,Default,,0000,0000,0000,,perhaps it is because the title of Prime hasn't yet been granted to him.
+Dialogue: 0,0:00:59.73,0:01:00.99,Default,,0000,0000,0000,,- Huh?\N- What?
+Dialogue: 0,0:01:00.99,0:01:01.67,Default,,0000,0000,0000,,Say again?
+Dialogue: 0,0:01:01.85,0:01:04.66,Default,,0000,0000,0000,,With the power of the Matrix no longer within him,
+Dialogue: 0,0:01:04.97,0:01:10.49,Default,,0000,0000,0000,,it would stand to reason that Optimus has reverted to his pre-Prime state:
+Dialogue: 0,0:01:10.73,0:01:14.25,Default,,0000,0000,0000,,the historical archivist, Orion Pax.
+Dialogue: 0,0:01:14.65,0:01:16.14,Default,,0000,0000,0000,,You mean, in his mind.
+Dialogue: 0,0:01:16.44,0:01:21.65,Default,,0000,0000,0000,,Are you telling me Prime thinks he is some kind of librarian and a Decepticon?!
+Dialogue: 0,0:01:23.59,0:01:24.90,Default,,0000,0000,0000,,Attention, crew.
+Dialogue: 0,0:01:25.08,0:01:27.27,Default,,0000,0000,0000,,Our guest is currently in isolation,
+Dialogue: 0,0:01:27.42,0:01:29.60,Default,,0000,0000,0000,,to help ease his transition.
+Dialogue: 0,0:01:30.09,0:01:32.01,Default,,0000,0000,0000,,But when Orion Pax emerges,
+Dialogue: 0,0:01:32.15,0:01:34.47,Default,,0000,0000,0000,,he is to be shown every courtesy.
+Dialogue: 0,0:01:34.71,0:01:39.68,Default,,0000,0000,0000,,And the first to address him as "Optimus Prime" will have his voice-box torn out.
+Dialogue: 0,0:01:39.77,0:01:40.86,Default,,0000,0000,0000,,Lord Megatron.
+Dialogue: 0,0:01:40.90,0:01:44.94,Default,,0000,0000,0000,,Is it wise, to allow an Autobot, current or former,
+Dialogue: 0,0:01:45.06,0:01:47.09,Default,,0000,0000,0000,,full run of the premises?
+Dialogue: 0,0:01:47.24,0:01:50.16,Default,,0000,0000,0000,,Nothing happens aboard this ship without my knowledge.
+Dialogue: 0,0:01:50.42,0:01:53.21,Default,,0000,0000,0000,,You will do well to remember that, Airachnid.
+Dialogue: 0,0:01:53.48,0:01:55.68,Default,,0000,0000,0000,,But there's no need for concern.
+Dialogue: 0,0:01:55.80,0:02:00.07,Default,,0000,0000,0000,,Orion does not possess the same fight Optimus is so renown for.
+Dialogue: 0,0:02:00.22,0:02:02.78,Default,,0000,0000,0000,,Then what use is he to our Cause?
+Dialogue: 0,0:02:03.10,0:02:08.92,Default,,0000,0000,0000,,Ah, rest assured, Orion Pax will indeed earn his stripes.
+Dialogue: 0,0:02:17.52,0:02:20.09,Default,,0000,0000,0000,,Welcome back to the winning team.
+Dialogue: 0,0:03:14.15,0:03:17.25,Default,,0000,0000,0000,,Being a Decepticon is a choice, Agent Fowler.
+Dialogue: 0,0:03:17.39,0:03:22.28,Default,,0000,0000,0000,,{\pos(192,280)}One that I have a hard time believing Optimus would make at any point in his life.
+Dialogue: 0,0:03:22.40,0:03:24.40,Default,,0000,0000,0000,,{\pos(192,280)}So, if he's riding with the 'Cons...
+Dialogue: 0,0:03:24.56,0:03:27.16,Default,,0000,0000,0000,,{\pos(192,280)}... it's because Megatron is working some kind of voodoo.
+Dialogue: 0,0:03:27.32,0:03:31.17,Default,,0000,0000,0000,,{\pos(192,280)}Orion Pax may not currently be an Autobot up here,
+Dialogue: 0,0:03:31.63,0:03:36.19,Default,,0000,0000,0000,,{\pos(192,280)}but I must believe, he will never stop being one in here.
+Dialogue: 0,0:03:37.39,0:03:40.79,Default,,0000,0000,0000,,We must locate him to know for certain.
+Dialogue: 0,0:03:41.17,0:03:45.73,Default,,0000,0000,0000,,{\pos(192,280)}Hold up. I have a chip lodged in my behind that let's Uncle Sam know
+Dialogue: 0,0:03:45.75,0:03:47.12,Default,,0000,0000,0000,,{\pos(192,280)}when I stop for donuts.
+Dialogue: 0,0:03:47.26,0:03:49.96,Default,,0000,0000,0000,,{\pos(192,280)}Are you telling me you can't just track Prime?
+Dialogue: 0,0:03:50.16,0:03:54.49,Default,,0000,0000,0000,,Optimus's signal has not reappeared since he embarked for Earth's core.
+Dialogue: 0,0:03:54.86,0:03:57.49,Default,,0000,0000,0000,,But we must get to work finding him.
+Dialogue: 0,0:03:57.62,0:04:01.18,Default,,0000,0000,0000,,If we have any hope of initiating his contingency plan.
+Dialogue: 0,0:04:01.31,0:04:02.35,Default,,0000,0000,0000,,Contingency plan?
+Dialogue: 0,0:04:02.61,0:04:04.17,Default,,0000,0000,0000,,What "contingency"?
+Dialogue: 0,0:04:04.18,0:04:05.62,Default,,0000,0000,0000,,Is that even a word?
+Dialogue: 0,0:04:05.89,0:04:06.79,Default,,0000,0000,0000,,The Key card!
+Dialogue: 0,0:04:07.36,0:04:08.46,Default,,0000,0000,0000,,So, what's it do?
+Dialogue: 0,0:04:08.94,0:04:11.64,Default,,0000,0000,0000,,It grants access to Vector Sigma,
+Dialogue: 0,0:04:12.24,0:04:15.71,Default,,0000,0000,0000,,the repository of the wisdom of the Primes.
+Dialogue: 0,0:04:15.83,0:04:18.23,Default,,0000,0000,0000,,Is that some sort of supercomputer?
+Dialogue: 0,0:04:18.51,0:04:21.52,Default,,0000,0000,0000,,So, we can just download Optimus's memories back into him?
+Dialogue: 0,0:04:21.65,0:04:23.49,Default,,0000,0000,0000,,Great! Which one is the big V?
+Dialogue: 0,0:04:23.69,0:04:25.72,Default,,0000,0000,0000,,Over here? Somewhere in back?
+Dialogue: 0,0:04:25.87,0:04:29.40,Default,,0000,0000,0000,,Vector Sigma is more than a "supercomputer", Jack.
+Dialogue: 0,0:04:29.76,0:04:33.02,Default,,0000,0000,0000,,It is an ancient source of mystical power.
+Dialogue: 0,0:04:34.34,0:04:36.10,Default,,0000,0000,0000,,On Cybertron.
+Dialogue: 0,0:04:48.10,0:04:53.44,Default,,0000,0000,0000,,You had been a captive of the Autobots and locked in stasis for quite some time, Orion.
+Dialogue: 0,0:04:53.69,0:04:56.82,Default,,0000,0000,0000,,Long enough for us to be in exodus on another world.
+Dialogue: 0,0:04:57.64,0:04:59.68,Default,,0000,0000,0000,,Exodus? Why?
+Dialogue: 0,0:04:59.80,0:05:03.24,Default,,0000,0000,0000,,Because the Warlord Ratchet's careless actions
+Dialogue: 0,0:05:03.24,0:05:05.11,Default,,0000,0000,0000,,led to this.
+Dialogue: 0,0:05:06.54,0:05:07.95,Default,,0000,0000,0000,,Ahhh...
+Dialogue: 0,0:05:11.19,0:05:12.88,Default,,0000,0000,0000,,... Cybertron!
+Dialogue: 0,0:05:19.02,0:05:22.09,Default,,0000,0000,0000,,Jackson Darby! You will NOT be travelling to another planet.
+Dialogue: 0,0:05:22.25,0:05:23.06,Default,,0000,0000,0000,,I'm in!
+Dialogue: 0,0:05:23.27,0:05:24.78,Default,,0000,0000,0000,,You're not going either, Miko.
+Dialogue: 0,0:05:25.10,0:05:26.97,Default,,0000,0000,0000,,Not when one of YOU can.
+Dialogue: 0,0:05:29.19,0:05:30.20,Default,,0000,0000,0000,,June's right.
+Dialogue: 0,0:05:30.40,0:05:32.59,Default,,0000,0000,0000,,Why send a boy to do a bot's job?
+Dialogue: 0,0:05:32.86,0:05:36.18,Default,,0000,0000,0000,,Because only a Prime can access Vector Sigma.
+Dialogue: 0,0:05:36.30,0:05:38.67,Default,,0000,0000,0000,,Or one chosen by a Prime.
+Dialogue: 0,0:05:39.16,0:05:41.62,Default,,0000,0000,0000,,Optimus gave the Key card to Jack.
+Dialogue: 0,0:05:42.00,0:05:45.45,Default,,0000,0000,0000,,It is now imprinted with his unique biosignature.
+Dialogue: 0,0:05:46.53,0:05:50.20,Default,,0000,0000,0000,,So, you mean Jack's like some kinda honorary Prime?
+Dialogue: 0,0:05:50.35,0:05:56.90,Default,,0000,0000,0000,,Let's just say, Jack is the only one who can return Optimus to the Autobot we knew.
+Dialogue: 0,0:05:57.04,0:06:01.00,Default,,0000,0000,0000,,But why would Optimus willfully endanger a human? A child?
+Dialogue: 0,0:06:01.14,0:06:02.68,Default,,0000,0000,0000,,I'm not a child, Mom!
+Dialogue: 0,0:06:02.98,0:06:05.69,Default,,0000,0000,0000,,Maybe Optimus believes there's more to Jack than meets the eye.
+Dialogue: 0,0:06:05.80,0:06:07.35,Default,,0000,0000,0000,,All of which is moot.
+Dialogue: 0,0:06:07.74,0:06:13.17,Default,,0000,0000,0000,,The Key-card is useless to us without the means of reaching Cybertron,
+Dialogue: 0,0:06:13.28,0:06:16.17,Default,,0000,0000,0000,,which we at present do not possess.
+Dialogue: 0,0:06:16.50,0:06:18.44,Default,,0000,0000,0000,,Dude. What about THAT?
+Dialogue: 0,0:06:18.66,0:06:22.38,Default,,0000,0000,0000,,Miko, the Ground bridge barely got them into Earth orbit, remember?
+Dialogue: 0,0:06:22.52,0:06:24.27,Default,,0000,0000,0000,,Yeah, but Ratchet built it.
+Dialogue: 0,0:06:24.36,0:06:26.04,Default,,0000,0000,0000,,Can't he just turbo-charge the thing?
+Dialogue: 0,0:06:31.60,0:06:35.29,Default,,0000,0000,0000,,I cannot believe Ratchet capable of such horrors.
+Dialogue: 0,0:06:36.93,0:06:42.11,Default,,0000,0000,0000,,Yes. And to think the Doctor of Doom's mad quest for power continues...
+Dialogue: 0,0:06:42.93,0:06:45.81,Default,,0000,0000,0000,,his marauders pursued us to this planet's orbit.
+Dialogue: 0,0:06:46.02,0:06:48.92,Default,,0000,0000,0000,,We feel its species are not ready to behold us.
+Dialogue: 0,0:06:49.29,0:06:54.55,Default,,0000,0000,0000,,But we have resolved to protect this world from the same tragedy which was dealt to our own.
+Dialogue: 0,0:06:54.87,0:06:56.62,Default,,0000,0000,0000,,One question, Megatron.
+Dialogue: 0,0:06:57.07,0:06:59.77,Default,,0000,0000,0000,,Why are we called Decepticons?
+Dialogue: 0,0:07:01.64,0:07:04.78,Default,,0000,0000,0000,,Another craven Autobot scare tactic.
+Dialogue: 0,0:07:04.79,0:07:06.92,Default,,0000,0000,0000,,The name was meant to demonize us.
+Dialogue: 0,0:07:07.03,0:07:10.04,Default,,0000,0000,0000,,Instead, we wear it as a badge of honour.
+Dialogue: 0,0:07:10.40,0:07:12.89,Default,,0000,0000,0000,,For if speaking the truth is deception,
+Dialogue: 0,0:07:13.16,0:07:15.27,Default,,0000,0000,0000,,then we are gladly guilty.
+Dialogue: 0,0:07:17.48,0:07:19.10,Default,,0000,0000,0000,,Now please, Orion.
+Dialogue: 0,0:07:19.22,0:07:21.53,Default,,0000,0000,0000,,There will be plenty of time for catching up.
+Dialogue: 0,0:07:21.73,0:07:23.11,Default,,0000,0000,0000,,You must rest.
+Dialogue: 0,0:07:26.27,0:07:27.45,Default,,0000,0000,0000,,Megatron!
+Dialogue: 0,0:07:28.72,0:07:33.37,Default,,0000,0000,0000,,I will do my part to stop Ratchet's unspeakable crimes of aggression.
+Dialogue: 0,0:07:34.67,0:07:38.44,Default,,0000,0000,0000,,This I vow. With all my Spark.
+Dialogue: 0,0:07:52.12,0:07:56.36,Default,,0000,0000,0000,,It seems we have successfully achieved control of Orion's spark.
+Dialogue: 0,0:07:56.58,0:07:59.92,Default,,0000,0000,0000,,Now, to put his mind to work.
+Dialogue: 0,0:08:01.39,0:08:03.93,Default,,0000,0000,0000,,Have you sanitized the data-core?
+Dialogue: 0,0:08:05.03,0:08:10.63,Default,,0000,0000,0000,,Excellent. Our new archivist will require unlimited access to our files.
+Dialogue: 0,0:08:10.75,0:08:16.05,Default,,0000,0000,0000,,It would be counterproductive for him to stumble upon any sensitive information.
+Dialogue: 0,0:08:21.03,0:08:23.83,Default,,0000,0000,0000,,Two "body slamburger" specials. Enjoy!
+Dialogue: 0,0:08:27.61,0:08:28.94,Default,,0000,0000,0000,,Hey Jack!
+Dialogue: 0,0:08:29.26,0:08:30.38,Default,,0000,0000,0000,,Sierra!
+Dialogue: 0,0:08:30.65,0:08:33.32,Default,,0000,0000,0000,,How come I never see you around?
+Dialogue: 0,0:08:33.51,0:08:34.60,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:08:34.60,0:08:35.96,Default,,0000,0000,0000,,We have chemistry together.
+Dialogue: 0,0:08:37.22,0:08:39.70,Default,,0000,0000,0000,,Ehm, "class"! Chemistry class.
+Dialogue: 0,0:08:40.35,0:08:42.98,Default,,0000,0000,0000,,I mean, outside of school.
+Dialogue: 0,0:08:43.09,0:08:46.41,Default,,0000,0000,0000,,I never see you at any parties or the mall.
+Dialogue: 0,0:08:46.57,0:08:49.56,Default,,0000,0000,0000,,Well, mostly I'm here, wearing the hat.
+Dialogue: 0,0:08:49.84,0:08:52.89,Default,,0000,0000,0000,,And you never can study too hard for the old SATs, you know.
+Dialogue: 0,0:08:53.08,0:08:55.37,Default,,0000,0000,0000,,And, there's some other... stuff.
+Dialogue: 0,0:08:56.98,0:08:58.26,Default,,0000,0000,0000,,Oh. Don't go anywhere!
+Dialogue: 0,0:09:00.32,0:09:02.18,Default,,0000,0000,0000,,Welcome to K.O. drive-in, may I take your...
+Dialogue: 0,0:09:02.18,0:09:04.27,Default,,0000,0000,0000,,5 PM, Jack. Your shift is over.
+Dialogue: 0,0:09:04.27,0:09:05.01,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:09:05.09,0:09:09.11,Default,,0000,0000,0000,,Oh! That kind of... "stuff".
+Dialogue: 0,0:09:10.66,0:09:12.16,Default,,0000,0000,0000,,Sierra, wait!
+Dialogue: 0,0:09:13.44,0:09:14.89,Default,,0000,0000,0000,,She's my mother!
+Dialogue: 0,0:09:22.56,0:09:24.20,Default,,0000,0000,0000,,Your mom looks good in leather.
+Dialogue: 0,0:09:24.62,0:09:26.04,Default,,0000,0000,0000,,On your bike.
+Dialogue: 0,0:09:30.06,0:09:32.16,Default,,0000,0000,0000,,Didn't mean to decimate your social life.
+Dialogue: 0,0:09:32.20,0:09:33.69,Default,,0000,0000,0000,,Not the first time.
+Dialogue: 0,0:09:33.85,0:09:34.93,Default,,0000,0000,0000,,Any sign of Optimus?
+Dialogue: 0,0:09:35.17,0:09:36.27,Default,,0000,0000,0000,,Not today.
+Dialogue: 0,0:09:37.48,0:09:38.53,Default,,0000,0000,0000,,Not yet!
+Dialogue: 0,0:09:39.33,0:09:44.74,Default,,0000,0000,0000,,When we stormed the Iacon Hall of Records in the winning days of the war for Cybertron,
+Dialogue: 0,0:09:45.22,0:09:48.25,Default,,0000,0000,0000,,we acquired highly classified files.
+Dialogue: 0,0:09:48.50,0:09:53.35,Default,,0000,0000,0000,,Files written with Autobot codes, which we had been unable to decipher.
+Dialogue: 0,0:09:53.48,0:10:01.05,Default,,0000,0000,0000,,Autobot codes, which the Iacon archivist Orion Pax should have no trouble cracking.
+Dialogue: 0,0:10:01.18,0:10:02.58,Default,,0000,0000,0000,,Considering what's at stake,
+Dialogue: 0,0:10:02.71,0:10:05.50,Default,,0000,0000,0000,,shouldn't we beef up the security around here?
+Dialogue: 0,0:10:06.40,0:10:10.92,Default,,0000,0000,0000,,Knockout, I believe that Orion will perform most effectively
+Dialogue: 0,0:10:11.05,0:10:14.99,Default,,0000,0000,0000,,if he does not feel threatened or confined in any way.
+Dialogue: 0,0:10:15.23,0:10:24.98,Default,,0000,0000,0000,,However, it is no coincidence that Orion's work-station is located in direct proximity to the Energon storage vault.
+Dialogue: 0,0:10:25.14,0:10:28.76,Default,,0000,0000,0000,,Which is under constant surveillance...
+Dialogue: 0,0:10:28.83,0:10:30.31,Default,,0000,0000,0000,,Well played.
+Dialogue: 0,0:10:41.19,0:10:45.37,Default,,0000,0000,0000,,Ratchet! Are you turbo-charging the Ground-bridge?
+Dialogue: 0,0:10:45.84,0:10:47.18,Default,,0000,0000,0000,,Tinkering.
+Dialogue: 0,0:10:47.74,0:10:50.71,Default,,0000,0000,0000,,No need to get anyone's hopes up, just yet.
+Dialogue: 0,0:10:59.85,0:11:03.39,Default,,0000,0000,0000,,Orion! How fares project "Iacon"?
+Dialogue: 0,0:11:03.79,0:11:05.86,Default,,0000,0000,0000,,I am a bit rusty, I fear.
+Dialogue: 0,0:11:05.98,0:11:08.33,Default,,0000,0000,0000,,I've only managed to decode three entries.
+Dialogue: 0,0:11:08.52,0:11:11.10,Default,,0000,0000,0000,,And what do these entries comprise?
+Dialogue: 0,0:11:11.59,0:11:16.51,Default,,0000,0000,0000,,They were logged by Autobot archivist during the war after I entered stasis.
+Dialogue: 0,0:11:16.98,0:11:19.44,Default,,0000,0000,0000,,My only knowledge of its content so far
+Dialogue: 0,0:11:19.62,0:11:21.58,Default,,0000,0000,0000,,is that they are coordinates,
+Dialogue: 0,0:11:22.30,0:11:25.66,Default,,0000,0000,0000,,targeting locations on this very planet.
+Dialogue: 0,0:11:28.22,0:11:31.70,Default,,0000,0000,0000,,I surmise that they could indicate hiding places for vessels
+Dialogue: 0,0:11:31.84,0:11:35.73,Default,,0000,0000,0000,,shuttled from Cybertron for safe-keeping.
+Dialogue: 0,0:11:36.08,0:11:41.41,Default,,0000,0000,0000,,Such as historical documents or cultural artifacts?
+Dialogue: 0,0:11:42.25,0:11:45.65,Default,,0000,0000,0000,,My greatest fear would be weapons of mass destruction.
+Dialogue: 0,0:11:46.05,0:11:48.33,Default,,0000,0000,0000,,Hidden away for later use.
+Dialogue: 0,0:11:49.46,0:11:53.22,Default,,0000,0000,0000,,All the more reason it is essential that we do everything in our power
+Dialogue: 0,0:11:53.37,0:11:56.21,Default,,0000,0000,0000,,to keep said vessels from Autobot reach.
+Dialogue: 0,0:11:57.38,0:12:01.07,Default,,0000,0000,0000,,We are fortunate to have you on our side, Orion Pax.
+Dialogue: 0,0:12:03.29,0:12:04.89,Default,,0000,0000,0000,,Lord Megatron.
+Dialogue: 0,0:12:05.74,0:12:08.91,Default,,0000,0000,0000,,I am puzzled by one particular finding.
+Dialogue: 0,0:12:09.06,0:12:14.73,Default,,0000,0000,0000,,I have discovered several historic references to Starscream as your second-in-command.
+Dialogue: 0,0:12:17.20,0:12:19.82,Default,,0000,0000,0000,,Yet I have not seen him aboard the ship.
+Dialogue: 0,0:12:21.46,0:12:24.31,Default,,0000,0000,0000,,Sadly, Commander Starscream is dead.
+Dialogue: 0,0:12:36.00,0:12:38.39,Default,,0000,0000,0000,,Orion asks many questions.
+Dialogue: 0,0:12:38.57,0:12:43.12,Default,,0000,0000,0000,,A valuable trait in an archivist, but not in a Decepticon.
+Dialogue: 0,0:12:44.26,0:12:47.59,Default,,0000,0000,0000,,It is a matter of time before he unravels our fabrications
+Dialogue: 0,0:12:47.76,0:12:51.91,Default,,0000,0000,0000,,and his innate sense of right and wrong rises to the surface...
+Dialogue: 0,0:12:52.34,0:12:55.94,Default,,0000,0000,0000,,I only hope that Orion will complete project "Iacon"
+Dialogue: 0,0:12:56.23,0:13:01.64,Default,,0000,0000,0000,,before I am forced to destroy him, once and for all.
+Dialogue: 0,0:13:08.03,0:13:09.09,Default,,0000,0000,0000,,Ratchet!
+Dialogue: 0,0:13:09.12,0:13:10.00,Default,,0000,0000,0000,,You awake?
+Dialogue: 0,0:13:10.14,0:13:11.66,Default,,0000,0000,0000,,This is an emergency!
+Dialogue: 0,0:13:11.77,0:13:14.24,Default,,0000,0000,0000,,Agent Fowler! Is it Optimus?
+Dialogue: 0,0:13:14.39,0:13:15.49,Default,,0000,0000,0000,,It's 'Cons!
+Dialogue: 0,0:13:15.53,0:13:19.73,Default,,0000,0000,0000,,And they're busting into the same military research lab they hit two months ago.
+Dialogue: 0,0:13:20.96,0:13:22.20,Default,,0000,0000,0000,,Another Space-bridge?
+Dialogue: 0,0:13:22.33,0:13:24.74,Default,,0000,0000,0000,,But for all we know Optimus is riding with them.
+Dialogue: 0,0:13:24.78,0:13:26.14,Default,,0000,0000,0000,,Roll out!
+Dialogue: 0,0:13:43.56,0:13:45.23,Default,,0000,0000,0000,,Drop the power source!
+Dialogue: 0,0:13:45.98,0:13:48.52,Default,,0000,0000,0000,,Aren't you missing someone?
+Dialogue: 0,0:14:03.12,0:14:04.91,Default,,0000,0000,0000,,Ready for that bridge!
+Dialogue: 0,0:14:07.22,0:14:11.34,Default,,0000,0000,0000,,We'll be sure to tell the big O you said "Hello".
+Dialogue: 0,0:14:15.31,0:14:16.34,Default,,0000,0000,0000,,Arcee!
+Dialogue: 0,0:14:30.13,0:14:31.18,Default,,0000,0000,0000,,Scrap.
+Dialogue: 0,0:14:45.91,0:14:47.20,Default,,0000,0000,0000,,Where's Optimus?
+Dialogue: 0,0:14:49.32,0:14:50.68,Default,,0000,0000,0000,,Answer me!
+Dialogue: 0,0:15:20.59,0:15:21.57,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:21.84,0:15:23.56,Default,,0000,0000,0000,,Arcee...
+Dialogue: 0,0:15:24.43,0:15:27.13,Default,,0000,0000,0000,,Allow me to welcome her aboard.
+Dialogue: 0,0:15:27.31,0:15:31.37,Default,,0000,0000,0000,,No! If Orion so much as lays eyes on another Autobot
+Dialogue: 0,0:15:31.37,0:15:34.35,Default,,0000,0000,0000,,let alone be allowed to witness its destruction,
+Dialogue: 0,0:15:34.59,0:15:39.27,Default,,0000,0000,0000,,everything he currently believes will be called into question.
+Dialogue: 0,0:15:39.41,0:15:44.07,Default,,0000,0000,0000,,See to it that Arcee is escorted off this ship immediately!
+Dialogue: 0,0:16:10.40,0:16:12.80,Default,,0000,0000,0000,,Orion! Please return to your station.
+Dialogue: 0,0:16:12.96,0:16:15.09,Default,,0000,0000,0000,,Lord Megatron's orders.
+Dialogue: 0,0:16:50.11,0:16:51.80,Default,,0000,0000,0000,,I heard a commotion.
+Dialogue: 0,0:17:05.64,0:17:06.87,Default,,0000,0000,0000,,What the...?
+Dialogue: 0,0:17:13.30,0:17:16.23,Default,,0000,0000,0000,,You weren't able to determine the Decepticons' location
+Dialogue: 0,0:17:16.37,0:17:18.33,Default,,0000,0000,0000,,or if Optimus was even aboard ship?
+Dialogue: 0,0:17:18.79,0:17:21.08,Default,,0000,0000,0000,,I... can't confirm.
+Dialogue: 0,0:17:23.49,0:17:24.23,Default,,0000,0000,0000,,Bulkhead!
+Dialogue: 0,0:17:24.25,0:17:25.97,Default,,0000,0000,0000,,What? You needed that?
+Dialogue: 0,0:17:26.36,0:17:29.48,Default,,0000,0000,0000,,Only thing I need is our head honcho back!
+Dialogue: 0,0:17:30.52,0:17:31.89,Default,,0000,0000,0000,,It's not your fault.
+Dialogue: 0,0:17:32.26,0:17:35.09,Default,,0000,0000,0000,,If any of us needed rescuing, Optimus would have found a way.
+Dialogue: 0,0:17:35.24,0:17:37.16,Default,,0000,0000,0000,,I didn't. Simple as that.
+Dialogue: 0,0:17:37.17,0:17:38.14,Default,,0000,0000,0000,,Ratchet!
+Dialogue: 0,0:17:38.76,0:17:40.04,Default,,0000,0000,0000,,What happened out there?
+Dialogue: 0,0:17:40.16,0:17:42.17,Default,,0000,0000,0000,,Reports indicate at least a dozen wounded.
+Dialogue: 0,0:17:42.30,0:17:45.13,Default,,0000,0000,0000,,The hit's on me to provide some explanation.
+Dialogue: 0,0:17:45.32,0:17:47.82,Default,,0000,0000,0000,,You bots better get your act together or the Pentagon
+Dialogue: 0,0:17:47.82,0:17:49.59,Default,,0000,0000,0000,,will make me shut down your base.
+Dialogue: 0,0:17:49.75,0:17:51.35,Default,,0000,0000,0000,,But... where would you go?
+Dialogue: 0,0:17:51.62,0:17:54.86,Default,,0000,0000,0000,,Who knows. Maybe they'll ship us out to some island
+Dialogue: 0,0:17:54.86,0:17:56.64,Default,,0000,0000,0000,,or fire us into space!
+Dialogue: 0,0:17:56.64,0:17:58.64,Default,,0000,0000,0000,,Wouldn't that be a welcome relief.
+Dialogue: 0,0:17:58.76,0:17:59.86,Default,,0000,0000,0000,,I don't blame Fowler!
+Dialogue: 0,0:17:59.97,0:18:01.98,Default,,0000,0000,0000,,Optimus would have evacuated all humans in the area
+Dialogue: 0,0:18:01.98,0:18:03.76,Default,,0000,0000,0000,,before engaging the 'Cons.
+Dialogue: 0,0:18:06.06,0:18:09.56,Default,,0000,0000,0000,,We don't actually know what Optimus would have done because he's not here!
+Dialogue: 0,0:18:09.99,0:18:12.14,Default,,0000,0000,0000,,You're pretty good at stating the obvious, Bulk.
+Dialogue: 0,0:18:12.26,0:18:14.45,Default,,0000,0000,0000,,Anything else you'd like to mention that we already know?
+Dialogue: 0,0:18:14.62,0:18:17.05,Default,,0000,0000,0000,,Nothing I can say in front of the children.
+Dialogue: 0,0:18:17.16,0:18:19.60,Default,,0000,0000,0000,,Hey! Aren't we overlooking one positive?
+Dialogue: 0,0:18:19.99,0:18:22.71,Default,,0000,0000,0000,,Nobody's talking about what the 'Cons just got their claws on.
+Dialogue: 0,0:18:22.91,0:18:25.79,Default,,0000,0000,0000,,Yes, we managed to allow them to finally
+Dialogue: 0,0:18:25.79,0:18:28.69,Default,,0000,0000,0000,,acquire a power source for their space bridge!
+Dialogue: 0,0:18:29.23,0:18:31.74,Default,,0000,0000,0000,,And how exactly that would be a positive?
+Dialogue: 0,0:18:32.83,0:18:34.95,Default,,0000,0000,0000,,We let them finish building their Space-bridge.
+Dialogue: 0,0:18:35.11,0:18:38.58,Default,,0000,0000,0000,,Why? So they can bring more zombies back from Cybertron?
+Dialogue: 0,0:18:38.79,0:18:41.31,Default,,0000,0000,0000,,No. So we can commandeer it.
+Dialogue: 0,0:18:41.75,0:18:43.91,Default,,0000,0000,0000,,And use it to send me to Cybertron.
+Dialogue: 0,0:18:44.70,0:18:46.83,Default,,0000,0000,0000,,Woah. That's a pretty good idea.
+Dialogue: 0,0:18:46.98,0:18:47.97,Default,,0000,0000,0000,,Oh well.
+Dialogue: 0,0:18:47.97,0:18:50.56,Default,,0000,0000,0000,,If Miko thinks it's a good idea...
+Dialogue: 0,0:18:50.79,0:18:54.87,Default,,0000,0000,0000,,Nobody saying it will be easy but you've seized the Space-bridge before!
+Dialogue: 0,0:18:55.11,0:18:56.58,Default,,0000,0000,0000,,We blew one up.
+Dialogue: 0,0:18:56.70,0:18:59.56,Default,,0000,0000,0000,,That's a whole lot different than seizing and holding one.
+Dialogue: 0,0:19:02.19,0:19:04.92,Default,,0000,0000,0000,,Bee's right. We have to find that thing first.
+Dialogue: 0,0:19:05.18,0:19:06.73,Default,,0000,0000,0000,,Hellooo!
+Dialogue: 0,0:19:06.85,0:19:09.17,Default,,0000,0000,0000,,If it's a space bridge... isn't it?
+Dialogue: 0,0:19:10.07,0:19:14.27,Default,,0000,0000,0000,,The term "space" refers to its transport range,
+Dialogue: 0,0:19:14.30,0:19:16.39,Default,,0000,0000,0000,,not its physical location.
+Dialogue: 0,0:19:16.52,0:19:19.13,Default,,0000,0000,0000,,And we've been monitoring Earth's orbit since the last one,
+Dialogue: 0,0:19:19.27,0:19:20.75,Default,,0000,0000,0000,,we'd know if it were there.
+Dialogue: 0,0:19:21.10,0:19:23.49,Default,,0000,0000,0000,,So, the Bridge could be somewhere right here on Earth?
+Dialogue: 0,0:19:23.71,0:19:26.61,Default,,0000,0000,0000,,Like trying to find a servo at a scrapyard.
+Dialogue: 0,0:19:26.73,0:19:28.26,Default,,0000,0000,0000,,Then maybe we better start looking.
+Dialogue: 0,0:19:28.40,0:19:29.97,Default,,0000,0000,0000,,But the fact remains:
+Dialogue: 0,0:19:30.33,0:19:33.73,Default,,0000,0000,0000,,We don't know what the Decepticons have in store for Optimus.
+Dialogue: 0,0:19:33.93,0:19:36.43,Default,,0000,0000,0000,,Or if he's truly safe from harm.
+Dialogue: 0,0:20:20.16,0:20:21.52,Default,,0000,0000,0000,,Starscream!
+Dialogue: 0,0:20:22.79,0:20:25.84,Default,,0000,0000,0000,,That's "Commander Starscream".
+Dialogue: 0,0:20:25.96,0:20:27.32,Default,,0000,0000,0000,,What's your malfunction?
+Dialogue: 0,0:20:27.44,0:20:29.75,Default,,0000,0000,0000,,Lower those weapons immediately.
+Dialogue: 0,0:20:29.89,0:20:32.96,Default,,0000,0000,0000,,I'm sorry, Sir, but Lord Megatron ordered that you be taken into custody
+Dialogue: 0,0:20:32.96,0:20:35.44,Default,,0000,0000,0000,,should you ever return to the ship.
+Dialogue: 0,0:20:35.47,0:20:36.13,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:37.36,0:20:40.08,Default,,0000,0000,0000,,Clearly, there has been a mistake.
+Dialogue: 0,0:21:21.01,0:21:21.87,Default,,0000,0000,0000,,Lo!
+Dialogue: 0,0:21:22.17,0:21:24.32,Default,,0000,0000,0000,,Optimus Prime?!

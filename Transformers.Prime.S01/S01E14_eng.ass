@@ -1,0 +1,236 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 漫游字幕
+Original Script: 漫游字幕组
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+Dialogue: 0,0:00:02.20,0:00:05.17,Default,,0000,0000,0000,,Previously on Transformers: Prime...
+Dialogue: 0,0:00:05.37,0:00:09.50,Default,,0000,0000,0000,,A crash landing, buried here for centuries.
+Dialogue: 0,0:00:09.64,0:00:12.27,Default,,0000,0000,0000,,These Autobots didn't perish in the crash.
+Dialogue: 0,0:00:12.27,0:00:15.30,Default,,0000,0000,0000,,They are displaying the effects of a virus.
+Dialogue: 0,0:00:16.57,0:00:20.82,Default,,0000,0000,0000,,If a cure exists, Megatron maybe the only one who knows it.
+Dialogue: 0,0:00:20.82,0:00:23.81,Default,,0000,0000,0000,,You must enter his brain and find it.
+Dialogue: 0,0:00:28.57,0:00:30.93,Default,,0000,0000,0000,,What are you doing inside my head?
+Dialogue: 0,0:00:33.07,0:00:35.70,Default,,0000,0000,0000,,We have the formula, disconnect Bumblebee, now!
+Dialogue: 0,0:00:37.61,0:00:40.37,Default,,0000,0000,0000,,No, take me!
+Dialogue: 0,0:00:40.89,0:00:45.84,Default,,0000,0000,0000,,I'm out! Hahahahahaha...
+Dialogue: 0,0:00:48.91,0:00:52.87,Default,,0000,0000,0000,,Follow the light. Good, good.
+Dialogue: 0,0:00:53.56,0:00:55.91,Default,,0000,0000,0000,,I wouldn't advice anything strenuous, Optimus,
+Dialogue: 0,0:00:55.91,0:01:00.33,Default,,0000,0000,0000,,but it appears that your systems have fully recovered from the Cybonic plague.
+Dialogue: 0,0:01:03.38,0:01:06.92,Default,,0000,0000,0000,,Thanks to your medical expertise, old friend.
+Dialogue: 0,0:01:07.46,0:01:11.79,Default,,0000,0000,0000,,It was your scout who braved unknown territory to locate the cure.
+Dialogue: 0,0:01:13.90,0:01:16.02,Default,,0000,0000,0000,,Lucky for us Megatron was still alive.
+Dialogue: 0,0:01:17.23,0:01:18.68,Default,,0000,0000,0000,,Yea, I actually said that.
+Dialogue: 0,0:01:19.09,0:01:22.79,Default,,0000,0000,0000,,What matters is that you are on the mend, Optimus,
+Dialogue: 0,0:01:23.96,0:01:25.01,Default,,0000,0000,0000,,while Megatron...
+Dialogue: 0,0:01:27.05,0:01:30.90,Default,,0000,0000,0000,,Bee's right, 'did my best to finish Megatron's story.
+Dialogue: 0,0:01:31.10,0:01:33.58,Default,,0000,0000,0000,,Just couldn't stick around long enough to see how it ended.
+Dialogue: 0,0:01:37.50,0:01:42.71,Default,,0000,0000,0000,,It is a matter of time before Optimus discovers all is not right with you, scout.
+Dialogue: 0,0:01:43.93,0:01:46.72,Default,,0000,0000,0000,,I must reclaim my body,
+Dialogue: 0,0:01:46.72,0:01:52.90,Default,,0000,0000,0000,,which means taking complete and total control of yours.
+Dialogue: 0,0:02:42.65,0:02:45.30,Default,,0000,0000,0000,,Basketball by way of Cybertron.
+Dialogue: 0,0:02:45.54,0:02:47.03,Default,,0000,0000,0000,,Let the games begin!
+Dialogue: 0,0:02:55.66,0:02:57.17,Default,,0000,0000,0000,,Yeah, go Bulk!
+Dialogue: 0,0:02:59.11,0:03:01.27,Default,,0000,0000,0000,,Come on, best two out of three.
+Dialogue: 0,0:03:05.36,0:03:07.45,Default,,0000,0000,0000,,Bee, you are in the clear!
+Dialogue: 0,0:03:08.51,0:03:09.58,Default,,0000,0000,0000,,Dunk it, Bee!
+Dialogue: 0,0:03:17.98,0:03:20.50,Default,,0000,0000,0000,,Bumblebee, quit hugging the ball!
+Dialogue: 0,0:03:26.30,0:03:28.21,Default,,0000,0000,0000,,Ngrr, flagrant foul!
+Dialogue: 0,0:03:28.58,0:03:30.28,Default,,0000,0000,0000,,Dodge Ball by way of Cybertron.
+Dialogue: 0,0:03:31.03,0:03:32.71,Default,,0000,0000,0000,,Bee, hoop's over there.
+Dialogue: 0,0:03:35.26,0:03:36.76,Default,,0000,0000,0000,,Bee, you OK?
+Dialogue: 0,0:03:39.62,0:03:41.77,Default,,0000,0000,0000,,Yea, three out of five.
+Dialogue: 0,0:03:47.69,0:03:51.07,Default,,0000,0000,0000,,If I am to return my body,
+Dialogue: 0,0:03:51.75,0:03:54.58,Default,,0000,0000,0000,,I must first restore its functionality.
+Dialogue: 0,0:03:55.14,0:03:58.48,Default,,0000,0000,0000,,How did I escape annihilation?
+Dialogue: 0,0:04:03.96,0:04:07.30,Default,,0000,0000,0000,,Of course, Dark Energon!
+Dialogue: 0,0:04:12.23,0:04:14.32,Default,,0000,0000,0000,,Starscream!
+Dialogue: 0,0:04:20.50,0:04:25.21,Default,,0000,0000,0000,,{\pos(192,280)}Knock, knock. Is anyone in there?
+Dialogue: 0,0:04:25.21,0:04:26.84,Default,,0000,0000,0000,,No. Oh well...
+Dialogue: 0,0:04:27.10,0:04:29.23,Default,,0000,0000,0000,,{\pos(192,280)}Seems I possess the only thing
+Dialogue: 0,0:04:29.23,0:04:32.92,Default,,0000,0000,0000,,{\pos(192,280)}that would allow you to rise off that slab and walk again.
+Dialogue: 0,0:04:33.03,0:04:35.16,Default,,0000,0000,0000,,{\pos(192,280)}My dearest Megatron...
+Dialogue: 0,0:04:35.93,0:04:38.48,Default,,0000,0000,0000,,{\pos(192,280)}The only scrap left on this planet,
+Dialogue: 0,0:04:38.48,0:04:41.26,Default,,0000,0000,0000,,plucked from your very spark chamber.
+Dialogue: 0,0:04:41.26,0:04:45.77,Default,,0000,0000,0000,,{\pos(192,280)}But it cannot restore your mind.
+Dialogue: 0,0:04:46.37,0:04:48.97,Default,,0000,0000,0000,,{\pos(192,280)}The Decepticons need a leader,
+Dialogue: 0,0:04:48.97,0:04:51.89,Default,,0000,0000,0000,,{\pos(192,280)}not a decorative centerpiece.
+Dialogue: 0,0:04:52.45,0:04:58.86,Default,,0000,0000,0000,,And I will convince them that I am the true heir to your throne,
+Dialogue: 0,0:04:58.86,0:05:01.45,Default,,0000,0000,0000,,with a plan so epic...
+Dialogue: 0,0:05:01.55,0:05:05.20,Default,,0000,0000,0000,,Not even the mighty Megatron could've conceived it?
+Dialogue: 0,0:05:09.70,0:05:12.40,Default,,0000,0000,0000,,Eh, that was the idea, Knock Out.
+Dialogue: 0,0:05:13.11,0:05:14.52,Default,,0000,0000,0000,,How long have you been there?
+Dialogue: 0,0:05:15.20,0:05:16.27,Default,,0000,0000,0000,,Long enough.
+Dialogue: 0,0:05:16.27,0:05:18.48,Default,,0000,0000,0000,,And it's Commander Knock Out to you,
+Dialogue: 0,0:05:18.48,0:05:21.14,Default,,0000,0000,0000,,once and future Lord Starscream.
+Dialogue: 0,0:05:33.60,0:05:35.64,Default,,0000,0000,0000,,Raf? Class is starting.
+Dialogue: 0,0:05:35.64,0:05:37.59,Default,,0000,0000,0000,,Bumblebee never picked me up for school,
+Dialogue: 0,0:05:37.59,0:05:39.26,Default,,0000,0000,0000,,and his comlink is off again.
+Dialogue: 0,0:05:39.26,0:05:40.69,Default,,0000,0000,0000,,Any idea where he is?
+Dialogue: 0,0:05:53.23,0:05:58.70,Default,,0000,0000,0000,,Yes, go on scout, obey my will!
+Dialogue: 0,0:06:01.96,0:06:02.94,Default,,0000,0000,0000,,Bumblebee!
+Dialogue: 0,0:06:05.90,0:06:07.63,Default,,0000,0000,0000,,I needed that!
+Dialogue: 0,0:06:09.54,0:06:11.93,Default,,0000,0000,0000,,What has got into you?
+Dialogue: 0,0:06:15.35,0:06:17.97,Default,,0000,0000,0000,,You are seeing Megatron's face?
+Dialogue: 0,0:06:20.42,0:06:23.41,Default,,0000,0000,0000,,Bumblebee's complaining of intermittent visions.
+Dialogue: 0,0:06:23.61,0:06:25.59,Default,,0000,0000,0000,,Waking nightmares, if you will.
+Dialogue: 0,0:06:25.59,0:06:28.11,Default,,0000,0000,0000,,But, you said Bee was fine when you checked him over.
+Dialogue: 0,0:06:28.21,0:06:29.13,Default,,0000,0000,0000,,Physically,
+Dialogue: 0,0:06:29.13,0:06:33.34,Default,,0000,0000,0000,,but the experience he endured seems to be having a temporary effect on his psychy.
+Dialogue: 0,0:06:33.34,0:06:37.66,Default,,0000,0000,0000,,This induced power down should force Bumblebee's mind to rest and recover.
+Dialogue: 0,0:06:42.65,0:06:46.85,Default,,0000,0000,0000,,Prime, you spot any Decepticons wearing hula skirt lately?
+Dialogue: 0,0:06:47.06,0:06:50.84,Default,,0000,0000,0000,,No, Special Agent Fowler. Why?
+Dialogue: 0,0:06:50.94,0:06:53.15,Default,,0000,0000,0000,,Coz I was hoping you have a lead on the Cons
+Dialogue: 0,0:06:53.15,0:06:55.77,Default,,0000,0000,0000,,that busted into the Kauai Naval Observatory.
+Dialogue: 0,0:06:55.77,0:06:58.63,Default,,0000,0000,0000,,Place look like it was hit by an army of wrecking balls.
+Dialogue: 0,0:06:58.80,0:07:01.35,Default,,0000,0000,0000,,Why would Cons break into an Observatory?
+Dialogue: 0,0:07:01.50,0:07:04.40,Default,,0000,0000,0000,,Does the Heuck Nigoghossian ring any bells?
+Dialogue: 0,0:07:04.51,0:07:05.77,Default,,0000,0000,0000,,The space telescope!
+Dialogue: 0,0:07:05.77,0:07:08.66,Default,,0000,0000,0000,,As of last night missing its primary lens.
+Dialogue: 0,0:07:08.81,0:07:11.50,Default,,0000,0000,0000,,It's difficult to guess Starscream's intent
+Dialogue: 0,0:07:11.50,0:07:14.18,Default,,0000,0000,0000,,without knowing where the lens has been taken.
+Dialogue: 0,0:07:14.28,0:07:16.85,Default,,0000,0000,0000,,Good thing's the lens has a tracking device.
+Dialogue: 0,0:07:20.79,0:07:23.42,Default,,0000,0000,0000,,The Arctic? Great!
+Dialogue: 0,0:07:23.59,0:07:25.91,Default,,0000,0000,0000,,Another chance to freeze our sparkplugs off.
+Dialogue: 0,0:07:26.76,0:07:32.43,Default,,0000,0000,0000,,Hew... That's a ND-7 class, biggest unminable energon deposit there is.
+Dialogue: 0,0:07:32.50,0:07:37.17,Default,,0000,0000,0000,,Unminable until Starscream melt his way down to it.
+Dialogue: 0,0:07:37.22,0:07:39.09,Default,,0000,0000,0000,,With the help of the lens.
+Dialogue: 0,0:07:39.09,0:07:43.70,Default,,0000,0000,0000,,Melting a glacier that size would cause sea levels to rise and demolish coastal cities.
+Dialogue: 0,0:07:52.10,0:07:58.10,Default,,0000,0000,0000,,Let the rain of Lord Starscream... begin.
+Dialogue: 0,0:08:21.78,0:08:23.75,Default,,0000,0000,0000,,So I blow pass the finish line.
+Dialogue: 0,0:08:23.75,0:08:26.93,Default,,0000,0000,0000,,Then my other sister Plaura asked how I got so good at racing games.
+Dialogue: 0,0:08:26.93,0:08:29.20,Default,,0000,0000,0000,,And I told her I know a guy who knows cars.
+Dialogue: 0,0:08:29.23,0:08:34.35,Default,,0000,0000,0000,,Raphael, I'm afraid Bumblebee can't hear you in power-down mode.
+Dialogue: 0,0:08:34.45,0:08:37.48,Default,,0000,0000,0000,,It's getting late. Why don't I bridge you home to your family?
+Dialogue: 0,0:08:37.50,0:08:40.55,Default,,0000,0000,0000,,Because I told Bee I'd stay. He's family, too.
+Dialogue: 0,0:08:40.58,0:08:43.92,Default,,0000,0000,0000,,Don't be ridiculous. You are not even the same species.
+Dialogue: 0,0:08:44.16,0:08:45.96,Default,,0000,0000,0000,,That's being related.
+Dialogue: 0,0:08:45.96,0:08:48.12,Default,,0000,0000,0000,,It's not the same thing. I'll show you.
+Dialogue: 0,0:08:52.63,0:08:53.84,Default,,0000,0000,0000,,This is my family.
+Dialogue: 0,0:08:56.54,0:08:58.25,Default,,0000,0000,0000,,Hm, hm. Yes, very nice.
+Dialogue: 0,0:08:58.81,0:09:00.13,Default,,0000,0000,0000,,Very large.
+Dialogue: 0,0:09:00.13,0:09:02.30,Default,,0000,0000,0000,,Sometimes I can shout and no one hears me.
+Dialogue: 0,0:09:02.68,0:09:03.95,Default,,0000,0000,0000,,Yes, yes, yes, yes...
+Dialogue: 0,0:09:04.83,0:09:06.78,Default,,0000,0000,0000,,But Bumblebee always listens.
+Dialogue: 0,0:09:09.79,0:09:11.61,Default,,0000,0000,0000,,And I can understand him.
+Dialogue: 0,0:09:12.50,0:09:14.66,Default,,0000,0000,0000,,I'm not sure why, but I do.
+Dialogue: 0,0:09:17.71,0:09:19.96,Default,,0000,0000,0000,,A lot different than our last polar visit.
+Dialogue: 0,0:09:20.75,0:09:22.06,Default,,0000,0000,0000,,Feels like summer.
+Dialogue: 0,0:09:27.69,0:09:29.86,Default,,0000,0000,0000,,Here, that's a bad thing.
+Dialogue: 0,0:09:38.10,0:09:43.30,Default,,0000,0000,0000,,Autobots, remember the end run on Polyhex?
+Dialogue: 0,0:09:48.47,0:09:53.44,Default,,0000,0000,0000,,Raphael, I'm going to the supply vol to see if I can find parts to repair this.
+Dialogue: 0,0:09:53.54,0:09:55.24,Default,,0000,0000,0000,,You know what that means?
+Dialogue: 0,0:09:55.68,0:09:57.46,Default,,0000,0000,0000,,"Don't touch anything."
+Dialogue: 0,0:10:06.93,0:10:10.14,Default,,0000,0000,0000,,Wait til I see this new laptop I'm saving up for, Bee.
+Dialogue: 0,0:10:11.33,0:10:12.22,Default,,0000,0000,0000,,Bee?
+Dialogue: 0,0:10:13.68,0:10:15.15,Default,,0000,0000,0000,,Bumblebee, wait!
+Dialogue: 0,0:10:24.30,0:10:25.19,Default,,0000,0000,0000,,Bumblebee!
+Dialogue: 0,0:10:28.46,0:10:29.64,Default,,0000,0000,0000,,What did you do?
+Dialogue: 0,0:10:29.94,0:10:32.15,Default,,0000,0000,0000,,Nothing, Bumblebee just got up and...
+Dialogue: 0,0:10:32.18,0:10:34.04,Default,,0000,0000,0000,,He was in power-down.
+Dialogue: 0,0:10:34.04,0:10:36.26,Default,,0000,0000,0000,,Where does he think he's off to?
+Dialogue: 0,0:10:41.12,0:10:43.48,Default,,0000,0000,0000,,Where is it? Where?
+Dialogue: 0,0:11:13.00,0:11:17.30,Default,,0000,0000,0000,,These are the coordinates for the site of our previous battle with Megatron's undead.
+Dialogue: 0,0:11:17.60,0:11:19.45,Default,,0000,0000,0000,,Maybe we should call Optimus?
+Dialogue: 0,0:11:19.55,0:11:22.79,Default,,0000,0000,0000,,Optimus is busy preventing a polar ice cap from melting.
+Dialogue: 0,0:11:23.00,0:11:25.25,Default,,0000,0000,0000,,We need to handle this on our own.
+Dialogue: 0,0:11:30.05,0:11:32.88,Default,,0000,0000,0000,,Bumblebee? What have you been doing?
+Dialogue: 0,0:11:37.60,0:11:39.08,Default,,0000,0000,0000,,Dark Energon?
+Dialogue: 0,0:11:42.35,0:11:43.93,Default,,0000,0000,0000,,Bee, what are you doing?
+Dialogue: 0,0:11:50.17,0:11:53.03,Default,,0000,0000,0000,,Bumblebee, please! I know you are in there!
+Dialogue: 0,0:11:54.40,0:11:56.92,Default,,0000,0000,0000,,You have to fight whatever is making you do this!
+Dialogue: 0,0:12:06.60,0:12:08.47,Default,,0000,0000,0000,,Ratchet, are you OK?
+Dialogue: 0,0:12:09.25,0:12:12.86,Default,,0000,0000,0000,,I'm fine. More importantly, is bumblebee?
+Dialogue: 0,0:12:13.01,0:12:15.34,Default,,0000,0000,0000,,I fear the time spent in Megatron's mindscape
+Dialogue: 0,0:12:15.34,0:12:18.05,Default,,0000,0000,0000,,is causing him to think like a Decepticon.
+Dialogue: 0,0:12:18.08,0:12:19.52,Default,,0000,0000,0000,,Bee's not a Con!
+Dialogue: 0,0:12:19.60,0:12:22.82,Default,,0000,0000,0000,,Agreed, but we need to find out exactly
+Dialogue: 0,0:12:22.82,0:12:25.33,Default,,0000,0000,0000,,what Bumblebee intends to do with that shard.
+Dialogue: 0,0:12:27.09,0:12:29.91,Default,,0000,0000,0000,,The only one who knew of the Dark Energon
+Dialogue: 0,0:12:29.91,0:12:31.68,Default,,0000,0000,0000,,was Megatron.
+Dialogue: 0,0:12:32.56,0:12:34.61,Default,,0000,0000,0000,,Bumblebee has Megatron's memories?
+Dialogue: 0,0:12:34.71,0:12:39.71,Default,,0000,0000,0000,,Worse, Megatron is occupying Bumblebee's mind.
+Dialogue: 0,0:12:40.00,0:12:40.79,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:41.47,0:12:43.70,Default,,0000,0000,0000,,How could I've been such a fool!
+Dialogue: 0,0:12:43.70,0:12:47.26,Default,,0000,0000,0000,,The cortical psychic patch acted as a two-way condulet.
+Dialogue: 0,0:12:47.26,0:12:49.64,Default,,0000,0000,0000,,When Bumblebee returned to his own mind,
+Dialogue: 0,0:12:49.64,0:12:51.31,Default,,0000,0000,0000,,Megatron followed.
+Dialogue: 0,0:12:51.65,0:12:53.43,Default,,0000,0000,0000,,And now Bumblebee--
+Dialogue: 0,0:12:53.43,0:12:58.56,Default,,0000,0000,0000,,Megatron has bridged to nearly the same coordinates Optimus used.
+Dialogue: 0,0:13:02.19,0:13:03.65,Default,,0000,0000,0000,,Stay here.
+Dialogue: 0,0:13:04.08,0:13:06.70,Default,,0000,0000,0000,,No. Bumblebee needs me!
+Dialogue: 0,0:13:09.70,0:13:11.16,Default,,0000,0000,0000,,Of course he does.
+Dialogue: 0,0:13:16.50,0:13:20.85,Default,,0000,0000,0000,,Yes! I love when a plan comes together!
+Dialogue: 0,0:13:33.43,0:13:35.15,Default,,0000,0000,0000,,Autobots!
+Dialogue: 0,0:13:35.35,0:13:40.55,Default,,0000,0000,0000,,Please, Lord Starscream. Allow your second-in-command the honor.
+Dialogue: 0,0:13:41.10,0:13:43.59,Default,,0000,0000,0000,,Breakdown, total them!
+Dialogue: 0,0:14:17.10,0:14:19.02,Default,,0000,0000,0000,,The Decepticon warship!
+Dialogue: 0,0:14:24.53,0:14:26.11,Default,,0000,0000,0000,,Did Bumblebee do this?
+Dialogue: 0,0:14:26.44,0:14:28.96,Default,,0000,0000,0000,,I fear Megatron's mind is dominant.
+Dialogue: 0,0:14:28.96,0:14:32.14,Default,,0000,0000,0000,,And clearly he came here for one purpose--
+Dialogue: 0,0:14:32.14,0:14:35.47,Default,,0000,0000,0000,,to use the Dark Energon to resurrect his own body.
+Dialogue: 0,0:14:35.49,0:14:37.76,Default,,0000,0000,0000,,No. Bumblebee won't let him.
+Dialogue: 0,0:14:37.76,0:14:40.15,Default,,0000,0000,0000,,Like he didn't let Megatron hurt me back at base.
+Dialogue: 0,0:14:40.20,0:14:41.65,Default,,0000,0000,0000,,I hope you're right.
+Dialogue: 0,0:14:58.77,0:15:00.81,Default,,0000,0000,0000,,Ratchet, don't hurt Bumblebee!
+Dialogue: 0,0:15:01.17,0:15:02.76,Default,,0000,0000,0000,,That's not Bumblebee!
+Dialogue: 0,0:15:12.30,0:15:13.40,Default,,0000,0000,0000,,Bumblebee, no!
+Dialogue: 0,0:15:13.59,0:15:16.37,Default,,0000,0000,0000,,Remember who you are, remember me!
+Dialogue: 0,0:15:16.60,0:15:18.70,Default,,0000,0000,0000,,I know you'll always listen to me, no matter what!
+Dialogue: 0,0:15:23.10,0:15:25.27,Default,,0000,0000,0000,,That's right, Bee. It's me!
+Dialogue: 0,0:15:27.89,0:15:29.82,Default,,0000,0000,0000,,Unbelievable!
+Dialogue: 0,0:15:44.75,0:15:46.76,Default,,0000,0000,0000,,Farewell, Megatron!
+Dialogue: 0,0:15:55.10,0:15:56.16,Default,,0000,0000,0000,,Bumblebee!
+Dialogue: 0,0:16:05.27,0:16:08.51,Default,,0000,0000,0000,,Bumblebee can't hear you anymore!
+Dialogue: 0,0:16:08.88,0:16:11.41,Default,,0000,0000,0000,,As mush as I want you to leave Bumblebee's body,
+Dialogue: 0,0:16:11.61,0:16:13.71,Default,,0000,0000,0000,,I can't let you go back to your own!
+Dialogue: 0,0:16:51.60,0:16:56.70,Default,,0000,0000,0000,,Decepticons, your rightful lord and master has returned!
+Dialogue: 0,0:17:09.09,0:17:11.17,Default,,0000,0000,0000,,Finish these pests!
+Dialogue: 0,0:17:12.46,0:17:15.86,Default,,0000,0000,0000,,I have my own extermination to perform.
+Dialogue: 0,0:18:10.75,0:18:12.45,Default,,0000,0000,0000,,How about I put you on ice?
+Dialogue: 0,0:18:20.55,0:18:23.67,Default,,0000,0000,0000,,Don't the Bots seem... understaff?
+Dialogue: 0,0:18:26.95,0:18:31.50,Default,,0000,0000,0000,,Uhhh... What good is a second-in-command who fails to watch the rear!
+Dialogue: 0,0:18:35.08,0:18:36.34,Default,,0000,0000,0000,,Get out of my way!
+Dialogue: 0,0:18:51.85,0:18:52.85,Default,,0000,0000,0000,,No!!
+Dialogue: 0,0:19:08.86,0:19:09.74,Default,,0000,0000,0000,,Optimus!
+Dialogue: 0,0:19:22.45,0:19:24.90,Default,,0000,0000,0000,,Megatron's greatest mistake
+Dialogue: 0,0:19:24.90,0:19:28.56,Default,,0000,0000,0000,,was ever allowing you to live, Prime!
+Dialogue: 0,0:19:34.77,0:19:36.25,Default,,0000,0000,0000,,Megatron...
+Dialogue: 0,0:19:36.70,0:19:37.80,Default,,0000,0000,0000,,He's back.
+Dialogue: 0,0:19:50.13,0:19:55.74,Default,,0000,0000,0000,,Lord... Megatron, you... are... you are healed!
+Dialogue: 0,0:19:55.80,0:19:59.55,Default,,0000,0000,0000,,Praise the Allspark, it is a miracle!
+Dialogue: 0,0:19:59.80,0:20:04.23,Default,,0000,0000,0000,,Oh, it will be a miracle, alright, Starscream.
+Dialogue: 0,0:20:04.23,0:20:06.80,Default,,0000,0000,0000,,if you survive what I have planned for you!
+Dialogue: 0,0:20:19.97,0:20:25.75,Default,,0000,0000,0000,,But the Autobots! Optimus! Right there, waiting for you!
+Dialogue: 0,0:20:25.95,0:20:30.30,Default,,0000,0000,0000,,My greatest mistake? I've made a few.
+Dialogue: 0,0:20:30.30,0:20:34.05,Default,,0000,0000,0000,,But there is one I do not intend to make again!
+Dialogue: 0,0:20:35.60,0:20:39.80,Default,,0000,0000,0000,,No, master, nooooo...
+Dialogue: 0,0:20:45.05,0:20:48.40,Default,,0000,0000,0000,,Ratchet, we need a bridge.
+Dialogue: 0,0:20:48.51,0:20:50.60,Default,,0000,0000,0000,,You are not the only ones.
+Dialogue: 0,0:21:05.20,0:21:07.15,Default,,0000,0000,0000,,Everything's back to normal.
+Dialogue: 0,0:21:10.05,0:21:12.65,Default,,0000,0000,0000,,Well, normal for Bumblebee.
+Dialogue: 0,0:21:17.20,0:21:18.25,Default,,0000,0000,0000,,It's OK.
+Dialogue: 0,0:21:20.25,0:21:21.45,Default,,0000,0000,0000,,Of course I was.
+Dialogue: 0,0:21:22.55,0:21:23.30,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:21:27.60,0:21:28.65,Default,,0000,0000,0000,,What did he say?
+Dialogue: 0,0:21:29.50,0:21:30.60,Default,,0000,0000,0000,,He said thanks.

@@ -1,0 +1,191 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&HF0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+\N- Me neither.
+
+
+
+Dialogue: 0,0:00:00.86,0:00:04.03,Default,,0000,0000,0000,,Previously on Transformers Prime:
+Dialogue: 0,0:00:04.03,0:00:08.25,Default,,0000,0000,0000,,If you don't survive, Optimus, I fear neither will this planet.
+Dialogue: 0,0:00:08.35,0:00:09.38,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:00:10.08,0:00:11.18,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:00:11.19,0:00:12.88,Default,,0000,0000,0000,,- Wasn't me.
+Dialogue: 0,0:00:12.88,0:00:14.63,Default,,0000,0000,0000,,I happened.
+Dialogue: 0,0:00:14.63,0:00:17.16,Default,,0000,0000,0000,,Optimus, our past alliances--
+Dialogue: 0,0:00:17.16,0:00:20.65,Default,,0000,0000,0000,,-- Autobot, Decepticon, no longer matter,
+Dialogue: 0,0:00:20.65,0:00:22.90,Default,,0000,0000,0000,,not while Unicron lives.
+Dialogue: 0,0:00:22.90,0:00:26.21,Default,,0000,0000,0000,,I can lead you directly to Unicron's spark.
+Dialogue: 0,0:00:26.21,0:00:29.51,Default,,0000,0000,0000,,A truce between Autobots and Decepticon.
+Dialogue: 0,0:00:29.62,0:00:32.13,Default,,0000,0000,0000,,Optimus, how are we supposed to stop Unicron?
+Dialogue: 0,0:00:32.13,0:00:34.29,Default,,0000,0000,0000,,With the Martrix of Leadership.
+Dialogue: 0,0:00:34.29,0:00:37.21,Default,,0000,0000,0000,,It appears our leader has abandoned us.
+Dialogue: 0,0:00:37.21,0:00:42.96,Default,,0000,0000,0000,,I believe we must consider the possibility of the future without Megatron.
+Dialogue: 0,0:00:42.97,0:00:48.32,Default,,0000,0000,0000,,Jack, I feel you've earned the responsibility of safeguarding this important device,
+Dialogue: 0,0:00:48.37,0:00:49.92,Default,,0000,0000,0000,,until I return.
+Dialogue: 0,0:00:50.49,0:00:54.08,Default,,0000,0000,0000,,So how long before Unicron Knows we're here?
+Dialogue: 0,0:00:54.08,0:00:58.31,Default,,0000,0000,0000,,Make no mistake. He already does.
+Dialogue: 0,0:01:03.15,0:01:04.05,Default,,0000,0000,0000,,Ah,
+Dialogue: 0,0:01:14.39,0:01:17.36,Default,,0000,0000,0000,,Unicron grows ever stronger.
+Dialogue: 0,0:01:25.62,0:01:29.22,Default,,0000,0000,0000,,How do we know Unicron isn't using Megatron to lead us all into a trap?
+Dialogue: 0,0:01:29.42,0:01:30.78,Default,,0000,0000,0000,,We do not.
+Dialogue: 0,0:02:34.12,0:02:41.36,Default,,0000,0000,0000,,More than 16 volcanoes are erupting worldwide and downtown Honolulu is under 6 inches of snow.
+Dialogue: 0,0:02:41.42,0:02:47.34,Default,,0000,0000,0000,,Scientists continued to devise theories connecting these unprecedented natural disasters with the planetary alignment which...
+Dialogue: 0,0:02:51.66,0:02:53.63,Default,,0000,0000,0000,,So, who wants to play a game?
+Dialogue: 0,0:02:55.76,0:02:57.03,Default,,0000,0000,0000,,That tears it!
+Dialogue: 0,0:02:57.77,0:02:58.72,Default,,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:02:59.04,0:03:02.03,Default,,0000,0000,0000,,{\pos(192,280)}I can't just sit on my hands while the world spins out of control.
+Dialogue: 0,0:03:02.03,0:03:05.02,Default,,0000,0000,0000,,{\pos(192,280)}And what exactly is that that you intend to do?
+Dialogue: 0,0:03:05.02,0:03:06.11,Default,,0000,0000,0000,,{\pos(192,280)}Anything.
+Dialogue: 0,0:03:06.22,0:03:10.31,Default,,0000,0000,0000,,{\pos(192,280)}Hook up with my boys at the Pentagon, figure out a way to bury that monster for good.
+Dialogue: 0,0:03:10.37,0:03:12.62,Default,,0000,0000,0000,,In the event Optimus can't?
+Dialogue: 0,0:03:12.62,0:03:15.18,Default,,0000,0000,0000,,Don't you mean Optimus and Megatron?
+Dialogue: 0,0:03:15.56,0:03:19.93,Default,,0000,0000,0000,,{\pos(192,280)}No one here is thrilled about this arrangement, Agent Fowler, myself included.
+Dialogue: 0,0:03:19.93,0:03:22.50,Default,,0000,0000,0000,,{\pos(192,280)}But with Optimus and Megatron together again...
+Dialogue: 0,0:03:22.50,0:03:24.61,Default,,0000,0000,0000,,{\pos(192,280)}Wow, wait, again?
+Dialogue: 0,0:03:24.61,0:03:26.31,Default,,0000,0000,0000,,{\pos(192,280)}Megatron was an Autobot?
+Dialogue: 0,0:03:26.31,0:03:28.14,Default,,0000,0000,0000,,{\pos(192,280)}Optimus was a 'Con?
+Dialogue: 0,0:03:28.15,0:03:33.26,Default,,0000,0000,0000,,No, on neither count. But there was a time back on Cybertron,
+Dialogue: 0,0:03:33.26,0:03:40.04,Default,,0000,0000,0000,,in the twilight hours of the Golden Age, when Optimus and Megatron were not sworn enemies.
+Dialogue: 0,0:03:40.07,0:03:43.24,Default,,0000,0000,0000,,Do you recall when I mentioned that Optimus wasn't always a Prime?
+Dialogue: 0,0:03:43.37,0:03:45.74,Default,,0000,0000,0000,,While, he wasn't always Optimus either.
+Dialogue: 0,0:03:45.84,0:03:52.74,Default,,0000,0000,0000,,He was once a clerk in the Iacon Hall of Records, named Orion Pax.
+Dialogue: 0,0:03:53.16,0:03:56.21,Default,,0000,0000,0000,,But as he learned more about Cybertron's past,
+Dialogue: 0,0:03:56.92,0:04:01.44,Default,,0000,0000,0000,,he grew increasingly concerned about the present corruption in high places,
+Dialogue: 0,0:04:02.22,0:04:05.04,Default,,0000,0000,0000,,and inequality among the masses.
+Dialogue: 0,0:04:06.09,0:04:10.16,Default,,0000,0000,0000,,Orion became inspired by the words and ideas of a gladiator,
+Dialogue: 0,0:04:11.23,0:04:18.54,Default,,0000,0000,0000,,one who had named himself after one of the 13 original Primes, Megatronus.
+Dialogue: 0,0:04:18.56,0:04:25.29,Default,,0000,0000,0000,,Megatronus vow to challenge Cybertron's leadership and demand that all Cybertronians be treated as equals.
+Dialogue: 0,0:04:25.34,0:04:32.52,Default,,0000,0000,0000,,This gladiator turned revolutionary rapidly gathered a loyal following, Soundwave chief among them.
+Dialogue: 0,0:04:34.54,0:04:40.09,Default,,0000,0000,0000,,Orion began corresponding with Megatronus who came to be something of a mentor to him.
+Dialogue: 0,0:04:40.09,0:04:46.41,Default,,0000,0000,0000,,As Megatronus left the gladiatorial arena for the political, he shift to shorten his name.
+Dialogue: 0,0:04:47.49,0:04:55.48,Default,,0000,0000,0000,,Before long, Megatron appear before the High Council to propose his vision for a just society.
+Dialogue: 0,0:04:55.48,0:04:59.36,Default,,0000,0000,0000,,And it was here that he began to reveal his true colors,
+Dialogue: 0,0:04:59.39,0:05:06.57,Default,,0000,0000,0000,,proclaiming the need to overthrow the old goverments with force and arrogantly demanding to be named as the next Prime.
+Dialogue: 0,0:05:06.59,0:05:11.45,Default,,0000,0000,0000,,But Orion did not believe in violence as a means of achieving justice.
+Dialogue: 0,0:05:11.45,0:05:16.49,Default,,0000,0000,0000,,The Sparks and minds of the Council were moved by Orion's words.
+Dialogue: 0,0:05:16.49,0:05:23.27,Default,,0000,0000,0000,,Here, for the first time since Cybertron's Golden Age, stood someone worthy of being a Prime.
+Dialogue: 0,0:05:23.27,0:05:30.09,Default,,0000,0000,0000,,But that honor could only truly be achieved by earning the legendary Matrix of Leadership.
+Dialogue: 0,0:05:30.59,0:05:36.93,Default,,0000,0000,0000,,His ambition thwarted, Megatron spitefully severed all ties with Orion and the Council,
+Dialogue: 0,0:05:36.93,0:05:45.14,Default,,0000,0000,0000,,and came to wage war on all who opposed him though his growing army of followers which he named Decepticons.
+Dialogue: 0,0:05:46.76,0:05:52.13,Default,,0000,0000,0000,,He vow to claim the Matrix for himself wherever it might lie.
+Dialogue: 0,0:05:52.23,0:05:59.44,Default,,0000,0000,0000,,In time, warfare consumed Cybertron, poisoning the planet to its core.
+Dialogue: 0,0:06:00.24,0:06:11.39,Default,,0000,0000,0000,,Orion journeyed there hoping to reverse the ill effects and found himself before the very spark of our life giver, Primus himself.
+Dialogue: 0,0:06:11.93,0:06:20.21,Default,,0000,0000,0000,,The ailing Primus sensed the innate nobility within Orion and bestowed the Matrix upon him.
+Dialogue: 0,0:06:20.59,0:06:32.28,Default,,0000,0000,0000,,It was thus, that a surprised and humbled Orion Pax came to be Optimus, the last of the Primes.
+Dialogue: 0,0:06:33.94,0:06:39.54,Default,,0000,0000,0000,,So Optimus get the Matrix from Cybertron's core and now he's going to give it to Earth's?
+Dialogue: 0,0:06:39.54,0:06:43.40,Default,,0000,0000,0000,,What's to stop Megatron from just claiming the Matrix for himself this time around?
+Dialogue: 0,0:06:43.40,0:06:50.39,Default,,0000,0000,0000,,Only his greater desire to save this planet so that he may in turn conquer it, as he so compellingly argued.
+Dialogue: 0,0:06:50.39,0:06:55.55,Default,,0000,0000,0000,,Provided the lord of the Decepticons can never be fully trusted.
+Dialogue: 0,0:07:01.60,0:07:03.77,Default,,0000,0000,0000,,Unicron's spark is near.
+Dialogue: 0,0:07:06.24,0:07:07.41,Default,,0000,0000,0000,,After you.
+Dialogue: 0,0:07:17.89,0:07:20.38,Default,,0000,0000,0000,,Fine, Bee. Just woozy.
+Dialogue: 0,0:07:20.38,0:07:24.79,Default,,0000,0000,0000,,The Dark Energon. It's starting to affect him. Steady as you go, Bulk.
+Dialogue: 0,0:07:30.94,0:07:33.58,Default,,0000,0000,0000,,He is preparing to expel us.
+Dialogue: 0,0:07:56.59,0:07:57.79,Default,,0000,0000,0000,,What are those things?
+Dialogue: 0,0:07:57.82,0:08:03.64,Default,,0000,0000,0000,,As we are within Unicron's body, it stands to reason they are some sort of antibody.
+Dialogue: 0,0:09:09.49,0:09:12.64,Default,,0000,0000,0000,,Bee, let me go. I'll only take you down with me.
+Dialogue: 0,0:09:46.74,0:09:48.25,Default,,0000,0000,0000,,Just let go, kid.
+Dialogue: 0,0:09:49.69,0:09:50.53,Default,,0000,0000,0000,,Bulkhead!
+Dialogue: 0,0:09:55.50,0:09:57.19,Default,,0000,0000,0000,,I got you.
+Dialogue: 0,0:10:05.69,0:10:06.39,Default,,0000,0000,0000,,Arcee.
+Dialogue: 0,0:10:33.89,0:10:40.24,Default,,0000,0000,0000,,Fellow Deceticons, while our loyalty to Megatron's command has always remains steadfast,
+Dialogue: 0,0:10:40.24,0:10:44.67,Default,,0000,0000,0000,,our leader's recent behavior has been questionable at best.
+Dialogue: 0,0:10:44.67,0:10:50.16,Default,,0000,0000,0000,,And it would seem as though Earth has become nothing short of a failed experiment.
+Dialogue: 0,0:10:50.17,0:10:55.94,Default,,0000,0000,0000,,Commander Airachnid, you're not suggesting that we abandon Lord Megatron?
+Dialogue: 0,0:10:56.54,0:11:01.61,Default,,0000,0000,0000,,Despite Soundwave's efforts, we have been unable to detect our master's signal.
+Dialogue: 0,0:11:02.01,0:11:06.53,Default,,0000,0000,0000,,Megatron is either permanently off-line or in the thrall of Unicron,
+Dialogue: 0,0:11:06.63,0:11:09.74,Default,,0000,0000,0000,,neither is in the best interest of the Decepticons.
+Dialogue: 0,0:11:09.80,0:11:14.46,Default,,0000,0000,0000,,So I am deeming an exodus to be the most prudent cause of action,
+Dialogue: 0,0:11:14.46,0:11:17.31,Default,,0000,0000,0000,,unless anyone has a problem with that.
+Dialogue: 0,0:11:22.24,0:11:24.79,Default,,0000,0000,0000,,Set course for Regulon Four.
+Dialogue: 0,0:11:30.18,0:11:32.84,Default,,0000,0000,0000,,You have something to say, Soundwave?
+Dialogue: 0,0:11:36.99,0:11:41.39,Default,,0000,0000,0000,,I command this vessel. You will resume your post.
+Dialogue: 0,0:11:45.30,0:11:47.79,Default,,0000,0000,0000,,Step aside!
+Dialogue: 0,0:11:59.69,0:12:00.66,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:12:07.44,0:12:09.99,Default,,0000,0000,0000,,I'll tear out your spark for that!
+Dialogue: 0,0:12:23.04,0:12:24.69,Default,,0000,0000,0000,,I yield.
+Dialogue: 0,0:12:31.04,0:12:33.04,Default,,0000,0000,0000,,Watch out for the quiet ones.
+Dialogue: 0,0:12:37.67,0:12:40.54,Default,,0000,0000,0000,,Communication links are down, as expected.
+Dialogue: 0,0:12:40.63,0:12:42.65,Default,,0000,0000,0000,,But we've lost their signal.
+Dialogue: 0,0:12:42.65,0:12:43.60,Default,,0000,0000,0000,,Doesn't that mean...
+Dialogue: 0,0:12:43.60,0:12:49.93,Default,,0000,0000,0000,,Usually. But a more likely explanation would be the severe interference caused by these eletromagnetic anormalies.
+Dialogue: 0,0:12:50.10,0:12:53.60,Default,,0000,0000,0000,,So if we can't track them and they can't contact us...
+Dialogue: 0,0:12:53.60,0:12:55.83,Default,,0000,0000,0000,,How are we gonna know when they're ready for pick up?
+Dialogue: 0,0:12:59.64,0:13:01.71,Default,,0000,0000,0000,,Where did you get that?
+Dialogue: 0,0:13:02.03,0:13:06.78,Default,,0000,0000,0000,,Optimus. Honestly, I don't know why he gave me the key to the ground bridge power supply.
+Dialogue: 0,0:13:06.90,0:13:10.35,Default,,0000,0000,0000,,Jack, there is no key to the ground bridge.
+Dialogue: 0,0:13:10.81,0:13:13.27,Default,,0000,0000,0000,,Well then, what is this?
+Dialogue: 0,0:13:14.69,0:13:17.56,Default,,0000,0000,0000,,That is the key to Vector Sigma.
+Dialogue: 0,0:13:18.11,0:13:19.14,Default,,0000,0000,0000,,The what?
+Dialogue: 0,0:13:19.63,0:13:23.39,Default,,0000,0000,0000,,You're holding one of Cybertron's most important relics.
+Dialogue: 0,0:13:23.82,0:13:25.46,Default,,0000,0000,0000,,I shouldn't have this.
+Dialogue: 0,0:13:25.74,0:13:28.44,Default,,0000,0000,0000,,Optimus entrusted it to you, Jack.
+Dialogue: 0,0:13:28.44,0:13:31.54,Default,,0000,0000,0000,,But that doesn't make any sense, why?
+Dialogue: 0,0:13:31.64,0:13:34.44,Default,,0000,0000,0000,,Because he doesn't plan on coming back.
+Dialogue: 0,0:14:00.06,0:14:02.62,Default,,0000,0000,0000,,Megatron, do what I command.
+Dialogue: 0,0:14:06.05,0:14:07.96,Default,,0000,0000,0000,,Destroy the Prime!
+Dialogue: 0,0:14:12.71,0:14:13.81,Default,,0000,0000,0000,,Megatron!
+Dialogue: 0,0:14:20.91,0:14:24.77,Default,,0000,0000,0000,,Unicron's spark lies just beyond.
+Dialogue: 0,0:14:26.81,0:14:28.82,Default,,0000,0000,0000,,How do we get inside?
+Dialogue: 0,0:14:28.92,0:14:33.42,Default,,0000,0000,0000,,By fooling Unicron's defenses into believing we're not a threat.
+Dialogue: 0,0:14:45.76,0:14:51.30,Default,,0000,0000,0000,,Autobots, I will need you to keep our attackers at bay for as long as you can.
+Dialogue: 0,0:14:59.43,0:15:02.44,Default,,0000,0000,0000,,We got to hold fast, for Optimus.
+Dialogue: 0,0:15:20.46,0:15:22.73,Default,,0000,0000,0000,,Optimus, swiftly.
+Dialogue: 0,0:15:34.85,0:15:36.12,Default,,0000,0000,0000,,Megatron.
+Dialogue: 0,0:15:41.83,0:15:45.72,Default,,0000,0000,0000,,Destroy the Prime. I command you.
+Dialogue: 0,0:16:12.42,0:16:16.17,Default,,0000,0000,0000,,Megatron is commanded by no one!
+Dialogue: 0,0:16:31.77,0:16:33.51,Default,,0000,0000,0000,,- Earthquake!\N- Take cover!
+Dialogue: 0,0:16:44.21,0:16:47.97,Default,,0000,0000,0000,,Matrix of leadership, I call upon you.
+Dialogue: 0,0:16:53.47,0:17:00.40,Default,,0000,0000,0000,,You cannot defeat me, disciple of Primus. I have transcended physical being.
+Dialogue: 0,0:17:00.40,0:17:07.01,Default,,0000,0000,0000,,By my will alone, all upon this world shall fall into chaos.
+Dialogue: 0,0:17:07.11,0:17:10.34,Default,,0000,0000,0000,,Not while I still function, Unicron.
+Dialogue: 0,0:17:10.96,0:17:15.03,Default,,0000,0000,0000,,The power of the Matrix will light our darkest hour!
+Dialogue: 0,0:17:15.51,0:17:17.78,Default,,0000,0000,0000,,No!!
+Dialogue: 0,0:18:17.82,0:18:19.20,Default,,0000,0000,0000,,There could be aftershocks.
+Dialogue: 0,0:18:22.39,0:18:23.60,Default,,0000,0000,0000,,Do you think...
+Dialogue: 0,0:18:23.71,0:18:24.86,Default,,0000,0000,0000,,I do.
+Dialogue: 0,0:18:29.36,0:18:31.04,Default,,0000,0000,0000,,Yeah! Hoo-ya!
+Dialogue: 0,0:18:31.04,0:18:32.12,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:18:55.58,0:18:57.64,Default,,0000,0000,0000,,Teamwork, huh?
+Dialogue: 0,0:19:06.86,0:19:09.01,Default,,0000,0000,0000,,Where are we, Megatronus?
+Dialogue: 0,0:19:18.66,0:19:20.81,Default,,0000,0000,0000,,Don't you remember, old friend?
+Dialogue: 0,0:19:24.05,0:19:25.82,Default,,0000,0000,0000,,Optimus, are you OK?
+Dialogue: 0,0:19:26.45,0:19:28.56,Default,,0000,0000,0000,,Why did he call me that?
+Dialogue: 0,0:19:30.74,0:19:32.40,Default,,0000,0000,0000,,What did you do to him?
+Dialogue: 0,0:19:32.81,0:19:33.89,Default,,0000,0000,0000,,Who are they?
+Dialogue: 0,0:19:36.51,0:19:38.17,Default,,0000,0000,0000,,Our mortal enemies.
+Dialogue: 0,0:19:39.11,0:19:41.47,Default,,0000,0000,0000,,We are outnumbered. Go, I'll cover you.
+Dialogue: 0,0:20:20.96,0:20:21.99,Default,,0000,0000,0000,,Arcee.
+Dialogue: 0,0:20:22.39,0:20:23.83,Default,,0000,0000,0000,,I was worried, Bulk.
+Dialogue: 0,0:20:24.63,0:20:25.95,Default,,0000,0000,0000,,You alright, Bee?
+Dialogue: 0,0:20:26.50,0:20:29.66,Default,,0000,0000,0000,,And Optimus? Is he...
+Dialogue: 0,0:20:30.05,0:20:31.90,Default,,0000,0000,0000,,Dead? No.
+Dialogue: 0,0:20:32.00,0:20:37.06,Default,,0000,0000,0000,,But he looked right at us without recognizing us, didn't even know his own name.
+Dialogue: 0,0:20:39.00,0:20:46.61,Default,,0000,0000,0000,,When Optimus surrendered the Matrix of Leadership, he lost more than the collective wisdom of the Primes.
+Dialogue: 0,0:20:47.44,0:20:49.59,Default,,0000,0000,0000,,He lost his own memories.
+Dialogue: 0,0:21:01.44,0:21:03.86,Default,,0000,0000,0000,,Welcome back, Lord Megatron.
+Dialogue: 0,0:21:10.61,0:21:16.97,Default,,0000,0000,0000,,At ease, Breakdown. That is no way to welcome a long-lost comrade.
+Dialogue: 0,0:21:20.49,0:21:24.16,Default,,0000,0000,0000,,Orion Pax is one of us.

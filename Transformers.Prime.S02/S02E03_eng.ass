@@ -1,0 +1,167 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00ffffff,&Hf0000000,&H00552800,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+
+Dialogue: 0,0:00:00.96,0:00:04.15,Default,,0000,0000,0000,,Previously on Transformers: Prime
+Dialogue: 0,0:00:04.30,0:00:07.08,Default,,0000,0000,0000,,With the power of the Matrix no longer within him...
+Dialogue: 0,0:00:07.38,0:00:12.38,Default,,0000,0000,0000,,It would stand to reason that Optimus has reverted to his pre-Prime state.
+Dialogue: 0,0:00:12.50,0:00:14.22,Default,,0000,0000,0000,,A high-frequency signal...
+Dialogue: 0,0:00:14.22,0:00:15.93,Default,,0000,0000,0000,,With an embedded message.
+Dialogue: 0,0:00:15.99,0:00:17.47,Default,,0000,0000,0000,,Where is Optimus?
+Dialogue: 0,0:00:17.67,0:00:20.48,Default,,0000,0000,0000,,Unless you know where Megatron is hiding his Space-bridge...
+Dialogue: 0,0:00:20.60,0:00:22.03,Default,,0000,0000,0000,,Space... bridge!
+Dialogue: 0,0:00:22.13,0:00:25.85,Default,,0000,0000,0000,,... They actually finished building it without my supervision?!
+Dialogue: 0,0:00:25.98,0:00:29.02,Default,,0000,0000,0000,,Once we secure the Space-bridge we'll send for Jack.
+Dialogue: 0,0:00:29.16,0:00:31.46,Default,,0000,0000,0000,,You three need to hold it long enough for Jack and me
+Dialogue: 0,0:00:31.82,0:00:33.38,Default,,0000,0000,0000,, to get to Cybertron and back.
+Dialogue: 0,0:00:33.54,0:00:37.79,Default,,0000,0000,0000,,How could I possibly be "Optimus Prime"?
+Dialogue: 0,0:00:37.91,0:00:41.50,Default,,0000,0000,0000,,Vector Sigma's true location is shrouded in myth and rumor, Jack.
+Dialogue: 0,0:00:41.76,0:00:44.13,Default,,0000,0000,0000,,It is said the path of the Primes' leads there.
+Dialogue: 0,0:01:04.18,0:01:05.49,Default,,0000,0000,0000,,We must be close.
+Dialogue: 0,0:02:16.49,0:02:18.30,Default,,0000,0000,0000,,Vector Sigma is... down here?
+Dialogue: 0,0:02:18.41,0:02:20.62,Default,,0000,0000,0000,,Kaon didn't always belong to the Decepticons.
+Dialogue: 0,0:02:20.74,0:02:22.66,Default,,0000,0000,0000,,Megatron took it as a capital.
+Dialogue: 0,0:02:22.77,0:02:25.96,Default,,0000,0000,0000,,Apparently without ever realising what lay beneath their feet.
+Dialogue: 0,0:03:39.48,0:03:40.56,Default,,0000,0000,0000,,Arcee!
+Dialogue: 0,0:03:57.55,0:03:59.47,Default,,0000,0000,0000,,We are being attacked by some kind of...
+Dialogue: 0,0:03:59.49,0:04:00.98,Default,,0000,0000,0000,,giant bot-beetle!
+Dialogue: 0,0:04:01.11,0:04:02.56,Default,,0000,0000,0000,,An Insecticon!
+Dialogue: 0,0:04:02.68,0:04:03.50,Default,,0000,0000,0000,,{\pos(192,280)}A what?
+Dialogue: 0,0:04:03.66,0:04:06.00,Default,,0000,0000,0000,,{\pos(192,280)}What are Decepticons doing on Cybertron?
+Dialogue: 0,0:04:06.10,0:04:07.96,Default,,0000,0000,0000,,{\pos(192,280)}A few remained in stasis.
+Dialogue: 0,0:04:08.09,0:04:11.05,Default,,0000,0000,0000,,{\pos(192,280)}Sentries, should the enemy return.
+Dialogue: 0,0:04:22.28,0:04:23.85,Default,,0000,0000,0000,,{\pos(192,280)}Jack! Go!
+Dialogue: 0,0:04:24.00,0:04:25.24,Default,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:04:25.45,0:04:27.75,Default,,0000,0000,0000,,{\pos(192,280)}Without Arcee? She's his guide!
+Dialogue: 0,0:04:27.86,0:04:30.61,Default,,0000,0000,0000,,{\pos(192,280)}No, nurse Darby, Arcee is Jack's backup.
+Dialogue: 0,0:04:30.72,0:04:32.58,Default,,0000,0000,0000,,The Key-Card is his guide.
+Dialogue: 0,0:04:38.38,0:04:39.31,Default,,0000,0000,0000,,Do it!
+Dialogue: 0,0:04:39.60,0:04:40.78,Default,,0000,0000,0000,,Listen to her, Jack.
+Dialogue: 0,0:04:40.92,0:04:43.91,Default,,0000,0000,0000,,You've made it this far. Optimus is counting on you.
+Dialogue: 0,0:04:47.92,0:04:49.19,Default,,0000,0000,0000,,Roger that, Mom.
+Dialogue: 0,0:05:01.09,0:05:01.98,Default,,0000,0000,0000,,Orion!
+Dialogue: 0,0:05:02.29,0:05:04.98,Default,,0000,0000,0000,,Have you made progess with project "Iacon"?
+Dialogue: 0,0:05:06.57,0:05:10.19,Default,,0000,0000,0000,,It seems I am a bit rustier than I thought.
+Dialogue: 0,0:05:10.59,0:05:15.54,Default,,0000,0000,0000,,Might that have anything to do with the nature of your after-hours research?
+Dialogue: 0,0:05:16.43,0:05:20.69,Default,,0000,0000,0000,,Did I fail to mention that we would be tracking your activities?
+Dialogue: 0,0:05:27.38,0:05:30.90,Default,,0000,0000,0000,,Why does history portray me siding with the Autobot aggressors?
+Dialogue: 0,0:05:31.32,0:05:33.98,Default,,0000,0000,0000,,And why did Starscream call me a Prime?
+Dialogue: 0,0:05:34.47,0:05:36.02,Default,,0000,0000,0000,,I must know!
+Dialogue: 0,0:05:36.53,0:05:38.56,Default,,0000,0000,0000,,Who am I?
+Dialogue: 0,0:05:38.93,0:05:40.67,Default,,0000,0000,0000,,You are my clerk.
+Dialogue: 0,0:05:40.80,0:05:43.84,Default,,0000,0000,0000,,Now get back to work and decode that database.
+Dialogue: 0,0:05:47.29,0:05:48.30,Default,,0000,0000,0000,,... No.
+Dialogue: 0,0:05:48.48,0:05:50.36,Default,,0000,0000,0000,,I would rather erase my findings
+Dialogue: 0,0:05:50.36,0:05:53.92,Default,,0000,0000,0000,,than make them available for your questionable use.
+Dialogue: 0,0:06:12.22,0:06:19.46,Default,,0000,0000,0000,,Did you really think that we wouldn't be tracking and documenting every iota of your invaluable research?
+Dialogue: 0,0:06:25.59,0:06:29.24,Default,,0000,0000,0000,,One of our sentries was activated, on Cybertron?
+Dialogue: 0,0:06:29.50,0:06:32.69,Default,,0000,0000,0000,,You told me our planet was dead.
+Dialogue: 0,0:06:32.81,0:06:35.19,Default,,0000,0000,0000,,That is beside the point. Guards!
+Dialogue: 0,0:06:35.30,0:06:38.44,Default,,0000,0000,0000,,You will finish project "Iacon" by the time I return
+Dialogue: 0,0:06:38.83,0:06:43.75,Default,,0000,0000,0000,,or I will carve out your Spark before your very eyes!
+Dialogue: 0,0:08:16.41,0:08:21.11,Default,,0000,0000,0000,,The activity log indicates my Space-bridge was set for Cybertron...
+Dialogue: 0,0:08:21.32,0:08:23.43,Default,,0000,0000,0000,,... and remains open?
+Dialogue: 0,0:08:23.73,0:08:27.25,Default,,0000,0000,0000,,The only possible reason the Autobots would take such a risk...
+Dialogue: 0,0:08:28.34,0:08:31.92,Default,,0000,0000,0000,,... would be to restore their precious Optimus Prime.
+Dialogue: 0,0:09:01.40,0:09:04.17,Default,,0000,0000,0000,,Hey everyone! I'm in.
+Dialogue: 0,0:09:04.32,0:09:05.84,Default,,0000,0000,0000,,Sweet!
+Dialogue: 0,0:10:14.75,0:10:17.64,Default,,0000,0000,0000,,This is... Wow.
+Dialogue: 0,0:10:23.79,0:10:26.35,Default,,0000,0000,0000,,Commencing download. ... I think.
+Dialogue: 0,0:10:26.57,0:10:28.28,Default,,0000,0000,0000,,Soon, Optimus.
+Dialogue: 0,0:10:29.09,0:10:31.24,Default,,0000,0000,0000,,No one told you to stop, Pax.
+Dialogue: 0,0:10:37.46,0:10:43.37,Default,,0000,0000,0000,,I believe Megatron intends to use whatever he finds in project "Iacon" to harm the Autobots.
+Dialogue: 0,0:10:43.81,0:10:46.53,Default,,0000,0000,0000,,Please. We can warn them.
+Dialogue: 0,0:11:01.27,0:11:03.37,Default,,0000,0000,0000,,This is taking awhile.
+Dialogue: 0,0:11:03.47,0:11:04.80,Default,,0000,0000,0000,,Of course it is.
+Dialogue: 0,0:11:04.92,0:11:08.25,Default,,0000,0000,0000,,We are talking about the collective wisdom of the Primes.
+Dialogue: 0,0:11:37.13,0:11:38.24,Default,,0000,0000,0000,,What is it, Jack?
+Dialogue: 0,0:11:38.44,0:11:39.82,Default,,0000,0000,0000,,Scraplets!
+Dialogue: 0,0:11:40.08,0:11:41.60,Default,,0000,0000,0000,,What's a scraplet?
+Dialogue: 0,0:11:41.99,0:11:44.00,Default,,0000,0000,0000,,Why did it have to be scraplets?!
+Dialogue: 0,0:11:44.23,0:11:48.25,Default,,0000,0000,0000,,If they chew through Vector Sigma before the Matrix fully reloads...
+Dialogue: 0,0:11:48.25,0:11:52.11,Default,,0000,0000,0000,,So Vector Sigma is more than legend.
+Dialogue: 0,0:11:57.75,0:12:01.46,Default,,0000,0000,0000,,You Autobots have gone to impressive lengths to recover your Leader.
+Dialogue: 0,0:12:01.58,0:12:06.63,Default,,0000,0000,0000,,Be assured, I shall never underestimate you again.
+Dialogue: 0,0:12:12.20,0:12:21.05,Default,,0000,0000,0000,,Now... I assume the one called Arcee will be stepping through that portal with the reloaded Matrix of Leadership in hand.
+Dialogue: 0,0:12:21.87,0:12:24.88,Default,,0000,0000,0000,,We hold the Space-bridge at all costs!
+Dialogue: 0,0:12:52.22,0:12:54.51,Default,,0000,0000,0000,,You're going down, Bucket-head!
+Dialogue: 0,0:13:12.50,0:13:13.46,Default,,0000,0000,0000,,Jack?
+Dialogue: 0,0:13:33.28,0:13:35.47,Default,,0000,0000,0000,,Oh no-no-no-no, don't quit now!
+Dialogue: 0,0:13:39.07,0:13:40.15,Default,,0000,0000,0000,,Arcee?
+Dialogue: 0,0:13:51.26,0:13:53.04,Default,,0000,0000,0000,,Back off, bug!
+Dialogue: 0,0:14:02.52,0:14:05.47,Default,,0000,0000,0000,,Hey, guys! The main course!
+Dialogue: 0,0:15:12.19,0:15:13.48,Default,,0000,0000,0000,,I have the Matrix.
+Dialogue: 0,0:15:14.48,0:15:15.75,Default,,0000,0000,0000,,Let's roll.
+Dialogue: 0,0:15:36.28,0:15:37.55,Default,,0000,0000,0000,,You have to admit,
+Dialogue: 0,0:15:37.67,0:15:41.70,Default,,0000,0000,0000,,it's a privilege to stomp the former leader of the Autobots.
+Dialogue: 0,0:15:54.40,0:15:57.36,Default,,0000,0000,0000,,No, please... stop.
+Dialogue: 0,0:15:58.03,0:15:59.27,Default,,0000,0000,0000,,Enough!
+Dialogue: 0,0:16:01.21,0:16:03.82,Default,,0000,0000,0000,,I'm... armed?
+Dialogue: 0,0:16:23.08,0:16:24.31,Default,,0000,0000,0000,,We're almost there.
+Dialogue: 0,0:16:25.37,0:16:26.75,Default,,0000,0000,0000,,Ratchet, we have the Matrix.
+Dialogue: 0,0:16:26.88,0:16:28.19,Default,,0000,0000,0000,,We're coming through.
+Dialogue: 0,0:16:30.76,0:16:31.83,Default,,0000,0000,0000,,Ratchet?
+Dialogue: 0,0:16:38.05,0:16:39.33,Default,,0000,0000,0000,,Something's wrong.
+Dialogue: 0,0:16:51.63,0:16:53.83,Default,,0000,0000,0000,,We can’t... not go through, can we?
+Dialogue: 0,0:16:56.27,0:16:58.01,Default,,0000,0000,0000,,Come, Arcee.
+Dialogue: 0,0:16:58.21,0:17:03.30,Default,,0000,0000,0000,,So that I might end the lineage of the Primes for all time.
+Dialogue: 0,0:17:03.96,0:17:07.08,Default,,0000,0000,0000,,I cannot allow that to happen, Megatron.
+Dialogue: 0,0:17:12.13,0:17:14.66,Default,,0000,0000,0000,,And why should you care, Orion Pax?
+Dialogue: 0,0:17:14.78,0:17:16.24,Default,,0000,0000,0000,,You are no Prime.
+Dialogue: 0,0:17:16.43,0:17:19.74,Default,,0000,0000,0000,,That may be true. Or yet another deception?
+Dialogue: 0,0:17:19.90,0:17:21.73,Default,,0000,0000,0000,,But this much I do know:
+Dialogue: 0,0:17:22.24,0:17:27.23,Default,,0000,0000,0000,,my sympathies lie with the Autobots and you are not one of us.
+Dialogue: 0,0:17:37.97,0:17:40.94,Default,,0000,0000,0000,,Your Spark may be in the right place, Orion.
+Dialogue: 0,0:17:44.24,0:17:48.81,Default,,0000,0000,0000,,But you have much to learn before you can hope to ever again stand your ground against me.
+Dialogue: 0,0:17:48.92,0:17:52.33,Default,,0000,0000,0000,,A moment, sadly, which shall never come.
+Dialogue: 0,0:18:10.06,0:18:13.77,Default,,0000,0000,0000,,Are you... certain I am worthy?
+Dialogue: 0,0:18:14.17,0:18:15.75,Default,,0000,0000,0000,,You have no idea.
+Dialogue: 0,0:18:30.41,0:18:32.96,Default,,0000,0000,0000,,How nice of you to join our little reunion.
+Dialogue: 0,0:18:33.15,0:18:35.04,Default,,0000,0000,0000,,Now, if you please...
+Dialogue: 0,0:18:35.22,0:18:36.91,Default,,0000,0000,0000,,the Matrix?!
+Dialogue: 0,0:19:09.02,0:19:10.98,Default,,0000,0000,0000,,Noo!
+Dialogue: 0,0:19:12.26,0:19:14.18,Default,,0000,0000,0000,,Megatron...
+Dialogue: 0,0:19:16.83,0:19:18.47,Default,,0000,0000,0000,,Be gone!
+Dialogue: 0,0:19:34.66,0:19:37.74,Default,,0000,0000,0000,,Ratchet! How did we arrive here?
+Dialogue: 0,0:19:37.89,0:19:39.60,Default,,0000,0000,0000,,Long story, old friend.
+Dialogue: 0,0:19:39.80,0:19:40.98,Default,,0000,0000,0000,,Base to Arcee!
+Dialogue: 0,0:19:41.10,0:19:43.65,Default,,0000,0000,0000,,We're reading five Autobot life signals down there.
+Dialogue: 0,0:19:43.85,0:19:45.08,Default,,0000,0000,0000,,Is Prime with you?
+Dialogue: 0,0:19:45.23,0:19:46.17,Default,,0000,0000,0000,,And Jack.
+Dialogue: 0,0:19:46.17,0:19:47.09,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:49.23,0:19:50.65,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:19:57.91,0:19:58.98,Default,,0000,0000,0000,,It's ours!
+Dialogue: 0,0:19:59.43,0:20:02.21,Default,,0000,0000,0000,,Autobots, fall back!
+Dialogue: 0,0:20:06.90,0:20:09.68,Default,,0000,0000,0000,,This time he's coming with us.
+Dialogue: 0,0:20:38.90,0:20:39.88,Default,,0000,0000,0000,,Jack!
+Dialogue: 0,0:20:57.20,0:20:58.33,Default,,0000,0000,0000,,Optimus?
+Dialogue: 0,0:20:59.23,0:21:01.38,Default,,0000,0000,0000,,Hello, Rafael.
+Dialogue: 0,0:21:01.52,0:21:05.49,Default,,0000,0000,0000,,- Woah.\N- The Big Guy remembers us! Woo-hoo!
+Dialogue: 0,0:21:08.04,0:21:11.63,Default,,0000,0000,0000,,Although it seems there is much I do not remember.
+Dialogue: 0,0:21:12.14,0:21:16.07,Default,,0000,0000,0000,,Optimus. It has truly been our darkest hour.
+Dialogue: 0,0:21:16.30,0:21:17.91,Default,,0000,0000,0000,,But know this:
+Dialogue: 0,0:21:18.40,0:21:21.22,Default,,0000,0000,0000,,from every indication your Spark 
+Dialogue: 0,0:21:21.34,0:21:25.32,Default,,0000,0000,0000,,never ceased being that of an Autobot.
