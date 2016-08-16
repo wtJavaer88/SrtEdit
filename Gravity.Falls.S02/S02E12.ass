@@ -9,6 +9,11 @@ PlayResX: 640
 PlayResY: 360
 YCbCr Matrix: TV.601
 
+[Aegisub Project Garbage]
+Audio File: S02E12.mp3
+Scroll Position: 665
+Active Line: 678
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,微软雅黑,29,&H00FFFFFF,&HF0000000,&H00C62632,&H3C000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,8,134
@@ -80,8 +85,8 @@ Dialogue: 0,0:03:15.83,0:03:17.46,*Default,NTP,0,0,0,,这里有没有遭遇过入侵\N{\fn
 Dialogue: 0,0:03:17.46,0:03:19.88,*Default,NTP,0,0,0,,还有别人知道这个传送门吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Does anyone else know about this portal?
 Dialogue: 0,0:03:19.88,0:03:21.42,*Default,NTP,0,0,0,,没了  只有我们\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No. Just us.
 Dialogue: 0,0:03:21.42,0:03:23.74,*Default,NTP,0,0,0,,可能还有整个美国政府吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Also, maybe the entire U.S. government.
-Dialogue: 0,0:03:23.74,0:03:25.06,*Default,NTP,0,0,0,,你说什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The what?!
-Dialogue: 0,0:03:25.06,0:03:26.64,*Default,NTP,0,0,0,,散开  在找到斯坦·派恩斯和那些孩子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fan out. We're not going anywhere
+Dialogue: 0,0:03:23.74,0:03:24.89,*Default,NTP,0,0,0,,你说什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The what?!
+Dialogue: 0,0:03:24.96,0:03:26.64,*Default,NTP,0,0,0,,散开  在找到斯坦·派恩斯和那些孩子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fan out. We're not going anywhere
 Dialogue: 0,0:03:26.64,0:03:29.28,*Default,NTP,0,0,0,,之前我们不会离开\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}till we find Stan Pines and those kids.
 Dialogue: 0,0:03:30.10,0:03:32.00,*Default,NTP,0,0,0,,好吧  没关系\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay. It's all right.
 Dialogue: 0,0:03:32.04,0:03:33.92,*Default,NTP,0,0,0,,他们要找到这房间还得有好一会儿呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We've got a while before they find this room.
@@ -199,8 +204,8 @@ Dialogue: 0,0:07:52.13,0:07:53.72,*Default,NTP,0,0,0,,那傻小子  看他现在的水平\N
 Dialogue: 0,0:07:53.72,0:07:55.60,*Default,NTP,0,0,0,,能高中毕业就该谢天谢地了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}he'll be lucky to graduate high school.
 Dialogue: 0,0:07:55.60,0:07:58.20,*Default,NTP,0,0,0,,听着  码头那边有个卖盐水太妃糖的店\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, there's a saltwater taffy store on the dock,
 Dialogue: 0,0:07:58.20,0:08:00.85,*Default,NTP,0,0,0,,他们总得雇人去把粘在底下的贝壳刮掉\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and somebody's gotta get paid to scrape the barnacles off of it.
-Dialogue: 0,0:08:00.85,0:08:02.89,*Default,NTP,0,0,0,,斯坦福将要远走高飞  \N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stanford's going places,
-Dialogue: 0,0:08:02.90,0:08:04.19,*Default,NTP,0,0,0,,但往好的方向看\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but hey, look on the bright side.
+Dialogue: 0,0:08:00.85,0:08:02.62,*Default,NTP,0,0,0,,斯坦福将要远走高飞  \N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stanford's going places,
+Dialogue: 0,0:08:02.67,0:08:04.19,*Default,NTP,0,0,0,,但往好的方向看\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but hey, look on the bright side.
 Dialogue: 0,0:08:04.19,0:08:07.13,*Default,NTP,0,0,0,,你们至少还有一个儿子永远留在新泽西嘛\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}At least you'll have one son here in New Jersey forever.
 Dialogue: 0,0:08:09.03,0:08:10.10,*Default,NTP,0,0,0,,你总不会被他们忽悠得\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Joke's on them if they think
 Dialogue: 0,0:08:10.10,0:08:12.85,*Default,NTP,0,0,0,,屁颠屁颠跑到美国另一头上大学吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you wanna go to some stuffy college on the other side of the country.
@@ -244,11 +249,11 @@ Dialogue: 0,0:09:50.25,0:09:52.14,*Default,NTP,0,0,0,,这个叫杰奎的长得还挺火辣\N
 Dialogue: 0,0:09:52.14,0:09:53.76,*Default,NTP,0,0,0,,喂  六指  他们咋说的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, what's the word, sixer?
 Dialogue: 0,0:09:53.76,0:09:54.68,*Default,NTP,0,0,0,,你给我解释一下  \N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can you explain
 Dialogue: 0,0:09:54.68,0:09:57.35,*Default,NTP,0,0,0,,为什么这个袋子会出现在我坏掉的仪器边上\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}what this was doing next to my broken project?
-Dialogue: 0,0:09:57.39,0:10:00.26,*Default,NTP,0,0,0,,呃  我可能不小心在周围\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay. I might've accidentally been...
-Dialogue: 0,0:10:00.29,0:10:02.16,*Default,NTP,0,0,0,,转悠\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}horsing around.
-Dialogue: 0,0:10:02.19,0:10:04.13,*Default,NTP,0,0,0,,这可不是不小心  斯坦  就是你干的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This was no accident, Stan. You did this.
-Dialogue: 0,0:10:04.16,0:10:05.06,*Default,NTP,0,0,0,,你来搞破坏是因为\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You did this because
-Dialogue: 0,0:10:05.06,0:10:07.23,*Default,NTP,0,0,0,,你不能接受我独自一人去上大学\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you couldn't handle me going to college on my own.
+Dialogue: 0,0:09:57.39,0:10:00.58,*Default,NTP,0,0,0,,呃  我可能不小心在周围\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay. I might've accidentally been...
+Dialogue: 0,0:10:00.58,0:10:02.24,*Default,NTP,0,0,0,,转悠\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}horsing around.
+Dialogue: 0,0:10:02.22,0:10:04.36,*Default,NTP,0,0,0,,这可不是不小心  斯坦  就是你干的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This was no accident, Stan. You did this.
+Dialogue: 0,0:10:04.38,0:10:05.16,*Default,NTP,0,0,0,,你来搞破坏是因为\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You did this because
+Dialogue: 0,0:10:05.17,0:10:07.23,*Default,NTP,0,0,0,,你不能接受我独自一人去上大学\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you couldn't handle me going to college on my own.
 Dialogue: 0,0:10:07.26,0:10:08.60,*Default,NTP,0,0,0,,听着  我不是故意的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, it was a mistake.
 Dialogue: 0,0:10:08.60,0:10:09.84,*Default,NTP,0,0,0,,不过你仔细想想\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Although, if you think about it,
 Dialogue: 0,0:10:09.84,0:10:11.34,*Default,NTP,0,0,0,,还是有好的一方面的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}maybe there's a silver lining.
@@ -414,8 +419,8 @@ Dialogue: 0,0:16:31.44,0:16:33.52,*Default,NTP,0,0,0,,测试机器的日子终于到了\N{\
 Dialogue: 0,0:16:36.70,0:16:38.49,*Default,NTP,0,0,0,,准备好了吗  下一步\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ready? And...
 Dialogue: 0,0:16:39.61,0:16:40.16,*Default,NTP,0,0,0,,什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What?
 Dialogue: 0,0:16:45.72,0:16:47.59,*Default,NTP,0,0,0,,我抓住你了  伙计\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I got you, buddy.
-Dialogue: 0,0:16:51.76,0:16:54.53,*Default,NTP,0,0,0,,那边是什么  机器起作用了吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What is it? Is it working?
-Dialogue: 0,0:16:54.56,0:16:55.73,*Default,NTP,0,0,0,,你看到了什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What did you see?
+Dialogue: 0,0:16:51.76,0:16:54.13,*Default,NTP,0,0,0,,那边是什么  机器起作用了吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What is it? Is it working?
+Dialogue: 0,0:16:54.24,0:16:55.73,*Default,NTP,0,0,0,,你看到了什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What did you see?
 Dialogue: 0,0:16:58.87,0:16:59.53,*Default,NTP,0,0,0,,费多福\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fiddleford?
 Dialogue: 0,0:16:59.53,0:17:02.05,*Default,NTP,0,0,0,,当重力泉和地面变成天空时\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When Gravity Falls and earth becomes sky,
 Dialogue: 0,0:17:02.05,0:17:03.99,*Default,NTP,0,0,0,,敬畏独眼怪兽吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}fear the beast with just one eye.
@@ -559,16 +564,16 @@ Dialogue: 0,0:23:10.98,0:23:13.77,*Default,NTP,0,0,0,,欢迎来到魔法世界或管它什么
 Dialogue: 0,0:23:13.77,0:23:17.18,*Default,NTP,0,0,0,,给你看看这个古怪科学盒\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Behold the nerdy science box.
 Dialogue: 0,0:23:18.34,0:23:20.50,*Default,NTP,0,0,0,,啊我的眼睛\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ah! My eye!
 Dialogue: 0,0:23:20.50,0:23:23.58,*Default,NTP,0,0,0,,我向你保证  你的眼睛一会儿就好了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, I can assure you, that is in no way permanent.
-Dialogue: 0,0:23:23.58,0:23:25.99,*Default,NTP,0,0,0,,我花了十五块钱就为了看这个\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I paid $15 for this?
+Dialogue: 0,0:23:23.58,0:23:26.14,*Default,NTP,0,0,0,,我花了十五块钱就为了看这个\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I paid $15 for this?
 Dialogue: 0,0:23:27.26,0:23:30.41,*Default,NTP,0,0,0,,你们比上一个观光团幸运多了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, you're lucky you weren't part of the last tour group.
 Dialogue: 0,0:23:31.54,0:23:34.46,*Default,NTP,0,0,0,,他们可没能活着参观完哦\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They never made it out alive.
 Dialogue: 0,0:23:34.46,0:23:35.77,*Default,NTP,0,0,0,,是吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Right?
 Dialogue: 0,0:23:38.34,0:23:39.96,*Default,NTP,0,0,0,,真搞笑\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Funny.
 Dialogue: 0,0:23:39.96,0:23:41.51,*Default,NTP,0,0,0,,所以我有了个好主意\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i> So I came up with a plan.</i>
-Dialogue: 0,0:23:42.62,0:23:43.25,*Default,NTP,0000,0000,0000,,{\fs21\a6}往前走
-Dialogue: 0,0:23:43.84,0:23:44.73,*Default,NTP,0000,0000,0000,,{\a6\fs21}概不退款
+Dialogue: 0,0:23:42.62,0:23:43.25,*Default,NTP,0,0,0,,{\fs21\a6}往前走
+Dialogue: 0,0:23:43.84,0:23:44.73,*Default,NTP,0,0,0,,{\a6\fs21}概不退款
 Dialogue: 0,0:23:41.51,0:23:43.17,*Default,NTP,0,0,0,,我不能离开我兄弟的房子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i> I couldn't leave my brother's house</i>
-Dialogue: 0,0:23:43.17,0:23:44.81,*Default,NTP,0,0,0,,除非我知道如何救他回来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i> until I figured out how to save him.</i>
+Dialogue: 0,0:23:43.05,0:23:44.81,*Default,NTP,0,0,0,,除非我知道如何救他回来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i> until I figured out how to save him.</i>
 Dialogue: 0,0:23:44.81,0:23:47.04,*Default,NTP,0,0,0,,但是我需要还他的贷款\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i> But I needed to pay his mortgage somehow.</i>
 Dialogue: 0,0:23:52.02,0:23:53.28,*Default,NTP,0,0,0,,我人生中第一次\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>For once in my life,</i>
 Dialogue: 0,0:23:53.28,0:23:55.50,*Default,NTP,0,0,0,,人们真的会来买我卖的东西\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i> people were actually buying what I was selling.</i>
@@ -613,8 +618,8 @@ Dialogue: 0,0:25:34.13,0:25:38.28,*Default,NTP,0,0,0,,我怎么站在一个滑稽可笑的小
 Dialogue: 0,0:25:38.28,0:25:39.61,*Default,NTP,0,0,0,,先生们  戒备解除\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stand down, gentlemen.
 Dialogue: 0,0:25:39.61,0:25:42.19,*Default,NTP,0,0,0,,我是华盛顿特使  前来传达最新消息\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I've been sent with the latest intel from Washington.
 Dialogue: 0,0:25:42.19,0:25:44.41,*Default,NTP,0,0,0,,根据这份非常真实的报告\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}According to this very real report,
-Dialogue: 0,0:25:44.41,0:25:45.67,*Default,NTP,0,0,0,,出现在重力泉的力量\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the power surges in Gravity Falls
-Dialogue: 0,0:25:45.70,0:25:47.88,*Default,NTP,0,0,0,,其实是由一场未被报告的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}were actually due to radiation
+Dialogue: 0,0:25:44.41,0:25:46.32,*Default,NTP,0,0,0,,出现在重力泉的力量\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the power surges in Gravity Falls
+Dialogue: 0,0:25:46.35,0:25:47.88,*Default,NTP,0,0,0,,其实是由一场未被报告的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}were actually due to radiation
 Dialogue: 0,0:25:47.88,0:25:49.47,*Default,NTP,0,0,0,,流星雨的辐射导致\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}from an unreported meteor shower.
 Dialogue: 0,0:25:49.47,0:25:51.83,*Default,NTP,0,0,0,,这次错误行动让你们部门颜面扫地\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A total embarrassment for your whole department.
 Dialogue: 0,0:25:51.83,0:25:54.49,*Default,NTP,0,0,0,,幸运的是  我到这里来帮你们收拾烂摊子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Luckily, I'm here to take this mess off your hands.

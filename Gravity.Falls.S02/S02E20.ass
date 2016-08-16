@@ -11,13 +11,12 @@ Timer: 100.0000
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: Gravity.Falls.S02E20.Weirdmageddon.Pt.3.Take.Back.The.Falls.1080p.WEB-DL.AAC2.0.H.264-iT00NZ.mkv
-Video File: Gravity.Falls.S02E20.Weirdmageddon.Pt.3.Take.Back.The.Falls.1080p.WEB-DL.AAC2.0.H.264-iT00NZ.mkv
+Audio File: S02E20.mp3
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 812
-Active Line: 829
+Scroll Position: 688
+Active Line: 696
 Video Position: 60888
 
 [V4+ Styles]
@@ -105,9 +104,9 @@ Dialogue: 0,0:03:24.12,0:03:27.32,*Default,NTP,0,0,0,,要和全宇宙最强大的恶魔作对
 Dialogue: 0,0:03:27.35,0:03:30.32,*Default,NTP,0,0,0,,相信我  这里有我们需要的一切\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Trust me, we have everything we need right here.
 Dialogue: 0,0:03:30.35,0:03:34.06,*Default,NTP,0,0,0,,虽然不是豪华旅馆  但至少怪物们会按摩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's not the Ritz, but at least the monsters inside know how to massage.
 Dialogue: 0,0:03:34.09,0:03:37.16,*Default,NTP,0,0,0,,-你会指压按摩吗  -会  我上过课\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- You know Shiatsu? - Yes, I've taken some classes.
-Dialogue: 0,0:03:37.19,0:03:39.33,*Default,NTP,0,0,0,,你真的准备让比尔得逞吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So, you're really just gonna let Bill win?
-Dialogue: 0,0:03:39.36,0:03:41.33,*Default,NTP,0,0,0,,孩子  我们这里很安全\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, kiddo. We got a good deal here.
-Dialogue: 0,0:03:41.37,0:03:45.00,*Default,NTP,0,0,0,,而且  我很确定无论其他镇民在哪里\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Besides, I'm sure wherever the rest of the townsfolk are,
+Dialogue: 0,0:03:37.19,0:03:39.60,*Default,NTP,0,0,0,,你真的准备让比尔得逞吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So, you're really just gonna let Bill win?
+Dialogue: 0,0:03:39.66,0:03:41.54,*Default,NTP,0,0,0,,孩子  我们这里很安全\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, kiddo. We got a good deal here.
+Dialogue: 0,0:03:41.73,0:03:45.00,*Default,NTP,0,0,0,,而且  我很确定无论其他镇民在哪里\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Besides, I'm sure wherever the rest of the townsfolk are,
 Dialogue: 0,0:03:45.04,0:03:46.10,*Default,NTP,0,0,0,,他们都很安全\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}they're fine.
 Dialogue: 0,0:03:47.74,0:04:00.46,Default,,0,0,0,,{\fs180\shad0\bord0\c&H000000&\fscx346\fscy102\clip(m 370 257 l 556 257 547 305 359 305)\pos(456,345)}■
 Dialogue: 0,0:03:47.74,0:04:00.46,Default,,0,0,0,,{\fs180\shad0\bord0\c&H0B00D0&\fscx346\fscy102\clip(m 368 259 l 556 259 547 299 359 299)\pos(456,345)}■
@@ -162,7 +161,7 @@ Dialogue: 0,0:05:58.04,0:05:59.14,*Default,NTP,0,0,0,,我  我在哪儿\N{\fn微软雅黑
 Dialogue: 0,0:05:59.17,0:06:01.10,*Default,NTP,0,0,0,,你在楼顶套房  小子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>You're in the penthouse suite, kid!</i>
 Dialogue: 0,0:06:01.14,0:06:03.27,*Default,NTP,0,0,0,,金字塔的塔尖  喝一杯吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>The tip of the pyramid! Have a drink.</i>
 Dialogue: 0,0:06:03.31,0:06:05.98,*Default,NTP,0,0,0,,不要拘束\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>Make yourself comfortable.</i>
-Dialogue: 0,0:06:06.01,0:06:09.28,*Default,NTP,0,0,0,,你知道那个沙发是由活人的皮肤做的吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>You know that couch is made from living human skin?</i>
+Dialogue: 0,0:06:05.81,0:06:09.28,*Default,NTP,0,0,0,,你知道那个沙发是由活人的皮肤做的吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>You know that couch is made from living human skin?</i>
 Dialogue: 0,0:06:11.98,0:06:13.25,*Default,NTP,0,0,0,,别耍花招了  赛弗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Quit the games, Cipher!
 Dialogue: 0,0:06:13.28,0:06:16.09,*Default,NTP,0,0,0,,既然我还活着  那你一定是有求于我\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If I'm still alive, you must want something from me.
 Dialogue: 0,0:06:16.12,0:06:18.32,*Default,NTP,0,0,0,,啊  还是那么聪明  小福福\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>Ah, sharp as ever, Fordsy.</i>
@@ -220,8 +219,8 @@ Dialogue: 0,0:08:34.02,0:08:35.32,*Default,NTP,0,0,0,,日漫是什么\N{\fn微软雅黑}{
 Dialogue: 0,0:08:35.35,0:08:38.92,*Default,NTP,0,0,0,,-这我们可有的聊了  -没什么好聊的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- We have much to discuss. - Discuss, nothing!
 Dialogue: 0,0:08:38.96,0:08:41.99,*Default,NTP,0,0,0,,这些鬼画符全是忽悠人的狗屁\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}These scribbles are a bunch of cockamamie balderdash!
 Dialogue: 0,0:08:42.03,0:08:43.16,*Default,NTP,0,0,0,,抱歉  不该用法语骂人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Excuse my French.
-Dialogue: 0,0:08:43.34,0:08:45.29,Default,,0,0,0,,{\3c&H000000&\fn方正兰亭粗黑_GBK\fs32\c&H05FFF9&\pos(317,296)}你那才不是法语
-Dialogue: 0,0:08:45.40,0:08:46.30,*Default,NTP,0,0,0,,再说了  你上哪儿找\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And where would you even
+Dialogue: 0,0:08:43.34,0:08:45.16,Default,,0,0,0,,{\3c&H000000&\fn方正兰亭粗黑_GBK\fs32\c&H05FFF9&\pos(317,296)}你那才不是法语
+Dialogue: 0,0:08:45.17,0:08:46.30,*Default,NTP,0,0,0,,再说了  你上哪儿找\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And where would you even
 Dialogue: 0,0:08:46.30,0:08:48.10,*Default,NTP,0,0,0,,那么多二傻子来建造这玩意呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}find a bunch of idiots crazy enough to build it?
 Dialogue: 0,0:08:48.13,0:08:51.85,*Default,NTP,0,0,0,,斯坦叔公  你面前不就是一帮二傻子么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Grunkle Stan, you're lookin' at those idiots.
 Dialogue: 0,0:08:52.34,0:08:53.97,*Default,NTP,0,0,0,,都是二傻子\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Idiots!
@@ -307,7 +306,7 @@ Dialogue: 0,0:13:37.27,0:13:39.30,*Default,NTP,0,0,0,,好猪猪\N{\fn微软雅黑}{\fs1
 Dialogue: 0,0:13:43.04,0:13:44.97,*Default,NTP,0,0,0,,湖怪  快把他们拿下\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get 'em, Gobblewonker!
 Dialogue: 0,0:13:48.91,0:13:50.95,*Default,NTP,0,0,0,,你想得美\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, no, you don't!
 Dialogue: 0,0:13:59.89,0:14:01.57,*Default,NTP,0,0,0,,各位  来袭警报\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everyone! Incoming!
-Dialogue: 0,0:14:02.49,0:14:04.37,*Default,NTP,0,0,0,,难道连个逃生舱都没有吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Does this thing have an escape hatch?
+Dialogue: 0,0:14:02.49,0:14:04.54,*Default,NTP,0,0,0,,难道连个逃生舱都没有吗\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Does this thing have an escape hatch?
 Dialogue: 0,0:14:14.10,0:14:16.00,*Default,NTP,0,0,0,,各位  最大功率运行\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everybody! Maximum power!
 Dialogue: 0,0:14:18.10,0:14:19.40,*Default,NTP,0,0,0,,就是现在\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And... now!
 Dialogue: 0,0:14:28.44,0:14:30.15,*Default,NTP,0,0,0,,不会在逗我吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Guys, seriously?
@@ -680,8 +679,8 @@ Dialogue: 0,0:33:31.13,0:33:33.76,*Default,NTP,0,0,0,,不  什么都没有  谢谢\N{\fn
 Dialogue: 0,0:33:35.13,0:33:37.17,*Default,NTP,0,0,0,,我们没有人真正清楚到底发生了什么\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}None of us really understand what just happened,
 Dialogue: 0,0:33:37.20,0:33:38.94,*Default,NTP,0,0,0,,也没有人想去弄明白\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and none of us want to.
 Dialogue: 0,0:33:38.97,0:33:42.11,*Default,NTP,0,0,0,,为此我通过了“什么都别在意”法案\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's why I'm passing the Never Mind All That Act.
-Dialogue: 0,0:33:42.14,0:33:46.21,*Default,NTP,0,0,0,,如果谁要谈论过去几天发生的“事件”\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If anyone goes asking around about the "events" of the last few days,
-Dialogue: 0,0:33:46.24,0:33:48.15,*Default,NTP,0,0,0,,我们要怎么说呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}what do we say?
+Dialogue: 0,0:33:42.14,0:33:46.81,*Default,NTP,0,0,0,,如果谁要谈论过去几天发生的“事件”\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If anyone goes asking around about the "events" of the last few days,
+Dialogue: 0,0:33:46.85,0:33:48.15,*Default,NTP,0,0,0,,我们要怎么说呢\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}what do we say?
 Dialogue: 0,0:33:48.18,0:33:50.81,*Default,NTP,0,0,0,,什么都别在意\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Never Mind All That!
 Dialogue: 0,0:33:50.85,0:33:53.05,*Default,NTP,0,0,0,,如果你破了戒  我们就要电倒你\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And if you break the rules, we're gonna zap ya!
 Dialogue: 0,0:33:53.08,0:33:54.12,*Default,NTP,0,0,0,,电  电\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Zap! Zap!
@@ -715,13 +714,13 @@ Dialogue: 0,0:34:48.01,0:34:50.59,*Default,NTP,0,0,0,,这是死亡之球\N{\fn微软雅黑
 Dialogue: 0,0:34:50.92,0:34:52.88,*Default,NTP,0,0,0,,快乐\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}...to you
 Dialogue: 0,0:34:57.12,0:35:01.09,*Default,NTP,0,0,0,,不敢相信你们居然一起为我们举办了一个派对\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't believe you all got together just to throw a party for us!
 Dialogue: 0,0:35:01.12,0:35:03.82,*Default,NTP,0,0,0,,派恩斯一家为小镇付出了这么多\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}After all the Pines family has done for the town,
-Dialogue: 0,0:35:03.86,0:35:05.12,*Default,NTP,0,0,0,,这是我们最起码能做的一点事\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}it's the least we could do!
-Dialogue: 0,0:35:05.16,0:35:07.12,*Default,NTP,0,0,0,,你们帮助了这里的每个人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You've helped everyone here.
-Dialogue: 0,0:35:07.16,0:35:08.73,*Default,NTP,0,0,0,,谢谢你们拯救了我们\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thanks to y'all savin' us,
-Dialogue: 0,0:35:08.76,0:35:10.73,*Default,NTP,0,0,0,,我学会了敞开心胸对待善意\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I learned to open my heart to kindness.
-Dialogue: 0,0:35:10.76,0:35:12.13,*Default,NTP,0,0,0,,不再做坏事了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No more evil-doin'.
-Dialogue: 0,0:35:12.16,0:35:15.13,*Default,NTP,0,0,0,,从现在起  我要成为小吉迪恩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}From now on, I'm gonna try to be Li'l Gideon,
-Dialogue: 0,0:35:15.17,0:35:17.00,*Default,NTP,0,0,0,,一个普通的小孩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}regular ol' kid.
+Dialogue: 0,0:35:03.86,0:35:05.41,*Default,NTP,0,0,0,,这是我们最起码能做的一点事\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}it's the least we could do!
+Dialogue: 0,0:35:05.49,0:35:07.34,*Default,NTP,0,0,0,,你们帮助了这里的每个人\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You've helped everyone here.
+Dialogue: 0,0:35:07.41,0:35:08.81,*Default,NTP,0,0,0,,谢谢你们拯救了我们\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thanks to y'all savin' us,
+Dialogue: 0,0:35:08.85,0:35:10.73,*Default,NTP,0,0,0,,我学会了敞开心胸对待善意\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I learned to open my heart to kindness.
+Dialogue: 0,0:35:10.76,0:35:12.33,*Default,NTP,0,0,0,,不再做坏事了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No more evil-doin'.
+Dialogue: 0,0:35:12.40,0:35:15.44,*Default,NTP,0,0,0,,从现在起  我要成为小吉迪恩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}From now on, I'm gonna try to be Li'l Gideon,
+Dialogue: 0,0:35:15.56,0:35:17.18,*Default,NTP,0,0,0,,一个普通的小孩\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}regular ol' kid.
 Dialogue: 0,0:35:20.07,0:35:22.97,*Default,NTP,0,0,0,,我在滑板上迈出了破纪录的一步\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I am bustin' a move on this skatin' board.
 Dialogue: 0,0:35:23.01,0:35:25.74,*Default,NTP,0,0,0,,还是提好你的裤子吧  废物\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}More like busting your pants, loser!
 Dialogue: 0,0:35:35.02,0:35:36.75,*Default,NTP,0,0,0,,伙计们  许个愿吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dude, make a wish, dawg!
@@ -841,11 +840,11 @@ Dialogue: 0,0:41:09.88,0:41:11.85,*Default,NTP,0,0,0,,准备好探索未知世界了吗\N{\
 Dialogue: 0,0:41:11.89,0:41:13.19,*Default,NTP,0,0,0,,没\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nope.
 Dialogue: 0,0:41:13.22,0:41:15.16,*Default,NTP,0,0,0,,我们走吧\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's do it.
 Dialogue: 0,0:41:18.39,0:41:20.10,Default,,0,0,0,,{\a6\fs21}加利福尼亚
-Dialogue: 0,0:41:29.84,0:41:32.07,*Default,NTP,0,0,0,,大家再见  我也会想你们的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bye! Bye, everybody! I'll miss you guys too!
-Dialogue: 0,0:41:32.11,0:41:34.81,*Default,NTP,0,0,0,,再见  伙计们  再见\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bye, dudes! Bye!
+Dialogue: 0,0:41:29.84,0:41:32.54,*Default,NTP,0,0,0,,大家再见  我也会想你们的\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bye! Bye, everybody! I'll miss you guys too!
+Dialogue: 0,0:41:32.56,0:41:35.08,*Default,NTP,0,0,0,,再见  伙计们  再见\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bye, dudes! Bye!
 Dialogue: 0,0:41:44.09,0:41:47.15,*Default,NTP,0,0,0,,如果你开车旅行经过美国西北部\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>If you've ever taken a road trip through the Pacific Northwest,</i>
-Dialogue: 0,0:41:47.19,0:41:49.09,*Default,NTP,0,0,0,,你可能会看到某张保险杠贴纸\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>you've probably seen a bumper sticker</i>
-Dialogue: 0,0:41:49.12,0:41:51.96,*Default,NTP,0,0,0,,上面标着一个叫做重力泉的地方\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>for a place called Gravity Falls.</i>
+Dialogue: 0,0:41:47.19,0:41:49.36,*Default,NTP,0,0,0,,你可能会看到某张保险杠贴纸\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>you've probably seen a bumper sticker</i>
+Dialogue: 0,0:41:49.38,0:41:51.96,*Default,NTP,0,0,0,,上面标着一个叫做重力泉的地方\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>for a place called Gravity Falls.</i>
 Dialogue: 0,0:41:54.20,0:41:56.06,*Default,NTP,0,0,0,,好了  我搬进来了\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, I've moved in.
 Dialogue: 0,0:41:56.10,0:41:58.00,*Default,NTP,0,0,0,,地图上找不到它\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>It's not on any maps,</i>
 Dialogue: 0,0:41:58.03,0:42:00.07,*Default,NTP,0,0,0,,大多数人可能从未听说过它\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>and most people have never heard of it.</i>
@@ -853,7 +852,7 @@ Dialogue: 0,0:42:00.23,0:42:02.80,Default,,0,0,0,,{\fn叶根友特楷简体\fs15\c&H2E5
 Dialogue: 0,0:42:00.10,0:42:02.84,*Default,NTP,0,0,0,,有些人觉得它是个传说\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>Some people think it's a myth.</i>
 Dialogue: 0,0:42:03.97,0:42:06.91,*Default,NTP,0,0,0,,但是如果你感到好奇  别犹豫\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>But if you're curious, don't wait.</i>
 Dialogue: 0,0:42:05.51,0:42:09.43,Default,,0,0,0,,{\fn迷你简硬笔行书\fs20\shad0\bord0\c&H000000&\b1\pos(467,358)}创建者
-Dialogue: 0,0:42:09.18,0:42:10.84,*Default,NTP,0,0,0,,马上行动\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>Take a trip.</i>
+Dialogue: 0,0:42:09.70,0:42:10.84,*Default,NTP,0,0,0,,马上行动\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>Take a trip.</i>
 Dialogue: 0,0:42:16.92,0:42:18.37,*Default,NTP,0,0,0,,去找它\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>Find it.</i>
 Dialogue: 0,0:42:19.51,0:42:21.41,Default,,0,0,0,,{\fn方正兰亭粗黑_GBK\fs40\bord0\shad0\fax0.35\frz-14\c&H9A7E72&\pos(304,272)}大兵斯坦二号
 Dialogue: 0,0:42:21.19,0:42:24.79,*Default,NTP,0,0,0,,它就在森林里的某处  等着你的到来\N{\fn微软雅黑}{\fs17}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}<i>It's out there somewhere in the woods.. waiting.</i>
