@@ -99,1056 +99,1046 @@ No!
 Cybonic plague.
 
 21
-00:02:59,900 --> 00:03:01,430
+00:03:02,880 --> 00:03:06,570
 （Cybonic plague影射Bubonic plague，即黑死病）
-Cybonic plague.
+It's only contagious if contact is made with the infected energeon.
 
 22
-00:03:02,880 --> 00:03:06,570
-（Cybonic plague影射Bubonic plague，即黑死病）
-It's only contagious if contact is made with the infected energeon.
-
-23
-00:03:02,880 --> 00:03:06,570
-只有在接触被感染能量时才会被传染
-It's only contagious if contact is made with the infected energeon.
-
-24
 00:03:06,980 --> 00:03:09,860
 汽车人飞船里怎么会有瘟疫呢？
 What was a plague doing in an Autobot spaceship?
 
-25
+23
 00:03:09,910 --> 00:03:11,780
 飞船上有被感染的乘客
 Its passengers were infected.
 
-26
+24
 00:03:11,880 --> 00:03:14,770
 塞博特恩大战时期 这种病毒夺去了无数生命
 The virus wiped out millions on Cybertron during the great war.
 
-27
+25
 00:03:15,280 --> 00:03:19,960
 灰死病是霸天虎生物战争计划的产物
 Cybonic plague was engineered in the Decepticons' Biological Warfare Program...
 
-28
+26
 00:03:20,160 --> 00:03:22,610
 由威震天亲自研发
 by Megatron himself.
 
-29
+27
 00:03:23,580 --> 00:03:25,940
 你…有解药 是吧？
 You have a cure, don't you?
 
-30
+28
 00:03:29,060 --> 00:03:30,840
 无药可救…
 No cure...
 
-31
+29
 00:03:31,590 --> 00:03:34,370
 擎天柱 拜托 保存一点体力吧
 Optimus, please, save your strength.
 
-32
+30
 00:03:34,700 --> 00:03:37,120
 威震天能制造病毒 怎么会不造解药？
 Would Megatron create a disease without having a cure?
 
-33
+31
 00:03:37,350 --> 00:03:39,210
 我是说 万一他不小心感染了怎么办？
 I mean what if he caught it by accident?
 
-34
+32
 00:03:39,360 --> 00:03:41,800
 可我们没法拷问威震天了 杰克
 It's not like we can ask Megatron, Jack.
 
-35
+33
 00:03:41,800 --> 00:03:43,460
 他已经上西天了
 He's pushing up lugnuts.
 
-36
+34
 00:03:43,880 --> 00:03:48,880
 但是 没准可以查询霸天虎的数据库
 But we might be able to access the Decepticon database.
 
-37
+35
 00:03:49,080 --> 00:03:52,990
 目前 我们还掌握着他们战舰的位置
 For the moment, we still have a fix on their warship's location.
 
-38
+36
 00:03:53,540 --> 00:03:54,950
 大黄蜂 跟我走
 Bumblebee, come with.
 
-39
+37
 00:03:56,030 --> 00:03:58,830
 阿尔茜 尽快吧
 Arcee, quickly.
 
-40
+38
 00:04:10,410 --> 00:04:11,720
 我们从实验室开始找
 Let's start with the lab.
 
-41
+39
 00:04:33,260 --> 00:04:34,490
 我进入他们的网络了
 I'm in the network.
 
-42
+40
 00:04:38,910 --> 00:04:39,960
 救护车…
 Rachet...
 
-43
+41
 00:04:42,060 --> 00:04:43,960
 你有没有…
 Were you...
 
-44
+42
 00:04:44,610 --> 00:04:46,510
 被感染？没有
 Infected? No.
 
-45
+43
 00:04:50,020 --> 00:04:51,740
 数据真在这里吗 我没找到
 If it's here, I don't see it.
 
-46
+44
 00:04:51,910 --> 00:04:53,790
 你能确定吗 阿尔茜？
 Are you certain, Arcee?
 
-47
+45
 00:04:53,890 --> 00:04:56,130
 我搜索了所有文件 没找到
 I searched every file, nothing.
 
-48
+46
 00:04:56,280 --> 00:04:59,540
 那就再找一遍！你肯定有遗漏！
 Well, search again! Clearly you missed something!
 
-49
+47
 00:04:59,940 --> 00:05:02,240
 整个数据库我都扫描遍了！
 I scanned the entire database.
 
-50
+48
 00:05:03,320 --> 00:05:06,060
 你用过冗余量子算法吗？
 Did you use a redundant quantum algorithm?
 
-51
+49
 00:05:06,160 --> 00:05:07,690
 别用那些名词吓唬我
 Don't tell me how to research.
 
-52
+50
 00:05:07,890 --> 00:05:09,810
 你以为只有你自己关心擎天柱吗？
 You think you are the only one who cares about Optimus?
 
-53
+51
 00:05:11,810 --> 00:05:13,020
 怎么回事？
 What is it?
 
-54
+52
 00:05:14,130 --> 00:05:15,430
 怎么了？出什么事了？
 What is it? What's going on?
 
-55
+53
 00:05:22,660 --> 00:05:23,910
 是威震天
 It's Megatron.
 
-56
+54
 00:05:25,070 --> 00:05:26,560
 他还…活着
 He's alive.
 
-57
+55
 00:05:27,510 --> 00:05:28,180
 什么？
 What?
 
-58
+56
 00:05:28,760 --> 00:05:30,890
 那不可能！
 That's not possible!
 
-59
+57
 00:05:31,120 --> 00:05:32,690
 可我看见的确实是他
 But I'm staring right at him.
 
-60
+58
 00:05:34,110 --> 00:05:35,180
 好消息是
 Good news is
 
-61
+59
 00:05:35,480 --> 00:05:37,780
 威震天没有回应我的目光
 Megatron isn't exactly staring back.
 
-62
+60
 00:05:38,110 --> 00:05:39,870
 威震天？
 Megatron?
 
-63
+61
 00:05:41,100 --> 00:05:43,560
 他不行了 全靠生命维持系统撑着
 He's critical, hooked up to life support.
 
-64
+62
 00:05:45,450 --> 00:05:47,580
 该把他一劳永逸地解决掉了
 Time to finish this once and for all.
 
-65
+63
 00:05:47,890 --> 00:05:49,570
 慢着！别动手！
 Wait! Don't!
 
-66
+64
 00:05:49,680 --> 00:05:51,460
 给我个好理由 快说！
 One good reason, fast!
 
-67
+65
 00:05:51,720 --> 00:05:54,990
 威震天或许是救活擎天柱的唯一希望
 Megatron may be Optimus's only hope for survival.
 
-68
+66
 00:05:55,250 --> 00:05:56,410
 你在说什么？
 What are you talking about?
 
-69
+67
 00:05:56,410 --> 00:05:58,390
 他的脑电波还有活动吗？
 Does he display brainwave activity?
 
-70
+68
 00:06:00,420 --> 00:06:03,950
 很强烈 他的病态思维仍在运转
 Spiking hard, his sick mind still at work.
 
-71
+69
 00:06:04,240 --> 00:06:09,270
 太好了！如果真的有解药 威震天可能是唯一知道底细的人
 Perfect. If a cure exists, Megatron maybe the only one who knows it.
 
-72
+70
 00:06:09,480 --> 00:06:13,460
 你们必须进入他的大脑 找到解药！
 You must enter his brain and find it.
 
-73
+71
 00:06:21,800 --> 00:06:24,180
 进入威震天的大脑？
 Enter Megatron's brain?
 
-74
+72
 00:06:24,180 --> 00:06:26,060
 救护车 你是不是疯了？
 Rachet, are you out of your fragging mind?
 
-75
+73
 00:06:26,420 --> 00:06:31,620
 霸天虎实验室应该有所需的全部设备 你可以执行大脑皮层通灵驳接
 The Decepticon laboratory should contain all the equipment you need for a cortical psychic patch.
 
-76
+74
 00:06:31,800 --> 00:06:35,440
 不行 你以前有没有执行过这套程序？
 No way. Have you ever even performed the procedure?
 
-77
+75
 00:06:35,710 --> 00:06:40,830
 没有 但我仔细研究过理论资料…
 No. But I have thoroughly studied the theoretical literature...
 
-78
+76
 00:06:41,320 --> 00:06:45,450
 它是霸天虎发明的 但被汽车人明令禁止
 invented by Decepticons, outlawed by Autobots.
 
-79
+77
 00:06:45,450 --> 00:06:50,000
 哇 我们用环陆桥把威震天运走 时间不是会充裕一点吗？
 Whoa, can't we just haul Megatron through the GroundBridge, buy us some time to figure this out?
 
-80
+78
 00:06:50,200 --> 00:06:53,700
 擎天柱可没有那么充裕的时间！
 Time is one thing that Optimus does not have!
 
-81
+79
 00:06:53,700 --> 00:06:55,540
 你们俩必须有人试一下！
 One of you must try this！
 
-82
+80
 00:06:55,700 --> 00:07:01,520
 我绝不容许在威震天归西之前 就要给擎天柱送终！
 I will not allow Optimus to pass knowing that Megatron will outlive him!
 
-83
+81
 00:07:02,310 --> 00:07:06,870
 救护车 我愿意为擎天柱拼命 无论何时何地
 Ratchet, I would lay down my life for Optimus, anytime, anywhere.
 
-84
+82
 00:07:07,070 --> 00:07:09,020
 可要说灵魂出窍…
 But a mind-body split...
 
-85
+83
 00:07:11,150 --> 00:07:12,040
 你要去吗？
 You will?
 
-86
+84
 00:07:13,220 --> 00:07:15,800
 你有…把握吗 大黄蜂？
 Are you... sure, Bumblebee?
 
-87
+85
 00:07:16,940 --> 00:07:18,960
 小蜂是我们最棒的侦察兵
 Bee's the best scout there is.
 
-88
+86
 00:07:26,820 --> 00:07:30,480
 电磁防护罩为什么还没修好？
 Why has the elctromagnetic shielding not been repaired?
 
-89
+87
 00:07:30,970 --> 00:07:33,220
 舰员正在尽全力抢修 陛下…
 The crews are working as quickly as they can, Lord...
 
-90
+88
 00:07:34,000 --> 00:07:36,610
 我们的航迹暴露了！
 We are leaking a trail!
 
-91
+89
 00:07:37,020 --> 00:07:43,050
 汽车人只要访问正确的频段波长 就能获得我们的准确位置
 All the Autobots need do to pinpoint our position is to access the correct frequency wavelength.
 
-92
+90
 00:07:43,340 --> 00:07:44,840
 动作再快点！
 Accelerate your efforts!
 
-93
+91
 00:07:45,420 --> 00:07:47,070
 遵命 红蜘蛛陛下
 Yes, Lord Starscream.
 
-94
+92
 00:07:51,500 --> 00:07:52,840
 医官报到
 Doctor in the house.
 
-95
+93
 00:07:53,710 --> 00:07:58,040
 啊 击倒 病人今天状况如何？
 Ah, Knock Out, and how is the patient doing today?
 
-96
+94
 00:07:58,520 --> 00:07:59,670
 老样子…
 Same old...
 
-97
+95
 00:08:00,790 --> 00:08:06,240
 保持这种植物人状态 真是让他无地自容
 An inglorious fate that he should remain in this vegetative state...
 
-98
+96
 00:08:06,480 --> 00:08:10,610
 正相反 威震天的身体也许成了废铁
 On the contrary, Megatron's body may be scrap metal
 
-99
+97
 00:08:10,610 --> 00:08:13,420
 但他的思维还是很活跃的
 but his mind is still percolating.
 
-100
+98
 00:08:13,770 --> 00:08:15,210
 你自己知道就行了！
 Keep that to yourself!
 
-101
+99
 00:08:15,310 --> 00:08:19,110
 那该死的声波好像有千里眼和顺风耳
 That blasted Soundwave sees and hears everything.
 
-102
+100
 00:08:19,400 --> 00:08:21,930
 他是霸天虎的耳目嘛
 The eyes and ears of the Decepticons.
 
-103
+101
 00:08:22,290 --> 00:08:27,260
 只要他们的主子一天不醒 他们就是群无头苍蝇
 Well, as long as their master remains in limbo, so does their cause.
 
-104
+102
 00:08:27,260 --> 00:08:31,630
 霸天虎急需一位强悍的 警醒的领袖
 The Decepticons deserve a strong, alert leader.
 
-105
+103
 00:08:31,890 --> 00:08:35,640
 这位领袖也需要一个忠诚的副官
 One who would require a loyal second-in-command.
 
-106
+104
 00:08:36,150 --> 00:08:45,020
 要想坐上副官的位置 必须干得漂亮点 才能让那个“耳目”闭嘴
 Hmhmhm, a candidate would need to earn that post by making a strong case to said eyes and ears.
 
-107
+105
 00:08:45,490 --> 00:08:49,240
 需要发发慈悲吗 红蜘蛛陛下？
 A case for showing mercy, Lord Starscream?
 
-108
+106
 00:08:49,970 --> 00:08:54,430
 你敬我一尺 我敬你一丈
 You scratch my back, I scratch yours.
 
-109
+107
 00:09:16,070 --> 00:09:17,470
 救护车 我们准备好了
 Ratchet, we are ready.
 
-110
+108
 00:09:17,900 --> 00:09:20,150
 启动大脑皮层通灵驳接
 Initiate cortical psychic patch.
 
-111
+109
 00:09:41,750 --> 00:09:44,170
 通讯下行链路激活
 Communications downlink activated.
 
-112
+110
 00:09:44,270 --> 00:09:46,910
 这样我们就能利用大黄蜂的视觉和听觉
 This will allow us to see and hear everything Bumblebee does
 
-113
+111
 00:09:46,910 --> 00:09:49,310
 进入威震天的潜意识
 while within Megatron's subconscious mind.
 
-114
+112
 00:09:49,480 --> 00:09:52,310
 哇 那是什么地方？
 Whoa, where is that?
 
-115
+113
 00:09:53,400 --> 00:09:58,720
 小蜂说那儿像是卡隆 霸天虎在塞博特恩上的首都
 Bee says it looks like Kaon, the Decepticon Capital back on Cybertron.
 
-116
+114
 00:10:01,620 --> 00:10:03,920
 老救 大哥的情况很差
 Ratch, Optimus's vitals.
 
-117
+115
 00:10:04,390 --> 00:10:05,270
 我知道
 I know.
 
-118
+116
 00:10:06,660 --> 00:10:08,120
 快点 大黄蜂
 Quickly, Bumblebee.
 
-119
+117
 00:10:08,220 --> 00:10:09,810
 我知道那是个陌生环境
 I know you are in unknown territory
 
-120
+118
 00:10:09,810 --> 00:10:13,640
 但你必须在威震天的意识里 找到信息的大致储存位置
 but you must figure out where information might be filed in Megatron's mind.
 
-121
+119
 00:10:23,380 --> 00:10:25,510
 大黄蜂 那不是擎天柱
 Bumblebee, that is not Optimus
 
-122
+120
 00:10:25,510 --> 00:10:27,310
 只是威震天的思维幻像
 but a figment of Megatron's mind.
 
-123
+121
 00:10:27,310 --> 00:10:29,480
 他看不见 也听不到你
 It cannot see or hear you.
 
-124
+122
 00:10:29,580 --> 00:10:33,050
 哈哈 擎天柱！
 Mmmmhahaha, Optimus Prime!
 
-125
+123
 00:10:33,150 --> 00:10:35,430
 你的汽车人部队战败了
 Your Autobot armies are defeated.
 
-126
+124
 00:10:35,730 --> 00:10:38,250
 向你的新主人鞠躬吧
 Bow before your new master.
 
-127
+125
 00:10:38,770 --> 00:10:40,590
 我决不低头 威震天
 Never, Megatron.
 
-128
+126
 00:10:41,050 --> 00:10:44,490
 不是你死 就是我亡
 One shall stand, one shall fall.
 
-129
+127
 00:10:44,950 --> 00:10:46,360
 那就来吧
 So be it.
 
-130
+128
 00:11:04,500 --> 00:11:05,680
 这事我可没见过
 That never happened.
 
-131
+129
 00:11:06,050 --> 00:11:07,290
 这不是记忆
 It's not a memory.
 
-132
+130
 00:11:07,490 --> 00:11:13,200
 我们看见的卡隆 是威震天在他的黑暗梦境里重建的
 We're seeing Kaon as Megatron has recreated it in his darkest dreams.
 
-133
+131
 00:11:19,290 --> 00:11:23,330
 威震天 你的恶行到此为止吧
 Megatron, your treachery ends here.
 
-134
+132
 00:11:35,580 --> 00:11:38,070
 汽车人侦察兵
 The Autobot scout.
 
-135
+133
 00:11:38,390 --> 00:11:44,170
 胆敢擅闯我的领地 我让你灰飞烟灭！
 The punishment for trespassing in my domain is your destruction!
 
-136
+134
 00:11:58,520 --> 00:11:59,930
 这怎么可能？
 How can this be?
 
-137
+135
 00:12:07,190 --> 00:12:08,850
 威震天碰不到小蜂吗？
 Megatron can't touch Bee?
 
-138
+136
 00:12:08,850 --> 00:12:12,140
 因为他不是威震天的意识产物
 Because he's not a creation of Megatron's mind
 
-139
+137
 00:12:12,140 --> 00:12:15,320
 大黄蜂对他的物理攻击免疫
 Bumblebee is immune to his physical attack.
 
-140
+138
 00:12:16,170 --> 00:12:19,490
 你没有穿戴相移盔甲
 You are not wearing phase displacement armor.
 
-141
+139
 00:12:20,380 --> 00:12:24,510
 你的眼睛可以追踪我的动作 说明你不是全息图像
 Your eyes track my movements, so you are not a hologram.
 
-142
+140
 00:12:24,950 --> 00:12:28,110
 我也不相信灵魂论
 And I do not believe in spirits.
 
-143
+141
 00:12:28,410 --> 00:12:32,090
 快告诉我 侦察兵 你是什么东西？
 So tell me, scout, what are you?
 
-144
+142
 00:12:32,410 --> 00:12:33,990
 威震天！
 Megatron!
 
-145
+143
 00:12:41,790 --> 00:12:43,690
 啊哦 特邀嘉宾来了
 Uho, special guest stars.
 
-146
+144
 00:12:44,240 --> 00:12:45,850
 这可不太妙
 This is not good.
 
-147
+145
 00:13:06,840 --> 00:13:10,260
 你是真实的 他们不是！
 You are real. They were not!
 
-148
+146
 00:13:13,490 --> 00:13:17,580
 大脑皮层通灵驳接
 Hehehe, a cortical psychic patch.
 
-149
+147
 00:13:17,580 --> 00:13:19,230
 真想不到啊
 How unexpected.
 
-150
+148
 00:13:19,750 --> 00:13:22,530
 我们扰乱了威震天的无意识状态
 We've stirred Megatron from his oblivion.
 
-151
+149
 00:13:22,630 --> 00:13:24,500
 他开始恢复自我意识了！
 He's becoming self-aware.
 
-152
+150
 00:13:25,910 --> 00:13:28,800
 如果这是我的潜意识
 If this is my subconscious
 
-153
+151
 00:13:29,100 --> 00:13:31,560
 你在我的脑子里干什么？
 what are you doing inside my head?
 
-154
+152
 00:13:36,600 --> 00:13:39,110
 加油 小蜂 你到底在干嘛？
 Come on, Bee. What are you doing in there?
 
-155
+153
 00:13:44,060 --> 00:13:50,190
 击倒 麻烦你向声波讲一下 专家的治疗意见
 Knock Out, if you would be so kind as to provide your expert medical opinion to Soundwave
 
-156
+154
 00:13:50,490 --> 00:13:53,130
 以便记录在案
 for the historical record.
 
-157
+155
 00:13:54,030 --> 00:13:59,950
 简单来说 如果没有外力协助 威震天会永远保持这种假死状态
 Simply put, unaided, Megatron could remain in this deadless slumber forever.
 
-158
+156
 00:14:00,510 --> 00:14:04,100
 我们的主人不会希望自己成为这个样子
 Our master would not have wanted to be seen this way.
 
-159
+157
 00:14:04,300 --> 00:14:11,550
 眼看着他的灵魂被禁锢 我们却无所事事 这不公平
 To stand idly by while he remains captive in his own body, is not just.
 
-160
+158
 00:14:17,780 --> 00:14:22,990
 脑电波的活动不能证明他拥有意识 只是陷入了无穷的梦境
 Brainwave activity, not evidence of consciousness, but merely of an endless dream
 
-161
+159
 00:14:22,990 --> 00:14:25,220
 威震天或许永远都无法醒过来
 from which Megatron may never wake.
 
-162
+160
 00:14:27,830 --> 00:14:31,080
 声波 我们必须面对现实
 Soundwave, we must face reality.
 
-163
+161
 00:14:31,580 --> 00:14:34,120
 我们已经痛失威震天
 Megatron is lost to us.
 
-164
+162
 00:14:34,570 --> 00:14:38,630
 唯一体面的选择 就是让他解脱
 The only honorable option, would be to show him mercy.
 
-165
+163
 00:14:38,930 --> 00:14:41,500
 只是拨动一个开关而已
 A simple throw off the switch.
 
-166
+164
 00:14:41,600 --> 00:14:44,410
 迅速 没有痛苦 充满怜悯
 Quick, painless, compassionate.
 
-167
+165
 00:14:45,020 --> 00:14:46,730
 救护车 你听到了吗？
 Ratchet, are you hearing this?
 
-168
+166
 00:14:46,890 --> 00:14:48,770
 如果威震天死了
 If Megatron perishes
 
-169
+167
 00:14:48,970 --> 00:14:53,410
 大黄蜂的意识就会和他的身体分离 永远分离
 Bumblebee's mind will remain separated from his body, forever.
 
-170
+168
 00:14:53,980 --> 00:14:55,940
 那我们岂不要同时失去大黄蜂和擎天柱？
 We'll lose Bumblebee and Optimus?
 
-171
+169
 00:14:58,470 --> 00:15:04,590
 你能进入我的意识的唯一办法 就是通过大脑皮层通灵驳接
 The only way you could have entered my mind, is via cortical psychic patch.
 
-172
+170
 00:15:04,690 --> 00:15:06,650
 但是还有问题
 But the question remains...
 
-173
+171
 00:15:06,710 --> 00:15:09,010
 我到底是怎么了？
 What happened to me?
 
-174
+172
 00:15:31,130 --> 00:15:33,650
 太空桥爆炸
 The SpaceBridge explosion.
 
-175
+173
 00:15:33,710 --> 00:15:40,050
 另外 如果你能进入我的大脑 就说明我还没彻底死亡
 And yet if, if you're in my head, I am not one with the Allspark.
 
-176
+174
 00:15:40,970 --> 00:15:44,900
 告诉我 侦察兵 我是不是还活着？
 So tell me, scout, do I still function?
 
-177
+175
 00:15:45,740 --> 00:15:47,810
 大黄蜂 我们没时间了！
 Bumblebee, we are out of time!
 
-178
+176
 00:15:54,390 --> 00:15:56,410
 灰死病？
 Cybonic plague?
 
-179
+177
 00:15:56,410 --> 00:16:00,080
 除了我自己 还有人被…感染了？
 Somebody beside myself is, is unwell?
 
-180
+178
 00:16:04,140 --> 00:16:05,470
 擎天柱！
 Optimus!
 
-181
+179
 00:16:10,460 --> 00:16:12,050
 真是讽刺！
 Such irony!
 
-182
+180
 00:16:12,410 --> 00:16:15,030
 经历了连年的战争
 That after ages of endless battle
 
-183
+181
 00:16:15,030 --> 00:16:21,290
 伟大的擎天柱居然在远古时代的 简单病毒面前败下阵来！
 the mighty Optimus Prime is fell by a simple virus from the distant past!
 
-184
+182
 00:16:22,840 --> 00:16:27,320
 你凭什么以为 我会出手拯救我的老对头？
 And what makes you think I would save the life of my oldest enemy?
 
-185
+183
 00:16:27,940 --> 00:16:30,790
 威震天 你的恶行…
 Megatron, your treachery is...
 
-186
+184
 00:16:35,800 --> 00:16:40,240
 噢 那么我最想要的是什么呢 侦察兵？
 Oh, and just what is it that I want most, scout?
 
-187
+185
 00:16:42,560 --> 00:16:49,870
 你没看到吗 擎天柱可以被我亲手杀死
 Haha, did you not see, I do slay Optimus by my own hand
 
-188
+186
 00:16:49,870 --> 00:16:52,490
 我随心所欲 想杀就杀！
 at will, whenever I desire!
 
-189
+187
 00:16:58,090 --> 00:17:01,780
 小蜂告诉威震天 如果他让病毒毁掉擎天柱的话
 Bee told Megatron if he lets the plague virus destroy the real Optimus
 
-190
+188
 00:17:01,780 --> 00:17:04,390
 他就再也没机会亲自动手了
 Megatron will never get the chance to do it himself.
 
-191
+189
 00:17:04,590 --> 00:17:05,850
 聪明！
 Smart!
 
-192
+190
 00:17:06,050 --> 00:17:07,110
 变态！
 Twisted!
 
-193
+191
 00:17:07,950 --> 00:17:14,590
 声波 我可不可以认为 你用沉默来表示认同击倒的专业见解？
 Soundwave, do I take your silence to mean you concur with Knock Out's medical expertise?
 
-194
+192
 00:17:18,580 --> 00:17:22,150
 要么开口 要么永远闭上你的臭嘴
 Speak now, or forever hold your peace.
 
-195
+193
 00:17:23,760 --> 00:17:24,610
 说啊…
 Going.
 
-196
+194
 00:17:28,640 --> 00:17:29,760
 说啊…
 Going...
 
-197
+195
 00:17:42,330 --> 00:17:43,340
 糟了！
 Scrap!
 
-198
+196
 00:17:47,290 --> 00:17:55,260
 这么多恩恩怨怨都走过来了 如果不能亲眼看到擎天柱熄灭火种的话…
 After our deep history together, to not watch the spark end from Optimus's eyes with my very own...
 
-199
+197
 00:17:59,050 --> 00:18:00,790
 干得好 侦察兵
 Well-played, scout.
 
-200
+198
 00:18:04,000 --> 00:18:06,730
 这就是你要找的解药配方
 The chemical formula for the cure you seek.
 
-201
+199
 00:18:06,830 --> 00:18:09,740
 我并不指望你能读懂
 Not that I expect you to know how to read it.
 
-202
+200
 00:18:11,680 --> 00:18:12,890
 现在不行
 Not yet.
 
-203
+201
 00:18:14,090 --> 00:18:19,190
 既然你提议 让我亲手终结擎天柱的生命
 And how am I to accomplish terminating Optimus as you proposed
 
-204
+202
 00:18:19,190 --> 00:18:22,550
 可我怎么能摆脱这个无限循环的白日梦呢？
 while I'm traped here in a perpetual day-dream?
 
-205
+203
 00:18:23,900 --> 00:18:28,680
 只要你帮我逃出这个监狱 就可以得到解药
 Once you release me from this prison, you will have the cure.
 
-206
+204
 00:18:36,240 --> 00:18:37,750
 快点 快点！
 Come on, come on.
 
-207
+205
 00:18:38,630 --> 00:18:46,130
 你必须保证让我复原 否则\N擎天柱只能变灰 然后死掉
 You must guarantee my recovery, or Optimus fades to gunmetal grey.
 
-208
+206
 00:18:46,420 --> 00:18:48,280
 我说的是真正的擎天柱
 The REAL Optimus.
 
-209
+207
 00:18:53,890 --> 00:18:55,990
 阿尔茜 配方已经到手
 Arcee, we have the formula.
 
-210
+208
 00:18:55,990 --> 00:18:57,690
 断开大黄蜂的驳接 快！
 Disconnect Bumblebee, now!
 
-211
+209
 00:19:08,430 --> 00:19:10,900
 你们在监视 你骗了我！
 You were watching, you tricked me!
 
-212
+210
 00:19:12,960 --> 00:19:19,260
 不！带我一起走！带我走…
 No, take me with you! Take me! Take me! Take me!
 
-213
+211
 00:19:22,600 --> 00:19:23,720
 快点啊 小蜂！
 Hurry, Bee.
 
-214
+212
 00:19:29,350 --> 00:19:30,170
 怎么…
 What in...
 
-215
+213
 00:19:33,380 --> 00:19:34,360
 入侵者！
 Intruders!
 
-216
+214
 00:19:34,560 --> 00:19:35,550
 让我来吧！
 Allow me!
 
-217
+215
 00:19:51,590 --> 00:19:54,530
 唉 结局在所难免
 Huh, it was the inevitable outcome.
 
-218
+216
 00:19:56,130 --> 00:20:04,000
 当然了 不该让威震天牺牲在汽车人的手里
 Uhhh... of course it would be wrong to allow Megatron to perish by an Autobot's hand
 
-219
+217
 00:20:04,200 --> 00:20:05,320
 击倒
 Knock Out.
 
-220
+218
 00:20:19,800 --> 00:20:22,110
 就这样 稳住
 That's it. Steady.
 
-221
+219
 00:20:27,650 --> 00:20:35,100
 请各位把对英雄的欢呼留给我的医师 还有我的侦察兵
 Please, reserve the hero's welcome for my physician, and my scout.
 
-222
+220
 00:20:37,050 --> 00:20:38,500
 - 没事了\N- 是啊！
 - Alright.\N- Yes!
 
-223
+221
 00:20:44,240 --> 00:20:47,440
 病人今天的情况如何？
 And how is the patient doing today?
 
-224
+222
 00:20:47,950 --> 00:20:49,460
 这话问得好
 Funny, you should ask.
 
-225
+223
 00:20:49,520 --> 00:20:52,040
 不清楚汽车人在他脑子里动了什么手脚
 Not sure what the Bots did in there.
 
-226
+224
 00:20:52,410 --> 00:20:56,340
 但是威震天的脑电波已经归零了
 But Megatron's registering zero brainwave activity.
 
-227
+225
 00:20:56,750 --> 00:20:59,000
 嗯 说明什么？
 Mmm, meaning?
 
-228
+226
 00:21:01,120 --> 00:21:03,580
 表面来看他很稳定 但现在
 Physically he is stable, but now
 
-229
+227
 00:21:03,580 --> 00:21:06,500
 他的…灵魂消失了
 there is no one home.
 
-230
+228
 00:21:17,810 --> 00:21:19,400
 我出来了
 I'm out.
 
-231
+229
 00:21:20,570 --> 00:21:24,140
 或许该说…进来了！
 Or should I say, IN!

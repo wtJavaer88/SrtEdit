@@ -959,286 +959,281 @@ According to the landmarks displayed by the keys
 the object we seek is located deep the within the Sea of Rust.
 
 193
-00:13:47,620 --> 00:13:51,850
-（Sea of Rust 锈海 位于塞博特恩赤道 由不稳定的行星物质和粒子流组成的区域 时常释放出具有腐蚀性 但相对无害的气体）
-the object we seek is located deep the within the Sea of Rust.
-
-194
 00:14:00,560 --> 00:14:02,310
 擎天柱？
 Ah! Optimus?
 
-195
+194
 00:14:02,480 --> 00:14:04,100
 不 救护车 是我 杰克
 Uh, n-no, Ratchet. It's Jack.
 
-196
+195
 00:14:04,140 --> 00:14:04,970
 有什么事发生了吗？
 Is something wrong?
 
-197
+196
 00:14:04,970 --> 00:14:07,050
 放学都快一个小时了
 'Cause school's been out for almost an hour, and
 
-198
+197
 00:14:07,050 --> 00:14:08,210
 还没人来接我们
 no one's showed to pick us up.
 
-199
+198
 00:14:08,450 --> 00:14:12,490
 那是因为这会儿整个小队都…有事在身
 That is because the entire team is rather... indisposed at the moment.
 
-200
+199
 00:14:12,710 --> 00:14:15,670
 我建议你们今天换种方式回家吧
 I suggest you obtain an alternate method of transport.
 
-201
+200
 00:14:15,860 --> 00:14:16,700
 他说什么？
 What's he saying?
 
-202
+201
 00:14:17,170 --> 00:14:18,400
 嗯…轮子们忙着呢
 Eh... The bots are busy.
 
-203
+202
 00:14:18,710 --> 00:14:20,800
 那就让救护车来接咱们嘛
 Then tell Ratchet to come get us!
 
-204
+203
 00:14:20,930 --> 00:14:23,680
 他可是个大~闲~人~
 It's not like he has anything else to do!
 
-205
+204
 00:14:24,040 --> 00:14:25,510
 总之你们先回家
 Just go home!
 
-206
+205
 00:14:25,710 --> 00:14:26,910
 我稍后再联系你们
 I will be in touch later!
 
-207
+206
 00:14:27,390 --> 00:14:28,820
 喂？喂？
 He... hello?
 
-208
+207
 00:14:29,520 --> 00:14:30,150
 他挂掉了
 He hung up.
 
-209
+208
 00:14:30,420 --> 00:14:32,490
 他又在搞什么飞机？
 What crawled up his tailpipe and died?
 
-210
+209
 00:14:32,870 --> 00:14:34,500
 他有告诉你出什么事了吗？
 Did Ratchet tell you what's going on?
 
-211
+210
 00:14:34,820 --> 00:14:38,810
 没有 他们最近好像一直神秘兮兮的
 No. They seem to be keeping us in the dark a lot lately.
 
-212
+211
 00:14:55,250 --> 00:14:57,090
 怎么？发生什么事了？
 Wha... what just happened?
 
-213
+212
 00:15:03,700 --> 00:15:04,770
 烟幕？
 Smokescreen?
 
-214
+213
 00:15:05,410 --> 00:15:06,710
 这怎么可能！
 But that's impossible.
 
-215
+214
 00:15:06,950 --> 00:15:09,370
 汽车人应该没法到达…
 The Autobots do not possess the means to...
 
-216
+215
 00:15:21,100 --> 00:15:22,070
 干掉他们！
 Crush them!
 
-217
+216
 00:15:59,080 --> 00:16:00,400
 保护好钥匙！
 Defend the keys!
 
-218
+217
 00:16:46,940 --> 00:16:49,430
 我已经击碎过一次你的剑了
 I bested your little blade once
 
-219
+218
 00:16:49,450 --> 00:16:51,000
 大不了再来一次！
 and I shall do it again!
 
-220
+219
 00:17:53,850 --> 00:17:55,720
 如果拿不回钥匙
 I will have those keys
 
-221
+220
 00:17:55,810 --> 00:17:57,930
 我就收了你们的火种！
 or I will have your sparks!
 
-222
+221
 00:18:00,700 --> 00:18:02,190
 后面那件事我可以代劳！
 I can help with the last part.
 
-223
+222
 00:18:04,040 --> 00:18:05,640
 火种剥离器！
 The spark extractor!
 
-224
+223
 00:18:39,920 --> 00:18:41,240
 红蜘蛛！
 Starscream!
 
-225
+224
 00:18:41,250 --> 00:18:43,370
 汽车人已经抢走了“终极之钥”
 The Autobots have seized the Omega keys.
 
-226
+225
 00:18:43,620 --> 00:18:45,790
 立刻派援军过来！
 Send reinforcements immediately!
 
-227
+226
 00:18:47,240 --> 00:18:49,020
 这个嘛 威震天陛下
 Actually, lord Megatron
 
-228
+227
 00:18:49,020 --> 00:18:52,240
 声波和我说了近期的一些情况
 Soundwave has been briefing me on recent developments
 
-229
+228
 00:18:52,280 --> 00:18:55,620
 我们或许已经有了更有效的解决办法
 and we may have a more effective solution.
 
-230
+229
 00:19:06,090 --> 00:19:07,650
 咱们不会领先太久的
 Our head start won't last long.
 
-231
+230
 00:19:07,660 --> 00:19:10,080
 这就是钛师傅说的地点 对吗？
 This is where Alpha Trion said we'd find it, right?
 
-232
+231
 00:19:10,090 --> 00:19:11,210
 坐标是没错
 These are the coordinates.
 
-233
+232
 00:19:17,350 --> 00:19:18,720
 看起来不像啊
 Doesn't look like much.
 
-234
+233
 00:19:23,640 --> 00:19:27,970
 救护车 我们已经找到“终极之锁”了
 Ratchet, we have located the Omega lock.
 
-235
+234
 00:19:29,390 --> 00:19:30,660
 终于…
 At last.
 
-236
+235
 00:19:30,970 --> 00:19:33,140
 根据钛师傅所言
 According to Alpha Trion
 
-237
+236
 00:19:33,150 --> 00:19:38,140
 “终极之锁”就是直接联通火种源的渠道
 the Omega lock is a conduit to the very Allspark itself.
 
-238
+237
 00:19:38,460 --> 00:19:40,160
 擎天柱 如此重大的荣誉
 Optimus, an honor like this
 
-239
+238
 00:19:40,520 --> 00:19:41,610
 不应该属于我
 shouldn't belong to me.
 
-240
+239
 00:20:41,780 --> 00:20:42,780
 汽车人
 Autobots
 
-241
+240
 00:20:43,130 --> 00:20:46,220
 我建议你们停下手头的工作
 I would suggest that you put a halt to your task...
 
-242
+241
 00:20:46,220 --> 00:20:48,640
 把钥匙交给我
 and hand over those keys.
 
-243
+242
 00:20:48,650 --> 00:20:50,240
 凭什么？
 And why would we do that?
 
-244
+243
 00:21:01,330 --> 00:21:04,480
 就凭这些人类都在我手里
 So that I may hand over the humans.
 
-245
+244
 00:21:12,790 --> 00:21:14,960
 如果我们拒绝呢？
 And if we refuse?
 
-246
+245
 00:21:16,220 --> 00:21:19,240
 那我别无选择 只好打开那些舱体
 Then I will have no choice but to open the pods
 
-247
+246
 00:21:19,520 --> 00:21:24,310
 让你们的宠物暴露在塞博特恩剧毒的空气之中
 exposing your pets to Cybertron's toxic atmosphere.
 
-248
+247
 00:21:25,100 --> 00:21:26,020
 然后
 And then
 
-249
+248
 00:21:26,370 --> 00:21:31,080
 我们就可以看着他们一起…痛苦地死去！
 we can all watch them instantly perish, together.
