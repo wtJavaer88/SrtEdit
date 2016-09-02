@@ -1,0 +1,546 @@
+[Script Info]
+;SrtEdit 6.2.2012.322
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: DBfansub
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: *Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,0,2,3,2,20,20,20,1
+Style: Default,Microsoft YaHei,58,&H00FFFFFF,&HF0000000,&H00030304,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,0
+Style: Image,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,0
+Style: 工作表,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 背景,Arial,20,&HA0FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 片尾,方正喵呜体,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: 瑞克与莫蒂,迷你荆棘体,80,&H00DDD127,&H000000FF,&H00040904,&H0070CD96,0,0,0,0,100,100,0,0,1,2,3,2,10,10,10,1
+Style: 电波诚译,方正卡通简体,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: 泰坦尼克,Arial,20,&H00FFFFE5,&H000000FF,&H0078725C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
+Style: 享受浪漫,KaiTi,20,&H0007538E,&H000000FF,&H0065DFF0,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
+Style: 经典重现,方正综艺简体,20,&H00002D3E,&H000000FF,&H0089EEED,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
+Style: 5,方正卡通简体,20,&H00ADA498,&H000000FF,&H002E231A,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
+Style: 6,Arial,20,&H00093A89,&H000000FF,&H0065DFF0,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:05.60,工作表,NTP,0,0,0,,{\an8\fs32\fad(800,800)\c&HFFFFFF&\3c&H666562&\b1}{\fn时尚中黑简体}翻译: 遥望 小萌 暑假中的Kimuu V僧
+Dialogue: 0,0:00:05.60,0:00:10.60,工作表,NTP,0,0,0,,{\c&HFFFFFF&\b1\3c&H666562&}{\an8\fs32\fad(800,800)}{\fn时尚中黑简体}校对: 酱油薛
+Dialogue: 0,0:00:10.60,0:00:15.60,工作表,NTP,0,0,0,,{\c&HFFFFFF&}{\an8\fs32\fad(800,800)\b1\3c&H666562&}{\fn时尚中黑简体}后期: 小萌
+Dialogue: 0,0:00:15.60,0:00:20.60,工作表,NTP,0,0,0,,{\c&HFFFFFF&\an8}{\fs32\fad(800,800)\b1\3c&H666562&}{\fn时尚中黑简体\b1}压制: 凯撒
+Dialogue: 0,0:00:00.60,0:00:21.30,背景,,0,0,0,,{\fs34}{\p1\c&H96955E&\fscx4200\fscy410\an8\fad(800,800)\pos(642,0)}m 0 0 b 0 0 0 0 0 0 b 0 0 0 0 0 0 b 0 4 0 9 0 13 b 4 13 9 13 13 13 b 13 9 13 4 13 0 {\p0}
+Dialogue: 0,0:01:47.49,0:01:51.52,瑞克与莫蒂,,0,0,0,,{\pos(632,192)}{\fad(1000,0)}{\c&H00FEFEDB\t(0,2500,\c&H00D8D021)}瑞克与莫蒂
+Dialogue: 0,0:01:48.52,0:01:51.52,电波诚译,,0,0,0,,{\pos(617.333,622)}{\fad(500,0)}电波诚译
+Dialogue: 0,0:01:48.52,0:01:51.52,电波诚译,,0,0,0,,{\pos(617.333,666)}{\fad(500,0)}第一季 第十一集
+Dialogue: 0,0:22:17.88,0:22:26.06,片尾,NTP,0,0,0,,{\fn方正喵呜体}{\fs70\c&H20F0FF&\b1}电波字幕组 欢迎您的加入\N{\fs34}\N{\fs65\b0}官方网站:www.dbfansub.com\N{\fs34}\N{\fs65\b0}新浪微博:@电波字幕组
+Dialogue: 0,0:00:00.91,0:00:02.82,*Default,NTP,0,0,0,,- 再见老妈 再见老爸  - 开车小心\N{\fs38}- Bye, mom! Bye, dad! - Drive carefully!
+Dialogue: 0,0:00:03.00,0:00:03.89,*Default,NTP,0,0,0,,玩得开心哦 两位\N{\fs38}Have fun, you two.
+Dialogue: 0,0:00:03.96,0:00:06.84,*Default,NTP,0,0,0,,是 我们会努力寻找乐趣的 毕竟要去的是\N{\fs38}Yes, we will have as much fun as possible on our...
+Dialogue: 0,0:00:07.14,0:00:09.12,*Default,NTP,0,0,0,,泰坦尼克主题游\N{\fs38}Titanic-Themed getaway.
+Dialogue: 0,0:00:09.26,0:00:10.40,*Default,NTP,0,0,0,,麻烦你别闹脾气了\N{\fs38}Let's lose the 'tude, please.
+Dialogue: 0,0:00:10.50,0:00:12.11,*Default,NTP,0,0,0,,到时候肯定会非常浪漫的\N{\fs38}It's supposed to be romantic.
+Dialogue: 0,0:00:12.28,0:00:15.22,*Default,NTP,0,0,0,,说到灾难 爸 家里现在可归你管了\N{\fs38}Speaking of disasters, dad, we are leaving you in charge, here.
+Dialogue: 0,0:00:15.34,0:00:16.55,*Default,NTP,0,0,0,,知道啦 说完了吗\N{\fs38}I know, c-can we wrap this up?
+Dialogue: 0,0:00:16.55,0:00:20.09,*Default,NTP,0,0,0,,Morty和我在车库里弄的合成激光鳗鱼正在氧化呢\N{\fs38}Morty and I have some synthetic laser eels oxidizing in the garage.
+Dialogue: 0,0:00:20.09,0:00:21.24,*Default,NTP,0,0,0,,喂 好好听我说\N{\fs38}Hey, don't blow me off.
+Dialogue: 0,0:00:21.47,0:00:23.39,*Default,NTP,0,0,0,,我要定个规矩\N{\fs38}I am drawing a line, okay?
+Dialogue: 0,0:00:23.39,0:00:26.55,*Default,NTP,0,0,0,,要是我们回来发现房子和孩子有任何损伤\N{\fs38}Any damage to this house or these children when we get back,
+Dialogue: 0,0:00:26.78,0:00:29.66,*Default,NTP,0,0,0,,你就再也不能跟Morty去冒险了\N{\fs38}and...n-no more adventures with Morty.
+Dialogue: 0,0:00:29.75,0:00:30.33,*Default,NTP,0,0,0,,噢 天哪 Rick\N{\fs38}Aw, geez, Rick.
+Dialogue: 0,0:00:30.49,0:00:33.88,*Default,NTP,0,0,0,,要是我妈都这么说了 那肯定是认真的\N{\fs38}If my mom's the one who's saying it, then you know it's pretty serious this time.
+Dialogue: 0,0:00:33.88,0:00:34.54,*Default,NTP,0,0,0,,- 没错  - 没错\N{\fs38}- That's right. - That's right.
+Dialogue: 0,0:00:34.68,0:00:35.41,*Default,NTP,0,0,0,,等等 啥\N{\fs38}Wait. What?
+Dialogue: 0,0:00:35.47,0:00:37.39,*Default,NTP,0,0,0,,听着 作为看护者我可以承诺\N{\fs38}Listen, you have my words as a caregiver,
+Dialogue: 0,0:00:37.61,0:00:39.07,*Default,NTP,0,0,0,,一切都会没事的\N{\fs38}everything's gonna be fine.
+Dialogue: 0,0:00:39.50,0:00:42.08,*Default,NTP,0,0,0,,万一有事 那就听你的 不跟Morty去冒险了\N{\fs38}And if not, like you say, no more adventures or whatever.
+Dialogue: 0,0:00:42.19,0:00:43.13,*Default,NTP,0,0,0,,就像那首老歌唱的\N{\fs38}It's like that old song
+Dialogue: 0,0:00:43.24,0:00:45.72,*Default,NTP,0,0,0,,"Blop blop-a noop noop a-noop noop noop"{\fs38}\N"Blop blop-a noop noop a-noop noop noop."
+Dialogue: 0,0:00:45.79,0:00:48.49,*Default,NTP,0,0,0,,你们不知道这首歌吗 Tiny Rogerts唱的\N{\fs38}Y-you guys know that song? From Tiny Rogerts?
+Dialogue: 0,0:00:48.76,0:00:49.50,*Default,NTP,0,0,0,,没听说过吗\N{\fs38}You never heard of it?
+Dialogue: 0,0:00:49.85,0:00:51.89,*Default,NTP,0,0,0,,就是 50年代的黑人娘炮\N{\fs38}You know, the black effeminate guy from the '50s?
+Dialogue: 0,0:00:52.45,0:00:54.41,*Default,NTP,0,0,0,,都不知道吗 唉 算了\N{\fs38}No-nobody? A-all right, whatever.
+Dialogue: 0,0:00:54.65,0:00:56.70,*Default,NTP,0,0,0,,管他的呢 快去你们那蠢旅游吧\N{\fs38}Look, who cares? Just go on your stupid trip.
+Dialogue: 0,0:00:57.88,0:00:59.82,*Default,NTP,0,0,0,,家里不准搞任何破坏\N{\fs38}Not one thing out of place.
+Dialogue: 0,0:01:04.00,0:01:05.83,*Default,NTP,0,0,0,,一处都不行\N{\fs38}Not a single thing.
+Dialogue: 0,0:01:16.83,0:01:18.08,*Default,NTP,0,0,0,,哇 既然已经踏上了不归路\N{\fs38}Well, we're past the point of no return.
+Dialogue: 0,0:01:18.63,0:01:19.44,*Default,NTP,0,0,0,,我要开个派对\N{\fs38}I'm going to have a party.
+Dialogue: 0,0:01:52.42,0:01:54.39,*Default,NTP,0,0,0,,我找到Jello了 你能把你妈的伏特加偷出来吗\N{\fs38}I found Jello. Can you sneak your mom's vodka?
+Dialogue: 0,0:01:54.90,0:01:56.91,*Default,NTP,0,0,0,,她当然有 我在你们家洗衣房里看到了\N{\fs38}Yes, she does. I saw it in your laundry room.
+Dialogue: 0,0:01:57.32,0:01:59.78,*Default,NTP,0,0,0,,听着 你们两个不能同时否认啊\N{\fs38}Listen, you can't both be in denial about it.
+Dialogue: 0,0:01:59.94,0:02:00.43,*Default,NTP,0,0,0,,好 再见\N{\fs38}Okay bye.
+Dialogue: 0,0:02:00.43,0:02:02.09,*Default,NTP,0,0,0,,Summer 不许你开派对\N{\fs38}Summer, you can't throw a party!
+Dialogue: 0,0:02:02.39,0:02:03.43,*Default,NTP,0,0,0,,记得老妈讲的吗\N{\fs38}Remember what mom said?
+Dialogue: 0,0:02:03.43,0:02:06.51,*Default,NTP,0,0,0,,是啊 要是事情搞砸了 你和外公Rick会受惩罚\N{\fs38}Yeah, if anything gets messed up, you and grandpa Rick get punished.
+Dialogue: 0,0:02:06.65,0:02:08.09,*Default,NTP,0,0,0,,而我嘛 只是个普通人 Morty\N{\fs38}I'm only a human being, Morty.
+Dialogue: 0,0:02:08.20,0:02:09.68,*Default,NTP,0,0,0,,Rick 快告诉Summer不许开派对\N{\fs38}Rick, tell Summer she can't have a party!
+Dialogue: 0,0:02:09.85,0:02:11.72,*Default,NTP,0,0,0,,Summer 你不能开派对\N{\fs38}Uh, Summer, you can't have a party.
+Dialogue: 0,0:02:12.25,0:02:15.17,*Default,NTP,0,0,0,,因为我要开派对 小妞\N{\fs38}Because I'm having a party, bitch!
+Dialogue: 0,0:02:15.33,0:02:16.88,*Default,NTP,0,0,0,,什么 Rick 不行\N{\fs38}Oh, what?! Rick, you can't!
+Dialogue: 0,0:02:17.10,0:02:18.99,*Default,NTP,0,0,0,,你说你要开派对是什么意思\N{\fs38}What do you mean  you're having a party?
+Dialogue: 0,0:02:19.12,0:02:21.03,*Default,NTP,0,0,0,,会有第三次元的鼻涕怪\N{\fs38}Are some glip glops from the third dimension
+Dialogue: 0,0:02:21.03,0:02:23.16,*Default,NTP,0,0,0,,跑过来打牌吗\N{\fs38}going to come over and play cards or something?
+Dialogue: 0,0:02:23.33,0:02:26.18,*Default,NTP,0,0,0,,"鼻涕怪" 你真走运 没让塔夫落基人听见\N{\fs38}"Glip glop?" You're lucky a Trafilorkian doesn't hear you say that.
+Dialogue: 0,0:02:26.42,0:02:27.29,*Default,NTP,0,0,0,,这是他们的敏感词吗\N{\fs38}Is that like their N-word?
+Dialogue: 0,0:02:27.35,0:02:29.19,*Default,NTP,0,0,0,,就好像敏感词和屏蔽词生了个娃\N{\fs38}It's like the N-word and the C-word had a baby
+Dialogue: 0,0:02:29.31,0:02:31.57,*Default,NTP,0,0,0,,然后被各种侮辱犹太人的词汇养大\N{\fs38}and it was raised by all the bad words for jews.
+Dialogue: 0,0:02:31.62,0:02:32.99,*Default,NTP,0,0,0,,听我说 我觉得我们三个可以\N{\fs38}Listen, I think the three of us could just,
+Dialogue: 0,0:02:33.08,0:02:35.37,*Default,NTP,0,0,0,,玩点简单的 比如出去逛逛街\N{\fs38}have a nice time, like just hanging out, and, you know,
+Dialogue: 0,0:02:35.46,0:02:36.53,*Default,NTP,0,0,0,,类似这种亲人间的互动\N{\fs38}you know, doing a little bonding and...
+Dialogue: 0,0:02:36.53,0:02:38.22,*Default,NTP,0,0,0,,去你的 这可是我和那些酷家伙\N{\fs38}Screw that. This is my chance to
+Dialogue: 0,0:02:38.49,0:02:40.09,*Default,NTP,0,0,0,,建立关系的机会\N{\fs38}gain some footing with the cool kids.
+Dialogue: 0,0:02:40.33,0:02:41.20,*Default,NTP,0,0,0,,这就是你开派对的目的\N{\fs38}That's why you party?
+Dialogue: 0,0:02:41.43,0:02:42.51,*Default,NTP,0,0,0,,孩子 你还真是花季少女啊\N{\fs38}Boy, you really are 17.
+Dialogue: 0,0:02:42.87,0:02:43.62,*Default,NTP,0,0,0,,那你为什么开派对\N{\fs38}Why do you party?
+Dialogue: 0,0:02:43.68,0:02:46.81,*Default,NTP,0,0,0,,当然是要嗨翻天啊 小屁孩\N{\fs38}To get wriggedy wriggedy wrecked, son!
+Dialogue: 0,0:02:47.26,0:02:48.62,*Default,NTP,0,0,0,,让你那些科幻朋友\N{\fs38}Just keep your Sci-fi friends
+Dialogue: 0,0:02:48.95,0:02:50.15,*Default,NTP,0,0,0,,离我的酷炫朋友远一点\N{\fs38}away from my awesome ones.
+Dialogue: 0,0:02:50.22,0:02:51.63,*Default,NTP,0,0,0,,好啊 你也让你的酷炫朋友\N{\fs38}Yeah, and you keep your awesome friends
+Dialogue: 0,0:02:51.82,0:02:53.40,*Default,NTP,0,0,0,,离我的小鱼面包远一点\N{\fs38}away from my canapes.
+Dialogue: 0,0:02:55.42,0:02:57.63,*Default,NTP,0,0,0,,晚餐过后 泰坦尼克2号 就会\N{\fs38}After dinner, Titanic 2 will attach to
+Dialogue: 0,0:02:54.55,0:02:56.49,泰坦尼克,NTP,0,0,0,,{\frx358\fry6\pos(236.6,197.4)\fs24\frz354.6}泰坦尼克
+Dialogue: 0,0:02:54.55,0:02:56.49,享受浪漫,NTP,0,0,0,,{\frx2\fry18\pos(235.2,307.6)\frz355.8\b1}享受浪漫{\b0}
+Dialogue: 0,0:02:54.55,0:02:56.49,经典重现,NTP,0,0,0,,{\frx0\fry10\pos(240,385.8)}经典重现
+Dialogue: 0,0:02:57.67,0:02:59.41,*Default,NTP,0,0,0,,被轨道系统引导到我们的假冰山\N{\fs38}the rail system near our replica iceberg,
+Dialogue: 0,0:02:59.59,0:03:01.07,*Default,NTP,0,0,0,,然后这些管道里的液压\N{\fs38}and the hydraulics encased in these tubes
+Dialogue: 0,0:03:01.35,0:03:04.16,*Default,NTP,0,0,0,,会将整艘船沉入冰冷的海底\N{\fs38}will execute a controlled sink into the icy depths.
+Dialogue: 0,0:03:04.31,0:03:08.45,*Default,NTP,0,0,0,,这么经典的东西用这么老套的轨道系统\N{\fs38}A rail system seems archaic for a attraction this impressive.
+Dialogue: 0,0:03:08.78,0:03:10.38,*Default,NTP,0,0,0,,确定会沉吗\N{\fs38}Are you sure the ship will sink?
+Dialogue: 0,0:03:10.47,0:03:14.27,*Default,NTP,0,0,0,,我可以保证这船会沉的 它都沉了几千次了\N{\fs38}I can assure you the ship will sink, as it has a thousand times before.
+Dialogue: 0,0:03:14.36,0:03:16.24,*Default,NTP,0,0,0,,它是必沉无疑的\N{\fs38}It is un-unsinkable.
+Dialogue: 0,0:03:17.96,0:03:20.11,*Default,NTP,0,0,0,,看 这是去船头的队伍\N{\fs38}Look, it's the line for bow!
+Dialogue: 0,0:03:20.15,0:03:23.48,*Default,NTP,0,0,0,,Jerry 我好想回去边喝酒边看书\N{\fs38}Jerry, I'd love to just kick back with a margarita and read.
+Dialogue: 0,0:03:23.70,0:03:25.76,*Default,NTP,0,0,0,,不介意我跳过"我是世界之王"的桥段吧\N{\fs38}Do you mind if I skip the whole "king of the world" bit?
+Dialogue: 0,0:03:25.87,0:03:27.77,*Default,NTP,0,0,0,,这不是"我是世界之王"的桥段\N{\fs38}Well, it's not the "king of the world" bit.
+Dialogue: 0,0:03:27.86,0:03:29.07,*Default,NTP,0,0,0,,那是Jack和Fabrizio\N{\fs38}That's Jack and Fabrizio.
+Dialogue: 0,0:03:29.22,0:03:31.55,*Default,NTP,0,0,0,,这里是Rose对Jack说 "Jack 我在飞翔"桥段\N{\fs38}This is where Rose says, "I'm flying Jack!"
+Dialogue: 0,0:03:31.71,0:03:33.79,*Default,NTP,0,0,0,,随便吧 当独自来演戏的也没差\N{\fs38}But whatever. I can be the only one to do it alone.
+Dialogue: 0,0:03:33.97,0:03:34.68,*Default,NTP,0,0,0,,那 她怎么样\N{\fs38}Well, what about her?
+Dialogue: 0,0:03:34.85,0:03:36.05,*Default,NTP,0,0,0,,打扰一下 女士\N{\fs38}Excuse me, ma'am.
+Dialogue: 0,0:03:36.51,0:03:38.15,*Default,NTP,0,0,0,,你能否代替我一下\N{\fs38}Would you like my place in line?
+Dialogue: 0,0:03:38.32,0:03:39.95,*Default,NTP,0,0,0,,我 可能会有麻烦的\N{\fs38}I, uh, I could get into trouble.
+Dialogue: 0,0:03:40.11,0:03:40.81,*Default,NTP,0,0,0,,我们不会说出去的\N{\fs38}We won't tell.
+Dialogue: 0,0:03:42.86,0:03:45.46,*Default,NTP,0,0,0,,所以 你也是泰坦尼克迷吗\N{\fs38}So... You're a Titanicfanatic?
+Dialogue: 0,0:03:45.64,0:03:48.03,*Default,NTP,0,0,0,,恩 是的 我从刚开张就在这工作了\N{\fs38}Oh, yes. I worked here since it opened,
+Dialogue: 0,0:03:48.17,0:03:50.14,*Default,NTP,0,0,0,,但是我从来都没能参与进来\N{\fs38}but I've never been able participate.
+Dialogue: 0,0:03:50.23,0:03:52.11,*Default,NTP,0,0,0,,乐意效劳 Rose\N{\fs38}Happy to help... Rose.
+Dialogue: 0,0:03:54.23,0:03:55.82,*Default,NTP,0,0,0,,我超爱看多P群射的 不过\N{\fs38}I love watching Bukkake. I mean, like,
+Dialogue: 0,0:03:55.83,0:03:57.85,*Default,NTP,0,0,0,,我不知道自己情不情愿这么做\N{\fs38}I don't know if I personally would ever do it...
+Dialogue: 0,0:03:58.08,0:03:59.56,*Default,NTP,0,0,0,,- Brad 嘿  - 哟\N{\fs38}- Brad! Hey! - Yo.
+Dialogue: 0,0:03:59.97,0:04:00.57,*Default,NTP,0,0,0,,Brad来了\N{\fs38}Brad is here!
+Dialogue: 0,0:04:00.76,0:04:02.04,*Default,NTP,0,0,0,,快 把我头发弄得像喝醉了一样的\N{\fs38}Quik, make my hair look drunk.
+Dialogue: 0,0:04:02.80,0:04:05.51,*Default,NTP,0,0,0,,看哪 Tammy已经喝醉了 酷\N{\fs38}Check it out. Tammy's already drunk. Cool.
+Dialogue: 0,0:04:08.38,0:04:10.60,*Default,NTP,0,0,0,,信号灯亮了 谁需要救援\N{\fs38}The beacon was activated. Who is in danger?
+Dialogue: 0,0:04:10.67,0:04:12.12,*Default,NTP,0,0,0,,外公\N{\fs38}Ugh! Grandpa!
+Dialogue: 0,0:04:12.14,0:04:13.45,*Default,NTP,0,0,0,,鸟人\N{\fs38}Birdperson!
+Dialogue: 0,0:04:13.74,0:04:15.97,*Default,NTP,0,0,0,,很高兴没有紧急情况\N{\fs38}I am pleased there is no emergency.
+Dialogue: 0,0:04:16.08,0:04:18.72,*Default,NTP,0,0,0,,真有紧急情况 是操蛋的情况啦\N{\fs38}Oh, there's an emergency, all right. A f**king emergency!
+Dialogue: 0,0:04:18.72,0:04:20.63,*Default,NTP,0,0,0,,你上次打炮是什么时候啊 老哥\N{\fs38}When's the last time you got laid, 'pers?
+Dialogue: 0,0:04:20.79,0:04:24.15,*Default,NTP,0,0,0,,鸟人的交配季真是 不容易啊\N{\fs38}It has been a... challenging mating season for Birdperson.
+Dialogue: 0,0:04:24.40,0:04:26.43,*Default,NTP,0,0,0,,那今晚你可以鸟嘴湿润啦 客官\N{\fs38}Then it's time to get your beak wet tonight, playah.
+Dialogue: 0,0:04:26.57,0:04:28.60,*Default,NTP,0,0,0,,去找点乐子吧 鸟鸟鸟人\N{\fs38}Go have some fun out there. Birdp-Bird-Birdperson.
+Dialogue: 0,0:04:28.90,0:04:31.06,*Default,NTP,0,0,0,,天呐 你到底请了多少人啊 Rick\N{\fs38}Oh, man, how many people did you invite, Rick?
+Dialogue: 0,0:04:31.18,0:04:33.21,*Default,NTP,0,0,0,,人类吗 6个\N{\fs38}Uh... people? Mm, six.
+Dialogue: 0,0:04:35.27,0:04:37.17,*Default,NTP,0,0,0,,唷 你们好吗 鼻涕怪\N{\fs38}Yo! What up, my glip glops?!
+Dialogue: 0,0:04:37.33,0:04:38.29,*Default,NTP,0,0,0,,我靠\N{\fs38}Oh, man!
+Dialogue: 0,0:04:43.73,0:04:45.20,*Default,NTP,0,0,0,,你们知不知道家里是有垃圾桶的\N{\fs38}Oh! Y-y-you know there's a garbage, right?
+Dialogue: 0,0:04:48.17,0:04:49.80,*Default,NTP,0,0,0,,我靠 搞什么\N{\fs38}Hey, uh, what the hell?
+Dialogue: 0,0:04:49.80,0:04:52.24,*Default,NTP,0,0,0,,噢 这就是为什么不能邀请肉食怪和素食怪\N{\fs38}Ooh. That's why you never invite a Floopy Poop and
+Dialogue: 0,0:04:52.24,0:04:54.44,*Default,NTP,0,0,0,,参加同一个派对\N{\fs38}a Shmoopy doop to the same party.
+Dialogue: 0,0:04:58.01,0:04:59.74,*Default,NTP,0,0,0,,噢 噢 这太恶了\N{\fs38}Oh, oh, g--oh, that's disgusting!
+Dialogue: 0,0:04:59.74,0:05:01.35,*Default,NTP,0,0,0,,你们居然在我父母的床上搞\N{\fs38}You guys are in my parents bed!
+Dialogue: 0,0:05:01.35,0:05:03.58,*Default,NTP,0,0,0,,哦 对不起 我就是有点不舒服\N{\fs38}Oh. Sorry. I'm not feeling too well.
+Dialogue: 0,0:05:03.58,0:05:05.42,*Default,NTP,0,0,0,,想躺一会儿\N{\fs38}I just needed to lie down for a bit.
+Dialogue: 0,0:05:05.42,0:05:07.75,*Default,NTP,0,0,0,,哦 好 不好意思\N{\fs38}Oh. Okay. Sorry.
+Dialogue: 0,0:05:09.59,0:05:11.19,*Default,NTP,0,0,0,,天啊 这是在逗我吗\N{\fs38}Oh, my god! Are you kidding me?!
+Dialogue: 0,0:05:11.19,0:05:15.13,*Default,NTP,0,0,0,,大家都不了解齿轮战争的主要原因是\N{\fs38}The thing people don't realize about the gear wars is
+Dialogue: 0,0:05:15.13,0:05:18.46,*Default,NTP,0,0,0,,他们根部不了解齿轮\N{\fs38}that it was never really about the gears at all.
+Dialogue: 0,0:05:18.46,0:05:20.47,*Default,NTP,0,0,0,,哦 对 绝对的\N{\fs38}Uh-huh. Yeah. No, no to-totally.
+Dialogue: 0,0:05:20.47,0:05:21.23,*Default,NTP,0,0,0,,Rick 你要快点停止\N{\fs38}Rick, you got to stop
+Dialogue: 0,0:05:21.23,0:05:22.00,*Default,NTP,0,0,0,,Morty{\fs38}\NMorty!
+Dialogue: 0,0:05:22.00,0:05:23.27,*Default,NTP,0,0,0,,你见过齿轮头吗\N{\fs38}Have you met Gearhead?
+Dialogue: 0,0:05:23.27,0:05:23.90,*Default,NTP,0,0,0,,嗨 你好\N{\fs38}Hey, how's
+Dialogue: 0,0:05:23.90,0:05:26.70,*Default,NTP,0,0,0,,Morty 他非常想听听关于齿轮产战争的事\N{\fs38}Morty here, he he would love to hear all about the gear wars.
+Dialogue: 0,0:05:26.70,0:05:30.01,*Default,NTP,0,0,0,,你对齿轮战争了解多少\N{\fs38}How familiar are you with the gear wars, exactly?
+Dialogue: 0,0:05:30.01,0:05:32.24,*Default,NTP,0,0,0,,呃 完全没头绪\N{\fs38}Uh... not at all.
+Dialogue: 0,0:05:32.24,0:05:34.01,*Default,NTP,0,0,0,,噢 太好了 我嫉妒你\N{\fs38}Oh, boy. I envy you.
+Dialogue: 0,0:05:34.01,0:05:37.82,*Default,NTP,0,0,0,,好的 这要从754年前说起\N{\fs38}Okay, it was about 754 years ago.
+Dialogue: 0,0:05:44.89,0:05:45.82,*Default,NTP,0,0,0,,噢 嗨 Morty\N{\fs38}Oh, hey Morty!
+Dialogue: 0,0:05:45.82,0:05:47.66,*Default,NTP,0,0,0,,给你介绍我的好朋友螃蟹人\N{\fs38}Have you-- have you met my buddy Scropon?
+Dialogue: 0,0:05:47.66,0:05:48.49,*Default,NTP,0,0,0,,又来了 Rick\N{\fs38}Not again, Rick.
+Dialogue: 0,0:05:48.49,0:05:50.36,*Default,NTP,0,0,0,,上个家伙陈词滥调的给我讲了20分钟\N{\fs38}That last guy droned on for 20 minutes, you know?
+Dialogue: 0,0:05:50.36,0:05:52.83,*Default,NTP,0,0,0,,于此同时整座房子快被摧毁了\N{\fs38}And meanwhile, the whole house is being destroyed!
+Dialogue: 0,0:05:52.83,0:05:55.27,*Default,NTP,0,0,0,,哇 Morty 这家伙的整个星球都被摧毁了\N{\fs38}Whoa, Morty, this guy's entire planet was destroyed.
+Dialogue: 0,0:05:55.27,0:05:56.40,*Default,NTP,0,0,0,,放尊重点\N{\fs38}Have a little perspective.
+Dialogue: 0,0:05:56.40,0:05:58.74,*Default,NTP,0,0,0,,嗨 Rick 真是个屎瓜派对啊 老兄\N{\fs38}Hey, Rick, Squanchy  party, bro!
+Dialogue: 0,0:05:58.74,0:05:59.97,*Default,NTP,0,0,0,,屎瓜奇\N{\fs38}Aw! Squanchy!
+Dialogue: 0,0:05:59.97,0:06:02.34,*Default,NTP,0,0,0,,这里有没有好地方让我屎瓜一下\N{\fs38}Is there a good place for me to squanchar round here?
+Dialogue: 0,0:06:02.34,0:06:04.51,*Default,NTP,0,0,0,,屎瓜奇 你可以随处屎瓜\N{\fs38}Squanchy, you can squanch wherever you want, man.
+Dialogue: 0,0:06:04.51,0:06:06.54,*Default,NTP,0,0,0,,米卡苏卡萨 老兄\N{\fs38}Mi casa es su casa, dawg!
+Dialogue: 0,0:06:06.54,0:06:07.28,*Default,NTP,0,0,0,,太好了\N{\fs38}All right!
+Dialogue: 0,0:06:07.28,0:06:09.31,*Default,NTP,0,0,0,,我喜欢你的屎瓜\N{\fs38}I like your squanch!
+Dialogue: 0,0:06:09.31,0:06:11.48,*Default,NTP,0,0,0,,Rick 屎瓜究竟是什么意思\N{\fs38}Uh, Rick what exactly is "squanching"?
+Dialogue: 0,0:06:11.48,0:06:15.15,*Default,NTP,0,0,0,,Morty 听着 在过去的一年中我们经理过这么多超酷的历险\N{\fs38}Morty, listen we've had a lot of really cool adventures over the last year,
+Dialogue: 0,0:06:15.15,0:06:16.69,*Default,NTP,0,0,0,,现在是时候放松一下了\N{\fs38}but it's time to relax.
+Dialogue: 0,0:06:16.69,0:06:19.32,*Default,NTP,0,0,0,,如果我现在放松的话 估计以后我们就没法历险了\N{\fs38}Yeah, if I relax now, there might not even be any more adventures!
+Dialogue: 0,0:06:19.32,0:06:21.19,*Default,NTP,0,0,0,,天哪 Morty 你愁死我了\N{\fs38}Jesus, Morty, you're bumming me out.
+Dialogue: 0,0:06:21.19,0:06:23.76,*Default,NTP,0,0,0,,在这几个小时内 咱们能不能假装什么事都没发生\N{\fs38}Can't we just pretend like every thing's fine for a few hours,
+Dialogue: 0,0:06:23.76,0:06:26.40,*Default,NTP,0,0,0,,然后好好享受一下 所有事以后再说\N{\fs38}enjoy ourselves, and then worry about all this later?
+Dialogue: 0,0:06:26.40,0:06:27.90,*Default,NTP,0,0,0,,你说的容易啊 Rick\N{\fs38}Yeah, that's easy for you to say, Rick.
+Dialogue: 0,0:06:27.90,0:06:30.03,*Default,NTP,0,0,0,,因为你什么都不在乎\N{\fs38}You know, you like not caring about stuff.
+Dialogue: 0,0:06:30.07,0:06:31.97,*Default,NTP,0,0,0,,可我怎么办\N{\fs38}You know, wh-wh-what's in this for me?
+Dialogue: 0,0:06:42.08,0:06:44.02,*Default,NTP,0,0,0,,别捣乱 慢动作孟巴斯\N{\fs38}Knock it off, Slow Mobius!
+Dialogue: 0,0:06:44.02,0:06:49.39,*Default,NTP,0,0,0,,哈哈 对不起 老兄 我就想秀一下我的超能力\N{\fs38}Ha ha! sorry, dude! I'm just trying to show off my powers, bro!
+Dialogue: 0,0:06:50.79,0:06:52.06,*Default,NTP,0,0,0,,不敢相信 她真的来了\N{\fs38}I can't believe she's here.
+Dialogue: 0,0:06:52.06,0:06:53.49,*Default,NTP,0,0,0,,那你还傻站着干嘛Morty\N{\fs38}Well, what are you doing standing here, Morty?
+Dialogue: 0,0:06:53.49,0:06:54.59,*Default,NTP,0,0,0,,去和他搭讪啊\N{\fs38}Go. Talk to her.
+Dialogue: 0,0:06:55.19,0:06:58.10,*Default,NTP,0,0,0,,今夜 你的目标就是壮大自己的男子气概\N{\fs38}Tonight, the only adventure you're on is your cusping manhood.
+Dialogue: 0,0:07:00.93,0:07:01.87,*Default,NTP,0,0,0,,噢 Rose\N{\fs38}Oh, Rose. Whee!
+Dialogue: 0,0:07:06.57,0:07:08.14,*Default,NTP,0,0,0,,这个 不会是我想的那个吧\N{\fs38}Is that what I think it is?
+Dialogue: 0,0:07:08.14,0:07:11.58,*Default,NTP,0,0,0,,嗯 每对情侣都有机会重演Jack在海上淹死的桥段\N{\fs38}Yes, every couple gets to re-create Jack's drowning at the end of the movie.
+Dialogue: 0,0:07:11.58,0:07:13.01,*Default,NTP,0,0,0,,太浪漫了\N{\fs38}It's so romantic.
+Dialogue: 0,0:07:13.01,0:07:14.75,*Default,NTP,0,0,0,,我等不及和Beth一起经历\N{\fs38}I can't wait to do that with beth.
+Dialogue: 0,0:07:14.75,0:07:16.05,*Default,NTP,0,0,0,,我不明白 Jerry\N{\fs38}I don't know, Jerry.
+Dialogue: 0,0:07:16.05,0:07:19.18,*Default,NTP,0,0,0,,恕我直接 你老婆看起似不怎么感兴趣\N{\fs38}With all due respect, it seems like your wife may not be that interested.
+Dialogue: 0,0:07:19.18,0:07:20.35,*Default,NTP,0,0,0,,快看\N{\fs38}Look!
+Dialogue: 0,0:07:20.35,0:07:21.65,*Default,NTP,0,0,0,,前方有冰山\N{\fs38}Iceberg, right ahead!
+Dialogue: 0,0:07:21.65,0:07:22.92,*Default,NTP,0,0,0,,自助餐现已关闭\N{\fs38}The buffet is now closed.
+Dialogue: 0,0:07:22.92,0:07:25.39,*Default,NTP,0,0,0,,前方有冰山 自助餐现已关闭\N{\fs38}Iceberg, right ahead! The buffet is now closed.
+Dialogue: 0,0:07:25.96,0:07:27.16,*Default,NTP,0,0,0,,长官\N{\fs38}Uh, sir?
+Dialogue: 0,0:07:27.16,0:07:29.13,*Default,NTP,0,0,0,,没有出现故障\N{\fs38}There's not a problem.
+Dialogue: 0,0:07:29.13,0:07:31.36,*Default,NTP,0,0,0,,什么叫没有出现故障\N{\fs38}What do you mean there's not a problem?
+Dialogue: 0,0:07:31.36,0:07:34.27,*Default,NTP,0,0,0,,制导系统没有把我们带入碰撞航线\N{\fs38}The guidance system isn't putting us on a direct collision course.
+Dialogue: 0,0:07:34.27,0:07:38.24,*Default,NTP,0,0,0,,船就要错过冰山了\N{\fs38}This ship is about to completely miss the giant iceberg!
+Dialogue: 0,0:07:38.24,0:07:39.24,*Default,NTP,0,0,0,,快想办法\N{\fs38}Well, do something!
+Dialogue: 0,0:07:39.24,0:07:40.27,*Default,NTP,0,0,0,,转舵 撞上去\N{\fs38}Steer into it!
+Dialogue: 0,0:07:40.27,0:07:41.27,*Default,NTP,0,0,0,,我尽力\N{\fs38}I'm trying!
+Dialogue: 0,0:07:44.64,0:07:45.38,*Default,NTP,0,0,0,,太迟了\N{\fs38}It's too late.
+Dialogue: 0,0:07:45.38,0:07:47.15,*Default,NTP,0,0,0,,女士们 先生们\N{\fs38}Ladies and gentlemen...
+Dialogue: 0,0:07:47.15,0:07:48.98,*Default,NTP,0,0,0,,不要振作起来\N{\fs38}Don't brace yourselves.
+Dialogue: 0,0:07:50.01,0:07:51.72,*Default,NTP,0,0,0,,不 不 搞什么啊\N{\fs38}No! No! What happened?!
+Dialogue: 0,0:07:51.72,0:07:53.58,*Default,NTP,0,0,0,,他们的制导系统坏了\N{\fs38}Their rail system must have failed.
+Dialogue: 0,0:07:53.58,0:07:55.85,*Default,NTP,0,0,0,,我的天啊 我们沉不了了\N{\fs38}Oh, my god! we're not gonna sink!
+Dialogue: 0,0:07:57.22,0:07:58.62,*Default,NTP,0,0,0,,今晚一定要搞个女的\N{\fs38}Totally gonna get laid tonight.
+Dialogue: 0,0:07:59.79,0:08:01.23,*Default,NTP,0,0,0,,我喜欢你的羽毛\N{\fs38}I like your feathers.
+Dialogue: 0,0:08:01.23,0:08:04.10,*Default,NTP,0,0,0,,它们就是为了吸引异性\N{\fs38}They are designed to attract the attention of the female.
+Dialogue: 0,0:08:04.10,0:08:04.90,*Default,NTP,0,0,0,,看来起作用了\N{\fs38}It's working.
+Dialogue: 0,0:08:04.90,0:08:06.30,*Default,NTP,0,0,0,,Tammy 我应该告诉你\N{\fs38}Tammy, I should let you know
+Dialogue: 0,0:08:06.30,0:08:10.57,*Default,NTP,0,0,0,,我刚与我的灵魂配偶结束了一段密切的结合\N{\fs38}I just got out of a highly intense soul bond with my previous spirit mate.
+Dialogue: 0,0:08:10.57,0:08:13.17,*Default,NTP,0,0,0,,我不需要灵魂结合\N{\fs38}I'm not looking to get into a soul bond.
+Dialogue: 0,0:08:13.17,0:08:14.81,*Default,NTP,0,0,0,,我需要的是\N{\fs38}I'm just looking for...
+Dialogue: 0,0:08:15.81,0:08:18.28,*Default,NTP,0,0,0,,相信这个我能做到\N{\fs38}I believe birdperson can arrange that.
+Dialogue: 0,0:08:18.28,0:08:20.88,*Default,NTP,0,0,0,,Summer 好久没见你上长笛练习课了\N{\fs38}Hey, Summer, haven't seen you at flute practice in a while.
+Dialogue: 0,0:08:20.88,0:08:23.25,*Default,NTP,0,0,0,,Summer 别告诉我你认识她\N{\fs38}Summer, don't tell me you're friends with her.
+Dialogue: 0,0:08:23.25,0:08:24.35,*Default,NTP,0,0,0,,你开什么玩笑\N{\fs38}Are you kidding me?
+Dialogue: 0,0:08:24.35,0:08:26.15,*Default,NTP,0,0,0,,我都不知道她来干嘛\N{\fs38}I don't even know what she's doing here.
+Dialogue: 0,0:08:26.15,0:08:28.35,*Default,NTP,0,0,0,,这不行 Summer 这是个派对\N{\fs38}Whoa. Not cool, Summer. This is a party.
+Dialogue: 0,0:08:28.35,0:08:29.59,*Default,NTP,0,0,0,,所有人都应该被受欢迎\N{\fs38}Everybody should be welcome.
+Dialogue: 0,0:08:32.19,0:08:34.83,*Default,NTP,0,0,0,,麻烦了 是谁邀请的阿道夫·林肯勒?\N{\fs38}Oh, great. Who invited Abradolph Lincoler?
+Dialogue: 0,0:08:34.83,0:08:36.79,*Default,NTP,0,0,0,,不是所有人都应该被受欢迎的吗\N{\fs38}I thought everyone was welcome.
+Dialogue: 0,0:08:36.79,0:08:38.36,*Default,NTP,0,0,0,,这不一样\N{\fs38}It's not the same Summer.
+Dialogue: 0,0:08:38.36,0:08:40.13,*Default,NTP,0,0,0,,林肯勒是个疯子\N{\fs38}Lincoler is a crazed maniac
+Dialogue: 0,0:08:40.13,0:08:43.40,*Default,NTP,0,0,0,,他是由阿道夫希特勒和亚布拉罕林肯的基因混合创造出来的\N{\fs38}just a misguided effort of mine to create a morally neutral super leader
+Dialogue: 0,0:08:40.13,0:08:47.41,*Default,NTP,0,0,0,,{\an8\fs38\pos(638.857,42.286)}奥地利裔德国政治人物，纳粹党党魁，1934年至1945年为德国元首.
+Dialogue: 0,0:08:40.13,0:08:47.41,*Default,NTP,0,0,0,,{\an8\fs38\pos(638.857,0)}Adolf Hitler 阿道夫·希特勒
+Dialogue: 0,0:08:40.13,0:08:47.41,*Default,NTP,0,0,0,,{\an8\fs38\pos(643.429,81.143)}Abraham Lincoln 亚伯拉罕·林肯 美国政治家、思想家。第16任美国总统，颁布了《宅地法》、《解放黑人奴隶宣言》
+Dialogue: 0,0:08:43.40,0:08:45.94,*Default,NTP,0,0,0,,道德中立的超级领袖\N{\fs38}by combing the DNA of Adolf Hitler and Abraham Lincoln.
+Dialogue: 0,0:08:45.94,0:08:49.87,*Default,NTP,0,0,0,,但结果却是一个差劲 神经的失败者\N{\fs38}Turns out it just adds up to a lame, weird loser.
+Dialogue: 0,0:08:49.87,0:08:55.41,*Default,NTP,0,0,0,,Rick 你把我带到这世上 让我看到了这个苦难 罪恶的\N{\fs38}Rick, you brought me into this world, a suffering abomination tortured
+Dialogue: 0,0:08:55.41,0:08:56.95,*Default,NTP,0,0,0,,二次元世界\N{\fs38}by the duality of its being.
+Dialogue: 0,0:08:56.95,0:09:01.92,*Default,NTP,0,0,0,,或许我应该在你生命流逝中看到世界的和平\N{\fs38}But I shall finally know peace when I watch the life drain from your wretched body!
+Dialogue: 0,0:09:01.92,0:09:03.15,*Default,NTP,0,0,0,,靠 你干什么 老兄\N{\fs38}Whoa. What's up, man?
+Dialogue: 0,0:09:03.15,0:09:04.69,*Default,NTP,0,0,0,,和你没关系 娃\N{\fs38}I have no quarrel with you, boy.
+Dialogue: 0,0:09:04.69,0:09:06.89,*Default,NTP,0,0,0,,"娃" 你什么意思\N{\fs38}"Boy"? What's that supposed to mean?
+Dialogue: 0,0:09:06.89,0:09:10.23,*Default,NTP,0,0,0,,只是 听着 我不是有意的  只是\N{\fs38}It's just... look, I-I don't know how you thought I meant it, but...
+Dialogue: 0,0:09:10.53,0:09:11.80,*Default,NTP,0,0,0,,别看我 老哥\N{\fs38}Don't look at me, dude.
+Dialogue: 0,0:09:11.80,0:09:15.03,*Default,NTP,0,0,0,,你瞧 我有一半是亚伯拉罕·林肯 所以\N{\fs38}Look, I'm half-Abraham Lincoln, so
+Dialogue: 0,0:09:15.03,0:09:17.37,*Default,NTP,0,0,0,,所以我应该跪在你面前 拍你马屁吗\N{\fs38}So I should get on my knees and kiss your ass?!
+Dialogue: 0,0:09:17.37,0:09:20.30,*Default,NTP,0,0,0,,这 不是 但是 那个...\N{\fs38}Well, no, but... you know?
+Dialogue: 0,0:09:20.30,0:09:21.57,*Default,NTP,0,0,0,,那个什么\N{\fs38}What do I know?
+Dialogue: 0,0:09:21.57,0:09:23.84,*Default,NTP,0,0,0,,第三帝国将会统治一千年\N{\fs38}That the third Reich will reign for a thousand years?
+Dialogue: 0,0:09:21.57,0:09:24.98,*Default,NTP,0,0,0,,{\an8\fs38} 纳粹德国有两个官方国名
+Dialogue: 0,0:09:21.57,0:09:24.98,*Default,NTP,0,0,0,,{\an8\fs38}分别为1933年至1939年使用的第三帝国和1939年至1945年的大德意志帝国.
+Dialogue: 0,0:09:23.84,0:09:24.94,*Default,NTP,0,0,0,,别烦他 Brad\N{\fs38}Leave him alone, Brad.
+Dialogue: 0,0:09:24.94,0:09:26.14,*Default,NTP,0,0,0,,闪一边去 Jessica\N{\fs38}Stay out of this, Jessica!
+Dialogue: 0,0:09:26.14,0:09:28.08,*Default,NTP,0,0,0,,打他 Brad 打他 打他\N{\fs38}Kick his ass, Brad! Kick his ass!
+Dialogue: 0,0:09:28.08,0:09:31.02,*Default,NTP,0,0,0,,打他 打他\N{\fs38}Kick his ass! Kick his ass!
+Dialogue: 0,0:09:31.02,0:09:31.98,*Default,NTP,0,0,0,,Brad{\fs38}\NBrad!
+Dialogue: 0,0:09:31.98,0:09:33.98,*Default,NTP,0,0,0,,蠢货\N{\fs38}Stupid!
+Dialogue: 0,0:09:34.89,0:09:35.55,*Default,NTP,0,0,0,,Rick{\fs38}\NRick!
+Dialogue: 0,0:09:35.55,0:09:37.39,*Default,NTP,0,0,0,,我这是在帮你Morty\N{\fs38}I just did you a favor, Morty.
+Dialogue: 0,0:09:40.00,0:09:41.05,*Default,NTP,0,0,0,,不好意思让你看到了刚刚的局面\N{\fs38}Sorry about all that.
+Dialogue: 0,0:09:41.05,0:09:42.87,*Default,NTP,0,0,0,,Rick的狐朋狗友可多了\N{\fs38}Rick has some really strange friends.
+Dialogue: 0,0:09:42.87,0:09:45.09,*Default,NTP,0,0,0,,Brad简直就是个混球\N{\fs38}Brad is such a jerk.
+Dialogue: 0,0:09:45.09,0:09:47.30,*Default,NTP,0,0,0,,整天想着该如何逞男人\N{\fs38}He's always tyring to prove what a man he is.
+Dialogue: 0,0:09:47.30,0:09:49.94,*Default,NTP,0,0,0,,我只想找个温柔体贴的男朋友罢了\N{\fs38}I just want to find somebody nice and sweet.
+Dialogue: 0,0:09:50.60,0:09:53.16,*Default,NTP,0,0,0,,Jessica 我带你去看些东西吧\N{\fs38}Jessica, can I show you something?
+Dialogue: 0,0:09:54.93,0:09:57.46,*Default,NTP,0,0,0,,哇 瞧瞧这里的东西\N{\fs38}Wow, look at all this stuff.
+Dialogue: 0,0:09:57.46,0:10:00.39,*Default,NTP,0,0,0,,是啊 这里可是我和外公Rick的科学工作室\N{\fs38}Yeah. This is me and my Granda Rick's sci-fi workshop.
+Dialogue: 0,0:10:00.39,0:10:01.45,*Default,NTP,0,0,0,,看看这个\N{\fs38}Check this out.
+Dialogue: 0,0:10:03.84,0:10:04.88,*Default,NTP,0,0,0,,好漂亮哦\N{\fs38}It's beautiful.
+Dialogue: 0,0:10:06.02,0:10:06.75,*Default,NTP,0,0,0,,其实嘛 Jessica\N{\fs38}You know, Jessica.
+Dialogue: 0,0:10:06.75,0:10:09.16,*Default,NTP,0,0,0,,我有些想和你说却一直没说出口的话\N{\fs38}There's something I've always wanted to tell you.
+Dialogue: 0,0:10:09.16,0:10:10.58,*Default,NTP,0,0,0,,那是什么啊 Morty\N{\fs38}What's that, Morty?
+Dialogue: 0,0:10:10.58,0:10:12.89,*Default,NTP,0,0,0,,- 我觉得你是世界上  - 不 那个\N{\fs38}- I think that you're the most... - No, that...
+Dialogue: 0,0:10:12.89,0:10:15.52,*Default,NTP,0,0,0,,衣柜里好像传出了奇怪的声音\N{\fs38}Those weird sounds coming from the closet over there.
+Dialogue: 0,0:10:21.60,0:10:24.38,*Default,NTP,0,0,0,,- 我的天哪  - 喂 我在这里屎瓜呢\N{\fs38}- Oh My God. - Hey, I'm squanching in here.
+Dialogue: 0,0:10:24.39,0:10:26.43,*Default,NTP,0,0,0,,天哪 真是恶心透了\N{\fs38}Oh my god, that is so disgusting.
+Dialogue: 0,0:10:26.43,0:10:28.47,*Default,NTP,0,0,0,,好痛 哦 啊 完了\N{\fs38}Ow... oh, oh, crap.
+Dialogue: 0,0:10:47.28,0:10:48.75,*Default,NTP,0,0,0,,天上有硕大的行星\N{\fs38}Big star in the sky.
+Dialogue: 0,0:10:49.60,0:10:51.54,*Default,NTP,0,0,0,,供氧不成问题的大气层\N{\fs38}Oxygen-rich atmosphere.
+Dialogue: 0,0:10:52.20,0:10:53.71,*Default,NTP,0,0,0,,巨型的睾状怪物\N{\fs38}Giant testicle monsters.
+Dialogue: 0,0:10:53.72,0:10:56.11,*Default,NTP,0,0,0,,这里没问题 我们继续狂欢吧\N{\fs38}We'll be fine. Let's party.
+Dialogue: 0,0:11:08.91,0:11:09.86,*Default,NTP,0,0,0,,我对天发誓 Morty\N{\fs38}I swear to god, Morty.
+Dialogue: 0,0:11:09.86,0:11:12.69,*Default,NTP,0,0,0,,要不是里面那群人还在狂欢\N{\fs38}If it weren't for the fact that everyone's still having a blast in there,
+Dialogue: 0,0:11:12.69,0:11:14.55,*Default,NTP,0,0,0,,我现在肯定在对你发火\N{\fs38}I would be so furious with you right now.
+Dialogue: 0,0:11:14.55,0:11:16.09,*Default,NTP,0,0,0,,听到了没 Morty\N{\fs38}Oh, man. You hear that, Morty.
+Dialogue: 0,0:11:16.09,0:11:18.24,*Default,NTP,0,0,0,,你可真把Summer惹毛了\N{\fs38}You really lucked out with Summer on that one.
+Dialogue: 0,0:11:18.24,0:11:20.30,*Default,NTP,0,0,0,,你们是怎么保持淡定的\N{\fs38}How are you guys not freaking out right now?
+Dialogue: 0,0:11:20.30,0:11:22.62,*Default,NTP,0,0,0,,整栋屋子现在可都在异次元\N{\fs38}The whole house is sitting in another dimension.
+Dialogue: 0,0:11:22.62,0:11:25.06,*Default,NTP,0,0,0,,我们该怎么办啊\N{\fs38}I mean, what the hell are we supposed to do?
+Dialogue: 0,0:11:25.06,0:11:26.89,*Default,NTP,0,0,0,,爸妈回来 会秒杀我们的\N{\fs38}Mom and dad are gonna kill us.
+Dialogue: 0,0:11:26.89,0:11:29.96,*Default,NTP,0,0,0,,- 我要疯掉了啊 Rick  - 冷静 Morty 冷静\N{\fs38}- I'm losing it here, Rick. - Relax, Morty, relax.
+Dialogue: 0,0:11:29.96,0:11:30.94,*Default,NTP,0,0,0,,没事的\N{\fs38}It's gonna be fine.
+Dialogue: 0,0:11:30.94,0:11:34.76,*Default,NTP,0,0,0,,我们只要出去找些凯拉辛结晶回来就行了\N{\fs38}All we have to do is go out and find us some Kalaxian Crystals.
+Dialogue: 0,0:11:35.60,0:11:37.46,*Default,NTP,0,0,0,,我操\N{\fs38}Shit, mother f**kers.
+Dialogue: 0,0:11:37.46,0:11:40.83,*Default,NTP,0,0,0,,Morty 这里以南几英里的地方就有凯拉辛结晶了\N{\fs38}Kalaxian Crystals, Morty, just a few miles south of here.
+Dialogue: 0,0:11:40.83,0:11:41.94,*Default,NTP,0,0,0,,行 我们出发吧\N{\fs38}Ok, let's go then.
+Dialogue: 0,0:11:41.94,0:11:44.28,*Default,NTP,0,0,0,,我们必须现在去找结晶 Rick\N{\fs38}We got to go get those crystals right now, Rick.
+Dialogue: 0,0:11:44.28,0:11:46.65,*Default,NTP,0,0,0,,等 等 等 Morty 我不能和你去\N{\fs38}Whoa, whoa, whoa. Morty, I can't go with you.
+Dialogue: 0,0:11:46.65,0:11:49.45,*Default,NTP,0,0,0,,我得呆在这里 保证这里一切安好\N{\fs38}I got to hang back and make sure everything stays cool here, you know.
+Dialogue: 0,0:11:49.45,0:11:52.70,*Default,NTP,0,0,0,,我是说 万一有人不下心摔碎了什么的\N{\fs38}I mean, who knows what... what if somebody breaks something?
+Dialogue: 0,0:11:52.70,0:11:54.52,*Default,NTP,0,0,0,,我也是 得留下来\N{\fs38}Yeah, me too. I should stay.
+Dialogue: 0,0:11:54.53,0:11:55.77,*Default,NTP,0,0,0,,你们谁有阿司匹林吗\N{\fs38}You guys have any Aspirin?
+Dialogue: 0,0:11:55.78,0:11:57.61,*Default,NTP,0,0,0,,Morty 太好了\N{\fs38}Oh, hey, Morty. This is perfect.
+Dialogue: 0,0:11:57.61,0:11:59.15,*Default,NTP,0,0,0,,你可以带着林肯勒一起去\N{\fs38}You can take Lincoler with you.
+Dialogue: 0,0:11:59.15,0:12:01.26,*Default,NTP,0,0,0,,拜托 我现在哪里也不去 没看见我受伤了吗\N{\fs38}Hey man, I'm not going anywhere. I'm injured.
+Dialogue: 0,0:12:01.26,0:12:02.28,*Default,NTP,0,0,0,,闭嘴 林肯勒\N{\fs38}Shut up, Lincoler.
+Dialogue: 0,0:12:02.28,0:12:05.16,*Default,NTP,0,0,0,,这是作为损毁客厅的补偿\N{\fs38}It's the least you can do for wrecking the living room.
+Dialogue: 0,0:12:05.16,0:12:07.89,*Default,NTP,0,0,0,,对哦 Nancy 你也应该去的\N{\fs38}Yeah, and Nancy, you should go too.
+Dialogue: 0,0:12:07.89,0:12:09.74,*Default,NTP,0,0,0,,什么 为什么是我\N{\fs38}What? Why... why me?
+Dialogue: 0,0:12:09.74,0:12:14.32,*Default,NTP,0,0,0,,因为 因为你 很会吹笛子嘛\N{\fs38}Because... you... you're so good at playing the flute.
+Dialogue: 0,0:12:17.73,0:12:19.47,*Default,NTP,0,0,0,,不好意思给大家带来了不便\N{\fs38}Sorry for the inconvenience folks.
+Dialogue: 0,0:12:17.13,0:12:21.00,5,NTP,0,0,0,,{\fs24\frx358\fry8\frz5.54\pos(488,384)}泰坦尼克{\fs22}
+Dialogue: 0,0:12:19.47,0:12:21.37,*Default,NTP,0,0,0,,我们应该很快就能进行沉船了\N{\fs38}We should resume sinking shortly.
+Dialogue: 0,0:12:21.37,0:12:23.36,*Default,NTP,0,0,0,,与此同时 请待在船上\N{\fs38}In the mean time, please stay on the ship
+Dialogue: 0,0:12:21.20,0:12:23.70,6,NTP,0,0,0,,{\fs36\frx358\fry14\pos(355.429,172.572)\frz356.8}客户服务
+Dialogue: 0,0:12:23.36,0:12:26.26,*Default,NTP,0,0,0,,并享受这免费赠送的卡梅隆洋葱圈\N{\fs38}and enjoy a complimentary plate of James Cameronion Rings.
+Dialogue: 0,0:12:26.26,0:12:28.90,*Default,NTP,0,0,0,,真是太好了 船不沉就算了\N{\fs38}Great. Not only the ship not sinking,
+Dialogue: 0,0:12:28.90,0:12:30.54,*Default,NTP,0,0,0,,还被剧透了\N{\fs38}but now the fourth wall has been broken.
+Dialogue: 0,0:12:31.55,0:12:33.36,*Default,NTP,0,0,0,,我要回房 去看完那本小说了\N{\fs38}I am gonna go back to the room and finish my book.
+Dialogue: 0,0:12:33.36,0:12:35.22,*Default,NTP,0,0,0,,你应该去找那个叫Lucy的女人\N{\fs38}You should find that Lucy woman.
+Dialogue: 0,0:12:35.22,0:12:36.21,*Default,NTP,0,0,0,,但 但是\N{\fs38}But...but...
+Dialogue: 0,0:12:37.25,0:12:39.56,*Default,NTP,0,0,0,,那个 Jerry 我带你去看些东西吧\N{\fs38}You see, Jerry. May I show you something?
+Dialogue: 0,0:12:40.36,0:12:41.54,*Default,NTP,0,0,0,,如果一切按照计划行驶\N{\fs38}Had everything gone as planned,
+Dialogue: 0,0:12:41.54,0:12:44.28,*Default,NTP,0,0,0,,这整片区域都会被淹没\N{\fs38}this entire area would be underwater.
+Dialogue: 0,0:12:44.28,0:12:45.83,*Default,NTP,0,0,0,,我挺想看到那场景的\N{\fs38}I would have liked to see it.
+Dialogue: 0,0:12:45.84,0:12:48.99,*Default,NTP,0,0,0,,真是一场"泰坦尼克"悲剧啊 懂吗\N{\fs38}This trip has been a "Titanic" faliure. Get it?
+Dialogue: 0,0:12:49.61,0:12:51.39,*Default,NTP,0,0,0,,- 哦哦哦  - 抱我 Jerry\N{\fs38}- Ooh. - Draw me, Jerry.
+Dialogue: 0,0:12:51.39,0:12:53.90,*Default,NTP,0,0,0,,天哪 那个 Lucy 啊\N{\fs38}Oh... boy... Lucy, wow...
+Dialogue: 0,0:12:53.90,0:12:57.07,*Default,NTP,0,0,0,,这 和我想象的不太一样\N{\fs38}Uh... This isn't what I had in mind.
+Dialogue: 0,0:12:57.07,0:12:58.45,*Default,NTP,0,0,0,,但是时刻总算到来了\N{\fs38}But it's the perfect moment.
+Dialogue: 0,0:12:58.46,0:13:01.10,*Default,NTP,0,0,0,,我们梦寐了16年的场景啊\N{\fs38}We've been dreaming about this for 16 years.
+Dialogue: 0,0:13:01.10,0:13:04.36,*Default,NTP,0,0,0,,那个 不是像现在这样的 也不是和你\N{\fs38}Um... Not like this... Not...not with you.
+Dialogue: 0,0:13:05.02,0:13:06.55,*Default,NTP,0,0,0,,- 你会抱我的  - 啊啊啊\N{\fs38}- You are gonna draw me. - Aah.
+Dialogue: 0,0:13:06.55,0:13:09.83,*Default,NTP,0,0,0,,然后你要在那辆车里干我\N{\fs38}Then you're going to f**k me in that car over there.
+Dialogue: 0,0:13:11.47,0:13:14.59,*Default,NTP,0,0,0,,说来也奇怪 我觉得所有男人都生来是平等的\N{\fs38}It's weird, cause I definitely think that all men are created equal.
+Dialogue: 0,0:13:14.59,0:13:16.46,*Default,NTP,0,0,0,,- 但是 与此同时又  - 行了\N{\fs38}- But, at the same time... - Okay...
+Dialogue: 0,0:13:16.46,0:13:19.03,*Default,NTP,0,0,0,,结晶应该就在这里附近了\N{\fs38}Um... the crystals should be really close.
+Dialogue: 0,0:13:19.03,0:13:19.78,*Default,NTP,0,0,0,,在那里\N{\fs38}There they are.
+Dialogue: 0,0:13:21.07,0:13:23.28,*Default,NTP,0,0,0,,等等 这里不太对劲\N{\fs38}Wait. Something's not right.
+Dialogue: 0,0:13:27.28,0:13:28.04,*Default,NTP,0,0,0,,快拿结晶\N{\fs38}Get the crystals.
+Dialogue: 0,0:13:28.04,0:13:29.15,*Default,NTP,0,0,0,,野兽交给我处理就好\N{\fs38}I'll handle the beast.
+Dialogue: 0,0:13:29.15,0:13:32.71,*Default,NTP,0,0,0,,准备从你那可悲的基因里解脱吧\N{\fs38}Prepare to be emancipated from your own inferior genes.
+Dialogue: 0,0:13:35.06,0:13:36.71,*Default,NTP,0,0,0,,Summer会重新喜欢上我的\N{\fs38}Summer's gonna like me again.
+Dialogue: 0,0:13:43.73,0:13:45.26,*Default,NTP,0,0,0,,林肯勒 快 我们快离开这里吧\N{\fs38}Lincoler, come on. Let's get out of here.
+Dialogue: 0,0:13:45.26,0:13:48.02,*Default,NTP,0,0,0,,我的旅程结束了 Morty\N{\fs38}My journey is over, Morty.
+Dialogue: 0,0:13:48.91,0:13:51.21,*Default,NTP,0,0,0,,我有件重要的事要告诉你\N{\fs38}I have something important to tell you.
+Dialogue: 0,0:13:53.37,0:13:56.68,*Default,NTP,0,0,0,,*我的齿轮 旋转了千年*\N{\fs38}*And the gears, they tuned for a thousand years*
+Dialogue: 0,0:13:56.68,0:14:01.17,*Default,NTP,0,0,0,,*直到末日才终结*\N{\fs38}*Until the dark day that they stopped*
+Dialogue: 0,0:14:01.17,0:14:03.75,*Default,NTP,0,0,0,,Rick 我拿到了 我拿到结晶了\N{\fs38}Rick, I got them. I got the crystals.
+Dialogue: 0,0:14:03.75,0:14:05.46,*Default,NTP,0,0,0,,太好了 Morty\N{\fs38}Alright, you did it, Morty.
+Dialogue: 0,0:14:05.46,0:14:06.18,*Default,NTP,0,0,0,,Rick 等等\N{\fs38}Rick, wait.
+Dialogue: 0,0:14:06.18,0:14:07.49,*Default,NTP,0,0,0,,你得知道件事情\N{\fs38}There's something you need to know.
+Dialogue: 0,0:14:07.49,0:14:09.34,*Default,NTP,0,0,0,,不是林肯勒 我们是绝对拿不到结晶的\N{\fs38}I couldn't have done it without Lincoler.
+Dialogue: 0,0:14:09.34,0:14:11.02,*Default,NTP,0,0,0,,他说他很抱歉\N{\fs38}He said that he was really sorry
+Dialogue: 0,0:14:11.02,0:14:12.21,*Default,NTP,0,0,0,,然后 他一直像爱爸爸那样爱着你\N{\fs38}and that he loves you like a father.
+Dialogue: 0,0:14:12.21,0:14:13.97,*Default,NTP,0,0,0,,他只是想被你接受\N{\fs38}He only wanted you to accept him
+Dialogue: 0,0:14:13.97,0:14:16.45,*Default,NTP,0,0,0,,他希望自己所做的最后一点一滴能挽回他在你心中的印象\N{\fs38}and he hopes that his final act would redeem him in your eyes.
+Dialogue: 0,0:14:16.45,0:14:19.12,*Default,NTP,0,0,0,,他牺牲了自己来拯救大家 Rick\N{\fs38}He sacrificed himself to save all of us, Rick.
+Dialogue: 0,0:14:19.12,0:14:20.51,*Default,NTP,0,0,0,,他死了\N{\fs38}He died.
+Dialogue: 0,0:14:20.51,0:14:22.39,*Default,NTP,0,0,0,,至少他没有白白牺牲\N{\fs38}Well, at least he didn't die in vain.
+Dialogue: 0,0:14:22.39,0:14:23.74,*Default,NTP,0,0,0,,他拿到了结晶\N{\fs38}He got these crystals.
+Dialogue: 0,0:14:26.84,0:14:28.70,*Default,NTP,0,0,0,,而这些宝贝们来拯救这无聊至极的派对了\N{\fs38}And these babies just saved this lame-ass party.
+Dialogue: 0,0:14:28.71,0:14:30.04,*Default,NTP,0,0,0,,Wubba lubba dub dub{\fs38}\NWubba lubba dub dub.
+Dialogue: 0,0:14:30.04,0:14:32.22,*Default,NTP,0,0,0,,放点什么啦 快点 放点音乐\N{\fs38}Play something. Somebody, play something.
+Dialogue: 0,0:14:32.23,0:14:34.08,*Default,NTP,0,0,0,,等等 你说什么\N{\fs38}Wait a minute, what?
+Dialogue: 0,0:14:37.71,0:14:40.10,*Default,NTP,0,0,0,,*右脚往前踩 左脚往后踏*\N{\fs38}*Put your right foot forward and your left foot back*
+Dialogue: 0,0:14:40.10,0:14:42.42,*Default,NTP,0,0,0,,*像诺迪克跑步机 两边走动*\N{\fs38}*Then slide around like a NordicTrack*
+Dialogue: 0,0:14:42.43,0:14:43.85,*Default,NTP,0,0,0,,*往左*\N{\fs38}*Move to the left*
+Dialogue: 0,0:14:43.85,0:14:45.10,*Default,NTP,0,0,0,,*往右*\N{\fs38}*Step to the right*
+Dialogue: 0,0:14:45.10,0:14:48.06,*Default,NTP,0,0,0,,*抖抖胳膊 看看灯*\N{\fs38}*Wiggle your elbows, and look up into the light*
+Dialogue: 0,0:14:48.71,0:14:53.01,*Default,NTP,0,0,0,,*这就是 这就是 这就是Rick舞*\N{\fs38}*It's the, it's the, it's the Rick Dance*
+Dialogue: 0,0:14:53.81,0:14:57.85,*Default,NTP,0,0,0,,*这就是 这就是 这就是Rick舞*\N{\fs38}*It's the, it's the, it's the Rick Dance*
+Dialogue: 0,0:14:57.85,0:14:59.47,*Default,NTP,0,0,0,,慢动作孟巴斯 来一束时间光波\N{\fs38}Slow Mobius, hit me with the clock beam.
+Dialogue: 0,0:15:03.92,0:15:08.10,*Default,NTP,0,0,0,,*这就是 这就是 这就是Rick舞*\N{\fs38}*It's the, it's the, it's the Rick Dance*
+Dialogue: 0,0:15:08.94,0:15:11.16,*Default,NTP,0,0,0,,这就是Rick舞\N{\fs38}That's the Rick dance. Alright.
+Dialogue: 0,0:15:13.24,0:15:15.92,*Default,NTP,0,0,0,,刚刚那是个啥\N{\fs38}What the hell was that?
+Dialogue: 0,0:15:15.92,0:15:18.79,*Default,NTP,0,0,0,,我以为找结晶是为了让我们回家\N{\fs38}I thought those crystals were supposed to help us get home or something.
+Dialogue: 0,0:15:18.79,0:15:21.05,*Default,NTP,0,0,0,,什么 不 不 不 我随时都能把我们送回去\N{\fs38}What? No, no, no... I can get us home whenever I want to.
+Dialogue: 0,0:15:21.06,0:15:22.63,*Default,NTP,0,0,0,,对了 说起那些结晶\N{\fs38}But, listen. Speaking of those crystals,
+Dialogue: 0,0:15:22.63,0:15:23.89,*Default,NTP,0,0,0,,其余能给我吗\N{\fs38}can I get the rest of them?
+Dialogue: 0,0:15:23.89,0:15:25.21,*Default,NTP,0,0,0,,我渐渐回来了 Morty\N{\fs38}I'm starting to come down, Morty.
+Dialogue: 0,0:15:25.21,0:15:28.08,*Default,NTP,0,0,0,,凯拉辛结晶效果强劲就是时效太短\N{\fs38}Crystal Kalaxian is a strong but fleeting high.
+Dialogue: 0,0:15:29.91,0:15:32.05,*Default,NTP,0,0,0,,我就是这么看这结晶的 Rick\N{\fs38}That's what I think of your crystals, Rick.
+Dialogue: 0,0:15:32.05,0:15:33.80,*Default,NTP,0,0,0,,Morty 你个蠢货\N{\fs38}Oh, Morty. You idiot.
+Dialogue: 0,0:15:33.80,0:15:36.06,*Default,NTP,0,0,0,,还有谁有K-辛么\N{\fs38}Does anybody else have any more K-Lax?
+Dialogue: 0,0:15:36.06,0:15:38.44,*Default,NTP,0,0,0,,鸟人 屎瓜\N{\fs38}Birdperson? Squanchy?
+Dialogue: 0,0:15:38.44,0:15:39.44,*Default,NTP,0,0,0,,不要屎瓜我啦\N{\fs38}Don't squanch at me.
+Dialogue: 0,0:15:39.44,0:15:41.73,*Default,NTP,0,0,0,,好了 大伙 派对正式结束\N{\fs38}Alright, everybody. Party is officially over.
+Dialogue: 0,0:15:41.73,0:15:43.52,*Default,NTP,0,0,0,,Rick 现在立刻把我们带回家\N{\fs38}Rick, take us home now.
+Dialogue: 0,0:15:43.52,0:15:46.49,*Default,NTP,0,0,0,,行啦 行啦 行啦 Morty 你个派对老鼠屎\N{\fs38}Alright, alright. Fine, Morty, you party pooper buzzkill.
+Dialogue: 0,0:15:46.49,0:15:50.07,*Default,NTP,0,0,0,,- Morty 你太可恶了  - 管你叫什么名字的 你最烂了\N{\fs38}- Boo, boo. Morty sucks. - Boo. You suck whatever your name is.
+Dialogue: 0,0:15:50.07,0:15:51.93,*Default,NTP,0,0,0,,烂透了 Morty 你烂到爆了\N{\fs38}Boo. Morty, you're the worst, Morty.
+Dialogue: 0,0:15:51.93,0:15:54.14,*Default,NTP,0,0,0,,齿轮才刚刚开始转呢\N{\fs38}But these gears just started turning.
+Dialogue: 0,0:15:54.90,0:15:56.21,*Default,NTP,0,0,0,,快画完了吗 Jerry\N{\fs38}Almost finished, Jerry?
+Dialogue: 0,0:15:56.48,0:15:58.29,*Default,NTP,0,0,0,,呃 快了\N{\fs38}Uh, almost.
+Dialogue: 0,0:15:58.29,0:16:01.72,*Default,NTP,0,0,0,,我还没有完全捕捉到你美丽双眸的神韵\N{\fs38}I haven't quite captured your beautiful eyes.
+Dialogue: 0,0:16:01.72,0:16:03.38,*Default,NTP,0,0,0,,肯定也差不多了 快过来\N{\fs38}I'm sure it's good enough,move!
+Dialogue: 0,0:16:03.38,0:16:07.30,*Default,NTP,0,0,0,,每个周末都有几对Jack和Rose在这辆车上度过他们的泰坦尼克浪漫之旅\N{\fs38}Every weekend Jacks and Roses have their Titanic experience in this car,
+Dialogue: 0,0:16:07.30,0:16:09.42,*Default,NTP,0,0,0,,而我负责事后清理\N{\fs38}and I have to mop it up.
+Dialogue: 0,0:16:09.57,0:16:11.69,*Default,NTP,0,0,0,,这厢板掉下来能让清理容易点\N{\fs38}The floor drops out to make it easier.
+Dialogue: 0,0:16:12.51,0:16:14.02,*Default,NTP,0,0,0,,现在轮到我在车里翻云覆雨了\N{\fs38}But now it's my turn.
+Dialogue: 0,0:16:14.04,0:16:17.14,*Default,NTP,0,0,0,,我们将会达到快乐的巅峰 把车里搞得雾气腾腾\N{\fs38}We're going to get it， nice and steamy in there,
+Dialogue: 0,0:16:17.14,0:16:21.29,*Default,NTP,0,0,0,,我要在有蒸汽的玻璃上留下一个大手印\N{\fs38}And I'm going to slam my hand on the steam and leave a nice handprint.
+Dialogue: 0,0:16:21.29,0:16:23.93,*Default,NTP,0,0,0,,然后你要进入我的身体 好好爱惜我\N{\fs38}And then you're going to love inside of me.
+Dialogue: 0,0:16:24.03,0:16:25.91,*Default,NTP,0,0,0,,不能弄得一团糟 事后也不能清理\N{\fs38}No mess, no clean.
+Dialogue: 0,0:16:26.90,0:16:27.74,*Default,NTP,0,0,0,,Beth{\fs38}\NBeth!
+Dialogue: 0,0:16:27.74,0:16:30.40,*Default,NTP,0,0,0,,你看到我认为亚马逊电纸书不好使一定很高兴吧\N{\fs38}Bet you're glad I think kindles are dumb now.
+Dialogue: 0,0:16:32.81,0:16:34.55,*Default,NTP,0,0,0,,我忍不住地觉得挺愧疚的\N{\fs38}I can't help but feel a little guilty.
+Dialogue: 0,0:16:34.55,0:16:36.95,*Default,NTP,0,0,0,,我没把Lucy往强奸犯那方面想\N{\fs38}I didn't peg Lucy for a rapist.
+Dialogue: 0,0:16:36.95,0:16:38.71,*Default,NTP,0,0,0,,那强奸犯应该长什么样子 Beth\N{\fs38}What does a rapist look like exactly, Beth?
+Dialogue: 0,0:16:38.71,0:16:41.20,*Default,NTP,0,0,0,,应该是一个穿着牛仔外套\N{\fs38}Is it a Slavic man wearing a denim jacket
+Dialogue: 0,0:16:41.20,0:16:43.95,*Default,NTP,0,0,0,,留着稀拉胡子 一嘴水泡还有廉价香槟味\N{\fs38}With a patchy beard and the scent of cheap champagne
+Dialogue: 0,0:16:43.95,0:16:45.98,*Default,NTP,0,0,0,,斯拉夫男人吗\N{\fs38}waft over his blister-pocked lips?
+Dialogue: 0,0:16:46.47,0:16:47.86,*Default,NTP,0,0,0,,你在说什么\N{\fs38}What?
+Dialogue: 0,0:16:48.88,0:16:50.89,*Default,NTP,0,0,0,,行啦 至少你免费得到了些东西\N{\fs38}Well, at least you got all these free stuff.
+Dialogue: 0,0:16:50.89,0:16:54.28,*Default,NTP,0,0,0,,应该够满足你的泰坦尼克瘾一阵子的了\N{\fs38}Should be enough to satisfy your Titanic Jones for a while.
+Dialogue: 0,0:16:54.28,0:16:56.43,*Default,NTP,0,0,0,,我坐不下了\N{\fs38}I'm not going to fit.
+Dialogue: 0,0:16:56.70,0:16:58.08,*Default,NTP,0,0,0,,Beth 听我说\N{\fs38}Beth,listen to me.
+Dialogue: 0,0:16:58.08,0:16:59.64,*Default,NTP,0,0,0,,你会成功离开这里的\N{\fs38}You're going to get out of here.
+Dialogue: 0,0:16:59.64,0:17:00.94,*Default,NTP,0,0,0,,你会继续你的生活 然后\N{\fs38}You're gonna go on,and...
+Dialogue: 0,0:17:00.94,0:17:02.67,*Default,NTP,0,0,0,,Jerry 把那块门板扔了吧\N{\fs38}Jerry, just leave the door.
+Dialogue: 0,0:17:02.67,0:17:04.32,*Default,NTP,0,0,0,,这不是门板 Beth 这是残骸\N{\fs38}It's not a door, Beth. It's debris.
+Dialogue: 0,0:17:04.32,0:17:05.60,*Default,NTP,0,0,0,,我不管 快扔了它\N{\fs38}I don't care, just leave it.
+Dialogue: 0,0:17:05.97,0:17:07.92,*Default,NTP,0,0,0,,好吧\N{\fs38}Yeah,okay.
+Dialogue: 0,0:17:13.57,0:17:18.22,*Default,NTP,0,0,0,,是海角惊魂耶\N{\fs38}"Cape Fear"! "Cape Fear"!
+Dialogue: 0,0:17:13.57,0:17:21.33,*Default,NTP,0,0,0,,{\an8\fs38}《海角惊魂》 1962电影 讲述一名刚出狱的强奸犯怪罪于导致他入狱的律师，对他复仇的故事
+Dialogue: 0,0:17:18.22,0:17:21.24,*Default,NTP,0,0,0,,我在复原海角惊魂里的场景耶\N{\fs38}I'm I'm doing I'm I'm going to do like from "Cape Fear"!
+Dialogue: 0,0:17:31.24,0:17:32.59,*Default,NTP,0,0,0,,屎瓜们\N{\fs38}Hey, squanchers!
+Dialogue: 0,0:17:32.59,0:17:35.14,*Default,NTP,0,0,0,,派对在我家继续屎瓜着\N{\fs38}The party's squanching on at my place!
+Dialogue: 0,0:17:36.64,0:17:38.49,*Default,NTP,0,0,0,,太好了 我也要去\N{\fs38}Cool, I'm coming too.
+Dialogue: 0,0:17:38.49,0:17:41.59,*Default,NTP,0,0,0,,哦 不 对于一个屎瓜派对来说你不够屎瓜\N{\fs38}Uh, no. You're not squanchy enough for a squanchy party.
+Dialogue: 0,0:17:41.59,0:17:42.09,*Default,NTP,0,0,0,,什么\N{\fs38}What?
+Dialogue: 0,0:17:42.09,0:17:44.00,*Default,NTP,0,0,0,,Nancy告诉了我们你有多贱\N{\fs38}Nancy told us what a bitch you are.
+Dialogue: 0,0:17:44.00,0:17:45.66,*Default,NTP,0,0,0,,各位 说真的 Nancy\N{\fs38}Guys, seriously. Nancy?
+Dialogue: 0,0:17:45.66,0:17:47.65,*Default,NTP,0,0,0,,Summer 你为人太差\N{\fs38}Summer, you're a bad person.
+Dialogue: 0,0:17:47.65,0:17:49.93,*Default,NTP,0,0,0,,你只想着让受欢迎的人喜欢你\N{\fs38}All you care about is having popular people like you.
+Dialogue: 0,0:17:49.93,0:17:52.10,*Default,NTP,0,0,0,,这可不是阿道夫·林肯勒主张的\N{\fs38}That's not what Abradolph Lincoler stood for.
+Dialogue: 0,0:17:52.10,0:17:55.46,*Default,NTP,0,0,0,,好吧 搞清楚他的主张不容易\N{\fs38}Well, it was hard to pin down what he stood for,
+Dialogue: 0,0:17:55.46,0:17:57.46,*Default,NTP,0,0,0,,但是他肯定不是为这个而死的\N{\fs38}But it's certainly not what he died for.
+Dialogue: 0,0:18:01.13,0:18:02.37,*Default,NTP,0,0,0,,下次我再开派对\N{\fs38}Next time I party
+Dialogue: 0,0:18:02.37,0:18:05.00,*Default,NTP,0,0,0,,我就只管让自己兴奋得精疲力尽就好\N{\fs38}I'm just gonna focus on getting totally wrecked.
+Dialogue: 0,0:18:05.20,0:18:06.63,*Default,NTP,0,0,0,,你太明智了\N{\fs38}You're so wise.
+Dialogue: 0,0:18:08.79,0:18:10.20,*Default,NTP,0,0,0,,我帮你一起收拾好吗\N{\fs38}May I assist you with that?
+Dialogue: 0,0:18:10.20,0:18:11.80,*Default,NTP,0,0,0,,当然好 谢谢\N{\fs38}Uh, sure, yeah, thanks.
+Dialogue: 0,0:18:11.80,0:18:15.07,*Default,NTP,0,0,0,,Morty 你知道"Wubba lubba dub dub"什么意思吗\N{\fs38}Morty, do you know what "Wubba lubba dub dub" means?
+Dialogue: 0,0:18:15.07,0:18:17.70,*Default,NTP,0,0,0,,那只是Rick愚蠢又没有逻辑的口头禅而已\N{\fs38}Uh, that's just Rick's stupid nonsense catchphrase.
+Dialogue: 0,0:18:17.70,0:18:19.27,*Default,NTP,0,0,0,,这并不是没有逻辑的\N{\fs38}It's not nonsense at all.
+Dialogue: 0,0:18:19.27,0:18:20.72,*Default,NTP,0,0,0,,在我们那里\N{\fs38}In my people's tongue,
+Dialogue: 0,0:18:20.72,0:18:23.73,*Default,NTP,0,0,0,,这句话的意思是"我很痛苦 请帮帮我"\N{\fs38}It means "I am in great pain,please help me"
+Dialogue: 0,0:18:23.73,0:18:26.42,*Default,NTP,0,0,0,,那我告诉你吧 他说的意思正好相反\N{\fs38}Well, I got news of you, he's saying it ironically.
+Dialogue: 0,0:18:26.42,0:18:27.10,*Default,NTP,0,0,0,,不 Morty\N{\fs38}No, Morty.
+Dialogue: 0,0:18:27.10,0:18:30.28,*Default,NTP,0,0,0,,你的外公确实非常痛苦\N{\fs38}Your grandfather is, indeed, in very deep pain.
+Dialogue: 0,0:18:30.28,0:18:32.31,*Default,NTP,0,0,0,,这就是他不得不麻痹自己的原因\N{\fs38}That is why he must numb himself.
+Dialogue: 0,0:18:32.31,0:18:34.04,*Default,NTP,0,0,0,,- 得了吧 呃  - 我叫鸟人\N{\fs38}- Come on,uh... - Birdperson
+Dialogue: 0,0:18:34.04,0:18:35.30,*Default,NTP,0,0,0,,得了吧 鸟人\N{\fs38}Come on ,Birdperson.
+Dialogue: 0,0:18:35.30,0:18:37.00,*Default,NTP,0,0,0,,Rick没有那么复杂\N{\fs38}Rick's not that complicated.
+Dialogue: 0,0:18:37.00,0:18:38.67,*Default,NTP,0,0,0,,他只是一个大混蛋而已\N{\fs38}He's just a huge asshole.
+Dialogue: 0,0:18:38.67,0:18:41.18,*Default,NTP,0,0,0,,那为什么你还这么在乎以后能不能和他\N{\fs38}Then why do you care so much if you are no longer allowed to
+Dialogue: 0,0:18:41.18,0:18:43.24,*Default,NTP,0,0,0,,继续探险之旅\N{\fs38}continue on your adventures together?
+Dialogue: 0,0:18:43.24,0:18:45.75,*Default,NTP,0,0,0,,看起来命运给了能让你永远远离Rick\N{\fs38}It appears fate has presented you with an opportunity
+Dialogue: 0,0:18:45.75,0:18:47.99,*Default,NTP,0,0,0,,获得自由的机会啊\N{\fs38}to free yourself of Rick forever.
+Dialogue: 0,0:18:47.99,0:18:48.81,*Default,NTP,0,0,0,,你知道吗 你说对了\N{\fs38}You know what? You're right.
+Dialogue: 0,0:18:48.81,0:18:49.90,*Default,NTP,0,0,0,,我根本不应该担心\N{\fs38}I shouldn't even care.
+Dialogue: 0,0:18:49.90,0:18:52.23,*Default,NTP,0,0,0,,这也许是对我最有利的事了\N{\fs38}This is probably the best thing that could have happened to me.
+Dialogue: 0,0:18:52.23,0:18:54.06,*Default,NTP,0,0,0,,我已经厌烦和Rick一起探险了\N{\fs38}I'm sick of having adventures with Rick.
+Dialogue: 0,0:18:54.06,0:18:57.53,*Default,NTP,0,0,0,,我们那儿还有一句谚语"Gubba nub nub doo rahkah"\N{\fs38}My people have another saying "Gubba nub nub doo rahkah."
+Dialogue: 0,0:18:57.53,0:19:00.33,*Default,NTP,0,0,0,,意思是"只要这事能让你安心入睡 就去做吧"\N{\fs38}It means "whatever lets you sleep at night."
+Dialogue: 0,0:19:01.50,0:19:04.74,*Default,NTP,0,0,0,,嘿 爸妈已经快到家了\N{\fs38}Guys, mom and dad are, like, right around the corner.
+Dialogue: 0,0:19:04.74,0:19:06.14,*Default,NTP,0,0,0,,这是你抉择的时刻 Morty\N{\fs38}This is your moment, Morty.
+Dialogue: 0,0:19:06.14,0:19:07.46,*Default,NTP,0,0,0,,明智地选择吧\N{\fs38}Choose wisely.
+Dialogue: 0,0:19:07.46,0:19:08.50,*Default,NTP,0,0,0,,Tammy{\fs38}\NTammy!
+Dialogue: 0,0:19:14.73,0:19:17.13,*Default,NTP,0,0,0,,天啊 我们完蛋了\N{\fs38}Wow, we are so screwed.
+Dialogue: 0,0:19:18.46,0:19:19.18,*Default,NTP,0,0,0,,Rick 醒一醒\N{\fs38}Rick, wake up!
+Dialogue: 0,0:19:19.18,0:19:20.54,*Default,NTP,0,0,0,,等下 等下 停\N{\fs38}Wait, wait, wait, stop.
+Dialogue: 0,0:19:20.54,0:19:21.76,*Default,NTP,0,0,0,,Rick 你得赶快做点什么\N{\fs38}Rick, you got to do something quick!
+Dialogue: 0,0:19:21.76,0:19:22.85,*Default,NTP,0,0,0,,我爸妈快到家了\N{\fs38}My parents are home.
+Dialogue: 0,0:19:22.85,0:19:25.99,*Default,NTP,0,0,0,,好 好的 等 等会儿\N{\fs38}Uh, all all right, all right. Hold hold on.
+Dialogue: 0,0:19:27.80,0:19:29.45,*Default,NTP,0,0,0,,真解渴\N{\fs38}Ah, so good.
+Dialogue: 0,0:19:29.45,0:19:30.85,*Default,NTP,0,0,0,,我的天啊 他们上车道了\N{\fs38}Oh,my god. They're walking up the driveway.
+Dialogue: 0,0:19:30.85,0:19:31.45,*Default,NTP,0,0,0,,把那个东西拿给我\N{\fs38}Bring me the thing.
+Dialogue: 0,0:19:31.45,0:19:32.83,*Default,NTP,0,0,0,,啊 什么东西\N{\fs38}What what thing?
+Dialogue: 0,0:19:32.83,0:19:34.47,*Default,NTP,0,0,0,,那个东西 就是那个\N{\fs38}The thing, the thing, the...
+Dialogue: 0,0:19:34.47,0:19:37.07,*Default,NTP,0,0,0,,上面有按钮和灯的那个 还能响的东西\N{\fs38}It's got, like, buttons on it and lights on it. It beeps.
+Dialogue: 0,0:19:37.07,0:19:39.49,*Default,NTP,0,0,0,,Rick 车库里所有东西都长这样\N{\fs38}Rick, that describes everything in your garage!
+Dialogue: 0,0:19:39.49,0:19:40.38,*Default,NTP,0,0,0,,你是说这个吗\N{\fs38}Do you mean this?
+Dialogue: 0,0:19:40.44,0:19:42.56,*Default,NTP,0,0,0,,Summer拿 拿对了\N{\fs38}Summer for for the win!
+Dialogue: 0,0:19:44.27,0:19:45.41,*Default,NTP,0,0,0,,好了 现在就行了\N{\fs38}All right, that should do it.
+Dialogue: 0,0:19:45.41,0:19:46.64,*Default,NTP,0,0,0,,你干了什么\N{\fs38}Whoa! What did you do?
+Dialogue: 0,0:19:46.64,0:19:47.97,*Default,NTP,0,0,0,,你自己看\N{\fs38}Uh, see for yourself.
+Dialogue: 0,0:19:48.88,0:19:50.34,*Default,NTP,0,0,0,,哇\N{\fs38}Whoa!
+Dialogue: 0,0:19:50.34,0:19:52.50,*Default,NTP,0,0,0,,没错 所有东西都跟着时间一起被冻结了\N{\fs38}Yeah, everything's frozen in time.
+Dialogue: 0,0:19:52.50,0:19:54.81,*Default,NTP,0,0,0,,慢动作孟巴斯还以为只有他会这个呢\N{\fs38}Yeah,and Slow Mobius thinks he's all that.
+Dialogue: 0,0:19:54.81,0:19:56.07,*Default,NTP,0,0,0,,能静止多久\N{\fs38}For how long?
+Dialogue: 0,0:19:56.07,0:19:57.64,*Default,NTP,0,0,0,,不知道 你们想持续多久\N{\fs38}I don't know. How long do you guys want?
+Dialogue: 0,0:19:57.64,0:19:58.64,*Default,NTP,0,0,0,,一个星期 一个月\N{\fs38}A week? A month?
+Dialogue: 0,0:19:59.39,0:20:01.77,*Default,NTP,0,0,0,,我们能先打扫屋子再决定吗\N{\fs38}Can we start cleaning the house and see how we feel?
+Dialogue: 0,0:20:26.13,0:20:27.59,*Default,NTP,0,0,0,,- 史上最大烂片  - 我没话说了\N{\fs38}- Worst movie ever. - Dumb.
+Dialogue: 0,0:20:27.59,0:20:28.91,*Default,NTP,0,0,0,,哦 真是浪费时间\N{\fs38}Ooh, what a waste of time.
+Dialogue: 0,0:20:30.15,0:20:32.74,*Default,NTP,0,0,0,,听懂了吗 因为现在时间冻结了\N{\fs38}Get it? You know, 'cause it's forzen?
+Dialogue: 0,0:20:32.74,0:20:34.38,*Default,NTP,0,0,0,,这真是有趣啊\N{\fs38}This has been so much fun.
+Dialogue: 0,0:20:34.38,0:20:36.52,*Default,NTP,0,0,0,,嘿 Rick 这么长时间\N{\fs38}Hey, Rick, you know this whole time,
+Dialogue: 0,0:20:36.52,0:20:40.48,*Default,NTP,0,0,0,,我都没听你说过你以前老说的"Wubba lubba dub dub"了\N{\fs38}I haven't once heard you say that "Wubba lubba dub dub" thing that you usually say.
+Dialogue: 0,0:20:40.48,0:20:43.19,*Default,NTP,0,0,0,,因为我不需要说了 我已经有了新的口头禅\N{\fs38}Don't need to, I have a new catchphrase.
+Dialogue: 0,0:20:43.19,0:20:45.07,*Default,NTP,0,0,0,,是吗 是什么 Rick\N{\fs38}Oh, yeah?  What's that, Rick?
+Dialogue: 0,0:20:45.07,0:20:46.57,*Default,NTP,0,0,0,,我爱我的外孙和外孙女\N{\fs38}I love my grandkids.
+Dialogue: 0,0:20:46.95,0:20:49.00,*Default,NTP,0,0,0,,骗到你们啦 开玩笑的 我的新口头禅是\N{\fs38}Psych! Just kidding, my new catchphrase is,
+Dialogue: 0,0:20:49.28,0:20:50.51,*Default,NTP,0,0,0,,"我他妈才不在乎"\N{\fs38}"I don't give a f**k".
+Dialogue: 0,0:20:51.04,0:20:57.68,*Default,NTP,0,0,0,,{\an8\fs38}BGM: Booty Bass - Shake That Ass Bitch
+Dialogue: 0,0:20:57.46,0:20:58.47,*Default,NTP,0,0,0,,播演职员表吧\N{\fs38}Roll credits!
+Dialogue: 0,0:20:59.40,0:21:00.64,*Default,NTP,0,0,0,,播演职员表 开始\N{\fs38}Roll the credits, go!
+Dialogue: 0,0:21:01.65,0:21:03.21,*Default,NTP,0,0,0,,第一季结束啦\N{\fs38}That's the end of season 1!
+Dialogue: 0,0:21:03.21,0:21:04.74,*Default,NTP,0,0,0,,混蛋们 第一季终结啦\N{\fs38}That's the end motherf**ker!
+Dialogue: 0,0:21:05.06,0:21:07.22,*Default,NTP,0,0,0,,"我他妈才不在乎"是我的新口头禅\N{\fs38}"I don't give a f**k" is my new catchphrase!
+Dialogue: 0,0:21:07.22,0:21:08.55,*Default,NTP,0,0,0,,去你妈的\N{\fs38}F**k you!
+Dialogue: 0,0:21:08.55,0:21:10.45,*Default,NTP,0,0,0,,这就是第一季全部内容 耶\N{\fs38}That's season 1, boom!
+Dialogue: 0,0:21:10.53,0:21:13.77,*Default,NTP,0,0,0,,第一季已经甩在你们面前啦混蛋们\N{\fs38}Season 1 in your face, motherf**ker!
+Dialogue: 0,0:21:48.11,0:21:50.10,*Default,NTP,0,0,0,,我要复仇\N{\fs38}Revenge!
+Dialogue: 0,0:21:54.64,0:21:56.55,*Default,NTP,0,0,0,,派对\N{\fs38}Party!
+Dialogue: 0,0:21:56.84,0:22:01.93,*Default,NTP,0,0,0,,天哪 拜托停下来\N{\fs38}Oh, please, stop!
+Dialogue: 0,0:22:02.35,0:22:03.37,*Default,NTP,0,0,0,,嘿 兄弟\N{\fs38}Hey, brah!
+Dialogue: 0,0:22:03.37,0:22:04.49,*Default,NTP,0,0,0,,我搞不懂了\N{\fs38}I don't understand.
+Dialogue: 0,0:22:04.79,0:22:07.51,*Default,NTP,0,0,0,,你很享受这样吗 你喜欢这样吗\N{\fs38}Are you enjoying this? Do you like this?
+Dialogue: 0,0:22:07.51,0:22:09.76,*Default,NTP,0,0,0,,当然 你懂的 老兄\N{\fs38}Yeah,you know it, dawg!
+
