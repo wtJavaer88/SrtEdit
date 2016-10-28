@@ -1,0 +1,711 @@
+﻿[Script Info]
+; // The sub is created by AssToolkit
+; // The ass is made by Sunhelter
+Title:Subtitles
+Original Script:Subtitles
+website:www.zimuzu.tv
+Sina Weibo:@zimuzu
+Find more subs in www.abcsub.com
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+Style: LOGO,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H006C3300,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:56.57,0:01:57.63,*Default,NTP,0000,0000,0000,,请进\N{\fn微软雅黑\fs14}Yes?
+Dialogue: 0,0:02:00.91,0:02:02.08,*Default,NTP,0000,0000,0000,,您的信  小姐\N{\fn微软雅黑\fs14}For you, my lady.
+Dialogue: 0,0:02:22.25,0:02:23.92,*Default,NTP,0000,0000,0000,,鼹鼠村离这里多远\N{\fn微软雅黑\fs14}How far is Mole's Town?
+Dialogue: 0,0:02:32.38,0:02:33.47,*Default,NTP,0000,0000,0000,,珊莎\N{\fn微软雅黑\fs14}Sansa.
+Dialogue: 0,0:02:37.86,0:02:39.05,*Default,NTP,0000,0000,0000,,布蕾妮小姐\N{\fn微软雅黑\fs14}Lady Brienne.
+Dialogue: 0,0:02:42.71,0:02:45.27,*Default,NTP,0000,0000,0000,,听闻你逃离临冬城  我担心得要死\N{\fn微软雅黑\fs14}When I heard you had escaped Winterfell, I feared the worst.
+Dialogue: 0,0:02:47.32,0:02:49.41,*Default,NTP,0000,0000,0000,,你不知道看到你安然无恙\N{\fn微软雅黑\fs14}You have no idea how happy I am
+Dialogue: 0,0:02:49.82,0:02:51.21,*Default,NTP,0000,0000,0000,,我有多高兴\N{\fn微软雅黑\fs14}to see you unharmed.
+Dialogue: 0,0:02:52.41,0:02:53.58,*Default,NTP,0000,0000,0000,,安然无恙\N{\fn微软雅黑\fs14}Unharmed?
+Dialogue: 0,0:02:55.28,0:02:56.53,*Default,NTP,0000,0000,0000,,你来干什么\N{\fn微软雅黑\fs14}What are you doing here?
+Dialogue: 0,0:02:56.85,0:02:59.54,*Default,NTP,0000,0000,0000,,我带谷地骑士北上前来救助你\N{\fn微软雅黑\fs14}I rode north with the Knights of the Vale to come to your aid.
+Dialogue: 0,0:02:59.99,0:03:02.20,*Default,NTP,0000,0000,0000,,他们此时正驻扎在卡林湾\N{\fn微软雅黑\fs14}They're encamped at Moat Cailin as we speak.
+Dialogue: 0,0:03:02.35,0:03:03.70,*Default,NTP,0000,0000,0000,,前来救助我\N{\fn微软雅黑\fs14}To come to my aid?
+Dialogue: 0,0:03:06.02,0:03:07.54,*Default,NTP,0000,0000,0000,,你之前知道拉姆斯为人吗\N{\fn微软雅黑\fs14}Did you know about Ramsay?
+Dialogue: 0,0:03:09.33,0:03:10.90,*Default,NTP,0000,0000,0000,,如果不知道  你就是白痴\N{\fn微软雅黑\fs14}If you didn't know, you're an idiot.
+Dialogue: 0,0:03:10.90,0:03:12.83,*Default,NTP,0000,0000,0000,,如果早就知道  你就是我的敌人\N{\fn微软雅黑\fs14}If you did know, you're my enemy.
+Dialogue: 0,0:03:14.01,0:03:16.23,*Default,NTP,0000,0000,0000,,想听听我们的新婚之夜是怎样的吗\N{\fn微软雅黑\fs14}Would you like to hear about our wedding night?
+Dialogue: 0,0:03:19.13,0:03:20.79,*Default,NTP,0000,0000,0000,,他从来不打我的脸\N{\fn微软雅黑\fs14}He never hurt my face.
+Dialogue: 0,0:03:21.76,0:03:24.82,*Default,NTP,0000,0000,0000,,他需要我的脸  奈德·史塔克女儿的脸\N{\fn微软雅黑\fs14}He needed my face, the face of Ned Stark's daughter.
+Dialogue: 0,0:03:29.39,0:03:30.86,*Default,NTP,0000,0000,0000,,可我身体的其他部分\N{\fn微软雅黑\fs14}But the rest of me,
+Dialogue: 0,0:03:32.43,0:03:34.71,*Default,NTP,0000,0000,0000,,其他部分  他为所欲为\N{\fn微软雅黑\fs14}he did what he liked with the rest of me
+Dialogue: 0,0:03:34.89,0:03:36.89,*Default,NTP,0000,0000,0000,,只要我还能给他一个继承人\N{\fn微软雅黑\fs14}as long as I could still give him an heir.
+Dialogue: 0,0:03:40.59,0:03:42.18,*Default,NTP,0000,0000,0000,,你认为他做了什么\N{\fn微软雅黑\fs14}What do you think he did?
+Dialogue: 0,0:03:46.72,0:03:47.96,*Default,NTP,0000,0000,0000,,我无法设想...\N{\fn微软雅黑\fs14}I can't begin to contemplate--
+Dialogue: 0,0:03:47.96,0:03:49.76,*Default,NTP,0000,0000,0000,,你认为他对我做了什么\N{\fn微软雅黑\fs14}What do you think he did to me?
+Dialogue: 0,0:03:58.74,0:04:01.26,*Default,NTP,0000,0000,0000,,珊莎小姐在问你问题\N{\fn微软雅黑\fs14}Lady Sansa asked you a question.
+Dialogue: 0,0:04:02.48,0:04:03.47,*Default,NTP,0000,0000,0000,,他打你\N{\fn微软雅黑\fs14}He beat you.
+Dialogue: 0,0:04:03.47,0:04:04.54,*Default,NTP,0000,0000,0000,,是的  他很喜欢打我\N{\fn微软雅黑\fs14}Yes, he enjoyed that.
+Dialogue: 0,0:04:04.54,0:04:06.20,*Default,NTP,0000,0000,0000,,你认为他还做了什么\N{\fn微软雅黑\fs14}What else do you think he did?
+Dialogue: 0,0:04:06.37,0:04:07.93,*Default,NTP,0000,0000,0000,,-珊莎  -还有什么\N{\fn微软雅黑\fs14}- Sansa, I-- - What else?
+Dialogue: 0,0:04:11.59,0:04:13.05,*Default,NTP,0000,0000,0000,,他用刀子割你了\N{\fn微软雅黑\fs14}Did he cut you?
+Dialogue: 0,0:04:14.81,0:04:17.77,*Default,NTP,0000,0000,0000,,-或许你一直都了解拉姆斯  -我不知道\N{\fn微软雅黑\fs14}- Maybe you did know about Ramsay all along. - I didn't know.
+Dialogue: 0,0:04:17.77,0:04:19.80,*Default,NTP,0000,0000,0000,,我以为你知道每个人的秘密\N{\fn微软雅黑\fs14}I thought you knew everyone's secrets.
+Dialogue: 0,0:04:19.81,0:04:22.99,*Default,NTP,0000,0000,0000,,我犯了错误  可怕的错误\N{\fn微软雅黑\fs14}I made a mistake, a horrible mistake.
+Dialogue: 0,0:04:23.00,0:04:24.74,*Default,NTP,0000,0000,0000,,我低估了一个陌生人\N{\fn微软雅黑\fs14}I underestimated a stranger.
+Dialogue: 0,0:04:26.77,0:04:27.73,*Default,NTP,0000,0000,0000,,他做的其他事情\N{\fn微软雅黑\fs14}The other things he did,
+Dialogue: 0,0:04:27.73,0:04:29.70,*Default,NTP,0000,0000,0000,,贵妇淑女不可宣之于口\N{\fn微软雅黑\fs14}ladies aren't supposed to talk about those things,
+Dialogue: 0,0:04:29.71,0:04:32.70,*Default,NTP,0000,0000,0000,,可我想妓院老板倒是常常挂在嘴边的\N{\fn微软雅黑\fs14}but I imagine brothel keepers talk about them all the time.
+Dialogue: 0,0:04:35.10,0:04:36.76,*Default,NTP,0000,0000,0000,,我现在还能感觉到\N{\fn微软雅黑\fs14}I can still feel it.
+Dialogue: 0,0:04:38.08,0:04:40.76,*Default,NTP,0000,0000,0000,,我说的不是我娇弱的内心还感到受伤\N{\fn微软雅黑\fs14}I don't mean in my tender heart it still pains me so.
+Dialogue: 0,0:04:40.76,0:04:44.72,*Default,NTP,0000,0000,0000,,我现在站在此处  身体上仍然有那样的感觉\N{\fn微软雅黑\fs14}I can still feel what he did in my body standing here right now.
+Dialogue: 0,0:04:47.14,0:04:50.45,*Default,NTP,0000,0000,0000,,我很抱歉\N{\fn微软雅黑\fs14}I'm so sorry.
+Dialogue: 0,0:04:50.45,0:04:52.34,*Default,NTP,0000,0000,0000,,你说过你会保护我\N{\fn微软雅黑\fs14}You said you would protect me.
+Dialogue: 0,0:04:52.34,0:04:55.88,*Default,NTP,0000,0000,0000,,我会保护你  你一定要相信我  我会的\N{\fn微软雅黑\fs14}And I will. You must believe me when I tell you that I will.
+Dialogue: 0,0:04:55.88,0:04:59.24,*Default,NTP,0000,0000,0000,,我再也不信任你了  我也不再需要你\N{\fn微软雅黑\fs14}I don't believe you anymore. I don't need you anymore.
+Dialogue: 0,0:04:59.24,0:05:01.02,*Default,NTP,0000,0000,0000,,你保护不了我\N{\fn微软雅黑\fs14}You can't protect me.
+Dialogue: 0,0:05:01.51,0:05:03.21,*Default,NTP,0000,0000,0000,,假如我让布蕾妮砍了你\N{\fn微软雅黑\fs14}You won't even be able to protect yourself
+Dialogue: 0,0:05:03.21,0:05:05.38,*Default,NTP,0000,0000,0000,,你甚至不能保护自己\N{\fn微软雅黑\fs14}if I tell Brienne to cut you down.
+Dialogue: 0,0:05:08.24,0:05:09.54,*Default,NTP,0000,0000,0000,,我为何不让她砍了你\N{\fn微软雅黑\fs14}And why shouldn't I?
+Dialogue: 0,0:05:12.91,0:05:14.65,*Default,NTP,0000,0000,0000,,要我求你饶命吗\N{\fn微软雅黑\fs14}Do you want me to beg for my life?
+Dialogue: 0,0:05:15.29,0:05:17.27,*Default,NTP,0000,0000,0000,,如果你想要我求饶  我会的\N{\fn微软雅黑\fs14}If that's what you want, I will.
+Dialogue: 0,0:05:19.50,0:05:21.61,*Default,NTP,0000,0000,0000,,无论你有什么要求  只要我能做到\N{\fn微软雅黑\fs14}Whatever you ask that is in my power,
+Dialogue: 0,0:05:21.78,0:05:22.98,*Default,NTP,0000,0000,0000,,我都会去做\N{\fn微软雅黑\fs14}I will do.
+Dialogue: 0,0:05:24.64,0:05:26.80,*Default,NTP,0000,0000,0000,,要是我要你立刻死在这里呢\N{\fn微软雅黑\fs14}What if I want you to die here and now?
+Dialogue: 0,0:05:28.90,0:05:30.42,*Default,NTP,0000,0000,0000,,那我就去死\N{\fn微软雅黑\fs14}Then I will die.
+Dialogue: 0,0:05:32.56,0:05:35.73,*Default,NTP,0000,0000,0000,,你把我从谋害我家人的禽兽手里救出来\N{\fn微软雅黑\fs14}You freed me from the monsters who murdered my family
+Dialogue: 0,0:05:36.66,0:05:40.22,*Default,NTP,0000,0000,0000,,转送到另一伙谋害我家人的禽兽手里\N{\fn微软雅黑\fs14}and you gave me to other monsters who murdered my family.
+Dialogue: 0,0:05:42.04,0:05:43.70,*Default,NTP,0000,0000,0000,,回卡林湾去吧\N{\fn微软雅黑\fs14}Go back to Moat Cailin.
+Dialogue: 0,0:05:44.33,0:05:46.25,*Default,NTP,0000,0000,0000,,我哥哥和我会自己夺回北境\N{\fn微软雅黑\fs14}My brother and I will take back the North on our own.
+Dialogue: 0,0:05:46.25,0:05:48.20,*Default,NTP,0000,0000,0000,,我再也不要见到你\N{\fn微软雅黑\fs14}I never want to see you again.
+Dialogue: 0,0:05:48.69,0:05:51.17,*Default,NTP,0000,0000,0000,,若能消除你遭受的屈辱  我愿意做任何事\N{\fn微软雅黑\fs14}I would do anything to undo what's been done to you.
+Dialogue: 0,0:05:54.23,0:05:55.57,*Default,NTP,0000,0000,0000,,我知道我不能\N{\fn微软雅黑\fs14}I know that I can't.
+Dialogue: 0,0:05:58.20,0:06:00.65,*Default,NTP,0000,0000,0000,,在我离开前  能允许我再说一件事吗\N{\fn微软雅黑\fs14}Will you allow me to say one more thing before I go?
+Dialogue: 0,0:06:04.09,0:06:06.99,*Default,NTP,0000,0000,0000,,你的外叔公黑鱼布林登\N{\fn微软雅黑\fs14}Your great-uncle Brynden the Blackfish
+Dialogue: 0,0:06:07.39,0:06:10.80,*Default,NTP,0000,0000,0000,,已经集结徒利家的残余兵马  夺回了奔流城\N{\fn微软雅黑\fs14}has gathered what remains of the Tully forces and retaken Riverrun.
+Dialogue: 0,0:06:10.99,0:06:12.84,*Default,NTP,0000,0000,0000,,或许你该考虑与他取得联系\N{\fn微软雅黑\fs14}You might consider seeking him out.
+Dialogue: 0,0:06:13.84,0:06:16.46,*Default,NTP,0000,0000,0000,,有朝一日你可能会需要一支忠于你的军队\N{\fn微软雅黑\fs14}The time may come when you need an army loyal to you.
+Dialogue: 0,0:06:16.46,0:06:17.72,*Default,NTP,0000,0000,0000,,我有军队\N{\fn微软雅黑\fs14}I have an army.
+Dialogue: 0,0:06:17.94,0:06:19.32,*Default,NTP,0000,0000,0000,,你哥哥的军队\N{\fn微软雅黑\fs14}Your brother's army.
+Dialogue: 0,0:06:28.12,0:06:29.34,*Default,NTP,0000,0000,0000,,异母哥哥\N{\fn微软雅黑\fs14}Half-brother.
+Dialogue: 0,0:06:59.13,0:07:00.32,*Default,NTP,0000,0000,0000,,你还没准备好\N{\fn微软雅黑\fs14}You're not ready.
+Dialogue: 0,0:07:02.85,0:07:05.23,*Default,NTP,0000,0000,0000,,趁还来得及  赶紧回家吧\N{\fn微软雅黑\fs14}You should go home before it's too late.
+Dialogue: 0,0:08:02.15,0:08:05.28,*Default,NTP,0000,0000,0000,,你永远成不了我们的一员  史塔克小姐\N{\fn微软雅黑\fs14}You'll never be one of us, Lady Stark.
+Dialogue: 0,0:08:20.64,0:08:21.99,*Default,NTP,0000,0000,0000,,她说得有道理\N{\fn微软雅黑\fs14}She has a point.
+Dialogue: 0,0:08:28.39,0:08:31.62,*Default,NTP,0000,0000,0000,,第一代无面者中没有生来的贵族\N{\fn微软雅黑\fs14}None of the first Faceless Men were born to lords and ladies.
+Dialogue: 0,0:08:31.81,0:08:34.59,*Default,NTP,0000,0000,0000,,他们是瓦雷利亚矿井中的奴隶\N{\fn微软雅黑\fs14}They began as slaves in the mines of Valyria.
+Dialogue: 0,0:08:35.06,0:08:36.36,*Default,NTP,0000,0000,0000,,第一个无面者是谁\N{\fn微软雅黑\fs14}Who was the first?
+Dialogue: 0,0:08:36.36,0:08:37.69,*Default,NTP,0000,0000,0000,,他是无名之辈\N{\fn微软雅黑\fs14}He was no one.
+Dialogue: 0,0:08:39.21,0:08:42.19,*Default,NTP,0000,0000,0000,,千面之神教会他如何隐藏面孔\N{\fn微软雅黑\fs14}The Many-Faced God taught him how to shed his face
+Dialogue: 0,0:08:42.20,0:08:43.73,*Default,NTP,0000,0000,0000,,如何施与慈悲\N{\fn微软雅黑\fs14}and how to give the gift.
+Dialogue: 0,0:08:43.91,0:08:47.24,*Default,NTP,0000,0000,0000,,那个人又教给其他人  换取他们的侍奉\N{\fn微软雅黑\fs14}The man taught others in exchange for their service.
+Dialogue: 0,0:08:47.42,0:08:50.71,*Default,NTP,0000,0000,0000,,许多人侍奉  许多慈悲被施与\N{\fn微软雅黑\fs14}Many served, many more gifts were given.
+Dialogue: 0,0:08:51.34,0:08:54.02,*Default,NTP,0000,0000,0000,,很快奴隶主和监工都不在了\N{\fn微软雅黑\fs14}Soon all the masters and overseers were gone
+Dialogue: 0,0:08:54.07,0:08:55.89,*Default,NTP,0000,0000,0000,,无面者逃离了矿井\N{\fn微软雅黑\fs14}and the Faceless Men fled.
+Dialogue: 0,0:08:56.48,0:08:57.80,*Default,NTP,0000,0000,0000,,他们去了哪里\N{\fn微软雅黑\fs14}Where did they go?
+Dialogue: 0,0:08:59.22,0:09:00.35,*Default,NTP,0000,0000,0000,,这里\N{\fn微软雅黑\fs14}Here.
+Dialogue: 0,0:09:00.35,0:09:03.22,*Default,NTP,0000,0000,0000,,他们来到布拉佛斯的自由城邦建起这座房子\N{\fn微软雅黑\fs14}They founded the Free City of Braavos and built this house.
+Dialogue: 0,0:09:05.05,0:09:07.24,*Default,NTP,0000,0000,0000,,这些是他们生时的面孔\N{\fn微软雅黑\fs14}These were the faces they wore in life
+Dialogue: 0,0:09:07.77,0:09:09.52,*Default,NTP,0000,0000,0000,,在他们戴着其他面孔的时候\N{\fn微软雅黑\fs14}when they were not wearing others.
+Dialogue: 0,0:09:10.37,0:09:12.16,*Default,NTP,0000,0000,0000,,第一批无面者\N{\fn微软雅黑\fs14}The first Faceless Men.
+Dialogue: 0,0:09:14.63,0:09:16.43,*Default,NTP,0000,0000,0000,,现在女孩是他们中的一员了\N{\fn微软雅黑\fs14}And now a girl is one of them,
+Dialogue: 0,0:09:16.56,0:09:18.26,*Default,NTP,0000,0000,0000,,如果女孩想要\N{\fn微软雅黑\fs14}if a girl desires.
+Dialogue: 0,0:09:20.33,0:09:22.13,*Default,NTP,0000,0000,0000,,女孩什么都不想要\N{\fn微软雅黑\fs14}A girl has no desires.
+Dialogue: 0,0:09:30.32,0:09:31.46,*Default,NTP,0000,0000,0000,,谁\N{\fn微软雅黑\fs14}Who?
+Dialogue: 0,0:09:39.03,0:09:41.84,*Default,NTP,0000,0000,0000,,一个自称克莱恩夫人的女演员\N{\fn微软雅黑\fs14}An actress who calls herself Lady Crane.
+Dialogue: 0,0:09:42.06,0:09:44.45,*Default,NTP,0000,0000,0000,,在雪芭广场的剧院演出\N{\fn微软雅黑\fs14}She performs at the theater in Sheelba Square.
+Dialogue: 0,0:09:46.21,0:09:48.28,*Default,NTP,0000,0000,0000,,女孩得到了第二次机会\N{\fn微软雅黑\fs14}A girl has been given a second chance.
+Dialogue: 0,0:09:49.67,0:09:51.32,*Default,NTP,0000,0000,0000,,不会有第三次\N{\fn微软雅黑\fs14}There will not be a third.
+Dialogue: 0,0:09:52.18,0:09:53.76,*Default,NTP,0000,0000,0000,,无论怎样\N{\fn微软雅黑\fs14}One way or another,
+Dialogue: 0,0:09:53.92,0:09:56.35,*Default,NTP,0000,0000,0000,,千面厅都会多一张面孔\N{\fn微软雅黑\fs14}a face will be added to the hall.
+Dialogue: 0,0:10:20.25,0:10:23.29,*Default,NTP,0000,0000,0000,,哦  猎猪不成反被拱\N{\fn微软雅黑\fs14}Oh, murdered by a boar.
+Dialogue: 0,0:10:23.46,0:10:26.07,*Default,NTP,0000,0000,0000,,长毛畜生个头猛\N{\fn微软雅黑\fs14}The great big hairy whore.
+Dialogue: 0,0:10:26.30,0:10:29.55,*Default,NTP,0000,0000,0000,,獠牙一戳肠子流\N{\fn微软雅黑\fs14}He dug in his tusks and dug out my guts
+Dialogue: 0,0:10:29.55,0:10:33.36,*Default,NTP,0000,0000,0000,,我这就要完蛋喽\N{\fn微软雅黑\fs14}and soon I am no more.
+Dialogue: 0,0:10:33.36,0:10:36.38,*Default,NTP,0000,0000,0000,,快来  父亲  您得躺下\N{\fn微软雅黑\fs14}Oh, come, Father, in bed you must lie.
+Dialogue: 0,0:10:36.51,0:10:39.50,*Default,NTP,0000,0000,0000,,我爱您  父亲  请不要死\N{\fn微软雅黑\fs14}I love you, Father. Please don't die.
+Dialogue: 0,0:10:39.50,0:10:43.20,*Default,NTP,0000,0000,0000,,闭嘴  蠢猪  瑟曦  添酒\N{\fn微软雅黑\fs14}Shut up, you swine! Cersei, more wine.
+Dialogue: 0,0:10:44.22,0:10:47.42,*Default,NTP,0000,0000,0000,,我能感觉到冬日的寒风拂过大地\N{\fn微软雅黑\fs14}I feel the winds of winter as they lick across the land.
+Dialogue: 0,0:10:47.48,0:10:50.58,*Default,NTP,0000,0000,0000,,我们的儿子孤独地坐在冰冷的王座上\N{\fn微软雅黑\fs14}And our son alone on that cold, cold throne
+Dialogue: 0,0:10:50.59,0:10:52.50,*Default,NTP,0000,0000,0000,,无人教导\N{\fn微软雅黑\fs14}without a guiding hand.
+Dialogue: 0,0:10:52.65,0:10:56.19,*Default,NTP,0000,0000,0000,,谁来教他坚强  谁来教他威仪\N{\fn微软雅黑\fs14}Who will teach him strength? Who will teach him grace?
+Dialogue: 0,0:10:56.48,0:10:57.96,*Default,NTP,0000,0000,0000,,当他要学会直面黑暗时\N{\fn微软雅黑\fs14}To whom will he turn when it's time
+Dialogue: 0,0:10:57.96,0:11:00.15,*Default,NTP,0000,0000,0000,,又该向谁求助\N{\fn微软雅黑\fs14}to learn to look darkness in the face?
+Dialogue: 0,0:11:00.15,0:11:04.16,*Default,NTP,0000,0000,0000,,奈德·史塔克就行  再给我拿些酒来\N{\fn微软雅黑\fs14}Ned Stark will do fine. Now bring me more wine.
+Dialogue: 0,0:11:08.08,0:11:10.57,*Default,NTP,0000,0000,0000,,这是怎么回事\N{\fn微软雅黑\fs14}Ooh, what's happened here, then?
+Dialogue: 0,0:11:10.60,0:11:12.70,*Default,NTP,0000,0000,0000,,他叫你来  奈德·史塔克\N{\fn微软雅黑\fs14}He brought you here, Ned Stark,
+Dialogue: 0,0:11:12.70,0:11:15.12,*Default,NTP,0000,0000,0000,,是因为你是天下最聪明的人\N{\fn微软雅黑\fs14}'cause you're the brightest fellow in the land.
+Dialogue: 0,0:11:15.12,0:11:17.11,*Default,NTP,0000,0000,0000,,你应该当我们的国王\N{\fn微软雅黑\fs14}You should be king of us all
+Dialogue: 0,0:11:17.11,0:11:19.13,*Default,NTP,0000,0000,0000,,我该做你的首相\N{\fn微软雅黑\fs14}and I should be your Hand.
+Dialogue: 0,0:11:19.13,0:11:21.20,*Default,NTP,0000,0000,0000,,我们北境的汉子最会管教\N{\fn微软雅黑\fs14}We men of the North are right good hands
+Dialogue: 0,0:11:21.20,0:11:23.47,*Default,NTP,0000,0000,0000,,人民守法了\N{\fn微软雅黑\fs14}at keeping people lawful.
+Dialogue: 0,0:11:23.68,0:11:24.90,*Default,NTP,0000,0000,0000,,我想征求他的同意\N{\fn微软雅黑\fs14}I'd ask him for permission,
+Dialogue: 0,0:11:24.90,0:11:27.66,*Default,NTP,0000,0000,0000,,但他太臭了\N{\fn微软雅黑\fs14}but he smells too bloody awful.
+Dialogue: 0,0:11:29.52,0:11:32.28,*Default,NTP,0000,0000,0000,,我死了  我死了\N{\fn微软雅黑\fs14}I die! I die!
+Dialogue: 0,0:11:32.44,0:11:35.57,*Default,NTP,0000,0000,0000,,我得躺在这里了\N{\fn微软雅黑\fs14}And here I now must lie.
+Dialogue: 0,0:11:35.57,0:11:39.68,*Default,NTP,0000,0000,0000,,哎呀  糟糕\N{\fn微软雅黑\fs14}Oh, woe. Oh, no.
+Dialogue: 0,0:11:41.26,0:11:45.42,*Default,NTP,0000,0000,0000,,我要死了\N{\fn微软雅黑\fs14}Oh, I am about to go.
+Dialogue: 0,0:11:47.59,0:11:49.37,*Default,NTP,0000,0000,0000,,你可以做乔佛里的首相吗\N{\fn微软雅黑\fs14}Will you stay on as Joffrey's Hand?
+Dialogue: 0,0:11:49.37,0:11:51.45,*Default,NTP,0000,0000,0000,,我要的是铁王座\N{\fn微软雅黑\fs14}The Iron Throne's what I demand.
+Dialogue: 0,0:11:51.45,0:11:52.51,*Default,NTP,0000,0000,0000,,-你不能  -我可以\N{\fn微软雅黑\fs14}- You cannot. - I can.
+Dialogue: 0,0:11:52.51,0:11:53.64,*Default,NTP,0000,0000,0000,,-你不会的  -我会的\N{\fn微软雅黑\fs14}- You will not. - I will.
+Dialogue: 0,0:11:53.64,0:11:55.36,*Default,NTP,0000,0000,0000,,-你不敢  -我敢\N{\fn微软雅黑\fs14}- You dare not. - I dare yes.
+Dialogue: 0,0:11:55.36,0:11:57.49,*Default,NTP,0000,0000,0000,,-但是继承顺序  -那是什么意思\N{\fn微软雅黑\fs14}- The line of succession. - What's that mean?
+Dialogue: 0,0:11:57.49,0:11:59.32,*Default,NTP,0000,0000,0000,,-正当程序  -那是什么意思\N{\fn微软雅黑\fs14}- The proper progression. - What's that mean?
+Dialogue: 0,0:11:59.32,0:12:02.19,*Default,NTP,0000,0000,0000,,-合法晋升  -那是什么意思\N{\fn微软雅黑\fs14}- The lawful ascension. - What's that mean?
+Dialogue: 0,0:12:14.21,0:12:17.15,*Default,NTP,0000,0000,0000,,闪开吧  把椅子给我\N{\fn微软雅黑\fs14}So move along, give me my chair
+Dialogue: 0,0:12:17.15,0:12:19.44,*Default,NTP,0000,0000,0000,,就不会再有麻烦了\N{\fn微软雅黑\fs14}and there won't be no more trouble.
+Dialogue: 0,0:12:22.87,0:12:25.67,*Default,NTP,0000,0000,0000,,但我们都说好的\N{\fn微软雅黑\fs14}But we had a deal all done and dusted.
+Dialogue: 0,0:12:25.86,0:12:28.84,*Default,NTP,0000,0000,0000,,我开始觉得你不值得信任了\N{\fn微软雅黑\fs14}I'm starting to think you can't be trusted.
+Dialogue: 0,0:12:39.44,0:12:41.33,*Default,NTP,0000,0000,0000,,救救我父亲\N{\fn微软雅黑\fs14}Save my father.
+Dialogue: 0,0:12:41.33,0:12:44.60,*Default,NTP,0000,0000,0000,,你的确该饶他一命  杀了他对你没有好处\N{\fn微软雅黑\fs14}Truly you should. Killing the man will do you no good.
+Dialogue: 0,0:12:44.60,0:12:47.16,*Default,NTP,0000,0000,0000,,-救救他吧  -饶他一命\N{\fn微软雅黑\fs14}- Save him, please. - Show him mercy.
+Dialogue: 0,0:12:47.16,0:12:49.75,*Default,NTP,0000,0000,0000,,让人民看到一个好国王的气度\N{\fn微软雅黑\fs14}Show the people what a good king should be.
+Dialogue: 0,0:12:49.75,0:12:51.89,*Default,NTP,0000,0000,0000,,各位  别紧张\N{\fn微软雅黑\fs14}Good people, you may all relax.
+Dialogue: 0,0:12:51.89,0:12:54.24,*Default,NTP,0000,0000,0000,,我父亲的朋友会被饶恕\N{\fn微软雅黑\fs14}My father's friend shall be spared the--
+Dialogue: 0,0:12:56.83,0:12:58.74,*Default,NTP,0000,0000,0000,,父亲  不\N{\fn微软雅黑\fs14}Father! No!
+Dialogue: 0,0:12:59.33,0:13:01.31,*Default,NTP,0000,0000,0000,,父亲\N{\fn微软雅黑\fs14}Oh, Father.
+Dialogue: 0,0:13:11.76,0:13:14.67,*Default,NTP,0000,0000,0000,,别担心  没事的\N{\fn微软雅黑\fs14}Worry not! All is well.
+Dialogue: 0,0:13:14.67,0:13:19.60,*Default,NTP,0000,0000,0000,,我有我父亲泰温·兰尼斯特下达的法令\N{\fn微软雅黑\fs14}I have here a decree from my father Tywin Lannister,
+Dialogue: 0,0:13:19.62,0:13:21.75,*Default,NTP,0000,0000,0000,,他是世上最有钱的人\N{\fn微软雅黑\fs14}the richest man you'll see.
+Dialogue: 0,0:13:21.81,0:13:24.43,*Default,NTP,0000,0000,0000,,他宣布我为国王之手\N{\fn微软雅黑\fs14}He proclaims me Hand of the King.
+Dialogue: 0,0:13:24.62,0:13:26.42,*Default,NTP,0000,0000,0000,,这位子永远属于我了\N{\fn微软雅黑\fs14}The position's mine for life.
+Dialogue: 0,0:13:26.42,0:13:31.42,*Default,NTP,0000,0000,0000,,他还允许我娶珊莎为妻\N{\fn微软雅黑\fs14}And he's given me permission to take Sansa as my wife.
+Dialogue: 0,0:13:33.88,0:13:35.94,*Default,NTP,0000,0000,0000,,你会发现我个头虽然不高\N{\fn微软雅黑\fs14}You'll learn that what I lack in height,
+Dialogue: 0,0:13:35.94,0:13:38.25,*Default,NTP,0000,0000,0000,,胃口却大得很\N{\fn微软雅黑\fs14}I make up for in appetite.
+Dialogue: 0,0:13:38.30,0:13:40.33,*Default,NTP,0000,0000,0000,,忘了你的誓约吧\N{\fn微软雅黑\fs14}So let's forget about your plight,
+Dialogue: 0,0:13:40.33,0:13:42.79,*Default,NTP,0000,0000,0000,,去彩排我们的新婚之夜\N{\fn微软雅黑\fs14}and go rehearse our wedding night.
+Dialogue: 0,0:13:52.90,0:13:55.33,*Default,NTP,0000,0000,0000,,有个疣子  有两个\N{\fn微软雅黑\fs14}It's a wart. Two warts.
+Dialogue: 0,0:13:55.33,0:13:57.06,*Default,NTP,0000,0000,0000,,我的命根子上有俩疣子\N{\fn微软雅黑\fs14}I've got two fucking warts on my cock.
+Dialogue: 0,0:13:57.06,0:13:58.23,*Default,NTP,0000,0000,0000,,别担心  亲爱的\N{\fn微软雅黑\fs14}Well, don't worry, love.
+Dialogue: 0,0:13:58.23,0:14:00.29,*Default,NTP,0000,0000,0000,,过个五六年就消了\N{\fn微软雅黑\fs14}They usually go away in five or six years.
+Dialogue: 0,0:14:01.34,0:14:04.15,*Default,NTP,0000,0000,0000,,把这件洗了  沾了我一身臭气\N{\fn微软雅黑\fs14}Oh, wash this, darling. It stinks of me.
+Dialogue: 0,0:14:04.15,0:14:06.53,*Default,NTP,0000,0000,0000,,你可以演得更好的  比安卡  亲爱的\N{\fn微软雅黑\fs14}You can do better, Bianca, dear.
+Dialogue: 0,0:14:06.53,0:14:07.46,*Default,NTP,0000,0000,0000,,你必须演得更好\N{\fn微软雅黑\fs14}You must do.
+Dialogue: 0,0:14:07.88,0:14:09.23,*Default,NTP,0000,0000,0000,,我就两句台词\N{\fn微软雅黑\fs14}I had two lines.
+Dialogue: 0,0:14:09.23,0:14:12.02,*Default,NTP,0000,0000,0000,,没有所谓的小角色  你太浮夸了\N{\fn微软雅黑\fs14}There are no small parts. You rang very false.
+Dialogue: 0,0:14:12.03,0:14:13.59,*Default,NTP,0000,0000,0000,,我浮夸\N{\fn微软雅黑\fs14}I rang very false?
+Dialogue: 0,0:14:13.59,0:14:16.24,*Default,NTP,0000,0000,0000,,亲爱的  你需要有人给你点真实感\N{\fn微软雅黑\fs14}What you need, love, is for someone to ring you true.
+Dialogue: 0,0:14:18.84,0:14:20.36,*Default,NTP,0000,0000,0000,,你昨晚可没抱怨我\N{\fn微软雅黑\fs14}You weren't complaining about me last night.
+Dialogue: 0,0:14:20.36,0:14:22.64,*Default,NTP,0000,0000,0000,,需要我给您拿点红酒来吗  克连恩夫人\N{\fn微软雅黑\fs14}May I get you some wine, Lady Crane?
+Dialogue: 0,0:14:22.70,0:14:24.75,*Default,NTP,0000,0000,0000,,我喜欢喝朗姆酒  博邦奴\N{\fn微软雅黑\fs14}I'm a rum girl, Bobono.
+Dialogue: 0,0:14:25.28,0:14:27.34,*Default,NTP,0000,0000,0000,,如果我们要亲近  你就得知道这些事\N{\fn微软雅黑\fs14}You need to know that if we're going to be intimate.
+Dialogue: 0,0:14:27.34,0:14:28.90,*Default,NTP,0000,0000,0000,,我们当然会亲近了\N{\fn微软雅黑\fs14}Of course we're going to be intimate.
+Dialogue: 0,0:14:28.90,0:14:30.57,*Default,NTP,0000,0000,0000,,迟早的事\N{\fn微软雅黑\fs14}It's only a matter of time.
+Dialogue: 0,0:14:35.29,0:14:36.64,*Default,NTP,0000,0000,0000,,敬我们的孩子们\N{\fn微软雅黑\fs14}To our children.
+Dialogue: 0,0:14:36.73,0:14:38.47,*Default,NTP,0000,0000,0000,,原他们有你的才华\N{\fn微软雅黑\fs14}May they have your talent.
+Dialogue: 0,0:14:38.47,0:14:40.42,*Default,NTP,0000,0000,0000,,和你的下流\N{\fn微软雅黑\fs14}And your filthy mind.
+Dialogue: 0,0:14:47.28,0:14:48.86,*Default,NTP,0000,0000,0000,,女孩要在朗姆酒里下毒\N{\fn微软雅黑\fs14}A girl will poison the rum.
+Dialogue: 0,0:14:49.90,0:14:51.73,*Default,NTP,0000,0000,0000,,只有克连恩夫人喝那个\N{\fn微软雅黑\fs14}Lady Crane is the only one who drinks it.
+Dialogue: 0,0:14:56.26,0:14:58.82,*Default,NTP,0000,0000,0000,,如果女孩可以用大厅里的脸\N{\fn微软雅黑\fs14}If a girl could use one of the faces from the hall...
+Dialogue: 0,0:14:59.62,0:15:00.95,*Default,NTP,0000,0000,0000,,女孩还没准备好\N{\fn微软雅黑\fs14}A girl is not ready.
+Dialogue: 0,0:15:04.50,0:15:05.88,*Default,NTP,0000,0000,0000,,她是个好演员\N{\fn微软雅黑\fs14}She's a good actress.
+Dialogue: 0,0:15:06.40,0:15:08.01,*Default,NTP,0000,0000,0000,,某人听说了\N{\fn微软雅黑\fs14}So a man has heard.
+Dialogue: 0,0:15:09.80,0:15:11.30,*Default,NTP,0000,0000,0000,,似乎是个好人\N{\fn微软雅黑\fs14}Seems like a decent woman.
+Dialogue: 0,0:15:14.85,0:15:18.15,*Default,NTP,0000,0000,0000,,难道死亡只带走恶人而留下好人吗\N{\fn微软雅黑\fs14}Does death only come for the wicked and leave the decent behind?
+Dialogue: 0,0:15:20.58,0:15:21.44,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑\fs14}No.
+Dialogue: 0,0:15:25.83,0:15:27.06,*Default,NTP,0000,0000,0000,,谁要她死\N{\fn微软雅黑\fs14}Who wants her dead?
+Dialogue: 0,0:15:27.24,0:15:30.04,*Default,NTP,0000,0000,0000,,无所谓  钱已付\N{\fn微软雅黑\fs14}That does not matter. The price was paid.
+Dialogue: 0,0:15:32.13,0:15:33.42,*Default,NTP,0000,0000,0000,,年轻一点的那个女演员\N{\fn微软雅黑\fs14}The younger actress.
+Dialogue: 0,0:15:35.00,0:15:37.17,*Default,NTP,0000,0000,0000,,她嫉妒克连恩夫人演得更好\N{\fn微软雅黑\fs14}She's jealous because Lady Crane is better.
+Dialogue: 0,0:15:38.60,0:15:41.84,*Default,NTP,0000,0000,0000,,女孩得决定她是否想服侍千面之神\N{\fn微软雅黑\fs14}A girl must decide if she wants to serve the Many-Faced God.
+Dialogue: 0,0:15:43.51,0:15:44.88,*Default,NTP,0000,0000,0000,,女孩已经决定了\N{\fn微软雅黑\fs14}A girl has decided.
+Dialogue: 0,0:15:46.13,0:15:48.58,*Default,NTP,0000,0000,0000,,仆人不提问题\N{\fn微软雅黑\fs14}A servant does not ask questions.
+Dialogue: 0,0:16:58.31,0:17:00.67,*Default,NTP,0000,0000,0000,,不不不\N{\fn微软雅黑\fs14}No! No! No!
+Dialogue: 0,0:17:24.18,0:17:25.17,*Default,NTP,0000,0000,0000,,是你\N{\fn微软雅黑\fs14}It was you.
+Dialogue: 0,0:17:26.38,0:17:28.01,*Default,NTP,0000,0000,0000,,是你创造了异鬼\N{\fn微软雅黑\fs14}You made the white walkers.
+Dialogue: 0,0:17:28.45,0:17:29.55,*Default,NTP,0000,0000,0000,,我们当时在打仗\N{\fn微软雅黑\fs14}We were at war.
+Dialogue: 0,0:17:30.74,0:17:32.18,*Default,NTP,0000,0000,0000,,我们惨遭屠戮\N{\fn微软雅黑\fs14}We were being slaughtered.
+Dialogue: 0,0:17:32.78,0:17:34.38,*Default,NTP,0000,0000,0000,,我们的圣树被砍伐\N{\fn微软雅黑\fs14}Our sacred trees cut down.
+Dialogue: 0,0:17:35.69,0:17:37.46,*Default,NTP,0000,0000,0000,,我们需要保护自己\N{\fn微软雅黑\fs14}We needed to defend ourselves.
+Dialogue: 0,0:17:38.04,0:17:39.19,*Default,NTP,0000,0000,0000,,抵御谁\N{\fn微软雅黑\fs14}From whom?
+Dialogue: 0,0:17:40.21,0:17:41.27,*Default,NTP,0000,0000,0000,,你们\N{\fn微软雅黑\fs14}From you.
+Dialogue: 0,0:17:42.86,0:17:43.85,*Default,NTP,0000,0000,0000,,人类\N{\fn微软雅黑\fs14}From men.
+Dialogue: 0,0:17:53.30,0:17:55.98,*Default,NTP,0000,0000,0000,,淹神为证\N{\fn微软雅黑\fs14}We speak in the presence of the Drowned God.
+Dialogue: 0,0:17:57.07,0:17:58.92,*Default,NTP,0000,0000,0000,,我们今天以他之名齐聚于此\N{\fn微软雅黑\fs14}In his name we gather today
+Dialogue: 0,0:17:58.92,0:18:01.85,*Default,NTP,0000,0000,0000,,选一位新王做我们的领袖\N{\fn微软雅黑\fs14}to choose a new king as our leader.
+Dialogue: 0,0:18:02.52,0:18:04.14,*Default,NTP,0000,0000,0000,,谁要称王\N{\fn微软雅黑\fs14}Who makes a claim?
+Dialogue: 0,0:18:09.75,0:18:11.57,*Default,NTP,0000,0000,0000,,我是雅拉·葛雷乔伊\N{\fn微软雅黑\fs14}I am Yara Greyjoy,
+Dialogue: 0,0:18:12.01,0:18:14.21,*Default,NTP,0000,0000,0000,,巴隆·葛雷乔伊之女\N{\fn微软雅黑\fs14}daughter of Balon Greyjoy,
+Dialogue: 0,0:18:14.30,0:18:16.08,*Default,NTP,0000,0000,0000,,他是铁群岛的先王\N{\fn微软雅黑\fs14}King of the Iron Islands.
+Dialogue: 0,0:18:18.14,0:18:19.87,*Default,NTP,0000,0000,0000,,我要继承盐王座\N{\fn微软雅黑\fs14}I claim the Salt Throne.
+Dialogue: 0,0:18:19.87,0:18:22.53,*Default,NTP,0000,0000,0000,,我们从没有过女王  一个也没有\N{\fn微软雅黑\fs14}We've never had a queen. Not once.
+Dialogue: 0,0:18:22.54,0:18:24.52,*Default,NTP,0000,0000,0000,,我们有好多没做过的事呢\N{\fn微软雅黑\fs14}There are many things we've never done.
+Dialogue: 0,0:18:25.53,0:18:27.87,*Default,NTP,0000,0000,0000,,我们也从未在这世上闯出过名堂\N{\fn微软雅黑\fs14}We've never made our mark upon the world.
+Dialogue: 0,0:18:28.23,0:18:31.68,*Default,NTP,0000,0000,0000,,维斯特洛的大老爷们根本不在意我们\N{\fn微软雅黑\fs14}The great lords of Westeros pay us no mind
+Dialogue: 0,0:18:31.78,0:18:34.45,*Default,NTP,0000,0000,0000,,直到我们在他们的王国不断地烧杀掳掠\N{\fn微软雅黑\fs14}until our little raids buzz through their kingdoms
+Dialogue: 0,0:18:34.46,0:18:36.43,*Default,NTP,0000,0000,0000,,成了他们的眼中钉肉中刺\N{\fn微软雅黑\fs14}long enough to become a nuisance.
+Dialogue: 0,0:18:36.52,0:18:38.12,*Default,NTP,0000,0000,0000,,然后他们将我们打垮\N{\fn微软雅黑\fs14}Then they swat us down.
+Dialogue: 0,0:18:38.64,0:18:42.05,*Default,NTP,0000,0000,0000,,征服我们  羞辱我们\N{\fn微软雅黑\fs14}They conquer us, humiliate us,
+Dialogue: 0,0:18:42.41,0:18:44.95,*Default,NTP,0000,0000,0000,,又忘记我们的存在\N{\fn微软雅黑\fs14}and go right back to forgetting we exist.
+Dialogue: 0,0:18:44.95,0:18:46.05,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs14}Aye!
+Dialogue: 0,0:18:47.00,0:18:49.37,*Default,NTP,0000,0000,0000,,-我们是海洋的子民  -没错\N{\fn微软雅黑\fs14}- We are a sea people. - Aye!
+Dialogue: 0,0:18:49.38,0:18:52.26,*Default,NTP,0000,0000,0000,,-我们的神是海洋的神灵  -没错\N{\fn微软雅黑\fs14}- Our god is a sea god. - Aye!
+Dialogue: 0,0:18:52.26,0:18:54.71,*Default,NTP,0000,0000,0000,,当我成为女王  我们将打造一支舰队...\N{\fn微软雅黑\fs14}When I am queen, we will build a fleet that--
+Dialogue: 0,0:18:54.71,0:18:56.44,*Default,NTP,0000,0000,0000,,-你不能做女王  -我还没有说完\N{\fn微软雅黑\fs14}- You shall not be queen! - I am not finished!
+Dialogue: 0,0:18:56.44,0:18:59.50,*Default,NTP,0000,0000,0000,,你说完了  女人不能领导我们\N{\fn微软雅黑\fs14}Yes, you are! A woman will not lead us.
+Dialogue: 0,0:18:59.62,0:19:02.50,*Default,NTP,0000,0000,0000,,毕竟巴隆的儿子已经回来了\N{\fn微软雅黑\fs14}Not when Balon's own male heir has returned.
+Dialogue: 0,0:19:29.99,0:19:31.77,*Default,NTP,0000,0000,0000,,我是席恩·葛雷乔伊\N{\fn微软雅黑\fs14}I am Theon Greyjoy...
+Dialogue: 0,0:19:33.51,0:19:36.11,*Default,NTP,0000,0000,0000,,巴隆·葛雷乔伊仅存的儿子\N{\fn微软雅黑\fs14}last living son of Balon Greyjoy.
+Dialogue: 0,0:19:44.06,0:19:46.66,*Default,NTP,0000,0000,0000,,她是你们合法的统治者\N{\fn微软雅黑\fs14}And she is your rightful ruler.
+Dialogue: 0,0:19:46.67,0:19:47.84,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs14}Aye!
+Dialogue: 0,0:19:48.29,0:19:50.09,*Default,NTP,0000,0000,0000,,你们曾在她的号令下出海\N{\fn微软雅黑\fs14}Those of you that have sailed under her,
+Dialogue: 0,0:19:50.09,0:19:51.90,*Default,NTP,0000,0000,0000,,在场的很多人\N{\fn微软雅黑\fs14}and there are many of you here,
+Dialogue: 0,0:19:52.35,0:19:54.46,*Default,NTP,0000,0000,0000,,-也都了解她  -没错\N{\fn微软雅黑\fs14}- you know what she is. - Aye!
+Dialogue: 0,0:19:54.78,0:19:56.53,*Default,NTP,0000,0000,0000,,-她是掠夺者  -没错\N{\fn微软雅黑\fs14}- She is a reaver. - Aye!
+Dialogue: 0,0:19:56.53,0:19:58.30,*Default,NTP,0000,0000,0000,,-她是战士  -没错\N{\fn微软雅黑\fs14}- She is a warrior. - Aye!
+Dialogue: 0,0:19:58.30,0:20:00.03,*Default,NTP,0000,0000,0000,,她是铁种\N{\fn微软雅黑\fs14}She is ironborn!
+Dialogue: 0,0:20:00.03,0:20:00.95,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs14}Aye!
+Dialogue: 0,0:20:01.44,0:20:03.80,*Default,NTP,0000,0000,0000,,没有比她更合适的领袖\N{\fn微软雅黑\fs14}We will find no better leader.
+Dialogue: 0,0:20:07.90,0:20:09.29,*Default,NTP,0000,0000,0000,,她就是我们的女王\N{\fn微软雅黑\fs14}This is our queen.
+Dialogue: 0,0:20:15.99,0:20:18.34,*Default,NTP,0000,0000,0000,,雅拉  雅拉  雅拉\N{\fn微软雅黑\fs14}Yara! Yara! Yara!
+Dialogue: 0,0:20:18.34,0:20:20.55,*Default,NTP,0000,0000,0000,,我是攸伦·葛雷乔伊\N{\fn微软雅黑\fs14}I'm Euron Greyjoy.
+Dialogue: 0,0:20:21.54,0:20:23.62,*Default,NTP,0000,0000,0000,,我要继承盐王座\N{\fn微软雅黑\fs14}I claim the Salt Throne.
+Dialogue: 0,0:20:35.12,0:20:36.03,*Default,NTP,0000,0000,0000,,侄女\N{\fn微软雅黑\fs14}Niece.
+Dialogue: 0,0:20:38.22,0:20:39.21,*Default,NTP,0000,0000,0000,,侄子\N{\fn微软雅黑\fs14}Nephew.
+Dialogue: 0,0:20:41.05,0:20:42.20,*Default,NTP,0000,0000,0000,,小席恩\N{\fn微软雅黑\fs14}Little Theon.
+Dialogue: 0,0:20:44.45,0:20:47.62,*Default,NTP,0000,0000,0000,,听说你把事情搞砸了\N{\fn微软雅黑\fs14}Heard you managed to fuck things right into the ground.
+Dialogue: 0,0:20:48.80,0:20:50.89,*Default,NTP,0000,0000,0000,,夺下一座守不住的城堡\N{\fn微软雅黑\fs14}Captured a castle you couldn't keep.
+Dialogue: 0,0:20:51.19,0:20:53.06,*Default,NTP,0000,0000,0000,,害自己沦为阶下囚\N{\fn微软雅黑\fs14}Got yourself taken prisoner.
+Dialogue: 0,0:20:54.73,0:20:56.54,*Default,NTP,0000,0000,0000,,还听说你没了命根子\N{\fn微软雅黑\fs14}Even heard you have no cock.
+Dialogue: 0,0:21:00.27,0:21:02.66,*Default,NTP,0000,0000,0000,,难怪你觉得女人可以称王\N{\fn微软雅黑\fs14}Explains why you think a woman can be king.
+Dialogue: 0,0:21:02.80,0:21:04.34,*Default,NTP,0000,0000,0000,,你什么时候回来的  叔叔\N{\fn微软雅黑\fs14}When did you return, Uncle?
+Dialogue: 0,0:21:04.34,0:21:05.58,*Default,NTP,0000,0000,0000,,几天前\N{\fn微软雅黑\fs14}A few days ago.
+Dialogue: 0,0:21:06.94,0:21:08.81,*Default,NTP,0000,0000,0000,,我有一些事情需要处理\N{\fn微软雅黑\fs14}I had some things to take care of.
+Dialogue: 0,0:21:09.38,0:21:10.65,*Default,NTP,0000,0000,0000,,拖了很久了\N{\fn微软雅黑\fs14}Long overdue.
+Dialogue: 0,0:21:12.39,0:21:13.89,*Default,NTP,0000,0000,0000,,很高兴你来了\N{\fn微软雅黑\fs14}I'm glad you're here.
+Dialogue: 0,0:21:15.96,0:21:19.04,*Default,NTP,0000,0000,0000,,现在我知道登基后首先该做什么\N{\fn微软雅黑\fs14}Now I know what my first act as queen will be.
+Dialogue: 0,0:21:19.89,0:21:22.93,*Default,NTP,0000,0000,0000,,处死杀害我父亲的凶手\N{\fn微软雅黑\fs14}To execute the man who killed my father.
+Dialogue: 0,0:21:29.47,0:21:30.40,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs14}I did.
+Dialogue: 0,0:21:31.21,0:21:32.26,*Default,NTP,0000,0000,0000,,是我杀了他\N{\fn微软雅黑\fs14}I killed him.
+Dialogue: 0,0:21:34.43,0:21:36.78,*Default,NTP,0000,0000,0000,,把他扔下了索桥\N{\fn微软雅黑\fs14}Threw him right over a rope bridge
+Dialogue: 0,0:21:36.80,0:21:38.05,*Default,NTP,0000,0000,0000,,看着他摔死\N{\fn微软雅黑\fs14}and watched him fall.
+Dialogue: 0,0:21:40.04,0:21:42.01,*Default,NTP,0000,0000,0000,,他在领导我们走向末路\N{\fn微软雅黑\fs14}He was leading us nowhere
+Dialogue: 0,0:21:42.26,0:21:44.75,*Default,NTP,0000,0000,0000,,若不是我  我们还在死路上呢\N{\fn微软雅黑\fs14}and we would still be heading there if it weren't for me.
+Dialogue: 0,0:21:44.95,0:21:47.95,*Default,NTP,0000,0000,0000,,没人爱戴他  没人想要追随他\N{\fn微软雅黑\fs14}No one loved him. No one wanted to follow him.
+Dialogue: 0,0:21:47.95,0:21:50.50,*Default,NTP,0000,0000,0000,,他害我们卷进了两场赢不了的战争\N{\fn微软雅黑\fs14}He led us into two wars we couldn't win.
+Dialogue: 0,0:21:50.96,0:21:54.84,*Default,NTP,0000,0000,0000,,我向各位道歉  没有早几年杀了他\N{\fn微软雅黑\fs14}I apologize to you all for not killing him years ago.
+Dialogue: 0,0:21:54.84,0:21:56.41,*Default,NTP,0000,0000,0000,,那恐怕很难\N{\fn微软雅黑\fs14}That would have been hard to do.
+Dialogue: 0,0:21:57.10,0:21:58.26,*Default,NTP,0000,0000,0000,,你不在这里\N{\fn微软雅黑\fs14}You weren't here.
+Dialogue: 0,0:21:59.08,0:22:01.22,*Default,NTP,0000,0000,0000,,上次听到你的消息  你正在满世界闲逛\N{\fn微软雅黑\fs14}Last I heard, you were gallivanting around the world
+Dialogue: 0,0:22:01.22,0:22:02.71,*Default,NTP,0000,0000,0000,,纵情享乐\N{\fn微软雅黑\fs14}having a grand old time.
+Dialogue: 0,0:22:02.71,0:22:03.81,*Default,NTP,0000,0000,0000,,闲逛\N{\fn微软雅黑\fs14}Gallivanting?
+Dialogue: 0,0:22:04.67,0:22:06.14,*Default,NTP,0000,0000,0000,,你的命根子被切掉以后\N{\fn微软雅黑\fs14}That the sort of thing you start to say
+Dialogue: 0,0:22:06.15,0:22:08.04,*Default,NTP,0000,0000,0000,,开始这么说话了吗\N{\fn微软雅黑\fs14}once your dick gets chopped off?
+Dialogue: 0,0:22:08.71,0:22:11.63,*Default,NTP,0000,0000,0000,,是维斯特洛的老爷们教你这么说话吗\N{\fn微软雅黑\fs14}Did the great lords of Westeros teach you words like that?
+Dialogue: 0,0:22:12.72,0:22:13.85,*Default,NTP,0000,0000,0000,,你当时走了\N{\fn微软雅黑\fs14}You were gone.
+Dialogue: 0,0:22:14.60,0:22:16.04,*Default,NTP,0000,0000,0000,,雅拉在\N{\fn微软雅黑\fs14}Yara was here.
+Dialogue: 0,0:22:16.22,0:22:19.02,*Default,NTP,0000,0000,0000,,身为铁种  领导铁种\N{\fn微软雅黑\fs14}Being ironborn. Leading ironborn.
+Dialogue: 0,0:22:19.02,0:22:21.55,*Default,NTP,0000,0000,0000,,准备着带领我们重拾荣光\N{\fn微软雅黑\fs14}Getting ready to bring us back to glory.
+Dialogue: 0,0:22:22.50,0:22:23.92,*Default,NTP,0000,0000,0000,,她打算怎么做\N{\fn微软雅黑\fs14}And how will she do that?
+Dialogue: 0,0:22:24.78,0:22:28.08,*Default,NTP,0000,0000,0000,,我会打造一支世上最大的舰队\N{\fn微软雅黑\fs14}I will build the largest fleet the world has ever seen.
+Dialogue: 0,0:22:30.40,0:22:31.57,*Default,NTP,0000,0000,0000,,想法对头\N{\fn微软雅黑\fs14}Right idea,
+Dialogue: 0,0:22:31.91,0:22:34.72,*Default,NTP,0000,0000,0000,,只不过打造铁舰队的人将会是我\N{\fn微软雅黑\fs14}except I'm the one who's going to build the Iron Fleet
+Dialogue: 0,0:22:34.85,0:22:37.03,*Default,NTP,0000,0000,0000,,因为只有我知道如何使用它\N{\fn微软雅黑\fs14}because I'm the one who knows how to use it.
+Dialogue: 0,0:22:37.19,0:22:38.70,*Default,NTP,0000,0000,0000,,我曾周游世界\N{\fn微软雅黑\fs14}I've been all over the world.
+Dialogue: 0,0:22:38.82,0:22:41.32,*Default,NTP,0000,0000,0000,,我比在场所有人都要见多识广\N{\fn微软雅黑\fs14}I've seen more of it than all of you combined.
+Dialogue: 0,0:22:42.31,0:22:45.04,*Default,NTP,0000,0000,0000,,在大海对岸  有一个人\N{\fn微软雅黑\fs14}And across the sea there is a person
+Dialogue: 0,0:22:45.04,0:22:49.17,*Default,NTP,0000,0000,0000,,跟我们一样憎恨维斯特洛的老爷们\N{\fn微软雅黑\fs14}who hates the great lords of Westeros just as much as we do.
+Dialogue: 0,0:22:49.58,0:22:51.50,*Default,NTP,0000,0000,0000,,那人有一支大军\N{\fn微软雅黑\fs14}Someone with a large army,
+Dialogue: 0,0:22:51.50,0:22:55.48,*Default,NTP,0000,0000,0000,,三只巨龙  眼下尚无夫婿\N{\fn微软雅黑\fs14}three large dragons, and no husband.
+Dialogue: 0,0:22:55.91,0:22:57.71,*Default,NTP,0000,0000,0000,,我会打造一支舰队\N{\fn微软雅黑\fs14}I'm going to build that fleet
+Dialogue: 0,0:22:57.97,0:23:00.41,*Default,NTP,0000,0000,0000,,闲逛过去\N{\fn微软雅黑\fs14}and I'm going to gallivant right over
+Dialogue: 0,0:23:00.41,0:23:02.44,*Default,NTP,0000,0000,0000,,将它交给丹妮莉丝·坦格利安\N{\fn微软雅黑\fs14}and give it to Daenerys Targaryen
+Dialogue: 0,0:23:02.44,0:23:04.55,*Default,NTP,0000,0000,0000,,再奉上我的大屌\N{\fn微软雅黑\fs14}along with my big cock.
+Dialogue: 0,0:23:05.17,0:23:07.01,*Default,NTP,0000,0000,0000,,你要勾引龙女王\N{\fn微软雅黑\fs14}You're going to seduce the Dragon Queen?
+Dialogue: 0,0:23:07.01,0:23:10.45,*Default,NTP,0000,0000,0000,,我不会勾引她  勾引她的是铁舰队\N{\fn微软雅黑\fs14}I'm not going to seduce her. The Iron Fleet will seduce her.
+Dialogue: 0,0:23:10.45,0:23:13.08,*Default,NTP,0000,0000,0000,,我们将一起征服七国\N{\fn微软雅黑\fs14}And together we're going to take the Seven Kingdoms.
+Dialogue: 0,0:23:14.37,0:23:16.03,*Default,NTP,0000,0000,0000,,我并非生来就是王\N{\fn微软雅黑\fs14}I wasn't born to be king.
+Dialogue: 0,0:23:16.91,0:23:18.73,*Default,NTP,0000,0000,0000,,我付了铁钱\N{\fn微软雅黑\fs14}I paid the iron price
+Dialogue: 0,0:23:19.41,0:23:20.96,*Default,NTP,0000,0000,0000,,现在我站在这里\N{\fn微软雅黑\fs14}and here I stand.
+Dialogue: 0,0:23:22.53,0:23:26.42,*Default,NTP,0000,0000,0000,,攸伦  攸伦  攸伦  攸伦\N{\fn微软雅黑\fs14}Euron! Euron! Euron! Euron!
+Dialogue: 0,0:23:26.49,0:23:30.35,*Default,NTP,0000,0000,0000,,攸伦  攸伦  攸伦  攸伦\N{\fn微软雅黑\fs14}Euron! Euron! Euron! Euron!
+Dialogue: 0,0:23:30.35,0:23:32.55,*Default,NTP,0000,0000,0000,,攸伦  攸伦\N{\fn微软雅黑\fs14}Euron! Euron!
+Dialogue: 0,0:23:44.14,0:23:45.57,*Default,NTP,0000,0000,0000,,让攸伦  您的仆人\N{\fn微软雅黑\fs14}May Euron, your servant,
+Dialogue: 0,0:23:45.57,0:23:48.67,*Default,NTP,0000,0000,0000,,与您一样从海里重生\N{\fn微软雅黑\fs14}be born again from the sea as you were.
+Dialogue: 0,0:23:49.19,0:23:52.39,*Default,NTP,0000,0000,0000,,赐予他海盐的祝福  赐予他坚石的祝福\N{\fn微软雅黑\fs14}Bless him with salt. Bless him with stone.
+Dialogue: 0,0:23:52.72,0:23:54.17,*Default,NTP,0000,0000,0000,,赐予他钢铁的祝福\N{\fn微软雅黑\fs14}Bless him with steel.
+Dialogue: 0,0:23:54.49,0:23:57.42,*Default,NTP,0000,0000,0000,,听那海涛的声音  听那神灵的呼唤\N{\fn微软雅黑\fs14}Listen to the waves. Listen to the god.
+Dialogue: 0,0:23:57.69,0:24:00.36,*Default,NTP,0000,0000,0000,,他正在对我们说话  他说\N{\fn微软雅黑\fs14}He is speaking to us and he says
+Dialogue: 0,0:24:00.86,0:24:04.65,*Default,NTP,0000,0000,0000,,我们将奉攸伦·葛雷乔伊为王\N{\fn微软雅黑\fs14}we shall have no king but Euron Greyjoy.
+Dialogue: 0,0:24:05.65,0:24:09.18,*Default,NTP,0000,0000,0000,,让大海洗去你的愚昧和虚妄\N{\fn微软雅黑\fs14}Let the sea wash your follies and your vanities away.
+Dialogue: 0,0:24:09.26,0:24:11.28,*Default,NTP,0000,0000,0000,,淹死过去的攸伦\N{\fn微软雅黑\fs14}Let the old Euron drown.
+Dialogue: 0,0:24:11.28,0:24:13.94,*Default,NTP,0000,0000,0000,,让海水充盈他的肺\N{\fn微软雅黑\fs14}Let his lungs fill with seawater.
+Dialogue: 0,0:24:20.10,0:24:23.02,*Default,NTP,0000,0000,0000,,让鱼儿吃掉他眼睛上的鳞\N{\fn微软雅黑\fs14}Let the fish eat the scales off his eyes.
+Dialogue: 0,0:24:23.26,0:24:25.54,*Default,NTP,0000,0000,0000,,逝者不死\N{\fn微软雅黑\fs14}What is dead may never die,
+Dialogue: 0,0:24:25.67,0:24:29.05,*Default,NTP,0000,0000,0000,,必将再起  其势更烈\N{\fn微软雅黑\fs14}but rises again harder and stronger.
+Dialogue: 0,0:25:36.42,0:25:39.34,*Default,NTP,0000,0000,0000,,逝者不死\N{\fn微软雅黑\fs14}What is dead may never die.
+Dialogue: 0,0:25:39.37,0:25:41.81,*Default,NTP,0000,0000,0000,,逝者不死\N{\fn微软雅黑\fs14}What is dead may never die.
+Dialogue: 0,0:25:56.40,0:25:58.37,*Default,NTP,0000,0000,0000,,我的侄儿侄女在哪儿\N{\fn微软雅黑\fs14}Where are my niece and nephew?
+Dialogue: 0,0:26:03.78,0:26:05.25,*Default,NTP,0000,0000,0000,,我们去杀了他们\N{\fn微软雅黑\fs14}Let's go murder them.
+Dialogue: 0,0:26:25.80,0:26:27.54,*Default,NTP,0000,0000,0000,,他们偷走了我们最好的船\N{\fn微软雅黑\fs14}They stole our best ships.
+Dialogue: 0,0:26:29.61,0:26:31.20,*Default,NTP,0000,0000,0000,,那也救不了他们\N{\fn微软雅黑\fs14}Won't be enough to save them.
+Dialogue: 0,0:26:33.22,0:26:34.56,*Default,NTP,0000,0000,0000,,回家去\N{\fn微软雅黑\fs14}Go back to your homes.
+Dialogue: 0,0:26:35.44,0:26:37.57,*Default,NTP,0000,0000,0000,,砍倒每一棵树\N{\fn微软雅黑\fs14}Chop down every tree you can find.
+Dialogue: 0,0:26:37.84,0:26:40.18,*Default,NTP,0000,0000,0000,,锯开木头  开始造船\N{\fn微软雅黑\fs14}Quarter-saw the timber and start building.
+Dialogue: 0,0:26:40.55,0:26:42.69,*Default,NTP,0000,0000,0000,,我要每一个男人都去加工木板\N{\fn微软雅黑\fs14}I want every man bending planks.
+Dialogue: 0,0:26:42.76,0:26:45.34,*Default,NTP,0000,0000,0000,,我要每一个女人都去编织船帆\N{\fn微软雅黑\fs14}I want every woman spinning flax for sails.
+Dialogue: 0,0:26:46.32,0:26:48.11,*Default,NTP,0000,0000,0000,,为我造千艘战舰\N{\fn微软雅黑\fs14}Build me a thousand ships
+Dialogue: 0,0:26:48.75,0:26:50.92,*Default,NTP,0000,0000,0000,,我将还你们整个世界\N{\fn微软雅黑\fs14}and I will give you this world.
+Dialogue: 0,0:27:10.54,0:27:13.21,*Default,NTP,0000,0000,0000,,我两次将你放逐\N{\fn微软雅黑\fs14}I banished you twice.
+Dialogue: 0,0:27:14.15,0:27:17.15,*Default,NTP,0000,0000,0000,,你又两度回到我身边\N{\fn微软雅黑\fs14}You came back twice.
+Dialogue: 0,0:27:20.75,0:27:22.33,*Default,NTP,0000,0000,0000,,你还救了我的命\N{\fn微软雅黑\fs14}And you saved my life.
+Dialogue: 0,0:27:27.14,0:27:28.92,*Default,NTP,0000,0000,0000,,所以我既不能接受你\N{\fn微软雅黑\fs14}So I can't take you back
+Dialogue: 0,0:27:29.46,0:27:31.47,*Default,NTP,0000,0000,0000,,也不能把你赶走\N{\fn微软雅黑\fs14}and I can't send you away.
+Dialogue: 0,0:27:33.81,0:27:35.26,*Default,NTP,0000,0000,0000,,您必须把我赶走\N{\fn微软雅黑\fs14}You must send me away.
+Dialogue: 0,0:27:49.16,0:27:50.46,*Default,NTP,0000,0000,0000,,有解药吗\N{\fn微软雅黑\fs14}Is there a cure?
+Dialogue: 0,0:27:51.56,0:27:52.57,*Default,NTP,0000,0000,0000,,我不清楚\N{\fn微软雅黑\fs14}I don't know.
+Dialogue: 0,0:27:54.44,0:27:55.80,*Default,NTP,0000,0000,0000,,你还剩多长时间\N{\fn微软雅黑\fs14}How long does it take?
+Dialogue: 0,0:27:56.92,0:27:58.35,*Default,NTP,0000,0000,0000,,这个我也不清楚\N{\fn微软雅黑\fs14}I don't know that either.
+Dialogue: 0,0:27:58.89,0:28:01.26,*Default,NTP,0000,0000,0000,,但是我见过病况更严重的样子\N{\fn微软雅黑\fs14}But I've seen what happens when it goes far enough.
+Dialogue: 0,0:28:02.65,0:28:04.54,*Default,NTP,0000,0000,0000,,在那之前我会做个了断\N{\fn微软雅黑\fs14}I'll end things before that.
+Dialogue: 0,0:28:08.28,0:28:09.57,*Default,NTP,0000,0000,0000,,我很遗憾\N{\fn微软雅黑\fs14}I'm sorry.
+Dialogue: 0,0:28:11.33,0:28:12.44,*Default,NTP,0000,0000,0000,,我非常遗憾\N{\fn微软雅黑\fs14}I'm so sorry.
+Dialogue: 0,0:28:12.45,0:28:13.59,*Default,NTP,0000,0000,0000,,不用这样\N{\fn微软雅黑\fs14}Don't be.
+Dialogue: 0,0:28:14.57,0:28:17.02,*Default,NTP,0000,0000,0000,,侍奉您是我毕生的愿望\N{\fn微软雅黑\fs14}All I've ever wanted was to serve you.
+Dialogue: 0,0:28:20.48,0:28:22.81,*Default,NTP,0000,0000,0000,,提利昂·兰尼斯特说的没错\N{\fn微软雅黑\fs14}Tyrion Lannister was right.
+Dialogue: 0,0:28:25.73,0:28:26.99,*Default,NTP,0000,0000,0000,,我爱您\N{\fn微软雅黑\fs14}I love you.
+Dialogue: 0,0:28:32.88,0:28:34.40,*Default,NTP,0000,0000,0000,,永远爱您\N{\fn微软雅黑\fs14}I'll always love you.
+Dialogue: 0,0:28:39.37,0:28:40.77,*Default,NTP,0000,0000,0000,,别了  卡丽熙\N{\fn微软雅黑\fs14}Good-bye, Khaleesi.
+Dialogue: 0,0:28:46.73,0:28:48.93,*Default,NTP,0000,0000,0000,,别离开你的女王\N{\fn微软雅黑\fs14}Do not walk away from your queen,
+Dialogue: 0,0:28:48.93,0:28:50.41,*Default,NTP,0000,0000,0000,,安达尔人乔拉\N{\fn微软雅黑\fs14}Jorah the Andal.
+Dialogue: 0,0:28:53.30,0:28:55.08,*Default,NTP,0000,0000,0000,,我还没允许你退下\N{\fn微软雅黑\fs14}You have not been dismissed.
+Dialogue: 0,0:28:57.25,0:28:59.05,*Default,NTP,0000,0000,0000,,你曾宣誓效忠于我\N{\fn微软雅黑\fs14}You pledged yourself to me.
+Dialogue: 0,0:28:59.75,0:29:03.03,*Default,NTP,0000,0000,0000,,你发誓终生奉行我的意旨\N{\fn微软雅黑\fs14}You swore to obey my commands for the rest of your life.
+Dialogue: 0,0:29:04.69,0:29:06.94,*Default,NTP,0000,0000,0000,,现在  我命令你找到解药\N{\fn微软雅黑\fs14}Well, I command you to find the cure
+Dialogue: 0,0:29:08.57,0:29:10.61,*Default,NTP,0000,0000,0000,,无论它在天涯海角\N{\fn微软雅黑\fs14}wherever it is in this world.
+Dialogue: 0,0:29:13.43,0:29:15.90,*Default,NTP,0000,0000,0000,,我命令你治愈自己\N{\fn微软雅黑\fs14}I command you to heal yourself
+Dialogue: 0,0:29:17.26,0:29:18.93,*Default,NTP,0000,0000,0000,,然后回到我身边\N{\fn微软雅黑\fs14}and then return to me.
+Dialogue: 0,0:29:22.07,0:29:24.25,*Default,NTP,0000,0000,0000,,当我夺取七大王国时\N{\fn微软雅黑\fs14}When I take the Seven Kingdoms,
+Dialogue: 0,0:29:25.28,0:29:27.17,*Default,NTP,0000,0000,0000,,我要你伴我左右\N{\fn微软雅黑\fs14}I need you by my side.
+Dialogue: 0,0:30:06.51,0:30:10.06,*Default,NTP,0000,0000,0000,,在我们与奴隶主达成协议之后的两个星期内\N{\fn微软雅黑\fs14}In the last fortnight since our pact with the Masters,
+Dialogue: 0,0:30:10.06,0:30:13.22,*Default,NTP,0000,0000,0000,,鹰身女妖之子造成了多少伤亡\N{\fn微软雅黑\fs14}how many killings have been carried out by the Sons of the Harpy?
+Dialogue: 0,0:30:13.60,0:30:14.71,*Default,NTP,0000,0000,0000,,无人伤亡\N{\fn微软雅黑\fs14}None.
+Dialogue: 0,0:30:14.75,0:30:17.99,*Default,NTP,0000,0000,0000,,自由人又杀了多少奴隶主呢\N{\fn微软雅黑\fs14}And how many Masters have been butchered by the free men?
+Dialogue: 0,0:30:17.99,0:30:20.58,*Default,NTP,0000,0000,0000,,两个  但那是达成协议当天的事情\N{\fn微软雅黑\fs14}Two, but that was the day of the pact.
+Dialogue: 0,0:30:20.58,0:30:22.12,*Default,NTP,0000,0000,0000,,在那之后  什么都没发生\N{\fn微软雅黑\fs14}Since then, nothing.
+Dialogue: 0,0:30:22.12,0:30:25.61,*Default,NTP,0000,0000,0000,,所以可以说我们维持了脆弱的和平\N{\fn微软雅黑\fs14}So it's safe to say that a fragile peace has taken hold.
+Dialogue: 0,0:30:25.61,0:30:26.76,*Default,NTP,0000,0000,0000,,暂时的和平\N{\fn微软雅黑\fs14}For now.
+Dialogue: 0,0:30:26.76,0:30:29.00,*Default,NTP,0000,0000,0000,,暂时的和平已经是我们得到的最好结果了\N{\fn微软雅黑\fs14}For now is the best we get in our profession.
+Dialogue: 0,0:30:29.00,0:30:30.21,*Default,NTP,0000,0000,0000,,然而这并不足够\N{\fn微软雅黑\fs14}It's not enough.
+Dialogue: 0,0:30:30.21,0:30:32.21,*Default,NTP,0000,0000,0000,,考虑到这座城市曾处于内战边缘\N{\fn微软雅黑\fs14}Considering the city was on the brink of civil war,
+Dialogue: 0,0:30:32.21,0:30:34.00,*Default,NTP,0000,0000,0000,,我觉得这是个不错的开头\N{\fn微软雅黑\fs14}I'd say it's a good start.
+Dialogue: 0,0:30:34.24,0:30:36.47,*Default,NTP,0000,0000,0000,,弥林只有和平可不够\N{\fn微软雅黑\fs14}It's not enough for Meereen to have peace.
+Dialogue: 0,0:30:36.87,0:30:39.73,*Default,NTP,0000,0000,0000,,他们得知道和平是丹妮莉丝带来的\N{\fn微软雅黑\fs14}They need to know Daenerys is responsible for it.
+Dialogue: 0,0:30:39.76,0:30:42.16,*Default,NTP,0000,0000,0000,,鹰身女妖之子有一套不错的说法\N{\fn微软雅黑\fs14}The Sons of the Harpy have a good story.
+Dialogue: 0,0:30:42.17,0:30:44.46,*Default,NTP,0000,0000,0000,,反抗异邦入侵者\N{\fn微软雅黑\fs14}Resist the foreign invaders.
+Dialogue: 0,0:30:44.46,0:30:46.76,*Default,NTP,0000,0000,0000,,我们的女王有一套更好的说法\N{\fn微软雅黑\fs14}Our queen has an even better story.
+Dialogue: 0,0:30:46.76,0:30:51.76,*Default,NTP,0000,0000,0000,,龙之母  解放者  以及所有那些名号\N{\fn微软雅黑\fs14}Mother of Dragons, Breaker of Chains and all that.
+Dialogue: 0,0:30:51.89,0:30:54.05,*Default,NTP,0000,0000,0000,,人民知道是谁带来了自由\N{\fn微软雅黑\fs14}The people know who brought them freedom.
+Dialogue: 0,0:30:54.05,0:30:56.52,*Default,NTP,0000,0000,0000,,是的  但他们知道是谁提供了安全吗\N{\fn微软雅黑\fs14}Yes, but do they know who brought them security?
+Dialogue: 0,0:30:56.68,0:30:58.91,*Default,NTP,0000,0000,0000,,是谁终结了暴力\N{\fn微软雅黑\fs14}Who brought about an end to the violence?
+Dialogue: 0,0:30:58.91,0:31:01.48,*Default,NTP,0000,0000,0000,,我们需要一个人民信任的人\N{\fn微软雅黑\fs14}We need someone the people trust,
+Dialogue: 0,0:31:01.48,0:31:04.96,*Default,NTP,0000,0000,0000,,那种他们相信不会被收买或利用的人\N{\fn微软雅黑\fs14}someone they know cannot be bought or influenced.
+Dialogue: 0,0:31:04.96,0:31:08.06,*Default,NTP,0000,0000,0000,,听起来是个英雄人物  我们去哪里找他呢\N{\fn微软雅黑\fs14}Sounds like quite the hero. Where would we find him?
+Dialogue: 0,0:31:08.06,0:31:10.21,*Default,NTP,0000,0000,0000,,谁说是"他"了\N{\fn微软雅黑\fs14}Who said anything about "Him"?
+Dialogue: 0,0:31:12.14,0:31:14.50,*Default,NTP,0000,0000,0000,,{\c&H86E8FC&\bord0\fs22\fsp1\b1\pos(193,245)}在诸位面前的是金瓦拉
+Dialogue: 0,0:31:15.65,0:31:18.31,*Default,NTP,0000,0000,0000,,{\c&H86E8FC&\bord0\fs22\fsp1\b1\pos(193,245)}瓦兰提斯红神庙的大祭司
+Dialogue: 0,0:31:18.91,0:31:20.13,*Default,NTP,0000,0000,0000,,{\c&H86E8FC&\bord0\fs22\fsp1\b1\pos(193,245)}真相之焰
+Dialogue: 0,0:31:20.34,0:31:21.53,*Default,NTP,0000,0000,0000,,{\c&H86E8FC&\bord0\fs22\fsp1\b1\pos(193,245)}智慧之光
+Dialogue: 0,0:31:22.01,0:31:25.46,*Default,NTP,0000,0000,0000,,{\c&H86E8FC&\bord0\fs22\fsp1\b1\pos(193,245)}光之王的第一仆人
+Dialogue: 0,0:31:31.74,0:31:35.18,*Default,NTP,0000,0000,0000,,{\c&H86E8FC&\bord0\fs22\fsp1\b1\pos(193,245)}欢迎来到弥林
+Dialogue: 0,0:31:37.07,0:31:39.66,*Default,NTP,0000,0000,0000,,我就会说这几句瓦雷利亚语\N{\fn微软雅黑\fs14}That's about the extent of my Valyrian.
+Dialogue: 0,0:31:45.91,0:31:48.21,*Default,NTP,0000,0000,0000,,感谢你不远万里地来到这里\N{\fn微软雅黑\fs14}Thank you for travelling all this way.
+Dialogue: 0,0:31:48.73,0:31:52.41,*Default,NTP,0000,0000,0000,,我亲身体验过旅途的艰辛\N{\fn微软雅黑\fs14}I know from personal experience how uncomfortable the journey can be.
+Dialogue: 0,0:31:57.50,0:32:00.50,*Default,NTP,0000,0000,0000,,其实我们需要你的帮助\N{\fn微软雅黑\fs14}The truth is we need your help.
+Dialogue: 0,0:32:00.65,0:32:03.67,*Default,NTP,0000,0000,0000,,我们希望能够说服你...\N{\fn微软雅黑\fs14}We had hoped that we could somehow persuade you to--
+Dialogue: 0,0:32:03.67,0:32:05.56,*Default,NTP,0000,0000,0000,,你们不需要说服我\N{\fn微软雅黑\fs14}You don't need to persuade me.
+Dialogue: 0,0:32:05.74,0:32:07.43,*Default,NTP,0000,0000,0000,,我就是来提供帮助的\N{\fn微软雅黑\fs14}I came to help.
+Dialogue: 0,0:32:07.82,0:32:10.96,*Default,NTP,0000,0000,0000,,风暴降生丹妮莉丝是预言之人\N{\fn微软雅黑\fs14}Daenerys Stormborn is the one who was promised.
+Dialogue: 0,0:32:11.26,0:32:14.64,*Default,NTP,0000,0000,0000,,她从烈火中重生  再造这个世界\N{\fn微软雅黑\fs14}From the fire she was reborn to remake the world.
+Dialogue: 0,0:32:15.32,0:32:16.45,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs14}Yes.
+Dialogue: 0,0:32:17.13,0:32:19.19,*Default,NTP,0000,0000,0000,,她解开了奴隶们身上的锁链\N{\fn微软雅黑\fs14}She has freed the slaves from their chains
+Dialogue: 0,0:32:19.19,0:32:21.90,*Default,NTP,0000,0000,0000,,钉死了罪恶万端的奴隶主\N{\fn微软雅黑\fs14}and crucified the Masters for their sins.
+Dialogue: 0,0:32:22.87,0:32:24.34,*Default,NTP,0000,0000,0000,,她确实做了\N{\fn微软雅黑\fs14}She did indeed.
+Dialogue: 0,0:32:24.52,0:32:27.37,*Default,NTP,0000,0000,0000,,她的龙拥有火焰铸就的血肉\N{\fn微软雅黑\fs14}Her dragons are fire made flesh,
+Dialogue: 0,0:32:27.60,0:32:29.83,*Default,NTP,0000,0000,0000,,那是光之王的馈赠\N{\fn微软雅黑\fs14}a gift from the Lord of Light.
+Dialogue: 0,0:32:29.84,0:32:32.68,*Default,NTP,0000,0000,0000,,但是这些你们以前都听过  不是吗\N{\fn微软雅黑\fs14}But you heard all of this before, haven't you?
+Dialogue: 0,0:32:32.94,0:32:35.07,*Default,NTP,0000,0000,0000,,在瓦兰提斯的长桥上\N{\fn微软雅黑\fs14}On the Long Bridge of Volantis.
+Dialogue: 0,0:32:37.20,0:32:40.71,*Default,NTP,0000,0000,0000,,龙将净化无数不信真主之人\N{\fn微软雅黑\fs14}The dragons will purify nonbelievers by the thousands,
+Dialogue: 0,0:32:40.71,0:32:43.38,*Default,NTP,0000,0000,0000,,让他们的罪恶与血肉灰飞烟灭\N{\fn微软雅黑\fs14}burning their sins and flesh away.
+Dialogue: 0,0:32:43.87,0:32:47.85,*Default,NTP,0000,0000,0000,,我们最好不要净化太多这种人\N{\fn微软雅黑\fs14}Ideally we'd avoid purifying too many nonbelievers.
+Dialogue: 0,0:32:48.20,0:32:51.32,*Default,NTP,0000,0000,0000,,龙之母有许多不同信仰的追随者\N{\fn微软雅黑\fs14}The Mother of Dragons has followers of many different faiths.
+Dialogue: 0,0:32:51.32,0:32:54.24,*Default,NTP,0000,0000,0000,,你希望女王受到景仰和服从\N{\fn微软雅黑\fs14}You want your queen to be worshipped and obeyed.
+Dialogue: 0,0:32:54.58,0:32:57.13,*Default,NTP,0000,0000,0000,,而当她不在的时候  你希望她的顾问们\N{\fn微软雅黑\fs14}And while she's gone, you want her advisors
+Dialogue: 0,0:32:57.13,0:32:59.45,*Default,NTP,0000,0000,0000,,也受到景仰和服从\N{\fn微软雅黑\fs14}to be worshipped and obeyed.
+Dialogue: 0,0:33:00.03,0:33:01.90,*Default,NTP,0000,0000,0000,,服从就行了\N{\fn微软雅黑\fs14}I'd settle for obeyed.
+Dialogue: 0,0:33:02.37,0:33:05.20,*Default,NTP,0000,0000,0000,,我会召集最雄辩的祭司们\N{\fn微软雅黑\fs14}I will summon my most eloquent priests.
+Dialogue: 0,0:33:05.55,0:33:07.70,*Default,NTP,0000,0000,0000,,让他们散布消息\N{\fn微软雅黑\fs14}They will spread the word.
+Dialogue: 0,0:33:08.27,0:33:11.87,*Default,NTP,0000,0000,0000,,说丹妮莉丝是被派来带领人民\N{\fn微软雅黑\fs14}Daenerys has been sent to lead the people against the darkness
+Dialogue: 0,0:33:11.87,0:33:16.16,*Default,NTP,0000,0000,0000,,在现在与将来的大战中对抗黑暗的人\N{\fn微软雅黑\fs14}in this war and in the great war still to come.
+Dialogue: 0,0:33:16.16,0:33:17.58,*Default,NTP,0000,0000,0000,,听起来棒极了\N{\fn微软雅黑\fs14}That sounds most excellent.
+Dialogue: 0,0:33:17.58,0:33:20.75,*Default,NTP,0000,0000,0000,,一个叫做史坦尼斯·拜拉席恩的人\N{\fn微软雅黑\fs14}A man named Stannis Baratheon was anointed
+Dialogue: 0,0:33:20.75,0:33:23.60,*Default,NTP,0000,0000,0000,,曾被你们的一位祭司认定为神选之人\N{\fn微软雅黑\fs14}as the chosen one by one of your priestesses.
+Dialogue: 0,0:33:23.64,0:33:26.39,*Default,NTP,0000,0000,0000,,他也有过不可限量的前途\N{\fn微软雅黑\fs14}He, too, had a glorious destiny.
+Dialogue: 0,0:33:26.66,0:33:29.72,*Default,NTP,0000,0000,0000,,他曾经攻打君临  被我身边的人\N{\fn微软雅黑\fs14}He attacked King's Landing and was soundly defeated
+Dialogue: 0,0:33:29.72,0:33:32.03,*Default,NTP,0000,0000,0000,,打得大败而归\N{\fn微软雅黑\fs14}by the man standing beside me.
+Dialogue: 0,0:33:32.03,0:33:34.61,*Default,NTP,0000,0000,0000,,听说最近他又被打败了\N{\fn微软雅黑\fs14}Last I had heard, he had been defeated again,
+Dialogue: 0,0:33:34.61,0:33:39.03,*Default,NTP,0000,0000,0000,,这次是在临冬城  再也不能卷土重来\N{\fn微软雅黑\fs14}this time at Winterfell and this time for good.
+Dialogue: 0,0:33:39.03,0:33:40.37,*Default,NTP,0000,0000,0000,,我们将非常感激\N{\fn微软雅黑\fs14}We'd be most grateful for
+Dialogue: 0,0:33:40.37,0:33:42.03,*Default,NTP,0000,0000,0000,,你对女王提供的一切支持\N{\fn微软雅黑\fs14}any support you could provide the queen.
+Dialogue: 0,0:33:42.04,0:33:45.50,*Default,NTP,0000,0000,0000,,我认为让狂热的信徒承认错误不是件容易的事\N{\fn微软雅黑\fs14}I suppose it's hard for a fanatic to admit a mistake.
+Dialogue: 0,0:33:45.50,0:33:48.61,*Default,NTP,0000,0000,0000,,那不就是身为狂热信徒的全部意义吗\N{\fn微软雅黑\fs14}Isn't that the whole point of being a fanatic?
+Dialogue: 0,0:33:48.67,0:33:51.04,*Default,NTP,0000,0000,0000,,你们永远是正确的\N{\fn微软雅黑\fs14}You're always right.
+Dialogue: 0,0:33:51.05,0:33:53.86,*Default,NTP,0000,0000,0000,,一切皆为光之王的旨意\N{\fn微软雅黑\fs14}Everything is the Lord's will.
+Dialogue: 0,0:33:54.89,0:33:56.88,*Default,NTP,0000,0000,0000,,一切皆为光之王的旨意\N{\fn微软雅黑\fs14}Everything is the Lord's will.
+Dialogue: 0,0:33:57.73,0:34:00.45,*Default,NTP,0000,0000,0000,,但凡人会犯错\N{\fn微软雅黑\fs14}But men and women make mistakes.
+Dialogue: 0,0:34:00.60,0:34:02.83,*Default,NTP,0000,0000,0000,,即使是真主忠诚的仆人\N{\fn微软雅黑\fs14}Even honest servants of the Lord.
+Dialogue: 0,0:34:02.83,0:34:06.28,*Default,NTP,0000,0000,0000,,而你  真主忠诚的仆人\N{\fn微软雅黑\fs14}And you, an honest servant of the Lord,
+Dialogue: 0,0:34:06.64,0:34:09.09,*Default,NTP,0000,0000,0000,,我为什么要相信你知道的\N{\fn微软雅黑\fs14}why should I trust you to know any more
+Dialogue: 0,0:34:09.09,0:34:11.26,*Default,NTP,0000,0000,0000,,比辅佐史坦尼斯的女祭司多\N{\fn微软雅黑\fs14}than the priestess who counseled Stannis?
+Dialogue: 0,0:34:11.26,0:34:13.86,*Default,NTP,0000,0000,0000,,我的朋友对宗教抱有善意的怀疑\N{\fn微软雅黑\fs14}My friend has a healthy skepticism of religion,
+Dialogue: 0,0:34:14.15,0:34:16.98,*Default,NTP,0000,0000,0000,,但我们都是女王的忠实支持者\N{\fn微软雅黑\fs14}but we are all loyal supporters of the queen.
+Dialogue: 0,0:34:22.14,0:34:26.39,*Default,NTP,0000,0000,0000,,任何人的所属所在皆有缘由\N{\fn微软雅黑\fs14}Everyone is what they are and where they are for a reason.
+Dialogue: 0,0:34:28.16,0:34:31.17,*Default,NTP,0000,0000,0000,,发生可怕的事情亦有缘由\N{\fn微软雅黑\fs14}Terrible things happen for a reason.
+Dialogue: 0,0:34:31.87,0:34:35.29,*Default,NTP,0000,0000,0000,,就拿你小时候的遭遇来说吧  瓦里斯大人\N{\fn微软雅黑\fs14}Take what happened to you, Lord Varys, when you were a child.
+Dialogue: 0,0:34:36.40,0:34:40.61,*Default,NTP,0000,0000,0000,,若你不曾受到二流男巫的摧残\N{\fn微软雅黑\fs14}If not for your mutilation at the hand of a second-rate sorcerer,
+Dialogue: 0,0:34:40.61,0:34:43.52,*Default,NTP,0000,0000,0000,,你就无法在此处辅佐天命之人\N{\fn微软雅黑\fs14}you wouldn't be here helping the Lord's Chosen
+Dialogue: 0,0:34:43.52,0:34:45.78,*Default,NTP,0000,0000,0000,,将真主的光明带到世上\N{\fn微软雅黑\fs14}bring his light into the world.
+Dialogue: 0,0:34:47.00,0:34:49.66,*Default,NTP,0000,0000,0000,,知识让你强大\N{\fn微软雅黑\fs14}Knowledge has made you powerful.
+Dialogue: 0,0:34:50.98,0:34:53.82,*Default,NTP,0000,0000,0000,,但你不知道的还有很多\N{\fn微软雅黑\fs14}But there's still so much you don't know.
+Dialogue: 0,0:34:55.66,0:34:58.40,*Default,NTP,0000,0000,0000,,你还记得那天晚上  男巫把你的命根子\N{\fn微软雅黑\fs14}Do you remember what you heard that night
+Dialogue: 0,0:34:58.89,0:35:02.31,*Default,NTP,0000,0000,0000,,丢进火里时  你听到了什么吗\N{\fn微软雅黑\fs14}when the sorcerer tossed your parts in the fire?
+Dialogue: 0,0:35:04.24,0:35:07.97,*Default,NTP,0000,0000,0000,,你听见了从火焰中传出的声音  还记得吗\N{\fn微软雅黑\fs14}You heard a voice call out from the flames. Do you remember?
+Dialogue: 0,0:35:10.32,0:35:12.77,*Default,NTP,0000,0000,0000,,要我告诉你那声音说了什么吗\N{\fn微软雅黑\fs14}Should I tell you what the voice said?
+Dialogue: 0,0:35:14.23,0:35:17.99,*Default,NTP,0000,0000,0000,,要我告诉你说话者的名号吗\N{\fn微软雅黑\fs14}Should I tell you the name of the one who spoke?
+Dialogue: 0,0:35:27.61,0:35:29.52,*Default,NTP,0000,0000,0000,,我们为同一个女王效力\N{\fn微软雅黑\fs14}We serve the same queen.
+Dialogue: 0,0:35:30.04,0:35:32.08,*Default,NTP,0000,0000,0000,,如果你是她真正的朋友\N{\fn微软雅黑\fs14}If you are her true friend,
+Dialogue: 0,0:35:32.08,0:35:34.55,*Default,NTP,0000,0000,0000,,你就无需害怕我\N{\fn微软雅黑\fs14}you have nothing to fear from me.
+Dialogue: 0,0:39:09.72,0:39:11.84,*Default,NTP,0000,0000,0000,,夜王  他看见我了\N{\fn微软雅黑\fs14}He saw me, the Night King!
+Dialogue: 0,0:39:11.84,0:39:14.05,*Default,NTP,0000,0000,0000,,-他看见我了  -他碰到你了\N{\fn微软雅黑\fs14}- He saw me! - He touched you.
+Dialogue: 0,0:39:15.70,0:39:17.55,*Default,NTP,0000,0000,0000,,我不知道  他离我很近  但是...\N{\fn微软雅黑\fs14}I don't know. He was close, but...
+Dialogue: 0,0:39:17.55,0:39:19.15,*Default,NTP,0000,0000,0000,,他碰到你了\N{\fn微软雅黑\fs14}He touched you.
+Dialogue: 0,0:39:21.75,0:39:24.06,*Default,NTP,0000,0000,0000,,他知道你在这里  他会来找你\N{\fn微软雅黑\fs14}He knows you are here. He'll come for you.
+Dialogue: 0,0:39:24.49,0:39:26.03,*Default,NTP,0000,0000,0000,,但他无法进来\N{\fn微软雅黑\fs14}But he can't get in.
+Dialogue: 0,0:39:26.10,0:39:29.39,*Default,NTP,0000,0000,0000,,他现在可以了  你身上有他的印记\N{\fn微软雅黑\fs14}He can now. His mark is on you.
+Dialogue: 0,0:39:29.52,0:39:31.55,*Default,NTP,0000,0000,0000,,你们必须离开  所有人\N{\fn微软雅黑\fs14}You must leave, all of you.
+Dialogue: 0,0:39:35.77,0:39:37.43,*Default,NTP,0000,0000,0000,,快  阿多  帮我搬雪橇\N{\fn微软雅黑\fs14}Come on, Hodor. Help me with the sledge.
+Dialogue: 0,0:39:37.43,0:39:38.45,*Default,NTP,0000,0000,0000,,阿多\N{\fn微软雅黑\fs14}Hodor.
+Dialogue: 0,0:39:39.46,0:39:41.47,*Default,NTP,0000,0000,0000,,对不起  我不是有意的\N{\fn微软雅黑\fs14}I'm sorry. I didn't mean to.
+Dialogue: 0,0:39:41.47,0:39:44.57,*Default,NTP,0000,0000,0000,,-是时候了  -是时候做什么\N{\fn微软雅黑\fs14}- The time has come. - The time for what?
+Dialogue: 0,0:39:45.10,0:39:47.50,*Default,NTP,0000,0000,0000,,让你成为我\N{\fn微软雅黑\fs14}For you to become me.
+Dialogue: 0,0:39:48.64,0:39:51.58,*Default,NTP,0000,0000,0000,,但我准备好了吗\N{\fn微软雅黑\fs14}But am I ready?
+Dialogue: 0,0:39:52.75,0:39:53.91,*Default,NTP,0000,0000,0000,,没有\N{\fn微软雅黑\fs14}No.
+Dialogue: 0,0:39:56.17,0:39:58.29,*Default,NTP,0000,0000,0000,,我们无法抵御北边的异鬼\N{\fn微软雅黑\fs14}We can't defend the north from the walkers
+Dialogue: 0,0:39:58.29,0:40:00.33,*Default,NTP,0000,0000,0000,,同时抵御南边的波顿家族\N{\fn微软雅黑\fs14}and the south from the Boltons.
+Dialogue: 0,0:40:00.34,0:40:02.17,*Default,NTP,0000,0000,0000,,如果我们要存活下来  我们就需要临冬城\N{\fn微软雅黑\fs14}If we want to survive, we need Winterfell
+Dialogue: 0,0:40:02.18,0:40:04.56,*Default,NTP,0000,0000,0000,,而要攻下临冬城  我们需要更多兵力\N{\fn微软雅黑\fs14}and to take Winterfell, we need more men.
+Dialogue: 0,0:40:08.33,0:40:11.17,*Default,NTP,0000,0000,0000,,除了史塔克家和波顿家\N{\fn微软雅黑\fs14}Aside from the Starks and the Boltons,
+Dialogue: 0,0:40:11.17,0:40:13.74,*Default,NTP,0000,0000,0000,,北境最强大的家族\N{\fn微软雅黑\fs14}the most powerful houses in the North
+Dialogue: 0,0:40:13.93,0:40:17.46,*Default,NTP,0000,0000,0000,,是安柏家  卡史塔克家和曼德勒家\N{\fn微软雅黑\fs14}are the Umbers, the Karstarks, and the Manderlys.
+Dialogue: 0,0:40:17.83,0:40:20.52,*Default,NTP,0000,0000,0000,,安柏家和卡史塔克家\N{\fn微软雅黑\fs14}The Umbers and the Karstarks
+Dialogue: 0,0:40:20.64,0:40:22.80,*Default,NTP,0000,0000,0000,,已经公开效忠波顿家\N{\fn微软雅黑\fs14}have already declared for the Boltons,
+Dialogue: 0,0:40:22.80,0:40:24.21,*Default,NTP,0000,0000,0000,,所以我们目前形势严峻\N{\fn微软雅黑\fs14}so we're not doing so well there.
+Dialogue: 0,0:40:24.21,0:40:27.34,*Default,NTP,0000,0000,0000,,安柏家把瑞肯交给了我们的敌人  该吊死他们\N{\fn微软雅黑\fs14}The Umbers gave Rickon to our enemies. They can hang.
+Dialogue: 0,0:40:27.42,0:40:29.39,*Default,NTP,0000,0000,0000,,但卡史塔克家效忠拉姆斯\N{\fn微软雅黑\fs14}But the Karstarks declared for Ramsay
+Dialogue: 0,0:40:29.39,0:40:32.21,*Default,NTP,0000,0000,0000,,是因为他们不知道还有别的选择\N{\fn微软雅黑\fs14}without knowing they had another choice.
+Dialogue: 0,0:40:32.89,0:40:34.34,*Default,NTP,0000,0000,0000,,不好意思  小姐\N{\fn微软雅黑\fs14}I beg your pardon, my lady,
+Dialogue: 0,0:40:34.34,0:40:37.63,*Default,NTP,0000,0000,0000,,但他们知道史塔克家的人杀了他们父亲\N{\fn微软雅黑\fs14}but they know that a Stark beheaded their father.
+Dialogue: 0,0:40:37.63,0:40:39.66,*Default,NTP,0000,0000,0000,,我不认为我们可以指望他们\N{\fn微软雅黑\fs14}I don't think we can count on them either.
+Dialogue: 0,0:40:41.36,0:40:43.91,*Default,NTP,0000,0000,0000,,你有多了解北境  戴佛斯爵士\N{\fn微软雅黑\fs14}How well do you know the North, Ser Davos?
+Dialogue: 0,0:40:43.98,0:40:45.54,*Default,NTP,0000,0000,0000,,少之又少  小姐\N{\fn微软雅黑\fs14}Precious little, my lady.
+Dialogue: 0,0:40:45.54,0:40:48.10,*Default,NTP,0000,0000,0000,,我父亲总说北境人是不一样的\N{\fn微软雅黑\fs14}My father always said Northerners are different.
+Dialogue: 0,0:40:48.11,0:40:51.59,*Default,NTP,0000,0000,0000,,更忠诚  对外人更有戒心\N{\fn微软雅黑\fs14}More loyal, more suspicious of outsiders.
+Dialogue: 0,0:40:51.59,0:40:53.28,*Default,NTP,0000,0000,0000,,他们可能是忠诚\N{\fn微软雅黑\fs14}They may well be loyal,
+Dialogue: 0,0:40:53.28,0:40:55.62,*Default,NTP,0000,0000,0000,,但当波顿背叛你的家族时\N{\fn微软雅黑\fs14}but how many rose up against the Boltons
+Dialogue: 0,0:40:55.62,0:40:57.43,*Default,NTP,0000,0000,0000,,他们又有多少人站出来了\N{\fn微软雅黑\fs14}when they betrayed your family?
+Dialogue: 0,0:40:59.27,0:41:02.13,*Default,NTP,0000,0000,0000,,我也许不了解北境  但我了解人\N{\fn微软雅黑\fs14}I may not know the North, but I know men.
+Dialogue: 0,0:41:02.63,0:41:04.81,*Default,NTP,0000,0000,0000,,无论来自何处  他们都或多或少地相似\N{\fn微软雅黑\fs14}They're more or less the same in any corner of the world
+Dialogue: 0,0:41:04.82,0:41:07.76,*Default,NTP,0000,0000,0000,,即使他们中最勇敢的人也不愿意看到\N{\fn微软雅黑\fs14}and even the bravest of them don't want to see
+Dialogue: 0,0:41:07.76,0:41:11.66,*Default,NTP,0000,0000,0000,,自己的妻儿因注定的失败而被剥皮\N{\fn微软雅黑\fs14}their wives and children skinned for a lost cause.
+Dialogue: 0,0:41:12.06,0:41:14.71,*Default,NTP,0000,0000,0000,,如果琼恩要说服他们并肩作战\N{\fn微软雅黑\fs14}If Jon's going to convince them to fight alongside him,
+Dialogue: 0,0:41:14.71,0:41:17.00,*Default,NTP,0000,0000,0000,,他们得相信自己能够胜利\N{\fn微软雅黑\fs14}they need to believe it's a fight they can win.
+Dialogue: 0,0:41:17.00,0:41:19.27,*Default,NTP,0000,0000,0000,,北境的家族不止这三个\N{\fn微软雅黑\fs14}There are more than three other houses in the North...
+Dialogue: 0,0:41:19.27,0:41:22.03,*Default,NTP,0000,0000,0000,,葛洛佛  莫尔蒙  赛文\N{\fn微软雅黑\fs14}Glover, Mormont, Cerwyn,
+Dialogue: 0,0:41:22.18,0:41:23.92,*Default,NTP,0000,0000,0000,,麦辛  霍伍德\N{\fn微软雅黑\fs14}Mazin, Hornwood.
+Dialogue: 0,0:41:23.92,0:41:27.54,*Default,NTP,0000,0000,0000,,二十几个  他们一起足以与其他家族抗衡\N{\fn微软雅黑\fs14}Two dozen more. Together they equal all the others.
+Dialogue: 0,0:41:27.63,0:41:29.90,*Default,NTP,0000,0000,0000,,我们可以一点一点地争取\N{\fn微软雅黑\fs14}We can start small and build.
+Dialogue: 0,0:41:30.10,0:41:32.02,*Default,NTP,0000,0000,0000,,北境永不遗忘\N{\fn微软雅黑\fs14}The North remembers.
+Dialogue: 0,0:41:32.25,0:41:33.71,*Default,NTP,0000,0000,0000,,他们记得史塔克的名字\N{\fn微软雅黑\fs14}They remember the Stark name.
+Dialogue: 0,0:41:33.71,0:41:35.64,*Default,NTP,0000,0000,0000,,人们会为此不惜一切代价\N{\fn微软雅黑\fs14}People will still risk everything for it,
+Dialogue: 0,0:41:35.64,0:41:38.15,*Default,NTP,0000,0000,0000,,从白港到拉姆斯自家门前\N{\fn微软雅黑\fs14}from White Harbor to Ramsay's own door.
+Dialogue: 0,0:41:38.15,0:41:39.74,*Default,NTP,0000,0000,0000,,我不怀疑\N{\fn微软雅黑\fs14}I don't doubt it.
+Dialogue: 0,0:41:40.57,0:41:42.52,*Default,NTP,0000,0000,0000,,但琼恩没有继承史塔克的姓\N{\fn微软雅黑\fs14}But Jon doesn't have the Stark name.
+Dialogue: 0,0:41:42.52,0:41:44.18,*Default,NTP,0000,0000,0000,,他没有  但我有\N{\fn微软雅黑\fs14}No, but I do.
+Dialogue: 0,0:41:47.94,0:41:50.07,*Default,NTP,0000,0000,0000,,琼恩是奈德·史塔克的儿子\N{\fn微软雅黑\fs14}Jon is every bit as much Ned Stark's son
+Dialogue: 0,0:41:50.07,0:41:52.14,*Default,NTP,0000,0000,0000,,就像拉姆斯是卢斯·波顿的儿子\N{\fn微软雅黑\fs14}as Ramsay is Roose Bolton's.
+Dialogue: 0,0:41:52.14,0:41:54.24,*Default,NTP,0000,0000,0000,,而且还有徒利家  虽然他们不是北境人\N{\fn微软雅黑\fs14}And there are also the Tullys. They're not Northern,
+Dialogue: 0,0:41:54.24,0:41:57.21,*Default,NTP,0000,0000,0000,,但他们会毫不犹疑地援助我们对抗波顿家\N{\fn微软雅黑\fs14}but they will back us against the Boltons without question.
+Dialogue: 0,0:41:57.21,0:41:59.10,*Default,NTP,0000,0000,0000,,我不知道徒利家还有军队\N{\fn微软雅黑\fs14}I didn't know the Tullys still had an army.
+Dialogue: 0,0:41:59.10,0:42:02.25,*Default,NTP,0000,0000,0000,,我外叔公黑鱼重建了军队  并夺回了奔流城\N{\fn微软雅黑\fs14}My uncle the Blackfish has reformed it and retaken Riverrun.
+Dialogue: 0,0:42:03.15,0:42:04.22,*Default,NTP,0000,0000,0000,,你是怎么知道的\N{\fn微软雅黑\fs14}How do you know that?
+Dialogue: 0,0:42:05.46,0:42:08.65,*Default,NTP,0000,0000,0000,,在我逃离临冬城之前  拉姆斯收到了信\N{\fn微软雅黑\fs14}Ramsay received a raven before I escaped Winterfell.
+Dialogue: 0,0:42:10.78,0:42:11.79,*Default,NTP,0000,0000,0000,,那很好\N{\fn微软雅黑\fs14}That's good.
+Dialogue: 0,0:42:12.73,0:42:14.16,*Default,NTP,0000,0000,0000,,黑鱼是个传奇人物\N{\fn微软雅黑\fs14}The Blackfish is a legend.
+Dialogue: 0,0:42:14.32,0:42:16.18,*Default,NTP,0000,0000,0000,,他的支持意义重大\N{\fn微软雅黑\fs14}His support would mean a great deal.
+Dialogue: 0,0:42:17.29,0:42:20.15,*Default,NTP,0000,0000,0000,,史塔克  徒利  再加上一些家族\N{\fn微软雅黑\fs14}Stark, Tully, a few more houses,
+Dialogue: 0,0:42:20.55,0:42:22.58,*Default,NTP,0000,0000,0000,,有那么一点儿胜利的曙光了\N{\fn微软雅黑\fs14}almost starts to look like a winning side.
+Dialogue: 0,0:42:24.93,0:42:26.93,*Default,NTP,0000,0000,0000,,我发过誓要保护你  小姐\N{\fn微软雅黑\fs14}I've sworn to protect you, my lady.
+Dialogue: 0,0:42:26.93,0:42:28.87,*Default,NTP,0000,0000,0000,,你听到他们说的了  我们需要更多兵力\N{\fn微软雅黑\fs14}You heard them. We need more men
+Dialogue: 0,0:42:28.87,0:42:30.76,*Default,NTP,0000,0000,0000,,而我外叔公有一支军队\N{\fn微软雅黑\fs14}and my uncle has an army.
+Dialogue: 0,0:42:30.76,0:42:32.64,*Default,NTP,0000,0000,0000,,我们可以给黑鱼送信\N{\fn微软雅黑\fs14}We can send the Blackfish a raven.
+Dialogue: 0,0:42:32.64,0:42:34.47,*Default,NTP,0000,0000,0000,,万一被拉姆斯拦截怎么办\N{\fn微软雅黑\fs14}Can't risk Ramsay intercepting it.
+Dialogue: 0,0:42:34.47,0:42:35.56,*Default,NTP,0000,0000,0000,,只能你亲自送\N{\fn微软雅黑\fs14}It has to be you.
+Dialogue: 0,0:42:36.32,0:42:38.66,*Default,NTP,0000,0000,0000,,去奔流城  我叔叔会接待你的\N{\fn微软雅黑\fs14}Ride for Riverrun. My uncle will talk to you
+Dialogue: 0,0:42:38.66,0:42:40.39,*Default,NTP,0000,0000,0000,,你也知道该怎么跟他说\N{\fn微软雅黑\fs14}and you'll know how to talk to him.
+Dialogue: 0,0:42:43.38,0:42:44.34,*Default,NTP,0000,0000,0000,,怎么了\N{\fn微软雅黑\fs14}What is it?
+Dialogue: 0,0:42:46.41,0:42:48.44,*Default,NTP,0000,0000,0000,,我不想把你一个人留下\N{\fn微软雅黑\fs14}I don't like leaving you here alone.
+Dialogue: 0,0:42:48.51,0:42:49.44,*Default,NTP,0000,0000,0000,,因为琼恩\N{\fn微软雅黑\fs14}With Jon?
+Dialogue: 0,0:42:49.63,0:42:52.23,*Default,NTP,0000,0000,0000,,不是他  他看起来很可靠\N{\fn微软雅黑\fs14}Not him. He seems trustworthy.
+Dialogue: 0,0:42:52.54,0:42:54.56,*Default,NTP,0000,0000,0000,,也许有点阴沉\N{\fn微软雅黑\fs14}A bit brooding, perhaps.
+Dialogue: 0,0:42:54.64,0:42:56.79,*Default,NTP,0000,0000,0000,,我想这也可以理解\N{\fn微软雅黑\fs14}I suppose that's understandable, considering.
+Dialogue: 0,0:42:58.41,0:42:59.60,*Default,NTP,0000,0000,0000,,其他人就另说了\N{\fn微软雅黑\fs14}The others, though.
+Dialogue: 0,0:43:02.55,0:43:06.05,*Default,NTP,0000,0000,0000,,戴佛斯和红袍女协助他人谋杀其亲弟弟\N{\fn微软雅黑\fs14}Davos and the Red Woman helped a man murder his own brother
+Dialogue: 0,0:43:06.56,0:43:08.13,*Default,NTP,0000,0000,0000,,使用血魔法\N{\fn微软雅黑\fs14}with bloodmagic.
+Dialogue: 0,0:43:08.17,0:43:10.72,*Default,NTP,0000,0000,0000,,史坦尼斯赎罪时  他们人呢\N{\fn微软雅黑\fs14}And when Stannis paid for his crime, where were they?
+Dialogue: 0,0:43:10.88,0:43:14.04,*Default,NTP,0000,0000,0000,,准备另找一位更有前途的主君\N{\fn微软雅黑\fs14}Already out looking for a leader with better prospects.
+Dialogue: 0,0:43:15.15,0:43:17.22,*Default,NTP,0000,0000,0000,,还有那个大胡子野人...\N{\fn微软雅黑\fs14}And that wildling fellow with the beard--
+Dialogue: 0,0:43:17.23,0:43:20.14,*Default,NTP,0000,0000,0000,,琼恩不是托蒙德  不是戴佛斯\N{\fn微软雅黑\fs14}Jon isn't Tormund. Jon isn't Davos,
+Dialogue: 0,0:43:20.14,0:43:22.13,*Default,NTP,0000,0000,0000,,不是红袍女  不是史坦尼斯\N{\fn微软雅黑\fs14}the Red Woman or Stannis for that matter.
+Dialogue: 0,0:43:22.14,0:43:22.93,*Default,NTP,0000,0000,0000,,琼恩就是琼恩\N{\fn微软雅黑\fs14}Jon is Jon.
+Dialogue: 0,0:43:24.00,0:43:27.01,*Default,NTP,0000,0000,0000,,她是我哥哥  他会护我安全  我相信他\N{\fn微软雅黑\fs14}He's my brother. He'll keep me safe. I trust him.
+Dialogue: 0,0:43:30.34,0:43:31.55,*Default,NTP,0000,0000,0000,,那他问你如何获得奔流城的消息时\N{\fn微软雅黑\fs14}Then why did you lie to him
+Dialogue: 0,0:43:31.55,0:43:33.97,*Default,NTP,0000,0000,0000,,你为什么不对他说实话呢\N{\fn微软雅黑\fs14}when he asked you how you learned about Riverrun?
+Dialogue: 0,0:43:43.26,0:43:44.30,*Default,NTP,0000,0000,0000,,新衣服啊\N{\fn微软雅黑\fs14}New dress?
+Dialogue: 0,0:43:45.47,0:43:47.29,*Default,NTP,0000,0000,0000,,我自己缝的  你喜欢吗\N{\fn微软雅黑\fs14}I made it myself. Do you like it?
+Dialogue: 0,0:43:47.52,0:43:50.70,*Default,NTP,0000,0000,0000,,当然  我喜欢那个狼\N{\fn微软雅黑\fs14}Yeah, it's-- I like the wolf bit.
+Dialogue: 0,0:43:51.92,0:43:56.13,*Default,NTP,0000,0000,0000,,很好  因为我给你做了这个\N{\fn微软雅黑\fs14}Good, because I made this for you.
+Dialogue: 0,0:43:58.67,0:44:00.75,*Default,NTP,0000,0000,0000,,照着以前父亲穿的样式\N{\fn微软雅黑\fs14}I made it like the one Father used to wear.
+Dialogue: 0,0:44:01.98,0:44:03.61,*Default,NTP,0000,0000,0000,,尽量按照记忆中的样子\N{\fn微软雅黑\fs14}As near as I can remember.
+Dialogue: 0,0:44:06.00,0:44:07.35,*Default,NTP,0000,0000,0000,,谢谢你  珊莎\N{\fn微软雅黑\fs14}Thank you, Sansa.
+Dialogue: 0,0:44:07.75,0:44:08.75,*Default,NTP,0000,0000,0000,,不客气\N{\fn微软雅黑\fs14}You're welcome.
+Dialogue: 0,0:44:29.65,0:44:31.32,*Default,NTP,0000,0000,0000,,我走后别把这里拆了\N{\fn微软雅黑\fs14}Don't knock it down while I'm gone.
+Dialogue: 0,0:44:31.78,0:44:33.05,*Default,NTP,0000,0000,0000,,我尽力\N{\fn微软雅黑\fs14}I'll do my best.
+Dialogue: 0,0:44:39.66,0:44:40.53,*Default,NTP,0000,0000,0000,,祝你好运\N{\fn微软雅黑\fs14}Good luck.
+Dialogue: 0,0:45:12.79,0:45:14.72,*Default,NTP,0000,0000,0000,,我们要关上门吗  总司令大人\N{\fn微软雅黑\fs14}Should we close the gate, Lord Commander?
+Dialogue: 0,0:45:15.14,0:45:16.80,*Default,NTP,0000,0000,0000,,我不是总司...\N{\fn微软雅黑\fs14}I'm not the Lord Comman--
+Dialogue: 0,0:45:21.95,0:45:25.92,*Default,NTP,0000,0000,0000,,是的  关上该死的门\N{\fn微软雅黑\fs14}yeah, ahem, close the bloody gate.
+Dialogue: 0,0:45:38.02,0:45:39.54,*Default,NTP,0000,0000,0000,,我们现在可以回家了  阿多\N{\fn微软雅黑\fs14}We can go home now, Hodor.
+Dialogue: 0,0:45:40.39,0:45:42.31,*Default,NTP,0000,0000,0000,,当然  也许算不上真正的家\N{\fn微软雅黑\fs14}Well, maybe not home home,
+Dialogue: 0,0:45:42.31,0:45:44.48,*Default,NTP,0000,0000,0000,,但好歹不是山洞\N{\fn微软雅黑\fs14}but somewhere that isn't a cave.
+Dialogue: 0,0:45:45.27,0:45:46.10,*Default,NTP,0000,0000,0000,,阿多\N{\fn微软雅黑\fs14}Hodor.
+Dialogue: 0,0:45:46.16,0:45:47.85,*Default,NTP,0000,0000,0000,,也不用再吃苔藓\N{\fn微软雅黑\fs14}Eat something that isn't moss.
+Dialogue: 0,0:45:50.62,0:45:53.11,*Default,NTP,0000,0000,0000,,我想吃鸡蛋  你喜欢怎么做的\N{\fn微软雅黑\fs14}I want an egg. How do you like 'em?
+Dialogue: 0,0:45:53.43,0:45:55.96,*Default,NTP,0000,0000,0000,,煮呢  还是用黄油煎呢\N{\fn微软雅黑\fs14}Boiled? Fried up with some butter?
+Dialogue: 0,0:45:56.45,0:45:57.30,*Default,NTP,0000,0000,0000,,阿多\N{\fn微软雅黑\fs14}Hodor.
+Dialogue: 0,0:45:58.38,0:46:01.13,*Default,NTP,0000,0000,0000,,再来点熏肉片和血肠\N{\fn微软雅黑\fs14}With a rasher of bacon and some blood sausage.
+Dialogue: 0,0:46:01.13,0:46:01.94,*Default,NTP,0000,0000,0000,,阿多\N{\fn微软雅黑\fs14}Hodor.
+Dialogue: 0,0:47:02.78,0:47:04.69,*Default,NTP,0000,0000,0000,,带上布兰快跑\N{\fn微软雅黑\fs14}Get Bran and run!
+Dialogue: 0,0:47:17.21,0:47:19.20,*Default,NTP,0000,0000,0000,,布兰  布兰  醒醒\N{\fn微软雅黑\fs14}Bran. Bran, wake up.
+Dialogue: 0,0:47:19.54,0:47:22.11,*Default,NTP,0000,0000,0000,,-布兰  -阿多  阿多\N{\fn微软雅黑\fs14}- Bran. - Hodor. Hodor.
+Dialogue: 0,0:47:22.29,0:47:23.67,*Default,NTP,0000,0000,0000,,布兰  醒醒\N{\fn微软雅黑\fs14}Bran, wake up.
+Dialogue: 0,0:47:33.95,0:47:36.35,*Default,NTP,0000,0000,0000,,-诸神保佑你在国王大道上平安  -别担心\N{\fn微软雅黑\fs14}- Gods keep you on the kingsroad. - Take it easy.
+Dialogue: 0,0:47:36.49,0:47:37.56,*Default,NTP,0000,0000,0000,,照顾自己\N{\fn微软雅黑\fs14}Watch yourself.
+Dialogue: 0,0:47:41.38,0:47:42.17,*Default,NTP,0000,0000,0000,,阿多\N{\fn微软雅黑\fs14}Hodor.
+Dialogue: 0,0:47:42.18,0:47:44.34,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor. Hodor.
+Dialogue: 0,0:47:45.54,0:47:46.41,*Default,NTP,0000,0000,0000,,来帮忙\N{\fn微软雅黑\fs14}Help me!
+Dialogue: 0,0:48:06.42,0:48:07.16,*Default,NTP,0000,0000,0000,,走\N{\fn微软雅黑\fs14}Go!
+Dialogue: 0,0:48:08.39,0:48:09.20,*Default,NTP,0000,0000,0000,,走\N{\fn微软雅黑\fs14}Go!
+Dialogue: 0,0:48:57.43,0:48:59.34,*Default,NTP,0000,0000,0000,,记住你是史塔克家的人\N{\fn微软雅黑\fs14}Remember that you are a Stark.
+Dialogue: 0,0:48:59.63,0:49:02.04,*Default,NTP,0000,0000,0000,,去了艾林谷要注意言行举止\N{\fn微软雅黑\fs14}Comport yourself with dignity at the Vale
+Dialogue: 0,0:49:02.78,0:49:04.25,*Default,NTP,0000,0000,0000,,别跟人打架\N{\fn微软雅黑\fs14}and try to stay out of fights.
+Dialogue: 0,0:49:04.25,0:49:05.29,*Default,NTP,0000,0000,0000,,是  父亲\N{\fn微软雅黑\fs14}Yes, Father.
+Dialogue: 0,0:49:07.92,0:49:10.95,*Default,NTP,0000,0000,0000,,如果躲不开  要打赢\N{\fn微软雅黑\fs14}But if you have to fight, win.
+Dialogue: 0,0:49:13.07,0:49:15.13,*Default,NTP,0000,0000,0000,,布兰  布兰  醒过来\N{\fn微软雅黑\fs14}Bran! Bran, wake up!
+Dialogue: 0,0:49:27.36,0:49:30.38,*Default,NTP,0000,0000,0000,,布兰  布兰  醒醒\N{\fn微软雅黑\fs14}Bran! Bran! Bran, wake up.
+Dialogue: 0,0:49:30.38,0:49:32.74,*Default,NTP,0000,0000,0000,,-布兰  醒醒  -阿多  阿多\N{\fn微软雅黑\fs14}- Bran! Bran, wake up! - Hodor. Hodor.
+Dialogue: 0,0:49:39.34,0:49:40.41,*Default,NTP,0000,0000,0000,,你必须醒过来\N{\fn微软雅黑\fs14}You have to wake up.
+Dialogue: 0,0:49:40.50,0:49:42.66,*Default,NTP,0000,0000,0000,,-我们需要阿多  -阿多  阿多\N{\fn微软雅黑\fs14}- We need Hodor. - Hodor. Hodor.
+Dialogue: 0,0:49:42.67,0:49:44.02,*Default,NTP,0000,0000,0000,,布兰  我们需要阿多\N{\fn微软雅黑\fs14}Bran, we need Hodor.
+Dialogue: 0,0:49:44.39,0:49:46.84,*Default,NTP,0000,0000,0000,,布兰  你必须醒来  我们需要阿多\N{\fn微软雅黑\fs14}Bran, you have to wake up. We need Hodor.
+Dialogue: 0,0:49:49.64,0:49:51.42,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor. Hodor.
+Dialogue: 0,0:50:00.10,0:50:01.80,*Default,NTP,0000,0000,0000,,布兰  我们都会死\N{\fn微软雅黑\fs14}Bran, we're all going to die!
+Dialogue: 0,0:50:01.99,0:50:03.08,*Default,NTP,0000,0000,0000,,布兰  醒醒\N{\fn微软雅黑\fs14}Bran, wake up!
+Dialogue: 0,0:50:03.51,0:50:06.37,*Default,NTP,0000,0000,0000,,我们都会死  布兰  布兰\N{\fn微软雅黑\fs14}We're all going to die! Bran! Bran!
+Dialogue: 0,0:50:07.01,0:50:08.90,*Default,NTP,0000,0000,0000,,布兰  你必须醒来  我们需要阿多\N{\fn微软雅黑\fs14}Bran, you have to wake up. We need Hodor.
+Dialogue: 0,0:50:08.90,0:50:10.51,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor. Hodor.
+Dialogue: 0,0:50:10.51,0:50:11.92,*Default,NTP,0000,0000,0000,,快控制阿多\N{\fn微软雅黑\fs14}Warg into Hodor now!
+Dialogue: 0,0:50:12.77,0:50:14.95,*Default,NTP,0000,0000,0000,,布兰  醒醒  我们需要阿多\N{\fn微软雅黑\fs14}Bran, wake up. We need Hodor.
+Dialogue: 0,0:50:15.49,0:50:18.43,*Default,NTP,0000,0000,0000,,我们需要阿多  快控制阿多  快\N{\fn微软雅黑\fs14}We need Hodor. Warg into Hodor now! Now!
+Dialogue: 0,0:50:18.48,0:50:20.40,*Default,NTP,0000,0000,0000,,听你朋友的话  布兰登\N{\fn微软雅黑\fs14}Listen to your friend, Brandon.
+Dialogue: 0,0:50:23.05,0:50:24.41,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor. Hodor.
+Dialogue: 0,0:50:24.58,0:50:26.02,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor. Hodor.
+Dialogue: 0,0:50:26.02,0:50:27.12,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor. Hodor.
+Dialogue: 0,0:51:02.83,0:51:04.73,*Default,NTP,0000,0000,0000,,-夏天  -跑\N{\fn微软雅黑\fs14}- Summer! - Go.
+Dialogue: 0,0:51:05.74,0:51:06.55,*Default,NTP,0000,0000,0000,,跑\N{\fn微软雅黑\fs14}Go!
+Dialogue: 0,0:51:44.90,0:51:46.64,*Default,NTP,0000,0000,0000,,时候到了\N{\fn微软雅黑\fs14}The time has come.
+Dialogue: 0,0:51:49.19,0:51:50.55,*Default,NTP,0000,0000,0000,,别管我\N{\fn微软雅黑\fs14}Leave me.
+Dialogue: 0,0:52:17.21,0:52:19.34,*Default,NTP,0000,0000,0000,,-你要干什么  -快跑\N{\fn微软雅黑\fs14}- What are you doing? - Go!
+Dialogue: 0,0:53:08.21,0:53:09.46,*Default,NTP,0000,0000,0000,,阿多  快点\N{\fn微软雅黑\fs14}Hodor, hurry!
+Dialogue: 0,0:53:10.32,0:53:11.15,*Default,NTP,0000,0000,0000,,阿多\N{\fn微软雅黑\fs14}Hodor!
+Dialogue: 0,0:53:30.35,0:53:31.60,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:53:32.89,0:53:34.07,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:53:38.36,0:53:39.78,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:53:42.42,0:53:43.69,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:53:53.12,0:53:54.35,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:54:01.51,0:54:02.94,*Default,NTP,0000,0000,0000,,-堵住门  -威里斯\N{\fn微软雅黑\fs14}- Hold the door! - Wylis!
+Dialogue: 0,0:54:03.77,0:54:04.83,*Default,NTP,0000,0000,0000,,怎么了\N{\fn微软雅黑\fs14}What's the matter?
+Dialogue: 0,0:54:05.02,0:54:07.44,*Default,NTP,0000,0000,0000,,-堵住门  -醒醒  儿子\N{\fn微软雅黑\fs14}- Hold the door! - Come on, son.
+Dialogue: 0,0:54:07.91,0:54:09.79,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:54:15.49,0:54:19.38,*Default,NTP,0000,0000,0000,,堵住门  堵住门\N{\fn微软雅黑\fs14}Hold the door! Hold the door!
+Dialogue: 0,0:54:19.47,0:54:22.44,*Default,NTP,0000,0000,0000,,堵住门  堵住门\N{\fn微软雅黑\fs14}Hold the door! Hold the door!
+Dialogue: 0,0:54:22.99,0:54:24.60,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:54:25.20,0:54:26.85,*Default,NTP,0000,0000,0000,,堵住门\N{\fn微软雅黑\fs14}Hold the door!
+Dialogue: 0,0:54:54.47,0:54:57.23,*Default,NTP,0000,0000,0000,,堵住门  堵住门\N{\fn微软雅黑\fs14}Hold the door! Hold the door!
+Dialogue: 0,0:54:57.23,0:54:59.89,*Default,NTP,0000,0000,0000,,堵住门  堵住门\N{\fn微软雅黑\fs14}Hold the door! Hold the door!
+Dialogue: 0,0:54:59.89,0:55:02.66,*Default,NTP,0000,0000,0000,,堵住门  堵住门\N{\fn微软雅黑\fs14}Hold the door! Hold the door!
+Dialogue: 0,0:55:02.66,0:55:05.32,*Default,NTP,0000,0000,0000,,堵住门  堵住门\N{\fn微软雅黑\fs14}Hold the door! Hold the door!
+Dialogue: 0,0:55:05.32,0:55:08.02,*Default,NTP,0000,0000,0000,,堵住门  堵门\N{\fn微软雅黑\fs14}Hold the door! Hold door!
+Dialogue: 0,0:55:08.02,0:55:10.91,*Default,NTP,0000,0000,0000,,堵门  堵住门\N{\fn微软雅黑\fs14}Hold door! Hold the door!
+Dialogue: 0,0:55:10.91,0:55:15.17,*Default,NTP,0000,0000,0000,,堵住门  堵门  堵门\N{\fn微软雅黑\fs14}Hold the door! Hold door! Hold door!
+Dialogue: 0,0:55:15.17,0:55:17.80,*Default,NTP,0000,0000,0000,,堵门  阿多\N{\fn微软雅黑\fs14}Hold door! Hodor!
+Dialogue: 0,0:55:17.85,0:55:20.33,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor! Hodor!
+Dialogue: 0,0:55:20.68,0:55:23.20,*Default,NTP,0000,0000,0000,,阿多  阿多\N{\fn微软雅黑\fs14}Hodor! Hodor!
+Dialogue: 0,0:55:23.31,0:55:24.46,*Default,NTP,0000,0000,0000,,阿多\N{\fn微软雅黑\fs14}Hodor!
+Dialogue: 0,0:01:34.12,0:01:36.25,*Default,NTP,0,0,0,,{\fn方正新秀丽繁体\fs15\fad(400,400)\pos(180,170)\shad2\bord0\fsp2\c&H74B1D7&\b1}改编自《冰与火之歌》
+Dialogue: 0,0:01:34.12,0:01:36.25,*Default,NTP,0,0,0,,{\fn方正新秀丽繁体}{\fs12}{\fad(400,400)}{\pos(200,190)\shad2\bord0\fsp2\c&H74B1D7&\b1}原著 乔治·R·R·马丁
+Dialogue: 0,0:01:41.30,0:01:44.30,*Default,NTP,0,0,0,,{\fn方正小标宋_GBK}{\fs90}{\fad(800,0)}{\shad0}{\bord0}{\b1}{\fsp6}{\frz30}{\t(0,2500,0.3,\fscx50\fscy50)}{\pos(193,215)}{\t(0,2700,0.6,\frz0)}权力{\fs70}的{\fs90}游戏
+Dialogue: 0,0:01:44.30,0:01:44.61,*Default,NTP,0,0,0,,{\fn方正小标宋_GBK}{\fs45}{\shad0}{\bord0}{\b1}{\fsp3}{\pos(193,215)}权力{\fs35}的{\fs45}游戏
+Dialogue: 0,0:01:44.61,0:01:45.61,*Default,NTP,0,0,0,,{\fn方正小标宋_GBK}{\fs45}{\shad0}{\bord0}{\b1}{\fsp3}{\pos(193,215)}{\blur1\be1}权力{\fs35}的{\fs45}游戏
+Dialogue: 0,0:01:45.61,0:01:45.81,*Default,NTP,0,0,0,,{\fn方正小标宋_GBK}{\fs45}{\shad0}{\bord0}{\b1}{\fsp3}{\pos(193,215)}权力{\fs35}的{\fs45}游戏
+Dialogue: 0,0:01:45.81,0:01:46.82,*Default,NTP,0,0,0,,{\fn方正小标宋_GBK}{\fs45}{\fad(0,200)}{\shad0}{\bord0}{\b1}{\fsp3}{\pos(193,215)}{\blur1\be1}权力{\fs35}的{\fs45}游戏
+Dialogue: 0,0:01:40.91,0:01:46.82,*Default,NTP,0,0,0,,{\fn方正兰亭粗黑_GBK}{\fs30}{\fad(800,200)}{\shad0}{\bord0}{\b1}{\fsp2}{\pos(193,240)}{\t(0,2500,0.3,\fscx50\fscy50)}第六季 第五集
+Dialogue: 3,0:00:00.00,0:00:05.01,Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx16\fscy20\p1\c&HFFEBD1&\pos(61.847,238.836)}m 195 227 l 228 227 l 149 147 m 149 86 l 134 100 l 241 210 l 241 180 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 l 163 71 m 134 164 l 195 227 l 228 227 l 150 148 m 149 86 l 134 100 l 241 210 l 241 177 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 {\p0}
+Dialogue: 2,0:00:00.00,0:00:05.01,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx11\fscy14\p1\c&HECB000&\pos(76.247,253.209)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 4,0:00:00.00,0:00:05.01,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx19\fscy20\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(64.847,244.836)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 1,0:00:00.00,0:00:05.01,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx17\blur20\fscy22\p1\c&HECB000&\t(0,1000,1,\blur0)\pos(121.847,253.036)}m 330 133 l 343 133 l 343 125 l 330 125 m 330 122 l 343 122 l 343 115 l 330 115 m 330 112 l 343 112 l 343 104 l 330 104 m 322 136 l 322 133 l 327 133 l 327 101 l 346 101 l 346 133 l 350 133 l 350 136 m 316 121 b 316 121 316 121 316 121 b 316 121 320 121 323 121 b 323 121 323 123 323 123 b 318 124 315 124 311 125 l 311 122 b 311 122 317 114 317 114 b 317 114 317 114 317 114 b 316 113 310 115 310 115 l 310 112 b 310 112 317 99 317 99 l 320 100 b 317 105 316 107 314 112 b 313 112 314 112 313 112 b 320 112 322 105 322 105 l 325 107 b 325 107 316 121 316 121 m 310 131 b 313 131 318 130 324 129 l 324 131 b 319 132 315 133 310 134 m 296 126 b 296 125 293 124 293 123 l 288 123 l 288 126 m 281 123 b 280 123 277 126 277 126 l 285 126 l 285 123 m 276 116 l 298 116 l 298 113 l 276 113 m 276 111 l 298 111 l 298 109 l 276 109 m 291 99 l 294 99 l 294 101 l 306 101 l 305 104 l 294 104 l 294 106 l 291 106 l 291 104 l 282 104 l 282 106 l 279 106 l 279 104 l 268 104 l 268 101 l 279 101 l 279 98 l 282 98 l 282 101 l 291 101 m 268 120 l 278 120 b 280 119 280 119 278 120 b 280 119 280 119 280 119 l 272 119 l 272 106 l 301 106 l 301 118 l 287 118 b 285 118 284 119 283 120 l 305 120 l 305 123 l 297 123 b 299 123 297 123 307 128 b 306 128 307 128 305 131 b 301 128 300 128 300 128 l 300 130 b 300 134 297 135 297 135 l 291 135 b 291 135 291 135 291 132 b 291 132 291 133 291 133 b 292 132 292 132 297 132 b 297 130 297 130 297 131 l 297 129 l 288 129 l 288 138 l 285 138 l 285 129 l 277 129 l 277 136 l 274 136 l 274 127 b 274 127 274 127 268 131 b 268 131 268 131 266 129 b 266 129 272 125 276 123 l 268 123 m 244 98 l 244 98 b 244 98 246 103 247 104 l 244 104 l 263 104 l 263 112 l 259 112 l 259 108 l 229 108 l 229 113 l 225 113 l 225 104 l 244 104 b 244 104 241 99 244 104 b 244 104 241 99 241 99 m 242 119 l 251 115 l 231 115 l 231 112 l 256 112 l 256 116 l 246 121 l 246 122 l 264 122 l 264 125 l 246 125 l 246 129 b 246 134 246 137 243 138 l 235 138 b 235 138 234 134 234 134 b 236 134 236 134 242 134 b 242 134 242 130 242 130 l 242 125 l 224 125 l 224 122 l 242 122 m 210 58 l 192 58 l 192 54 l 210 54 m 225 55 l 239 56 l 261 28 l 245 28 l 225 53 b 224 49 221 45 216 46 l 178 46 l 178 66 l 193 66 l 193 77 l 189 77 l 191 68 l 178 68 l 174 87 l 188 87 l 190 81 l 193 87 l 209 87 l 209 66 l 225 66 m 192 19 l 210 19 l 210 21 l 192 21 m 192 9 l 210 9 l 210 12 l 192 12 m 228 34 l 210 34 l 209 31 l 226 31 l 226 27 l 238 27 l 261 0 l 244 0 l 226 22 l 225 22 l 225 6 b 225 3 224 0 217 0 l 177 0 l 176 30 l 193 30 l 193 34 l 174 34 l 174 43 l 227 43 m 246 57 l 226 79 l 224 69 l 212 69 l 215 85 l 223 84 l 222 87 l 238 87 l 261 57 m 336 77 l 336 59 l 329 58 l 329 14 l 315 14 l 315 49 l 291 87 l 306 87 l 324 58 l 324 87 l 346 87 l 350 77 m 310 10 l 334 10 l 335 56 l 345 56 l 345 6 b 345 4 343 0 339 0 l 298 0 l 298 56 l 310 56 m 295 36 l 286 36 l 295 21 l 295 10 l 288 10 l 284 0 l 267 0 l 272 10 l 261 10 l 261 20 l 279 20 l 260 51 l 270 51 l 270 86 l 283 87 l 283 42 l 285 39 l 287 64 l 297 64 m 155 87 l 129 35 l 104 87 l 84 87 l 128 0 l 146 0 l 132 30 l 146 30 l 174 87 m 66 87 l 39 35 l 14 87 l -5 87 l 38 0 l 56 0 l 42 30 l 56 30 l 84 87 m 203 138 l 199 138 l 190 111 l 194 111 l 201 133 b 201 134 201 134 201 133 l 209 111 l 213 111 m 188 135 l 188 137 b 183 137 188 137 183 137 b 183 137 179 138 179 134 l 179 115 l 176 115 l 176 111 l 179 111 l 179 104 l 183 103 l 183 111 l 187 111 l 187 115 l 183 115 l 183 135 b 183 135 183 135 188 135 m 166 132 l 171 132 l 171 137 l 166 137 m 154 111 l 158 111 l 158 137 l 155 137 l 155 133 b 153 136 151 138 145 137 b 143 138 139 137 136 132 l 136 111 l 140 111 l 140 127 b 140 131 139 134 146 135 b 151 135 153 132 154 128 m 110 134 l 132 134 l 132 137 l 104 137 l 104 135 l 126 105 l 107 105 l 107 102 l 131 102 l 131 105 m 96 111 l 100 111 l 100 137 l 97 137 l 97 133 b 94 135 93 138 88 138 b 85 138 81 136 79 130 l 79 111 l 83 111 l 83 130 b 84 133 86 135 89 135 b 94 135 97 130 96 123 m 69 107 l 57 137 l 54 137 l 42 107 l 42 137 l 38 137 l 38 102 l 43 102 l 56 132 l 67 102 l 73 102 l 73 137 l 69 137 m 27 111 l 31 111 l 31 137 l 27 137 m 27 102 l 31 102 l 31 106 l 27 106 m 0 135 l 23 135 l 23 137 l -5 137 l -5 135 l 17 105 l -3 105 l -3 102 l 22 102 l 22 104 {\p0}
+Dialogue: 1,0:00:01.00,0:00:05.01,*Default,NTP,0,0,0,,{\fad(500,500)\fs16\bord0\shad0\b1\fn方正兰亭粗黑_GBK\c&HECB000&\clip(50,204,52,273)\t(0,1000,1,\clip(52,204,335,275))\pos(107.847,271.636)}原创翻译  双语字幕
+Dialogue: 0,0:00:01.00,0:00:05.01,*Default,NTP,0,0,0,,{\clip(50,204,52,273)\fad(500,500)\3c&HFFFFFF&\fscx600\fs86\alpha&H9F&\c&H000000&\bord1\shad0\t(0,1000,1,\clip(52,154,335,285))\pos(194.847,290.636)}■
+Dialogue: 0,0:00:01.00,0:00:05.01,Default,,0,0,0,,{\fad(500,500)\fs16\fn方正准圆_GBK\b1\bord0\shad0\clip(50,154,52,273)\t(0,1000,1,\clip(52,154,335,275))\pos(239.847,271.636)}仅供学习 禁止用于任何商业盈利行为\N更多影视更新\N{\fs18}请登陆{\fn方正综艺简体\c&H26F4FF&}www.ZiMuZu.tv
+Dialogue: 3,0:06:29.89,0:06:34.90,Default,NTP,0,0,0,,{\fad(500,0)\bord0\shad0\fscx16\fscy20\p1\c&HFFEBD1&\pos(60.2,205)\t(4800,5000,\fscx0\fscy0)}m 195 227 l 228 227 l 149 147 m 149 86 l 134 100 l 241 210 l 241 180 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 l 163 71 m 134 164 l 195 227 l 228 227 l 150 148 m 149 86 l 134 100 l 241 210 l 241 177 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 {\p0}
+Dialogue: 2,0:06:29.89,0:06:34.90,*Default,NTP,0,0,0,,{\fad(500,0)\bord0\shad0\fscx11\fscy14\p1\c&HECB000&\pos(74.6,219.373)\t(4800,5000,\fscx0\fscy0)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 4,0:06:29.89,0:06:34.90,*Default,NTP,0,0,0,,{\fad(500,0)\bord0\shad0\fscx19\fscy20\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(63.2,211)\t(4800,5000,\fscx0\fscy0)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 1,0:06:29.89,0:06:34.90,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx17\blur20\fscy22\p1\c&HECB000&\t(0,1000,1,\blur0)\pos(120.2,219.2)}m 330 133 l 343 133 l 343 125 l 330 125 m 330 122 l 343 122 l 343 115 l 330 115 m 330 112 l 343 112 l 343 104 l 330 104 m 322 136 l 322 133 l 327 133 l 327 101 l 346 101 l 346 133 l 350 133 l 350 136 m 316 121 b 316 121 316 121 316 121 b 316 121 320 121 323 121 b 323 121 323 123 323 123 b 318 124 315 124 311 125 l 311 122 b 311 122 317 114 317 114 b 317 114 317 114 317 114 b 316 113 310 115 310 115 l 310 112 b 310 112 317 99 317 99 l 320 100 b 317 105 316 107 314 112 b 313 112 314 112 313 112 b 320 112 322 105 322 105 l 325 107 b 325 107 316 121 316 121 m 310 131 b 313 131 318 130 324 129 l 324 131 b 319 132 315 133 310 134 m 296 126 b 296 125 293 124 293 123 l 288 123 l 288 126 m 281 123 b 280 123 277 126 277 126 l 285 126 l 285 123 m 276 116 l 298 116 l 298 113 l 276 113 m 276 111 l 298 111 l 298 109 l 276 109 m 291 99 l 294 99 l 294 101 l 306 101 l 305 104 l 294 104 l 294 106 l 291 106 l 291 104 l 282 104 l 282 106 l 279 106 l 279 104 l 268 104 l 268 101 l 279 101 l 279 98 l 282 98 l 282 101 l 291 101 m 268 120 l 278 120 b 280 119 280 119 278 120 b 280 119 280 119 280 119 l 272 119 l 272 106 l 301 106 l 301 118 l 287 118 b 285 118 284 119 283 120 l 305 120 l 305 123 l 297 123 b 299 123 297 123 307 128 b 306 128 307 128 305 131 b 301 128 300 128 300 128 l 300 130 b 300 134 297 135 297 135 l 291 135 b 291 135 291 135 291 132 b 291 132 291 133 291 133 b 292 132 292 132 297 132 b 297 130 297 130 297 131 l 297 129 l 288 129 l 288 138 l 285 138 l 285 129 l 277 129 l 277 136 l 274 136 l 274 127 b 274 127 274 127 268 131 b 268 131 268 131 266 129 b 266 129 272 125 276 123 l 268 123 m 244 98 l 244 98 b 244 98 246 103 247 104 l 244 104 l 263 104 l 263 112 l 259 112 l 259 108 l 229 108 l 229 113 l 225 113 l 225 104 l 244 104 b 244 104 241 99 244 104 b 244 104 241 99 241 99 m 242 119 l 251 115 l 231 115 l 231 112 l 256 112 l 256 116 l 246 121 l 246 122 l 264 122 l 264 125 l 246 125 l 246 129 b 246 134 246 137 243 138 l 235 138 b 235 138 234 134 234 134 b 236 134 236 134 242 134 b 242 134 242 130 242 130 l 242 125 l 224 125 l 224 122 l 242 122 m 210 58 l 192 58 l 192 54 l 210 54 m 225 55 l 239 56 l 261 28 l 245 28 l 225 53 b 224 49 221 45 216 46 l 178 46 l 178 66 l 193 66 l 193 77 l 189 77 l 191 68 l 178 68 l 174 87 l 188 87 l 190 81 l 193 87 l 209 87 l 209 66 l 225 66 m 192 19 l 210 19 l 210 21 l 192 21 m 192 9 l 210 9 l 210 12 l 192 12 m 228 34 l 210 34 l 209 31 l 226 31 l 226 27 l 238 27 l 261 0 l 244 0 l 226 22 l 225 22 l 225 6 b 225 3 224 0 217 0 l 177 0 l 176 30 l 193 30 l 193 34 l 174 34 l 174 43 l 227 43 m 246 57 l 226 79 l 224 69 l 212 69 l 215 85 l 223 84 l 222 87 l 238 87 l 261 57 m 336 77 l 336 59 l 329 58 l 329 14 l 315 14 l 315 49 l 291 87 l 306 87 l 324 58 l 324 87 l 346 87 l 350 77 m 310 10 l 334 10 l 335 56 l 345 56 l 345 6 b 345 4 343 0 339 0 l 298 0 l 298 56 l 310 56 m 295 36 l 286 36 l 295 21 l 295 10 l 288 10 l 284 0 l 267 0 l 272 10 l 261 10 l 261 20 l 279 20 l 260 51 l 270 51 l 270 86 l 283 87 l 283 42 l 285 39 l 287 64 l 297 64 m 155 87 l 129 35 l 104 87 l 84 87 l 128 0 l 146 0 l 132 30 l 146 30 l 174 87 m 66 87 l 39 35 l 14 87 l -5 87 l 38 0 l 56 0 l 42 30 l 56 30 l 84 87 m 203 138 l 199 138 l 190 111 l 194 111 l 201 133 b 201 134 201 134 201 133 l 209 111 l 213 111 m 188 135 l 188 137 b 183 137 188 137 183 137 b 183 137 179 138 179 134 l 179 115 l 176 115 l 176 111 l 179 111 l 179 104 l 183 103 l 183 111 l 187 111 l 187 115 l 183 115 l 183 135 b 183 135 183 135 188 135 m 166 132 l 171 132 l 171 137 l 166 137 m 154 111 l 158 111 l 158 137 l 155 137 l 155 133 b 153 136 151 138 145 137 b 143 138 139 137 136 132 l 136 111 l 140 111 l 140 127 b 140 131 139 134 146 135 b 151 135 153 132 154 128 m 110 134 l 132 134 l 132 137 l 104 137 l 104 135 l 126 105 l 107 105 l 107 102 l 131 102 l 131 105 m 96 111 l 100 111 l 100 137 l 97 137 l 97 133 b 94 135 93 138 88 138 b 85 138 81 136 79 130 l 79 111 l 83 111 l 83 130 b 84 133 86 135 89 135 b 94 135 97 130 96 123 m 69 107 l 57 137 l 54 137 l 42 107 l 42 137 l 38 137 l 38 102 l 43 102 l 56 132 l 67 102 l 73 102 l 73 137 l 69 137 m 27 111 l 31 111 l 31 137 l 27 137 m 27 102 l 31 102 l 31 106 l 27 106 m 0 135 l 23 135 l 23 137 l -5 137 l -5 135 l 17 105 l -3 105 l -3 102 l 22 102 l 22 104 {\p0}
+Dialogue: 1,0:06:30.89,0:06:34.90,*Default,NTP,0,0,0,,{\fad(500,500)\fs16\bord0\shad0\b1\fn方正兰亭粗黑_GBK\c&HECB000&\clip(50,204,52,273)\t(0,1000,1,\clip(52,204,335,275))\pos(106.2,237.8)}原创翻译  双语字幕
+Dialogue: 0,0:06:30.89,0:06:34.90,*Default,NTP,0,0,0,,{\clip(50,204,52,273)\fad(500,500)\3c&HFFFFFF&\fscx600\fs86\alpha&H9F&\c&H000000&\bord1\shad0\t(0,1000,1,\clip(52,154,335,275))\pos(193.2,256.8)}■
+Dialogue: 0,0:06:30.89,0:06:34.90,Default,,0,0,0,,{\fad(500,500)\fs16\fn方正准圆_GBK\b1\bord0\shad0\clip(50,154,52,273)\t(0,1000,1,\clip(52,154,335,275))\pos(238.2,237.8)}仅供学习 禁止用于任何商业盈利行为\N更多影视更新\N{\fs18}请登陆{\fn方正综艺简体\c&H26F4FF&}www.ZiMuZu.tv
+Dialogue: 3,0:06:34.90,0:06:59.90,Default,,0,0,0,,{\an9\bord0\shad0\fscx0\fscy0\t(0,500,\fscx16\fscy20\t(4750,5250,\fry720\t(9750,10250,\fry0\t(14750,15250,\fry720\t(19750,20250,\fry0\t(24500,25000,\fscx0\fscy0))))))\p1\c&HFFEBD1&\pos(52.8,154.6)\org(55,158)}m 195 227 l 228 227 l 149 147 m 149 86 l 134 100 l 241 210 l 241 180 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 l 163 71 m 134 164 l 195 227 l 228 227 l 150 148 m 149 86 l 134 100 l 241 210 l 241 177 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 {\p0}
+Dialogue: 2,0:06:34.90,0:06:59.90,*Default,NTP,0,0,0,,{\bord0\shad0\fscx0\fscy0\t(0,500,\fscx11\fscy14\t(4750,5250,\fry720\t(9750,10250,\fry0\t(14750,15250,\fry720\t(19750,20250,\fry0\t(24500,25000,\fscx0\fscy0))))))\p1\c&HECB000&\t(24500,25000,\fry810)\pos(54.8,200.173)\org(55,158)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 5,0:06:34.90,0:06:59.90,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx19\fscy20\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(43.4,190.973)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 0,0:06:34.90,0:07:09.89,*Default,NTP,0,0,0,,{\an5\fad(0,500)\bord1\shad0\fscx0\fscy0\alpha&B0\c&H000000&\t(0,200,\fscx2000\fscy600\t(200,400,\fscx2300\fscy300\t(24800,25200,\c&HFFFFFF&\3c&H000000&\alpha&AA\fscy400\fscx400)))\move(173,211.2,46.5,211.2,24800,25200)\3c&HFFFFFF&}■
+Dialogue: 0,0:06:34.89,0:06:39.89,*Default,NTP,0,0,0,,{\an4\fad(0,500)\bord0\shad0\pos(57.12,210.56)\clip(134,195,134,227)\t(0,500,\clip(54,195,281,227))\fs15\fn方正准圆_GBK\c&HECB000&\b1}翻译：{\c&HFFFFFF&\fs17}Silmar 草草 潇湘月影
+Dialogue: 0,0:06:39.89,0:06:44.89,Default,,0,0,0,,{\an4\fad(0,500)\bord0\shad0\pos(57.12,210.56)\clip(134,195,134,227)\t(0,500,\clip(54,195,291,227))\fs15\fn方正准圆_GBK\c&HECB000&\b1}翻译：{\c&HFFFFFF&\fs17}盐湖凉开水 ET外星人 泰斯
+Dialogue: 0,0:06:44.89,0:06:49.89,*Default,NTP,0,0,0,,{\an4\fn方正黑体_GBK\bord0\shad0\frx-630\t(0,500,\frx0\t(4500,5000,\clip(40,213,40,248)))\pos(57.12,210.56)\fs15\fn方正准圆_GBK\c&HECB000&\b1}校对：{\c&HFFFFFF&\fs17}泰斯·雪诺 Silmar   {\c&HECB000&\fs15}顾问：{\c&HFFFFFF&\fs17}屈畅(ccxx)
+Dialogue: 0,0:06:49.89,0:06:54.89,*Default,NTP,0,0,0,,{\an4\fad(500,0)\bord0\shad0\move(57.12,210.56,400,210.56,4500,5000)\clip(54,195,281,227)\fs15\fn方正准圆_GBK\c&HECB000&\b1}时间轴：{\c&HFFFFFF&\fs17}崽猪 加森 Avis aaaBao
+Dialogue: 0,0:06:54.89,0:06:59.89,*Default,NTP,0,0,0,,{\an4\fad(300,300)\bord0\c&HFFFFFF&\fs15\3c&HEDB425&\4c&H9EF6FF&\shad0\bord0\blur20\t(0,500,\blur0\t(4500,5000,\fs30\blur20))\pos(57.12,210.56)\fn方正准圆_GBK\c&HECB000&\blur20\t(0,500,\blur0\t(4500,5000,\fs30\blur20))\clip(49,191,295,232)\b1}后期：{\c&HFFFFFF&\fs17\blur20\t(0,500,\blur0\t(4500,5000,\fs30\blur20))}吉吉·波顿  {\fs15\c&HECB000&\blur20\t(0,500,\blur0\t(4500,5000,\fs30\blur20))}总监：{\fs17\c&HFFFFFF&\blur20\t(0,500,\blur0\t(4500,5000,\fs30\blur20))}泰斯·雪诺
+Dialogue: 1,0:06:59.89,0:07:04.89,*Default,NTP,0,0,0,,{\fad(500,500)\an4\bord0\shad0\fs12\fn方正大黑_GBK\alpha&44\pos(70,211.2)}打开微信   扫描左侧二维码\N或搜索公众号:{\c&HEBAE00&}    美剧炸了\N{\c&HFFFFFF&}了解最新影视资讯字幕信息
+Dialogue: 4,0:06:59.89,0:07:09.89,*Default,NTP,0,0,0,,{\fad(500,500)\an7\p3\bord0\shad0\fscx47\fscy60\alpha&H0\1c&H000000\pos(22.2,180.8)} m 350 100 l 350 110 l 360 110 l 360 100 m 360 100 m 200 130 l 200 140 l 210 140 l 210 130 m 210 130 m 100 320 l 100 330 l 110 330 l 110 320 m 110 320 m 230 80 l 230 90 l 240 90 l 240 80 m 240 80 m 240 110 l 240 120 l 250 120 l 250 110 m 250 110 m 220 230 l 220 240 l 230 240 l 230 230 m 230 230 m 120 90 l 120 100 l 130 100 l 130 90 m 130 90 m 360 60 l 360 70 l 370 70 l 370 60 m 370 60 m 140 110 l 140 120 l 150 120 l 150 110 m 150 110 m 190 340 l 190 350 l 200 350 l 200 340 m 200 340 m 180 50 l 180 60 l 190 60 l 190 50 m 190 50 m 290 190 l 290 200 l 300 200 l 300 190 m 300 190 m 170 240 l 170 250 l 180 250 l 180 240 m 180 240 m 300 160 l 300 170 l 310 170 l 310 160 m 310 160 m 330 210 l 330 220 l 340 220 l 340 210 m 340 210 m 70 60 l 70 70 l 80 70 l 80 60 m 80 60 m 240 360 l 240 370 l 250 370 l 250 360 m 250 360 m 230 170 l 230 180 l 240 180 l 240 170 m 240 170 m 210 170 l 210 180 l 220 180 l 220 170 m 220 170 m 350 250 l 350 260 l 360 260 l 360 250 m 360 250 m 240 180 l 240 190 l 250 190 l 250 180 m 250 180 m 220 140 l 220 150 l 230 150 l 230 140 m 230 140 m 270 230 l 270 240 l 280 240 l 280 230 m 280 230 m 250 190 l 250 200 l 260 200 l 260 190 m 260 190 m 120 160 l 120 170 l 130 170 l 130 160 m 130 160 m 360 290 l 360 300 l 370 300 l 370 290 m 370 290 m 260 160 l 260 170 l 270 170 l 270 160 m 270 160 m 270 130 l 270 140 l 280 140 l 280 130 m 280 130 m 120 220 l 120 230 l 130 230 l 130 220 m 130 220 m 150 190 l 150 200 l 160 200 l 160 190 m 160 190 m 160 120 l 160 130 l 170 130 l 170 120 m 170 120 m 170 170 l 170 180 l 180 180 l 180 170 m 180 170 m 40 180 l 40 190 l 50 190 l 50 180 m 50 180 m 310 100 l 310 110 l 320 110 l 320 100 m 320 100 m 60 160 l 60 170 l 70 170 l 70 160 m 70 160 m 330 80 l 330 90 l 340 90 l 340 80 m 340 80 m 70 210 l 70 220 l 80 220 l 80 210 m 80 210 m 100 180 l 100 190 l 110 190 l 110 180 m 110 180 m 110 190 l 110 200 l 120 200 l 120 190 m 120 190 m 350 220 l 350 230 l 360 230 l 360 220 m 360 220 m 220 90 l 220 100 l 230 100 l 230 90 m 230 90 m 100 360 l 100 370 l 110 370 l 110 360 m 110 360 m 250 120 l 250 130 l 260 130 l 260 120 m 260 120 m 210 280 l 210 290 l 220 290 l 220 280 m 220 280 m 260 110 l 260 120 l 270 120 l 270 110 m 270 110 m 140 130 l 140 140 l 150 140 l 150 130 m 150 130 m 120 290 l 120 300 l 130 300 l 130 290 m 130 290 m 280 320 l 280 330 l 290 330 l 290 320 m 290 320 m 180 230 l 180 240 l 190 240 l 190 230 m 190 230 m 140 230 l 140 240 l 150 240 l 150 230 m 150 230 m 190 140 l 190 150 l 200 150 l 200 140 m 200 140 m 150 300 l 150 310 l 160 310 l 160 300 m 160 300 m 300 340 l 300 350 l 310 350 l 310 340 m 310 340 m 40 90 l 40 100 l 50 100 l 50 90 m 50 90 m 280 60 l 280 70 l 290 70 l 290 60 m 290 60 m 310 350 l 310 360 l 320 360 l 320 350 m 320 350 m 50 40 l 50 50 l 60 50 l 60 40 m 60 40 m 80 150 l 80 160 l 90 160 l 90 150 m 90 150 m 320 280 l 320 290 l 330 290 l 330 280 m 330 280 m 90 140 l 90 150 l 100 150 l 100 140 m 100 140 m 100 50 l 100 60 l 110 60 l 110 50 m 110 50 m 340 60 l 340 70 l 350 70 l 350 60 m 350 60 m 230 310 l 230 320 l 240 320 l 240 310 m 240 310 m 350 310 l 350 320 l 360 320 l 360 310 m 360 310 m 100 310 l 100 320 l 110 320 l 110 310 m 110 310 m 230 50 l 230 60 l 240 60 l 240 50 m 240 50 m 360 270 l 360 280 l 370 280 l 370 270 m 370 270 m 220 260 l 220 270 l 230 270 l 230 260 m 230 260 m 160 360 l 160 370 l 170 370 l 170 360 m 170 360 m 120 40 l 120 50 l 130 50 l 130 40 m 130 40 m 140 300 l 140 310 l 150 310 l 150 300 m 150 300 m 40 320 l 40 330 l 50 330 l 50 320 m 50 320 m 160 240 l 160 250 l 170 250 l 170 240 m 170 240 m 310 240 l 310 250 l 320 250 l 320 240 m 320 240 m 170 290 l 170 300 l 180 300 l 180 290 m 180 290 m 320 270 l 320 280 l 330 280 l 330 270 m 330 270 m 60 340 l 60 350 l 70 350 l 70 340 m 70 340 m 300 70 l 300 80 l 310 80 l 310 70 m 310 70 m 330 260 l 330 270 l 340 270 l 340 260 m 340 260 m 80 280 l 80 290 l 90 290 l 90 280 m 90 280 m 230 360 l 230 370 l 240 370 l 240 360 m 240 360 m 350 40 l 350 50 l 360 50 l 360 40 m 360 40 m 100 220 l 100 230 l 110 230 l 110 220 m 110 220 m 260 210 l 260 220 l 270 220 l 270 210 m 270 210 m 270 240 l 270 250 l 280 250 l 280 240 m 280 240 m 250 80 l 250 90 l 260 90 l 260 80 m 260 80 m 120 110 l 120 120 l 130 120 l 130 110 m 130 110 m 360 80 l 360 90 l 370 90 l 370 80 m 370 80 m 260 150 l 260 160 l 270 160 l 270 150 m 270 150 m 190 280 l 190 290 l 200 290 l 200 280 m 200 280 m 280 200 l 280 210 l 290 210 l 290 200 m 290 200 m 180 110 l 180 120 l 190 120 l 190 110 m 190 110 m 160 230 l 160 240 l 170 240 l 170 230 m 170 230 m 50 220 l 50 230 l 60 230 l 60 220 m 60 220 m 170 220 l 170 230 l 180 230 l 180 220 m 180 220 m 300 140 l 300 150 l 310 150 l 310 140 m 310 140 m 70 80 l 70 90 l 80 90 l 80 80 m 80 80 m 320 80 l 320 90 l 330 90 l 330 80 m 330 80 m 350 130 l 350 140 l 360 140 l 360 130 m 360 130 m 90 100 l 90 110 l 100 110 l 100 100 m 100 100 m 330 130 l 330 140 l 340 140 l 340 130 m 340 130 m 210 70 l 210 80 l 220 80 l 220 70 m 220 70 m 350 270 l 350 280 l 360 280 l 360 270 m 360 270 m 90 360 l 90 370 l 100 370 l 100 360 m 100 360 m 240 120 l 240 130 l 250 130 l 250 120 m 250 120 m 220 120 l 220 130 l 230 130 l 230 120 m 230 120 m 270 150 l 270 160 l 280 160 l 280 150 m 280 150 m 130 210 l 130 220 l 140 220 l 140 210 m 140 210 m 180 180 l 180 190 l 190 190 l 190 180 m 190 180 m 290 260 l 290 270 l 300 270 l 300 260 m 300 260 m 190 190 l 190 200 l 200 200 l 200 190 m 200 190 m 170 150 l 170 160 l 180 160 l 180 150 m 180 150 m 40 40 l 40 50 l 50 50 l 50 40 m 50 40 m 310 280 l 310 290 l 320 290 l 320 280 m 320 280 m 50 170 l 50 180 l 60 180 l 60 170 m 60 170 m 80 180 l 80 190 l 90 190 l 90 180 m 90 180 m 320 70 l 320 80 l 330 80 l 330 70 m 330 70 m 60 140 l 60 150 l 70 150 l 70 140 m 70 140 m 330 60 l 330 70 l 340 70 l 340 60 m 340 60 m 70 230 l 70 240 l 80 240 l 80 230 m 80 230 m 100 160 l 100 170 l 110 170 l 110 160 m 110 160 m 340 290 l 340 300 l 350 300 l 350 290 m 350 290 m 110 130 l 110 140 l 120 140 l 120 130 m 120 130 m 240 270 l 240 280 l 250 280 l 250 270 m 250 270 m 200 350 l 200 360 l 210 360 l 210 350 m 210 350 m 250 260 l 250 270 l 260 270 l 260 260 m 260 260 m 210 340 l 210 350 l 220 350 l 220 340 m 220 340 m 260 90 l 260 100 l 270 100 l 270 90 m 270 90 m 220 330 l 220 340 l 230 340 l 230 330 m 230 330 m 270 40 l 270 50 l 280 50 l 280 40 m 280 40 m 360 120 l 360 130 l 370 130 l 370 120 m 370 120 m 130 300 l 130 310 l 140 310 l 140 300 m 140 300 m 280 340 l 280 350 l 290 350 l 290 340 m 290 340 m 180 210 l 180 220 l 190 220 l 190 210 m 190 210 m 190 240 l 190 250 l 200 250 l 200 240 m 200 240 m 320 360 l 320 370 l 330 370 l 330 360 m 330 360 m 300 320 l 300 330 l 310 330 l 310 320 m 310 320 m 160 350 l 160 360 l 170 360 l 170 350 m 170 350 m 50 100 l 50 110 l 60 110 l 60 100 m 60 100 m 320 300 l 320 310 l 330 310 l 330 300 m 330 300 m 300 100 l 300 110 l 310 110 l 310 100 m 310 100 m 330 310 l 330 320 l 340 320 l 340 310 m 340 310 m 340 40 l 340 50 l 350 50 l 350 40 m 350 40 m 230 330 l 230 340 l 240 340 l 240 330 m 240 330 m 300 360 l 300 370 l 310 370 l 310 360 m 310 360 m 240 340 l 240 350 l 250 350 l 250 340 m 250 340 m 200 260 l 200 270 l 210 270 l 210 260 m 210 260 m 250 350 l 250 360 l 260 360 l 260 350 m 260 350 m 230 70 l 230 80 l 240 80 l 240 70 m 240 70 m 210 270 l 210 280 l 220 280 l 220 270 m 220 270 m 260 320 l 260 330 l 270 330 l 270 320 m 270 320 m 220 240 l 220 250 l 230 250 l 230 240 m 230 240 m 270 290 l 270 300 l 280 300 l 280 290 m 280 290 m 130 70 l 130 80 l 140 80 l 140 70 m 140 70 m 180 280 l 180 290 l 190 290 l 190 280 m 190 280 m 140 280 l 140 290 l 150 290 l 150 280 m 150 280 m 150 250 l 150 260 l 160 260 l 160 250 m 160 250 m 40 340 l 40 350 l 50 350 l 50 340 m 50 340 m 180 60 l 180 70 l 190 70 l 190 60 m 190 60 m 160 260 l 160 270 l 170 270 l 170 260 m 170 260 m 170 270 l 170 280 l 180 280 l 180 270 m 180 270 m 60 320 l 60 330 l 70 330 l 70 320 m 70 320 m 300 50 l 300 60 l 310 60 l 310 50 m 310 50 m 330 240 l 330 250 l 340 250 l 340 240 m 340 240 m 310 160 l 310 170 l 320 170 l 320 160 m 320 160 m 80 300 l 80 310 l 90 310 l 90 300 m 90 300 m 320 190 l 320 200 l 330 200 l 330 190 m 330 190 m 100 200 l 100 210 l 110 210 l 110 200 m 110 200 m 250 280 l 250 290 l 260 290 l 260 280 m 260 280 m 80 360 l 80 370 l 90 370 l 90 360 m 90 360 m 210 120 l 210 130 l 220 130 l 220 120 m 220 120 m 110 250 l 110 260 l 120 260 l 120 250 m 120 250 m 220 190 l 220 200 l 230 200 l 230 190 m 230 190 m 270 260 l 270 270 l 280 270 l 280 260 m 280 260 m 250 60 l 250 70 l 260 70 l 260 60 m 260 60 m 360 100 l 360 110 l 370 110 l 370 100 m 370 100 m 260 130 l 260 140 l 270 140 l 270 130 m 270 130 m 130 80 l 130 90 l 140 90 l 140 80 m 140 80 m 270 160 l 270 170 l 280 170 l 280 160 m 280 160 m 140 70 l 140 80 l 150 80 l 150 70 m 150 70 m 190 300 l 190 310 l 200 310 l 200 300 m 200 300 m 40 250 l 40 260 l 50 260 l 50 250 m 50 250 m 50 200 l 50 210 l 60 210 l 60 200 m 60 200 m 290 230 l 290 240 l 300 240 l 300 230 m 300 230 m 190 40 l 190 50 l 200 50 l 200 40 m 200 40 m 170 200 l 170 210 l 180 210 l 180 200 m 180 200 m 60 270 l 60 280 l 70 280 l 70 270 m 70 270 m 300 120 l 300 130 l 310 130 l 310 120 m 310 120 m 40 150 l 40 160 l 50 160 l 50 150 m 50 150 m 70 100 l 70 110 l 80 110 l 80 100 m 80 100 m 320 100 l 320 110 l 330 110 l 330 100 m 330 100 m 200 80 l 200 90 l 210 90 l 210 80 m 210 80 m 240 140 l 240 150 l 250 150 l 250 140 m 250 140 m 220 100 l 220 110 l 230 110 l 230 100 m 230 100 m 140 360 l 140 370 l 150 370 l 150 360 m 150 360 m 130 170 l 130 180 l 140 180 l 140 170 m 140 170 m 270 90 l 270 100 l 280 100 l 280 90 m 280 90 m 140 140 l 140 150 l 150 150 l 150 140 m 150 140 m 120 260 l 120 270 l 130 270 l 130 260 m 130 260 m 280 290 l 280 300 l 290 300 l 290 290 m 290 290 m 150 290 l 150 300 l 160 300 l 160 290 m 160 290 m 40 60 l 40 70 l 50 70 l 50 60 m 50 60 m 70 190 l 70 200 l 80 200 l 80 190 m 80 190 m 80 120 l 80 130 l 90 130 l 90 120 m 90 120 m 320 330 l 320 340 l 330 340 l 330 330 m 330 330 m 90 170 l 90 180 l 100 180 l 100 170 m 100 170 m 330 40 l 330 50 l 340 50 l 340 40 m 340 40 m 70 250 l 70 260 l 80 260 l 80 250 m 80 250 m 290 360 l 290 370 l 300 370 l 300 360 m 300 360 m 100 60 l 100 70 l 110 70 l 110 60 m 110 60 m 230 260 l 230 270 l 240 270 l 240 260 m 240 260 m 220 50 l 220 60 l 230 60 l 230 50 m 230 50 m 200 210 l 200 220 l 210 220 l 210 210 m 210 210 m 360 240 l 360 250 l 370 250 l 370 240 m 370 240 m 260 310 l 260 320 l 270 320 l 270 310 m 270 310 m 180 270 l 180 280 l 190 280 l 190 270 m 190 270 m 140 350 l 140 360 l 150 360 l 150 350 m 150 350 m 300 300 l 300 310 l 310 310 l 310 300 m 310 300 m 280 100 l 280 110 l 290 110 l 290 100 m 290 100 m 170 320 l 170 330 l 180 330 l 180 320 m 180 320 m 320 240 l 320 250 l 330 250 l 330 240 m 330 240 m 60 70 l 60 80 l 70 80 l 70 70 m 70 70 m 300 80 l 300 90 l 310 90 l 310 80 m 310 80 m 70 300 l 70 310 l 80 310 l 80 300 m 80 300 m 310 130 l 310 140 l 320 140 l 320 130 m 320 130 m 100 90 l 100 100 l 110 100 l 110 90 m 110 90 m 340 100 l 340 110 l 350 110 l 350 100 m 350 100 m 80 330 l 80 340 l 90 340 l 90 330 m 90 330 m 90 200 l 90 210 l 100 210 l 100 200 m 100 200 m 240 280 l 240 290 l 250 290 l 250 280 m 250 280 m 70 360 l 70 370 l 80 370 l 80 360 m 80 360 m 200 120 l 200 130 l 210 130 l 210 120 m 210 120 m 100 350 l 100 360 l 110 360 l 110 350 m 110 350 m 250 330 l 250 340 l 260 340 l 260 330 m 260 330 m 260 220 l 260 230 l 270 230 l 270 220 m 270 220 m 240 100 l 240 110 l 250 110 l 250 100 m 250 100 m 250 110 l 250 120 l 260 120 l 260 110 m 260 110 m 120 80 l 120 90 l 130 90 l 130 80 m 130 80 m 360 50 l 360 60 l 370 60 l 370 50 m 370 50 m 180 340 l 180 350 l 190 350 l 190 340 m 190 340 m 140 100 l 140 110 l 150 110 l 150 100 m 150 100 m 190 350 l 190 360 l 200 360 l 200 350 m 200 350 m 40 200 l 40 210 l 50 210 l 50 200 m 50 200 m 280 170 l 280 180 l 290 180 l 290 170 m 290 170 m 180 40 l 180 50 l 190 50 l 190 40 m 190 40 m 290 120 l 290 130 l 300 130 l 300 120 m 300 120 m 190 90 l 190 100 l 200 100 l 200 90 m 200 90 m 60 300 l 60 310 l 70 310 l 70 300 m 70 300 m 300 190 l 300 200 l 310 200 l 310 190 m 310 190 m 330 220 l 330 230 l 340 230 l 340 220 m 340 220 m 70 70 l 70 80 l 80 80 l 80 70 m 80 70 m 310 180 l 310 190 l 320 190 l 320 180 m 320 180 m 340 130 l 340 140 l 350 140 l 350 130 m 350 130 m 80 80 l 80 90 l 90 90 l 90 80 m 90 80 m 350 160 l 350 170 l 360 170 l 360 160 m 360 160 m 330 160 l 330 170 l 340 170 l 340 160 m 340 160 m 200 190 l 200 200 l 210 200 l 210 190 m 210 190 m 100 260 l 100 270 l 110 270 l 110 260 m 110 260 m 260 250 l 260 260 l 270 260 l 270 250 m 270 250 m 240 170 l 240 180 l 250 180 l 250 170 m 250 170 m 220 170 l 220 180 l 230 180 l 230 170 m 230 170 m 120 150 l 120 160 l 130 160 l 130 150 m 130 150 m 130 140 l 130 150 l 140 150 l 140 140 m 140 140 m 270 180 l 270 190 l 280 190 l 280 180 m 280 180 m 290 210 l 290 220 l 300 220 l 300 210 m 300 210 m 60 250 l 60 260 l 70 260 l 70 250 m 70 250 m 80 70 l 80 80 l 90 80 l 90 70 m 90 70 m 320 40 l 320 50 l 330 50 l 330 40 m 330 40 m 280 360 l 280 370 l 290 370 l 290 360 m 290 360 m 200 100 l 200 110 l 210 110 l 210 100 m 210 100 m 230 230 l 230 240 l 240 240 l 240 230 m 240 230 m 210 110 l 210 120 l 220 120 l 220 110 m 220 110 m 240 240 l 240 250 l 250 250 l 250 240 m 250 240 m 200 320 l 200 330 l 210 330 l 210 320 m 210 320 m 250 130 l 250 140 l 260 140 l 260 130 m 260 130 m 210 290 l 210 300 l 220 300 l 220 290 m 220 290 m 260 100 l 260 110 l 270 110 l 270 100 m 270 100 m 140 120 l 140 130 l 150 130 l 150 120 m 150 120 m 280 310 l 280 320 l 290 320 l 290 310 m 290 310 m 180 220 l 180 230 l 190 230 l 190 220 m 190 220 m 160 100 l 160 110 l 170 110 l 170 100 m 170 100 m 140 220 l 140 230 l 150 230 l 150 220 m 150 220 m 190 150 l 190 160 l 200 160 l 200 150 m 200 150 m 150 310 l 150 320 l 160 320 l 160 310 m 160 310 m 40 80 l 40 90 l 50 90 l 50 80 m 50 80 m 280 50 l 280 60 l 290 60 l 290 50 m 290 50 m 310 320 l 310 330 l 320 330 l 320 320 m 320 320 m 60 100 l 60 110 l 70 110 l 70 100 m 70 100 m 330 340 l 330 350 l 340 350 l 340 340 m 340 340 m 70 270 l 70 280 l 80 280 l 80 270 m 80 270 m 100 40 l 100 50 l 110 50 l 110 40 m 110 40 m 340 330 l 340 340 l 350 340 l 350 330 m 350 330 m 80 200 l 80 210 l 90 210 l 90 200 m 90 200 m 60 360 l 60 370 l 70 370 l 70 360 m 70 360 m 350 280 l 350 290 l 360 290 l 360 280 m 360 280 m 240 230 l 240 240 l 250 240 l 250 230 m 250 230 m 200 230 l 200 240 l 210 240 l 210 230 m 210 230 m 100 300 l 100 310 l 110 310 l 110 300 m 110 300 m 250 220 l 250 230 l 260 230 l 260 220 m 260 220 m 210 220 l 210 230 l 220 230 l 220 220 m 220 220 m 360 160 l 360 170 l 370 170 l 370 160 m 370 160 m 140 330 l 140 340 l 150 340 l 150 330 m 150 330 m 170 40 l 170 50 l 180 50 l 180 40 m 180 40 m 150 200 l 150 210 l 160 210 l 160 200 m 160 200 m 300 280 l 300 290 l 310 290 l 310 280 m 310 280 m 40 310 l 40 320 l 50 320 l 50 310 m 50 310 m 280 120 l 280 130 l 290 130 l 290 120 m 290 120 m 310 250 l 310 260 l 320 260 l 320 250 m 320 250 m 50 300 l 50 310 l 60 310 l 60 300 m 60 300 m 320 260 l 320 270 l 330 270 l 330 260 m 330 260 m 300 60 l 300 70 l 310 70 l 310 60 m 310 60 m 70 320 l 70 330 l 80 330 l 80 320 m 80 320 m 340 80 l 340 90 l 350 90 l 350 80 m 350 80 m 240 300 l 240 310 l 250 310 l 250 300 m 250 300 m 100 330 l 100 340 l 110 340 l 110 330 m 110 330 m 230 110 l 230 120 l 240 120 l 240 110 m 240 110 m 120 360 l 120 370 l 130 370 l 130 360 m 130 360 m 260 200 l 260 210 l 270 210 l 270 200 m 270 200 m 270 250 l 270 260 l 280 260 l 280 250 m 280 250 m 250 90 l 250 100 l 260 100 l 260 90 m 260 90 m 120 100 l 120 110 l 130 110 l 130 100 m 130 100 m 360 70 l 360 80 l 370 80 l 370 70 m 370 70 m 180 320 l 180 330 l 190 330 l 190 320 m 190 320 m 190 290 l 190 300 l 200 300 l 200 290 m 200 290 m 40 220 l 40 230 l 50 230 l 50 220 m 50 220 m 280 190 l 280 200 l 290 200 l 290 190 m 290 190 m 180 100 l 180 110 l 190 110 l 190 100 m 190 100 m 160 220 l 160 230 l 170 230 l 170 220 m 170 220 m 290 180 l 290 190 l 300 190 l 300 180 m 300 180 m 40 120 l 40 130 l 50 130 l 50 120 m 50 120 m 330 200 l 330 210 l 340 210 l 340 200 m 340 200 m 310 40 l 310 50 l 320 50 l 320 40 m 320 40 m 80 100 l 80 110 l 90 110 l 90 100 m 90 100 m 350 180 l 350 190 l 360 190 l 360 180 m 360 180 m 330 140 l 330 150 l 340 150 l 340 140 m 340 140 m 200 50 l 200 60 l 210 60 l 210 50 m 210 50 m 100 240 l 100 250 l 110 250 l 110 240 m 110 240 m 340 210 l 340 220 l 350 220 l 350 210 m 350 210 m 110 210 l 110 220 l 120 220 l 120 210 m 120 210 m 270 220 l 270 230 l 280 230 l 280 220 m 280 220 m 250 180 l 250 190 l 260 190 l 260 180 m 260 180 m 120 170 l 120 180 l 130 180 l 130 170 m 130 170 m 270 120 l 270 130 l 280 130 l 280 120 m 280 120 m 140 190 l 140 200 l 150 200 l 150 190 m 150 190 m 180 130 l 180 140 l 190 140 l 190 130 m 190 130 m 160 130 l 160 140 l 170 140 l 170 130 m 170 130 m 290 270 l 290 280 l 300 280 l 300 270 m 300 270 m 170 160 l 170 170 l 180 170 l 180 160 m 180 160 m 300 240 l 300 250 l 310 250 l 310 240 m 310 240 m 70 140 l 70 150 l 80 150 l 80 140 m 80 140 m 50 180 l 50 190 l 60 190 l 60 180 m 60 180 m 80 170 l 80 180 l 90 180 l 90 170 m 90 170 m 320 60 l 320 70 l 330 70 l 330 60 m 330 60 m 90 40 l 90 50 l 100 50 l 100 40 m 100 40 m 330 70 l 330 80 l 340 80 l 340 70 m 340 70 m 70 200 l 70 210 l 80 210 l 80 200 m 80 200 m 50 360 l 50 370 l 60 370 l 60 360 m 60 360 m 230 250 l 230 260 l 240 260 l 240 250 m 240 250 m 210 90 l 210 100 l 220 100 l 220 90 m 220 90 m 350 330 l 350 340 l 360 340 l 360 330 m 360 330 m 220 60 l 220 70 l 230 70 l 230 60 m 230 60 m 250 270 l 250 280 l 260 280 l 260 270 m 260 270 m 210 350 l 210 360 l 220 360 l 220 350 m 220 350 m 260 80 l 260 90 l 270 90 l 270 80 m 270 80 m 120 300 l 120 310 l 130 310 l 130 300 m 130 300 m 150 110 l 150 120 l 160 120 l 160 110 m 160 110 m 130 310 l 130 320 l 140 320 l 140 310 m 140 310 m 280 330 l 280 340 l 290 340 l 290 330 m 290 330 m 290 280 l 290 290 l 300 290 l 300 280 m 300 280 m 170 90 l 170 100 l 180 100 l 180 90 m 180 90 m 150 330 l 150 340 l 160 340 l 160 330 m 160 330 m 300 350 l 300 360 l 310 360 l 310 350 m 310 350 m 40 100 l 40 110 l 50 110 l 50 100 m 50 100 m 310 340 l 310 350 l 320 350 l 320 340 m 320 340 m 320 290 l 320 300 l 330 300 l 330 290 m 330 290 m 60 80 l 60 90 l 70 90 l 70 80 m 70 80 m 330 320 l 330 330 l 340 330 l 340 320 m 340 320 m 100 100 l 100 110 l 110 110 l 110 100 m 110 100 m 340 70 l 340 80 l 350 80 l 350 70 m 350 70 m 350 300 l 350 310 l 360 310 l 360 300 m 360 300 m 240 330 l 240 340 l 250 340 l 250 330 m 250 330 m 200 250 l 200 260 l 210 260 l 210 250 m 210 250 m 100 280 l 100 290 l 110 290 l 110 280 m 110 280 m 250 200 l 250 210 l 260 210 l 260 200 m 260 200 m 210 200 l 210 210 l 220 210 l 220 200 m 220 200 m 260 350 l 260 360 l 270 360 l 270 350 m 270 350 m 270 340 l 270 350 l 280 350 l 280 340 m 280 340 m 130 320 l 130 330 l 140 330 l 140 320 m 140 320 m 190 220 l 190 230 l 200 230 l 200 220 m 200 220 m 40 330 l 40 340 l 50 340 l 50 330 m 50 330 m 280 140 l 280 150 l 290 150 l 290 140 m 290 140 m 160 250 l 160 260 l 170 260 l 170 250 m 170 250 m 310 270 l 310 280 l 320 280 l 320 270 m 320 270 m 50 280 l 50 290 l 60 290 l 60 280 m 60 280 m 290 150 l 290 160 l 300 160 l 300 150 m 300 150 m 170 280 l 170 290 l 180 290 l 180 280 m 180 280 m 320 200 l 320 210 l 330 210 l 330 200 m 330 200 m 300 40 l 300 50 l 310 50 l 310 40 m 310 40 m 70 340 l 70 350 l 80 350 l 80 340 m 80 340 m 310 170 l 310 180 l 320 180 l 320 170 m 320 170 m 200 160 l 200 170 l 210 170 l 210 160 m 210 160 m 250 290 l 250 300 l 260 300 l 260 290 m 260 290 m 210 130 l 210 140 l 220 140 l 220 130 m 220 130 m 260 260 l 260 270 l 270 270 l 270 260 m 270 260 m 240 60 l 240 70 l 250 70 l 250 60 m 250 60 m 220 180 l 220 190 l 230 190 l 230 180 m 230 180 m 250 70 l 250 80 l 260 80 l 260 70 m 260 70 m 120 120 l 120 130 l 130 130 l 130 120 m 130 120 m 360 90 l 360 100 l 370 100 l 370 90 m 370 90 m 260 120 l 260 130 l 270 130 l 270 120 m 270 120 m 130 90 l 130 100 l 140 100 l 140 90 m 140 90 m 190 310 l 190 320 l 200 320 l 200 310 m 200 310 m 150 150 l 150 160 l 160 160 l 160 150 m 160 150 m 40 240 l 40 250 l 50 250 l 50 240 m 50 240 m 50 210 l 50 220 l 60 220 l 60 210 m 60 210 m 290 160 l 290 170 l 300 170 l 300 160 m 300 160 m 170 210 l 170 220 l 180 220 l 180 210 m 180 210 m 60 260 l 60 270 l 70 270 l 70 260 m 70 260 m 40 140 l 40 150 l 50 150 l 50 140 m 50 140 m 50 150 l 50 160 l 60 160 l 60 150 m 60 150 m 80 40 l 80 50 l 90 50 l 90 40 m 90 40 m 40 360 l 40 370 l 50 370 l 50 360 m 50 360 m 330 120 l 330 130 l 340 130 l 340 120 m 340 120 m 200 70 l 200 80 l 210 80 l 210 70 m 210 70 m 100 140 l 100 150 l 110 150 l 110 140 m 110 140 m 210 60 l 210 70 l 220 70 l 220 60 m 220 60 m 110 230 l 110 240 l 120 240 l 120 230 m 120 230 m 350 260 l 350 270 l 360 270 l 360 260 m 360 260 m 240 130 l 240 140 l 250 140 l 250 130 m 250 130 m 220 130 l 220 140 l 230 140 l 230 130 m 230 130 m 200 290 l 200 300 l 210 300 l 210 290 m 210 290 m 360 320 l 360 330 l 370 330 l 370 320 m 370 320 m 260 70 l 260 80 l 270 80 l 270 70 m 270 70 m 130 180 l 130 190 l 140 190 l 140 180 m 140 180 m 270 140 l 270 150 l 280 150 l 280 140 m 280 140 m 140 170 l 140 180 l 150 180 l 150 170 m 150 170 m 120 250 l 120 260 l 130 260 l 130 250 m 130 250 m 280 280 l 280 290 l 290 290 l 290 280 m 290 280 m 140 270 l 140 280 l 150 280 l 150 270 m 150 270 m 190 180 l 190 190 l 200 190 l 200 180 m 200 180 m 170 140 l 170 150 l 180 150 l 180 140 m 180 140 m 300 220 l 300 230 l 310 230 l 310 220 m 310 220 m 40 50 l 40 60 l 50 60 l 50 50 m 50 50 m 320 320 l 320 330 l 330 330 l 330 320 m 330 320 m 60 150 l 60 160 l 70 160 l 70 150 m 70 150 m 90 180 l 90 190 l 100 190 l 100 180 m 100 180 m 340 340 l 340 350 l 350 350 l 350 340 m 350 340 m 80 250 l 80 260 l 90 260 l 90 250 m 90 250 m 230 270 l 230 280 l 240 280 l 240 270 m 240 270 m 110 120 l 110 130 l 120 130 l 120 120 m 120 120 m 260 360 l 260 370 l 270 370 l 270 360 m 270 360 m 240 200 l 240 210 l 250 210 l 250 200 m 250 200 m 200 200 l 200 210 l 210 210 l 210 200 m 210 200 m 220 300 l 220 310 l 230 310 l 230 300 m 230 300 m 120 320 l 120 330 l 130 330 l 130 320 m 130 320 m 360 130 l 360 140 l 370 140 l 370 130 m 370 130 m 130 290 l 130 300 l 140 300 l 140 290 m 140 290 m 280 350 l 280 360 l 290 360 l 290 350 m 290 350 m 180 260 l 180 270 l 190 270 l 190 260 m 190 260 m 160 60 l 160 70 l 170 70 l 170 60 m 170 60 m 300 330 l 300 340 l 310 340 l 310 330 m 310 330 m 40 280 l 40 290 l 50 290 l 50 280 m 50 280 m 280 90 l 280 100 l 290 100 l 290 90 m 290 90 m 160 280 l 160 290 l 170 290 l 170 280 m 170 280 m 170 330 l 170 340 l 180 340 l 180 330 m 180 330 m 320 310 l 320 320 l 330 320 l 330 310 m 330 310 m 60 60 l 60 70 l 70 70 l 70 60 m 70 60 m 330 300 l 330 310 l 340 310 l 340 300 m 340 300 m 210 360 l 210 370 l 220 370 l 220 360 m 220 360 m 100 80 l 100 90 l 110 90 l 110 80 m 110 80 m 80 320 l 80 330 l 90 330 l 90 320 m 90 320 m 230 320 l 230 330 l 240 330 l 240 320 m 240 320 m 90 210 l 90 220 l 100 220 l 100 210 m 100 210 m 100 340 l 100 350 l 110 350 l 110 340 m 110 340 m 230 60 l 230 70 l 240 70 l 240 60 m 240 60 m 240 90 l 240 100 l 250 100 l 250 90 m 250 90 m 120 70 l 120 80 l 130 80 l 130 70 m 130 70 m 360 40 l 360 50 l 370 50 l 370 40 m 370 40 m 130 60 l 130 70 l 140 70 l 140 60 m 140 60 m 180 290 l 180 300 l 190 300 l 190 290 m 190 290 m 190 320 l 190 330 l 200 330 l 200 320 m 200 320 m 150 240 l 150 250 l 160 250 l 160 240 m 160 240 m 40 350 l 40 360 l 50 360 l 50 350 m 50 350 m 280 160 l 280 170 l 290 170 l 290 160 m 290 160 m 160 270 l 160 280 l 170 280 l 170 270 m 170 270 m 170 260 l 170 270 l 180 270 l 180 260 m 180 260 m 60 330 l 60 340 l 70 340 l 70 330 m 70 330 m 70 40 l 70 50 l 80 50 l 80 40 m 80 40 m 320 120 l 320 130 l 330 130 l 330 120 m 330 120 m 360 360 l 360 370 l 370 370 l 370 360 m 370 360 m 90 300 l 90 310 l 100 310 l 100 300 m 100 300 m 210 190 l 210 200 l 220 200 l 220 190 m 220 190 m 110 240 l 110 250 l 120 250 l 120 240 m 120 240 m 270 210 l 270 220 l 280 220 l 280 210 m 280 210 m 260 180 l 260 190 l 270 190 l 270 180 m 270 180 m 270 190 l 270 200 l 280 200 l 280 190 m 280 190 m 120 200 l 120 210 l 130 210 l 130 200 m 130 200 m 180 140 l 180 150 l 190 150 l 190 140 m 190 140 m 160 180 l 160 190 l 170 190 l 170 180 m 170 180 m 60 240 l 60 250 l 70 250 l 70 240 m 70 240 m 40 160 l 40 170 l 50 170 l 50 160 m 50 160 m 50 130 l 50 140 l 60 140 l 60 130 m 60 130 m 80 60 l 80 70 l 90 70 l 90 60 m 90 60 m 60 180 l 60 190 l 70 190 l 70 180 m 70 180 m 350 140 l 350 150 l 360 150 l 360 140 m 360 140 m 330 100 l 330 110 l 340 110 l 340 100 m 340 100 m 100 120 l 100 130 l 110 130 l 110 120 m 110 120 m 250 360 l 250 370 l 260 370 l 260 360 m 260 360 m 230 200 l 230 210 l 240 210 l 240 200 m 240 200 m 350 200 l 350 210 l 360 210 l 360 200 m 360 200 m 240 150 l 240 160 l 250 160 l 250 150 m 250 150 m 200 310 l 200 320 l 210 320 l 210 310 m 210 310 m 140 150 l 140 160 l 150 160 l 150 150 m 150 150 m 120 270 l 120 280 l 130 280 l 130 270 m 130 270 m 150 60 l 150 70 l 160 70 l 160 60 m 160 60 m 130 260 l 130 270 l 140 270 l 140 260 m 140 260 m 280 300 l 280 310 l 290 310 l 290 300 m 290 300 m 180 170 l 180 180 l 190 180 l 190 170 m 190 170 m 190 120 l 190 130 l 200 130 l 200 120 m 200 120 m 170 120 l 170 130 l 180 130 l 180 120 m 180 120 m 150 280 l 150 290 l 160 290 l 160 280 m 160 280 m 300 200 l 300 210 l 310 210 l 310 200 m 310 200 m 40 70 l 40 80 l 50 80 l 50 70 m 50 70 m 280 40 l 280 50 l 290 50 l 290 40 m 290 40 m 80 130 l 80 140 l 90 140 l 90 130 m 90 130 m 320 340 l 320 350 l 330 350 l 330 340 m 330 340 m 60 130 l 60 140 l 70 140 l 70 130 m 70 130 m 100 70 l 100 80 l 110 80 l 110 70 m 110 70 m 240 220 l 240 230 l 250 230 l 250 220 m 250 220 m 200 220 l 200 230 l 210 230 l 210 220 m 210 220 m 250 230 l 250 240 l 260 240 l 260 230 m 260 230 m 210 230 l 210 240 l 220 240 l 220 230 m 220 230 m 220 280 l 220 290 l 230 290 l 230 280 m 230 280 m 270 330 l 270 340 l 280 340 l 280 330 m 280 330 m 360 150 l 360 160 l 370 160 l 370 150 m 370 150 m 180 240 l 180 250 l 190 250 l 190 240 m 190 240 m 290 320 l 290 330 l 300 330 l 300 320 m 300 320 m 190 210 l 190 220 l 200 220 l 200 210 m 200 210 m 170 50 l 170 60 l 180 60 l 180 50 m 180 50 m 150 210 l 150 220 l 160 220 l 160 210 m 160 210 m 40 300 l 40 310 l 50 310 l 50 300 m 50 300 m 280 110 l 280 120 l 290 120 l 290 110 m 290 110 m 160 300 l 160 310 l 170 310 l 170 300 m 170 300 m 170 310 l 170 320 l 180 320 l 180 310 m 180 310 m 60 40 l 60 50 l 70 50 l 70 40 m 70 40 m 300 90 l 300 100 l 310 100 l 310 90 m 310 90 m 330 280 l 330 290 l 340 290 l 340 280 m 340 280 m 70 330 l 70 340 l 80 340 l 80 330 m 80 330 m 310 120 l 310 130 l 320 130 l 320 120 m 320 120 m 80 340 l 80 350 l 90 350 l 90 340 m 90 340{\p0}
+Dialogue: 3,0:30:49.92,0:31:14.92,*Default,NTP,0,0,0,,{\an9\bord0\alpha&70\shad0\fscx0\fscy0\t(0,500,\fscx16\fscy20\t(24500,25000,\fscx0\fscy0))\p1\c&HFFEBD1&\pos(293.4,-2.4)\org(294.4,3.4)}m 195 227 l 228 227 l 149 147 m 149 86 l 134 100 l 241 210 l 241 180 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 l 163 71 m 134 164 l 195 227 l 228 227 l 150 148 m 149 86 l 134 100 l 241 210 l 241 177 m 195 71 l 89 180 l 89 210 l 89 210 l 225 71 m 134 71 l 89 117 l 89 147 {\p0}
+Dialogue: 2,0:30:49.92,0:31:14.92,*Default,NTP,0,0,0,,{\bord0\shad0\alpha&70\fscx0\fscy0\t(0,500,\fscx11\fscy14\t(24500,25000,\fscx0\fscy0))\p1\c&HFFDF57&\pos(295.4,43.173)\org(295,4.2)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 5,0:30:49.92,0:31:14.92,*Default,NTP,0,0,0,,{\fad(500,500)\alpha&DD\bord0\shad0\fscx19\fscy20\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(280.4,34.773)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 5,0:30:49.92,0:31:02.92,*Default,NTP,0,0,0,,{\an5\pos(338,27)\fad(500,500)\fn方正兰亭黑_GBK\bord0\shad0\fs14\b0\alpha70\clip(307,7,308,48)\t(500,1500,\clip(308,7,384,50))\t(12500,13000,\clip(375,7,384,48))}最新美剧下载\N{\fs11}www.ZiMuZu.tv
+Dialogue: 1,0:31:02.92,0:31:14.92,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\alpha&70\fscx17\blur20\fscy22\p1\c&HFFDF57&\t(0,1000,1,\blur0)\pos(342.8,43.2)}m 330 133 l 343 133 l 343 125 l 330 125 m 330 122 l 343 122 l 343 115 l 330 115 m 330 112 l 343 112 l 343 104 l 330 104 m 322 136 l 322 133 l 327 133 l 327 101 l 346 101 l 346 133 l 350 133 l 350 136 m 316 121 b 316 121 316 121 316 121 b 316 121 320 121 323 121 b 323 121 323 123 323 123 b 318 124 315 124 311 125 l 311 122 b 311 122 317 114 317 114 b 317 114 317 114 317 114 b 316 113 310 115 310 115 l 310 112 b 310 112 317 99 317 99 l 320 100 b 317 105 316 107 314 112 b 313 112 314 112 313 112 b 320 112 322 105 322 105 l 325 107 b 325 107 316 121 316 121 m 310 131 b 313 131 318 130 324 129 l 324 131 b 319 132 315 133 310 134 m 296 126 b 296 125 293 124 293 123 l 288 123 l 288 126 m 281 123 b 280 123 277 126 277 126 l 285 126 l 285 123 m 276 116 l 298 116 l 298 113 l 276 113 m 276 111 l 298 111 l 298 109 l 276 109 m 291 99 l 294 99 l 294 101 l 306 101 l 305 104 l 294 104 l 294 106 l 291 106 l 291 104 l 282 104 l 282 106 l 279 106 l 279 104 l 268 104 l 268 101 l 279 101 l 279 98 l 282 98 l 282 101 l 291 101 m 268 120 l 278 120 b 280 119 280 119 278 120 b 280 119 280 119 280 119 l 272 119 l 272 106 l 301 106 l 301 118 l 287 118 b 285 118 284 119 283 120 l 305 120 l 305 123 l 297 123 b 299 123 297 123 307 128 b 306 128 307 128 305 131 b 301 128 300 128 300 128 l 300 130 b 300 134 297 135 297 135 l 291 135 b 291 135 291 135 291 132 b 291 132 291 133 291 133 b 292 132 292 132 297 132 b 297 130 297 130 297 131 l 297 129 l 288 129 l 288 138 l 285 138 l 285 129 l 277 129 l 277 136 l 274 136 l 274 127 b 274 127 274 127 268 131 b 268 131 268 131 266 129 b 266 129 272 125 276 123 l 268 123 m 244 98 l 244 98 b 244 98 246 103 247 104 l 244 104 l 263 104 l 263 112 l 259 112 l 259 108 l 229 108 l 229 113 l 225 113 l 225 104 l 244 104 b 244 104 241 99 244 104 b 244 104 241 99 241 99 m 242 119 l 251 115 l 231 115 l 231 112 l 256 112 l 256 116 l 246 121 l 246 122 l 264 122 l 264 125 l 246 125 l 246 129 b 246 134 246 137 243 138 l 235 138 b 235 138 234 134 234 134 b 236 134 236 134 242 134 b 242 134 242 130 242 130 l 242 125 l 224 125 l 224 122 l 242 122 m 210 58 l 192 58 l 192 54 l 210 54 m 225 55 l 239 56 l 261 28 l 245 28 l 225 53 b 224 49 221 45 216 46 l 178 46 l 178 66 l 193 66 l 193 77 l 189 77 l 191 68 l 178 68 l 174 87 l 188 87 l 190 81 l 193 87 l 209 87 l 209 66 l 225 66 m 192 19 l 210 19 l 210 21 l 192 21 m 192 9 l 210 9 l 210 12 l 192 12 m 228 34 l 210 34 l 209 31 l 226 31 l 226 27 l 238 27 l 261 0 l 244 0 l 226 22 l 225 22 l 225 6 b 225 3 224 0 217 0 l 177 0 l 176 30 l 193 30 l 193 34 l 174 34 l 174 43 l 227 43 m 246 57 l 226 79 l 224 69 l 212 69 l 215 85 l 223 84 l 222 87 l 238 87 l 261 57 m 336 77 l 336 59 l 329 58 l 329 14 l 315 14 l 315 49 l 291 87 l 306 87 l 324 58 l 324 87 l 346 87 l 350 77 m 310 10 l 334 10 l 335 56 l 345 56 l 345 6 b 345 4 343 0 339 0 l 298 0 l 298 56 l 310 56 m 295 36 l 286 36 l 295 21 l 295 10 l 288 10 l 284 0 l 267 0 l 272 10 l 261 10 l 261 20 l 279 20 l 260 51 l 270 51 l 270 86 l 283 87 l 283 42 l 285 39 l 287 64 l 297 64 m 155 87 l 129 35 l 104 87 l 84 87 l 128 0 l 146 0 l 132 30 l 146 30 l 174 87 m 66 87 l 39 35 l 14 87 l -5 87 l 38 0 l 56 0 l 42 30 l 56 30 l 84 87 m 203 138 l 199 138 l 190 111 l 194 111 l 201 133 b 201 134 201 134 201 133 l 209 111 l 213 111 m 188 135 l 188 137 b 183 137 188 137 183 137 b 183 137 179 138 179 134 l 179 115 l 176 115 l 176 111 l 179 111 l 179 104 l 183 103 l 183 111 l 187 111 l 187 115 l 183 115 l 183 135 b 183 135 183 135 188 135 m 166 132 l 171 132 l 171 137 l 166 137 m 154 111 l 158 111 l 158 137 l 155 137 l 155 133 b 153 136 151 138 145 137 b 143 138 139 137 136 132 l 136 111 l 140 111 l 140 127 b 140 131 139 134 146 135 b 151 135 153 132 154 128 m 110 134 l 132 134 l 132 137 l 104 137 l 104 135 l 126 105 l 107 105 l 107 102 l 131 102 l 131 105 m 96 111 l 100 111 l 100 137 l 97 137 l 97 133 b 94 135 93 138 88 138 b 85 138 81 136 79 130 l 79 111 l 83 111 l 83 130 b 84 133 86 135 89 135 b 94 135 97 130 96 123 m 69 107 l 57 137 l 54 137 l 42 107 l 42 137 l 38 137 l 38 102 l 43 102 l 56 132 l 67 102 l 73 102 l 73 137 l 69 137 m 27 111 l 31 111 l 31 137 l 27 137 m 27 102 l 31 102 l 31 106 l 27 106 m 0 135 l 23 135 l 23 137 l -5 137 l -5 135 l 17 105 l -3 105 l -3 102 l 22 102 l 22 104 {\p0}
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\an5\bord0\shad0\fscx900\fscy100\an7\c&H808080&\alpha&99\pos(313,178)}█
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\an2\bord0\fs8.8\fn方正粗圆_GBK\shad0\an7\c&HFFFFFF&\3c&HB5F5FF&\blur1.6\bord0.4\pos(313.5,181.2)\3a&H81&}一大波正版授权“权力的游戏”周边向你靠近！
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\an5\bord0\shad0\fscx900\fscy360\an7\c&H808080&\alpha&99\pos(313,224)}█
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\an1\shad0\bord0.4\fn方正粗圆_GBK\blur0.8\3c&HFFBD00&\fs9\pos(309,246)}手机淘宝扫描左侧二维码\N\N{\bord0\blur0}一起加入剧粉队伍～\N\N搜索微信公众号\N\N宅电社动漫 有福利哦
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\an5\bord0\shad0\fscx300\fscy300\an7\pos(281.559,225.818)}█
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\bord0\shad0\an7\fscx32\fscy39\p1\c&H000000&\pos(261,200)}m 4 4 l 32 4 l 32 32 l 4 32 m 8 8 l 8 28 l 28 28 l 28 8 m 12 12 l 24 12 l 24 24 l 12 24 m 92 4 l 120 4 l 120 32 l 92 32 m 96 8 l 96 28 l 116 28 l 116 8 m 100 12 l 112 12 l 112 24 l 100 24 m 4 92 l 32 92 l 32 120 l 4 120 m 8 96 l 8 116 l 28 116 l 28 96 m 12 100 l 24 100 l 24 112 l 12 112 m 36 4 l 40 4 l 40 8 l 36 8 m 44 4 l 44 12 l 44 12 l 48 12 l 48 4 m 40 12 l 44 12 l 44 16 l 48 16 l 48 20 l 36 20 l 36 16 l 40 16 m 52 4 l 60 4 l 60 12 l 56 12 l 56 8 l 52 8 m 48 20 l 48 24 l 56 24 l 56 20 l 60 20 l 60 16 l 52 16 l 52 20 m 40 24 l 44 24 l 44 28 l 36 28 l 36 32 l 40 32 m 88 4 l 88 16 l 84 16 l 84 12 l 80 12 l 80 16 l 84 16 l 84 20 l 88 20 l 88 24 l 84 24 l 84 32 l 88 32 l 88 28 l 80 28 l 80 32 l 76 32 l 76 24 l 64 24 l 64 20 l 68 20 l 68 16 l 64 16 l 64 8 l 68 8 l 68 4 l 76 4 l 76 8 l 72 8 l 72 20 l 76 20 l 76 8 l 84 8 l 84 4 m 8 40 l 8 48 l 12 48 l 12 44 l 28 44 l 28 40 l 32 40 l 32 36 l 20 36 l 20 40 l 16 40 l 16 36 l 12 36 l 12 40 m 4 52 l 8 52 l 8 56 l 4 56 m 8 56 l 16 56 l 16 52 l 20 52 l 20 60 l 24 60 l 24 48 l 28 48 l 28 52 l 32 52 l 32 56 l 28 56 l 28 60 l 32 60 l 32 64 l 28 64 l 28 68 l 32 68 l 32 72 l 28 72 l 28 76 l 32 76 l 32 80 l 24 80 l 24 76 l 20 76 l 20 72 l 24 72 l 24 64 l 16 64 l 16 60 l 8 60 m 4 60 l 8 60 l 8 68 l 12 68 l 12 64 l 16 64 l 16 76 l 8 76 l 8 72 l 4 72 m 4 76 l 8 76 l 8 88 l 4 88 l 4 84 l 20 84 l 20 80 l 16 80 l 16 88 l 12 88 l 12 80 l 4 80 m 44 28 l 48 28 l 48 32 l 56 32 l 56 24 l 60 24 l 60 28 l 52 28 l 52 36 l 44 36 m 36 36 l 40 36 l 40 40 l 32 40 l 32 44 l 28 44 l 28 48 l 32 48 l 32 52 l 36 52 m 64 28 l 60 28 l 60 32 l 56 32 l 56 36 l 52 36 l 52 44 l 48 44 l 48 40 l 60 40 l 60 40 l 60 36 l 64 36 l 64 44 l 60 44 l 60 40 l 68 40 l 68 32 l 64 32 m 68 28 l 72 28 l 72 32 l 68 32 m 36 60 l 32 60 l 32 56 l 40 56 l 40 48 l 44 48 l 44 52 l 36 52 m 60 44 l 52 44 l 52 48 l 60 48 m 52 48 l 48 48 l 48 52 l 44 52 l 44 56 l 40 56 l 40 60 l 44 60 l 44 64 l 36 64 l 36 68 l 40 68 l 40 72 l 32 72 l 32 76 l 36 76 l 36 80 l 36 80 l 32 80 l 32 84 l 24 84 l 24 88 l 36 88 l 36 92 l 40 92 l 40 96 l 36 96 l 36 104 l 40 104 l 40 100 l 44 100 l 44 104 l 56 104 l 56 108 l 60 108 l 60 104 l 64 104 l 64 96 l 52 96 l 52 88 l 56 88 l 56 76 l 52 76 l 52 72 l 60 72 l 60 68 l 64 68 l 64 64 l 60 64 l 60 60 l 64 60 l 64 64 l 68 64 l 68 56 l 60 56 l 60 52 l 56 52 l 56 56 l 52 56 m 44 76 l 48 76 l 48 80 l 44 80 m 40 80 m 40 84 l 36 84 l 36 80 l 40 80 l 40 84 l 48 84 l 48 88 l 40 88 m 68 40 l 76 40 l 76 44 l 76 44 l 72 44 l 72 52 l 84 52 l 84 48 l 76 48 l 76 44 l 80 44 l 80 40 l 84 40 l 84 36 l 92 36 l 92 40 l 88 40 l 88 48 l 96 48 l 96 48 l 96 52 l 100 52 l 100 68 l 96 68 l 96 60 l 88 60 l 88 68 l 96 68 l 96 72 l 92 72 l 92 80 l 88 80 l 88 72 l 84 72 l 84 68 l 68 68 l 68 64 l 76 64 l 76 60 l 72 60 l 72 56 l 68 56 l 68 52 l 64 52 l 64 48 l 68 48 m 80 56 l 80 64 l 84 64 l 84 56 m 88 52 l 88 56 l 92 56 l 92 52 m 64 68 l 68 68 l 68 76 l 64 76 l 64 84 l 68 84 l 68 88 l 64 88 l 64 92 l 60 92 l 60 72 l 64 72 m 72 72 l 76 72 l 76 76 l 84 76 l 84 72 l 80 72 l 80 80 l 84 80 l 84 84 l 92 84 l 92 80 l 100 80 l 100 84 l 104 84 l 104 100 l 108 100 l 108 104 l 104 104 l 104 112 l 100 112 l 100 120 l 108 120 l 108 116 l 92 116 l 92 120 l 72 120 l 72 100 l 68 100 l 68 104 l 80 104 l 80 100 l 76 100 l 76 116 l 84 116 l 84 108 l 80 108 l 80 112 l 96 112 l 96 108 l 100 108 l 100 104 l 92 104 l 92 108 l 84 108 l 84 96 l 80 96 l 80 88 l 72 88 l 72 96 l 64 96 l 64 92 l 84 92 l 84 88 l 80 88 l 80 84 l 68 84 l 68 80 l 72 80 m 88 88 l 88 100 l 100 100 l 100 88 m 92 92 l 96 92 l 96 96 l 92 96 m 120 120 l 120 116 l 116 116 l 116 108 l 120 108 l 120 112 l 112 112 l 112 120 m 120 104 l 120 84 l 108 84 l 108 88 l 112 88 l 112 92 l 108 92 l 108 96 l 116 96 l 116 104 m 100 68 l 108 68 l 108 80 l 104 80 l 104 72 l 100 72 m 120 80 l 112 80 l 112 64 l 116 64 l 116 60 l 108 60 l 108 64 l 112 64 l 112 56 l 120 56 l 120 68 l 116 68 l 116 72 l 120 72 m 92 40 l 92 44 l 96 44 l 96 48 l 108 48 l 108 36 l 104 36 l 104 40 l 112 40 l 112 56 l 104 56 l 104 52 l 116 52 l 116 48 l 120 48 l 120 36 l 116 36 l 116 44 l 100 44 l 100 40 m 68 104 l 68 112 l 60 112 l 60 120 l 56 120 l 56 108 l 48 108 l 48 116 l 40 116 l 40 108 l 36 108 l 36 112 l 44 112 l 44 120 l 52 120 l 52 116 l 64 116 l 64 104
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\an5\bord0\shad0\fscx900\fscy100\an7\c&H808080&\alpha&99\pos(313,271)}█
+Dialogue: 0,0:55:24.38,0:55:30.00,Default,,0,0,0,,{\an2\bord0\fs16\fn方正粗圆_GBK\shad0\an7\c&HFFFFFF&\pos(313.5,278)}特别鸣谢人人影视
+
